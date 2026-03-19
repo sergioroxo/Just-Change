@@ -1,0 +1,2635 @@
+{
+  "segments": [
+    {
+      "start": 4.2,
+      "end": 171.373,
+      "text": "Open up\nOpen up\nHeavy\nHeavy mirrors\nGlass that never shows the marrow\nI walked three miles down a road too narrow\nWasted\nWasted days\nWasted nights\nTearing through the fabric of the frame\nForgetting that I carried His holy name\nCold water\nCold spirit\nCold breath\nWash the ink away\nWash the mask away\nWash the doubt away\nHe is calling you back home\nCalling you back home\nTo the garden where you started\nHe is calling you back home\nCalling you back home\nBack home\nBack home\nOpen up\nOpen up\nPure light\nPure light\nDust\nSettling down\nFinding peace within the quiet grain\nGiving up the power and the constant pain\nSurrender\nEverything\nEverything\nLet the clay go soft inside His hands\nWalking out of these shifting sands\nNew heart\nNew skin\nNew life\nCome as you were\nCome as you were\nHe is calling you back home\nCalling you back home\nTo the garden where you started\nHe is calling you back home\nCalling you back home\nBack home\nBack home\nNo more running\nNo more hiding\nNo more fighting the design\nHe is the root\nHe is the truth\nHe is the vine\nI see the sunrise\nI see the sunrise\nI see the sunrise\nHe is calling you back home\nCalling you back home\nTo the garden where you started\nHe is calling you back home\nCalling you back home\nBack home\nBack home\nOpen up\nOpen up\nPure light\nPure light\nBack home\nBack home\nBack home",
+      "words": [
+        {
+          "word": "Open",
+          "start": 4.2,
+          "end": 4.58,
+          "score": 0.684
+        },
+        {
+          "word": "up\nOpen",
+          "start": 4.66,
+          "end": 8.381,
+          "score": 0.746
+        },
+        {
+          "word": "up\nHeavy\nHeavy",
+          "start": 8.461,
+          "end": 14.241,
+          "score": 0.576
+        },
+        {
+          "word": "mirrors\nGlass",
+          "start": 14.321,
+          "end": 15.741,
+          "score": 0.62
+        },
+        {
+          "word": "that",
+          "start": 15.821,
+          "end": 16.141,
+          "score": 0.516
+        },
+        {
+          "word": "never",
+          "start": 16.201,
+          "end": 16.521,
+          "score": 0.344
+        },
+        {
+          "word": "shows",
+          "start": 17.321,
+          "end": 17.681,
+          "score": 0.671
+        },
+        {
+          "word": "the",
+          "start": 17.701,
+          "end": 18.001,
+          "score": 0.544
+        },
+        {
+          "word": "marrow\nI",
+          "start": 18.081,
+          "end": 18.821,
+          "score": 0.564
+        },
+        {
+          "word": "walked",
+          "start": 19.041,
+          "end": 19.521,
+          "score": 0.553
+        },
+        {
+          "word": "three",
+          "start": 19.621,
+          "end": 19.981,
+          "score": 0.477
+        },
+        {
+          "word": "miles",
+          "start": 20.021,
+          "end": 20.361,
+          "score": 0.427
+        },
+        {
+          "word": "down",
+          "start": 20.441,
+          "end": 20.762,
+          "score": 0.585
+        },
+        {
+          "word": "a",
+          "start": 20.882,
+          "end": 21.002,
+          "score": 0.728
+        },
+        {
+          "word": "road",
+          "start": 21.142,
+          "end": 21.442,
+          "score": 0.661
+        },
+        {
+          "word": "too",
+          "start": 21.502,
+          "end": 21.802,
+          "score": 0.426
+        },
+        {
+          "word": "narrow\nWasted\nWasted",
+          "start": 21.862,
+          "end": 25.222,
+          "score": 0.62
+        },
+        {
+          "word": "days\nWasted",
+          "start": 25.282,
+          "end": 26.042,
+          "score": 0.466
+        },
+        {
+          "word": "nights\nTearing",
+          "start": 26.822,
+          "end": 27.862,
+          "score": 0.475
+        },
+        {
+          "word": "through",
+          "start": 28.702,
+          "end": 29.382,
+          "score": 0.423
+        },
+        {
+          "word": "the",
+          "start": 29.422,
+          "end": 29.762,
+          "score": 0.55
+        },
+        {
+          "word": "fabric",
+          "start": 29.782,
+          "end": 30.662,
+          "score": 0.664
+        },
+        {
+          "word": "of",
+          "start": 30.702,
+          "end": 30.882,
+          "score": 0.716
+        },
+        {
+          "word": "the",
+          "start": 30.942,
+          "end": 31.202,
+          "score": 0.602
+        },
+        {
+          "word": "frame\nForgetting",
+          "start": 31.342,
+          "end": 33.082,
+          "score": 0.585
+        },
+        {
+          "word": "that",
+          "start": 33.202,
+          "end": 33.442,
+          "score": 0.288
+        },
+        {
+          "word": "I",
+          "start": 33.482,
+          "end": 33.642,
+          "score": 0.827
+        },
+        {
+          "word": "carried",
+          "start": 33.902,
+          "end": 34.182,
+          "score": 0.34
+        },
+        {
+          "word": "His",
+          "start": 34.202,
+          "end": 34.303,
+          "score": 0.319
+        },
+        {
+          "word": "holy",
+          "start": 34.343,
+          "end": 34.843,
+          "score": 0.575
+        },
+        {
+          "word": "name\nCold",
+          "start": 34.863,
+          "end": 36.563,
+          "score": 0.648
+        },
+        {
+          "word": "water\nCold",
+          "start": 36.623,
+          "end": 38.423,
+          "score": 0.675
+        },
+        {
+          "word": "spirit\nCold",
+          "start": 38.443,
+          "end": 40.323,
+          "score": 0.634
+        },
+        {
+          "word": "breath\nWash",
+          "start": 40.403,
+          "end": 41.663,
+          "score": 0.503
+        },
+        {
+          "word": "the",
+          "start": 41.723,
+          "end": 41.943,
+          "score": 0.39
+        },
+        {
+          "word": "ink",
+          "start": 41.963,
+          "end": 42.183,
+          "score": 0.45
+        },
+        {
+          "word": "away\nWash",
+          "start": 42.223,
+          "end": 43.543,
+          "score": 0.555
+        },
+        {
+          "word": "the",
+          "start": 43.603,
+          "end": 43.803,
+          "score": 0.489
+        },
+        {
+          "word": "mask",
+          "start": 43.823,
+          "end": 44.023,
+          "score": 0.46
+        },
+        {
+          "word": "away\nWash",
+          "start": 44.123,
+          "end": 45.463,
+          "score": 0.626
+        },
+        {
+          "word": "the",
+          "start": 45.503,
+          "end": 45.663,
+          "score": 0.481
+        },
+        {
+          "word": "doubt",
+          "start": 45.723,
+          "end": 46.223,
+          "score": 0.64
+        },
+        {
+          "word": "away\nHe",
+          "start": 46.243,
+          "end": 48.784,
+          "score": 0.815
+        },
+        {
+          "word": "is",
+          "start": 48.804,
+          "end": 48.924,
+          "score": 0.593
+        },
+        {
+          "word": "calling",
+          "start": 49.024,
+          "end": 49.524,
+          "score": 0.357
+        },
+        {
+          "word": "you",
+          "start": 49.584,
+          "end": 49.784,
+          "score": 0.45
+        },
+        {
+          "word": "back",
+          "start": 49.864,
+          "end": 50.504,
+          "score": 0.591
+        },
+        {
+          "word": "home\nCalling",
+          "start": 50.564,
+          "end": 51.444,
+          "score": 0.471
+        },
+        {
+          "word": "you",
+          "start": 51.564,
+          "end": 51.724,
+          "score": 0.358
+        },
+        {
+          "word": "back",
+          "start": 51.744,
+          "end": 52.184,
+          "score": 0.623
+        },
+        {
+          "word": "home\nTo",
+          "start": 52.244,
+          "end": 52.644,
+          "score": 0.354
+        },
+        {
+          "word": "the",
+          "start": 52.684,
+          "end": 52.764,
+          "score": 0.368
+        },
+        {
+          "word": "garden",
+          "start": 52.824,
+          "end": 54.284,
+          "score": 0.797
+        },
+        {
+          "word": "where",
+          "start": 54.444,
+          "end": 55.364,
+          "score": 0.582
+        },
+        {
+          "word": "you",
+          "start": 55.484,
+          "end": 55.604,
+          "score": 0.359
+        },
+        {
+          "word": "started\nHe",
+          "start": 55.624,
+          "end": 56.544,
+          "score": 0.524
+        },
+        {
+          "word": "is",
+          "start": 56.744,
+          "end": 56.924,
+          "score": 0.669
+        },
+        {
+          "word": "calling",
+          "start": 56.944,
+          "end": 57.784,
+          "score": 0.416
+        },
+        {
+          "word": "you",
+          "start": 57.804,
+          "end": 58.064,
+          "score": 0.61
+        },
+        {
+          "word": "back",
+          "start": 58.124,
+          "end": 58.484,
+          "score": 0.52
+        },
+        {
+          "word": "home\nCalling",
+          "start": 58.764,
+          "end": 59.664,
+          "score": 0.442
+        },
+        {
+          "word": "you",
+          "start": 59.684,
+          "end": 59.944,
+          "score": 0.481
+        },
+        {
+          "word": "back",
+          "start": 60.004,
+          "end": 60.664,
+          "score": 0.65
+        },
+        {
+          "word": "home\nBack",
+          "start": 60.724,
+          "end": 61.144,
+          "score": 0.463
+        },
+        {
+          "word": "home\nBack",
+          "start": 61.204,
+          "end": 61.825,
+          "score": 0.652
+        },
+        {
+          "word": "home\nOpen",
+          "start": 61.925,
+          "end": 62.325,
+          "score": 0.341
+        },
+        {
+          "word": "up\nOpen",
+          "start": 62.345,
+          "end": 62.785,
+          "score": 0.524
+        },
+        {
+          "word": "up\nPure",
+          "start": 62.805,
+          "end": 63.025,
+          "score": 0.213
+        },
+        {
+          "word": "light\nPure",
+          "start": 63.065,
+          "end": 63.725,
+          "score": 0.467
+        },
+        {
+          "word": "light\nDust\nSettling",
+          "start": 64.005,
+          "end": 64.965,
+          "score": 0.362
+        },
+        {
+          "word": "down\nFinding",
+          "start": 65.105,
+          "end": 65.905,
+          "score": 0.332
+        },
+        {
+          "word": "peace",
+          "start": 65.925,
+          "end": 66.105,
+          "score": 0.349
+        },
+        {
+          "word": "within",
+          "start": 66.145,
+          "end": 66.365,
+          "score": 0.326
+        },
+        {
+          "word": "the",
+          "start": 66.385,
+          "end": 66.465,
+          "score": 0.169
+        },
+        {
+          "word": "quiet",
+          "start": 66.505,
+          "end": 66.825,
+          "score": 0.543
+        },
+        {
+          "word": "grain\nGiving",
+          "start": 66.865,
+          "end": 67.505,
+          "score": 0.294
+        },
+        {
+          "word": "up",
+          "start": 67.625,
+          "end": 67.665,
+          "score": 0.007
+        },
+        {
+          "word": "the",
+          "start": 67.685,
+          "end": 67.785,
+          "score": 0.333
+        },
+        {
+          "word": "power",
+          "start": 67.805,
+          "end": 68.125,
+          "score": 0.39
+        },
+        {
+          "word": "and",
+          "start": 68.205,
+          "end": 68.585,
+          "score": 0.698
+        },
+        {
+          "word": "the",
+          "start": 68.645,
+          "end": 68.745,
+          "score": 0.412
+        },
+        {
+          "word": "constant",
+          "start": 69.105,
+          "end": 69.405,
+          "score": 0.307
+        },
+        {
+          "word": "pain\nSurrender\nEverything\nEverything\nLet",
+          "start": 69.465,
+          "end": 72.465,
+          "score": 0.482
+        },
+        {
+          "word": "the",
+          "start": 72.645,
+          "end": 73.065,
+          "score": 0.788
+        },
+        {
+          "word": "clay",
+          "start": 73.105,
+          "end": 73.565,
+          "score": 0.512
+        },
+        {
+          "word": "go",
+          "start": 73.605,
+          "end": 74.025,
+          "score": 0.796
+        },
+        {
+          "word": "soft",
+          "start": 74.065,
+          "end": 74.365,
+          "score": 0.471
+        },
+        {
+          "word": "inside",
+          "start": 74.505,
+          "end": 74.645,
+          "score": 0.136
+        },
+        {
+          "word": "His",
+          "start": 74.685,
+          "end": 74.765,
+          "score": 0.25
+        },
+        {
+          "word": "hands\nWalking",
+          "start": 74.925,
+          "end": 75.926,
+          "score": 0.529
+        },
+        {
+          "word": "out",
+          "start": 76.006,
+          "end": 76.186,
+          "score": 0.386
+        },
+        {
+          "word": "of",
+          "start": 76.226,
+          "end": 76.286,
+          "score": 0.356
+        },
+        {
+          "word": "these",
+          "start": 76.306,
+          "end": 76.746,
+          "score": 0.327
+        },
+        {
+          "word": "shifting",
+          "start": 76.846,
+          "end": 77.326,
+          "score": 0.493
+        },
+        {
+          "word": "sands\nNew",
+          "start": 77.386,
+          "end": 78.126,
+          "score": 0.622
+        },
+        {
+          "word": "heart\nNew",
+          "start": 78.206,
+          "end": 79.226,
+          "score": 0.623
+        },
+        {
+          "word": "skin\nNew",
+          "start": 79.286,
+          "end": 80.626,
+          "score": 0.534
+        },
+        {
+          "word": "life\nCome",
+          "start": 80.666,
+          "end": 81.346,
+          "score": 0.581
+        },
+        {
+          "word": "as",
+          "start": 81.446,
+          "end": 81.566,
+          "score": 0.596
+        },
+        {
+          "word": "you",
+          "start": 81.606,
+          "end": 82.026,
+          "score": 0.507
+        },
+        {
+          "word": "were\nCome",
+          "start": 82.086,
+          "end": 83.706,
+          "score": 0.749
+        },
+        {
+          "word": "as",
+          "start": 83.786,
+          "end": 83.866,
+          "score": 0.48
+        },
+        {
+          "word": "you",
+          "start": 83.986,
+          "end": 84.386,
+          "score": 0.533
+        },
+        {
+          "word": "were\nHe",
+          "start": 84.446,
+          "end": 85.566,
+          "score": 0.72
+        },
+        {
+          "word": "is",
+          "start": 85.746,
+          "end": 85.846,
+          "score": 0.372
+        },
+        {
+          "word": "calling",
+          "start": 86.006,
+          "end": 87.506,
+          "score": 0.55
+        },
+        {
+          "word": "you",
+          "start": 87.526,
+          "end": 87.646,
+          "score": 0.663
+        },
+        {
+          "word": "back",
+          "start": 88.226,
+          "end": 89.267,
+          "score": 0.818
+        },
+        {
+          "word": "home\nCalling",
+          "start": 89.287,
+          "end": 90.407,
+          "score": 0.608
+        },
+        {
+          "word": "you",
+          "start": 90.427,
+          "end": 90.927,
+          "score": 0.553
+        },
+        {
+          "word": "back",
+          "start": 90.947,
+          "end": 91.127,
+          "score": 0.443
+        },
+        {
+          "word": "home\nTo",
+          "start": 91.447,
+          "end": 91.847,
+          "score": 0.357
+        },
+        {
+          "word": "the",
+          "start": 91.887,
+          "end": 92.347,
+          "score": 0.628
+        },
+        {
+          "word": "garden",
+          "start": 92.507,
+          "end": 93.247,
+          "score": 0.643
+        },
+        {
+          "word": "where",
+          "start": 93.327,
+          "end": 93.987,
+          "score": 0.501
+        },
+        {
+          "word": "you",
+          "start": 94.147,
+          "end": 94.347,
+          "score": 0.488
+        },
+        {
+          "word": "started\nHe",
+          "start": 94.367,
+          "end": 96.227,
+          "score": 0.55
+        },
+        {
+          "word": "is",
+          "start": 96.427,
+          "end": 96.627,
+          "score": 0.68
+        },
+        {
+          "word": "calling",
+          "start": 96.807,
+          "end": 97.467,
+          "score": 0.309
+        },
+        {
+          "word": "you",
+          "start": 97.487,
+          "end": 97.747,
+          "score": 0.495
+        },
+        {
+          "word": "back",
+          "start": 97.807,
+          "end": 98.007,
+          "score": 0.39
+        },
+        {
+          "word": "home\nCalling",
+          "start": 98.067,
+          "end": 99.347,
+          "score": 0.502
+        },
+        {
+          "word": "you",
+          "start": 99.387,
+          "end": 99.627,
+          "score": 0.56
+        },
+        {
+          "word": "back",
+          "start": 99.687,
+          "end": 100.367,
+          "score": 0.761
+        },
+        {
+          "word": "home\nBack",
+          "start": 100.427,
+          "end": 101.527,
+          "score": 0.593
+        },
+        {
+          "word": "home\nBack",
+          "start": 101.607,
+          "end": 103.108,
+          "score": 0.455
+        },
+        {
+          "word": "home\nNo",
+          "start": 103.168,
+          "end": 104.348,
+          "score": 0.752
+        },
+        {
+          "word": "more",
+          "start": 104.548,
+          "end": 105.248,
+          "score": 0.583
+        },
+        {
+          "word": "running\nNo",
+          "start": 105.488,
+          "end": 106.948,
+          "score": 0.657
+        },
+        {
+          "word": "more",
+          "start": 106.988,
+          "end": 107.148,
+          "score": 0.323
+        },
+        {
+          "word": "hiding\nNo",
+          "start": 107.268,
+          "end": 107.928,
+          "score": 0.542
+        },
+        {
+          "word": "more",
+          "start": 108.268,
+          "end": 108.888,
+          "score": 0.611
+        },
+        {
+          "word": "fighting",
+          "start": 109.028,
+          "end": 110.028,
+          "score": 0.692
+        },
+        {
+          "word": "the",
+          "start": 110.108,
+          "end": 110.228,
+          "score": 0.51
+        },
+        {
+          "word": "design\nHe",
+          "start": 110.248,
+          "end": 111.168,
+          "score": 0.565
+        },
+        {
+          "word": "is",
+          "start": 111.308,
+          "end": 111.588,
+          "score": 0.712
+        },
+        {
+          "word": "the",
+          "start": 111.668,
+          "end": 111.908,
+          "score": 0.547
+        },
+        {
+          "word": "root\nHe",
+          "start": 112.028,
+          "end": 113.128,
+          "score": 0.59
+        },
+        {
+          "word": "is",
+          "start": 113.148,
+          "end": 113.328,
+          "score": 0.653
+        },
+        {
+          "word": "the",
+          "start": 113.548,
+          "end": 113.728,
+          "score": 0.432
+        },
+        {
+          "word": "truth\nHe",
+          "start": 113.788,
+          "end": 114.948,
+          "score": 0.518
+        },
+        {
+          "word": "is",
+          "start": 115.128,
+          "end": 115.328,
+          "score": 0.644
+        },
+        {
+          "word": "the",
+          "start": 115.428,
+          "end": 115.488,
+          "score": 0.065
+        },
+        {
+          "word": "vine\nI",
+          "start": 115.508,
+          "end": 116.148,
+          "score": 0.441
+        },
+        {
+          "word": "see",
+          "start": 116.288,
+          "end": 116.869,
+          "score": 0.763
+        },
+        {
+          "word": "the",
+          "start": 116.929,
+          "end": 117.089,
+          "score": 0.53
+        },
+        {
+          "word": "sunrise\nI",
+          "start": 117.229,
+          "end": 118.109,
+          "score": 0.296
+        },
+        {
+          "word": "see",
+          "start": 118.709,
+          "end": 118.769,
+          "score": 0.017
+        },
+        {
+          "word": "the",
+          "start": 118.829,
+          "end": 119.049,
+          "score": 0.571
+        },
+        {
+          "word": "sunrise\nI",
+          "start": 119.209,
+          "end": 121.329,
+          "score": 0.738
+        },
+        {
+          "word": "see",
+          "start": 122.589,
+          "end": 123.049,
+          "score": 0.718
+        },
+        {
+          "word": "the",
+          "start": 133.61,
+          "end": 133.73,
+          "score": 0.324
+        },
+        {
+          "word": "sunrise\nHe",
+          "start": 133.75,
+          "end": 133.95,
+          "score": 0.072
+        },
+        {
+          "word": "is",
+          "start": 134.19,
+          "end": 134.29,
+          "score": 0.538
+        },
+        {
+          "word": "calling",
+          "start": 134.35,
+          "end": 134.67,
+          "score": 0.272
+        },
+        {
+          "word": "you",
+          "start": 134.71,
+          "end": 134.83,
+          "score": 0.215
+        },
+        {
+          "word": "back",
+          "start": 134.91,
+          "end": 135.19,
+          "score": 0.756
+        },
+        {
+          "word": "home\nCalling",
+          "start": 135.25,
+          "end": 138.35,
+          "score": 0.565
+        },
+        {
+          "word": "you",
+          "start": 138.41,
+          "end": 138.61,
+          "score": 0.267
+        },
+        {
+          "word": "back",
+          "start": 138.69,
+          "end": 138.97,
+          "score": 0.553
+        },
+        {
+          "word": "home\nTo",
+          "start": 139.07,
+          "end": 139.71,
+          "score": 0.548
+        },
+        {
+          "word": "the",
+          "start": 139.73,
+          "end": 139.91,
+          "score": 0.294
+        },
+        {
+          "word": "garden",
+          "start": 139.97,
+          "end": 140.61,
+          "score": 0.558
+        },
+        {
+          "word": "where",
+          "start": 140.69,
+          "end": 140.87,
+          "score": 0.4
+        },
+        {
+          "word": "you",
+          "start": 140.89,
+          "end": 140.95,
+          "score": 0.011
+        },
+        {
+          "word": "started\nHe",
+          "start": 140.97,
+          "end": 141.81,
+          "score": 0.531
+        },
+        {
+          "word": "is",
+          "start": 141.83,
+          "end": 141.97,
+          "score": 0.641
+        },
+        {
+          "word": "calling",
+          "start": 142.09,
+          "end": 143.11,
+          "score": 0.701
+        },
+        {
+          "word": "you",
+          "start": 143.17,
+          "end": 143.43,
+          "score": 0.516
+        },
+        {
+          "word": "back",
+          "start": 143.53,
+          "end": 143.751,
+          "score": 0.517
+        },
+        {
+          "word": "home\nCalling",
+          "start": 143.971,
+          "end": 144.991,
+          "score": 0.535
+        },
+        {
+          "word": "you",
+          "start": 145.151,
+          "end": 145.671,
+          "score": 0.586
+        },
+        {
+          "word": "back",
+          "start": 146.371,
+          "end": 150.891,
+          "score": 0.739
+        },
+        {
+          "word": "home\nBack",
+          "start": 151.891,
+          "end": 154.671,
+          "score": 0.779
+        },
+        {
+          "word": "home\nBack",
+          "start": 155.691,
+          "end": 157.712,
+          "score": 0.596
+        },
+        {
+          "word": "home\nOpen",
+          "start": 158.532,
+          "end": 160.832,
+          "score": 0.691
+        },
+        {
+          "word": "up\nOpen",
+          "start": 161.412,
+          "end": 162.692,
+          "score": 0.823
+        },
+        {
+          "word": "up\nPure",
+          "start": 163.292,
+          "end": 163.672,
+          "score": 0.368
+        },
+        {
+          "word": "light\nPure",
+          "start": 163.852,
+          "end": 165.772,
+          "score": 0.64
+        },
+        {
+          "word": "light\nBack",
+          "start": 165.932,
+          "end": 167.632,
+          "score": 0.789
+        },
+        {
+          "word": "home\nBack",
+          "start": 167.912,
+          "end": 169.552,
+          "score": 0.764
+        },
+        {
+          "word": "home\nBack",
+          "start": 170.312,
+          "end": 171.193,
+          "score": 0.554
+        },
+        {
+          "word": "home",
+          "start": 171.213,
+          "end": 171.373,
+          "score": 0.407
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Open",
+      "start": 4.2,
+      "end": 4.58,
+      "score": 0.684
+    },
+    {
+      "word": "up",
+      "start": 4.66,
+      "end": 6.52,
+      "score": 0.746
+    },
+    {
+      "word": "Open",
+      "start": 6.52,
+      "end": 8.381,
+      "score": 0.746
+    },
+    {
+      "word": "up",
+      "start": 8.461,
+      "end": 10.388,
+      "score": 0.576
+    },
+    {
+      "word": "Heavy",
+      "start": 10.388,
+      "end": 12.314,
+      "score": 0.576
+    },
+    {
+      "word": "Heavy",
+      "start": 12.314,
+      "end": 14.241,
+      "score": 0.576
+    },
+    {
+      "word": "mirrors",
+      "start": 14.321,
+      "end": 15.031,
+      "score": 0.62
+    },
+    {
+      "word": "Glass",
+      "start": 15.031,
+      "end": 15.741,
+      "score": 0.62
+    },
+    {
+      "word": "that",
+      "start": 15.821,
+      "end": 16.141,
+      "score": 0.516
+    },
+    {
+      "word": "never",
+      "start": 16.201,
+      "end": 16.521,
+      "score": 0.344
+    },
+    {
+      "word": "shows",
+      "start": 17.321,
+      "end": 17.681,
+      "score": 0.671
+    },
+    {
+      "word": "the",
+      "start": 17.701,
+      "end": 18.001,
+      "score": 0.544
+    },
+    {
+      "word": "marrow",
+      "start": 18.081,
+      "end": 18.451,
+      "score": 0.564
+    },
+    {
+      "word": "I",
+      "start": 18.451,
+      "end": 18.821,
+      "score": 0.564
+    },
+    {
+      "word": "walked",
+      "start": 19.041,
+      "end": 19.521,
+      "score": 0.553
+    },
+    {
+      "word": "three",
+      "start": 19.621,
+      "end": 19.981,
+      "score": 0.477
+    },
+    {
+      "word": "miles",
+      "start": 20.021,
+      "end": 20.361,
+      "score": 0.427
+    },
+    {
+      "word": "down",
+      "start": 20.441,
+      "end": 20.762,
+      "score": 0.585
+    },
+    {
+      "word": "a",
+      "start": 20.882,
+      "end": 21.002,
+      "score": 0.728
+    },
+    {
+      "word": "road",
+      "start": 21.142,
+      "end": 21.442,
+      "score": 0.661
+    },
+    {
+      "word": "too",
+      "start": 21.502,
+      "end": 21.802,
+      "score": 0.426
+    },
+    {
+      "word": "narrow",
+      "start": 21.862,
+      "end": 22.982,
+      "score": 0.62
+    },
+    {
+      "word": "Wasted",
+      "start": 22.982,
+      "end": 24.102,
+      "score": 0.62
+    },
+    {
+      "word": "Wasted",
+      "start": 24.102,
+      "end": 25.222,
+      "score": 0.62
+    },
+    {
+      "word": "days",
+      "start": 25.282,
+      "end": 25.662,
+      "score": 0.466
+    },
+    {
+      "word": "Wasted",
+      "start": 25.662,
+      "end": 26.042,
+      "score": 0.466
+    },
+    {
+      "word": "nights",
+      "start": 26.822,
+      "end": 27.342,
+      "score": 0.475
+    },
+    {
+      "word": "Tearing",
+      "start": 27.342,
+      "end": 27.862,
+      "score": 0.475
+    },
+    {
+      "word": "through",
+      "start": 28.702,
+      "end": 29.382,
+      "score": 0.423
+    },
+    {
+      "word": "the",
+      "start": 29.422,
+      "end": 29.762,
+      "score": 0.55
+    },
+    {
+      "word": "fabric",
+      "start": 29.782,
+      "end": 30.662,
+      "score": 0.664
+    },
+    {
+      "word": "of",
+      "start": 30.702,
+      "end": 30.882,
+      "score": 0.716
+    },
+    {
+      "word": "the",
+      "start": 30.942,
+      "end": 31.202,
+      "score": 0.602
+    },
+    {
+      "word": "frame",
+      "start": 31.342,
+      "end": 32.212,
+      "score": 0.585
+    },
+    {
+      "word": "Forgetting",
+      "start": 32.212,
+      "end": 33.082,
+      "score": 0.585
+    },
+    {
+      "word": "that",
+      "start": 33.202,
+      "end": 33.442,
+      "score": 0.288
+    },
+    {
+      "word": "I",
+      "start": 33.482,
+      "end": 33.642,
+      "score": 0.827
+    },
+    {
+      "word": "carried",
+      "start": 33.902,
+      "end": 34.182,
+      "score": 0.34
+    },
+    {
+      "word": "His",
+      "start": 34.202,
+      "end": 34.303,
+      "score": 0.319
+    },
+    {
+      "word": "holy",
+      "start": 34.343,
+      "end": 34.843,
+      "score": 0.575
+    },
+    {
+      "word": "name",
+      "start": 34.863,
+      "end": 35.713,
+      "score": 0.648
+    },
+    {
+      "word": "Cold",
+      "start": 35.713,
+      "end": 36.563,
+      "score": 0.648
+    },
+    {
+      "word": "water",
+      "start": 36.623,
+      "end": 37.523,
+      "score": 0.675
+    },
+    {
+      "word": "Cold",
+      "start": 37.523,
+      "end": 38.423,
+      "score": 0.675
+    },
+    {
+      "word": "spirit",
+      "start": 38.443,
+      "end": 39.383,
+      "score": 0.634
+    },
+    {
+      "word": "Cold",
+      "start": 39.383,
+      "end": 40.323,
+      "score": 0.634
+    },
+    {
+      "word": "breath",
+      "start": 40.403,
+      "end": 41.033,
+      "score": 0.503
+    },
+    {
+      "word": "Wash",
+      "start": 41.033,
+      "end": 41.663,
+      "score": 0.503
+    },
+    {
+      "word": "the",
+      "start": 41.723,
+      "end": 41.943,
+      "score": 0.39
+    },
+    {
+      "word": "ink",
+      "start": 41.963,
+      "end": 42.183,
+      "score": 0.45
+    },
+    {
+      "word": "away",
+      "start": 42.223,
+      "end": 42.883,
+      "score": 0.555
+    },
+    {
+      "word": "Wash",
+      "start": 42.883,
+      "end": 43.543,
+      "score": 0.555
+    },
+    {
+      "word": "the",
+      "start": 43.603,
+      "end": 43.803,
+      "score": 0.489
+    },
+    {
+      "word": "mask",
+      "start": 43.823,
+      "end": 44.023,
+      "score": 0.46
+    },
+    {
+      "word": "away",
+      "start": 44.123,
+      "end": 44.793,
+      "score": 0.626
+    },
+    {
+      "word": "Wash",
+      "start": 44.793,
+      "end": 45.463,
+      "score": 0.626
+    },
+    {
+      "word": "the",
+      "start": 45.503,
+      "end": 45.663,
+      "score": 0.481
+    },
+    {
+      "word": "doubt",
+      "start": 45.723,
+      "end": 46.223,
+      "score": 0.64
+    },
+    {
+      "word": "away",
+      "start": 46.243,
+      "end": 47.514,
+      "score": 0.815
+    },
+    {
+      "word": "He",
+      "start": 47.514,
+      "end": 48.784,
+      "score": 0.815
+    },
+    {
+      "word": "is",
+      "start": 48.804,
+      "end": 48.924,
+      "score": 0.593
+    },
+    {
+      "word": "calling",
+      "start": 49.024,
+      "end": 49.524,
+      "score": 0.357
+    },
+    {
+      "word": "you",
+      "start": 49.584,
+      "end": 49.784,
+      "score": 0.45
+    },
+    {
+      "word": "back",
+      "start": 49.864,
+      "end": 50.504,
+      "score": 0.591
+    },
+    {
+      "word": "home",
+      "start": 50.564,
+      "end": 51.004,
+      "score": 0.471
+    },
+    {
+      "word": "Calling",
+      "start": 51.004,
+      "end": 51.444,
+      "score": 0.471
+    },
+    {
+      "word": "you",
+      "start": 51.564,
+      "end": 51.724,
+      "score": 0.358
+    },
+    {
+      "word": "back",
+      "start": 51.744,
+      "end": 52.184,
+      "score": 0.623
+    },
+    {
+      "word": "home",
+      "start": 52.244,
+      "end": 52.444,
+      "score": 0.354
+    },
+    {
+      "word": "To",
+      "start": 52.444,
+      "end": 52.644,
+      "score": 0.354
+    },
+    {
+      "word": "the",
+      "start": 52.684,
+      "end": 52.764,
+      "score": 0.368
+    },
+    {
+      "word": "garden",
+      "start": 52.824,
+      "end": 54.284,
+      "score": 0.797
+    },
+    {
+      "word": "where",
+      "start": 54.444,
+      "end": 55.364,
+      "score": 0.582
+    },
+    {
+      "word": "you",
+      "start": 55.484,
+      "end": 55.604,
+      "score": 0.359
+    },
+    {
+      "word": "started",
+      "start": 55.624,
+      "end": 56.084,
+      "score": 0.524
+    },
+    {
+      "word": "He",
+      "start": 56.084,
+      "end": 56.544,
+      "score": 0.524
+    },
+    {
+      "word": "is",
+      "start": 56.744,
+      "end": 56.924,
+      "score": 0.669
+    },
+    {
+      "word": "calling",
+      "start": 56.944,
+      "end": 57.784,
+      "score": 0.416
+    },
+    {
+      "word": "you",
+      "start": 57.804,
+      "end": 58.064,
+      "score": 0.61
+    },
+    {
+      "word": "back",
+      "start": 58.124,
+      "end": 58.484,
+      "score": 0.52
+    },
+    {
+      "word": "home",
+      "start": 58.764,
+      "end": 59.214,
+      "score": 0.442
+    },
+    {
+      "word": "Calling",
+      "start": 59.214,
+      "end": 59.664,
+      "score": 0.442
+    },
+    {
+      "word": "you",
+      "start": 59.684,
+      "end": 59.944,
+      "score": 0.481
+    },
+    {
+      "word": "back",
+      "start": 60.004,
+      "end": 60.664,
+      "score": 0.65
+    },
+    {
+      "word": "home",
+      "start": 60.724,
+      "end": 60.934,
+      "score": 0.463
+    },
+    {
+      "word": "Back",
+      "start": 60.934,
+      "end": 61.144,
+      "score": 0.463
+    },
+    {
+      "word": "home",
+      "start": 61.204,
+      "end": 61.514,
+      "score": 0.652
+    },
+    {
+      "word": "Back",
+      "start": 61.514,
+      "end": 61.825,
+      "score": 0.652
+    },
+    {
+      "word": "home",
+      "start": 61.925,
+      "end": 62.125,
+      "score": 0.341
+    },
+    {
+      "word": "Open",
+      "start": 62.125,
+      "end": 62.325,
+      "score": 0.341
+    },
+    {
+      "word": "up",
+      "start": 62.345,
+      "end": 62.565,
+      "score": 0.524
+    },
+    {
+      "word": "Open",
+      "start": 62.565,
+      "end": 62.785,
+      "score": 0.524
+    },
+    {
+      "word": "up",
+      "start": 62.805,
+      "end": 62.915,
+      "score": 0.213
+    },
+    {
+      "word": "Pure",
+      "start": 62.915,
+      "end": 63.025,
+      "score": 0.213
+    },
+    {
+      "word": "light",
+      "start": 63.065,
+      "end": 63.395,
+      "score": 0.467
+    },
+    {
+      "word": "Pure",
+      "start": 63.395,
+      "end": 63.725,
+      "score": 0.467
+    },
+    {
+      "word": "light",
+      "start": 64.005,
+      "end": 64.325,
+      "score": 0.362
+    },
+    {
+      "word": "Dust",
+      "start": 64.325,
+      "end": 64.645,
+      "score": 0.362
+    },
+    {
+      "word": "Settling",
+      "start": 64.645,
+      "end": 64.965,
+      "score": 0.362
+    },
+    {
+      "word": "down",
+      "start": 65.105,
+      "end": 65.505,
+      "score": 0.332
+    },
+    {
+      "word": "Finding",
+      "start": 65.505,
+      "end": 65.905,
+      "score": 0.332
+    },
+    {
+      "word": "peace",
+      "start": 65.925,
+      "end": 66.105,
+      "score": 0.349
+    },
+    {
+      "word": "within",
+      "start": 66.145,
+      "end": 66.365,
+      "score": 0.326
+    },
+    {
+      "word": "the",
+      "start": 66.385,
+      "end": 66.465,
+      "score": 0.169
+    },
+    {
+      "word": "quiet",
+      "start": 66.505,
+      "end": 66.825,
+      "score": 0.543
+    },
+    {
+      "word": "grain",
+      "start": 66.865,
+      "end": 67.185,
+      "score": 0.294
+    },
+    {
+      "word": "Giving",
+      "start": 67.185,
+      "end": 67.505,
+      "score": 0.294
+    },
+    {
+      "word": "up",
+      "start": 67.625,
+      "end": 67.665,
+      "score": 0.007
+    },
+    {
+      "word": "the",
+      "start": 67.685,
+      "end": 67.785,
+      "score": 0.333
+    },
+    {
+      "word": "power",
+      "start": 67.805,
+      "end": 68.125,
+      "score": 0.39
+    },
+    {
+      "word": "and",
+      "start": 68.205,
+      "end": 68.585,
+      "score": 0.698
+    },
+    {
+      "word": "the",
+      "start": 68.645,
+      "end": 68.745,
+      "score": 0.412
+    },
+    {
+      "word": "constant",
+      "start": 69.105,
+      "end": 69.405,
+      "score": 0.307
+    },
+    {
+      "word": "pain",
+      "start": 69.465,
+      "end": 70.065,
+      "score": 0.482
+    },
+    {
+      "word": "Surrender",
+      "start": 70.065,
+      "end": 70.665,
+      "score": 0.482
+    },
+    {
+      "word": "Everything",
+      "start": 70.665,
+      "end": 71.265,
+      "score": 0.482
+    },
+    {
+      "word": "Everything",
+      "start": 71.265,
+      "end": 71.865,
+      "score": 0.482
+    },
+    {
+      "word": "Let",
+      "start": 71.865,
+      "end": 72.465,
+      "score": 0.482
+    },
+    {
+      "word": "the",
+      "start": 72.645,
+      "end": 73.065,
+      "score": 0.788
+    },
+    {
+      "word": "clay",
+      "start": 73.105,
+      "end": 73.565,
+      "score": 0.512
+    },
+    {
+      "word": "go",
+      "start": 73.605,
+      "end": 74.025,
+      "score": 0.796
+    },
+    {
+      "word": "soft",
+      "start": 74.065,
+      "end": 74.365,
+      "score": 0.471
+    },
+    {
+      "word": "inside",
+      "start": 74.505,
+      "end": 74.645,
+      "score": 0.136
+    },
+    {
+      "word": "His",
+      "start": 74.685,
+      "end": 74.765,
+      "score": 0.25
+    },
+    {
+      "word": "hands",
+      "start": 74.925,
+      "end": 75.426,
+      "score": 0.529
+    },
+    {
+      "word": "Walking",
+      "start": 75.426,
+      "end": 75.926,
+      "score": 0.529
+    },
+    {
+      "word": "out",
+      "start": 76.006,
+      "end": 76.186,
+      "score": 0.386
+    },
+    {
+      "word": "of",
+      "start": 76.226,
+      "end": 76.286,
+      "score": 0.356
+    },
+    {
+      "word": "these",
+      "start": 76.306,
+      "end": 76.746,
+      "score": 0.327
+    },
+    {
+      "word": "shifting",
+      "start": 76.846,
+      "end": 77.326,
+      "score": 0.493
+    },
+    {
+      "word": "sands",
+      "start": 77.386,
+      "end": 77.756,
+      "score": 0.622
+    },
+    {
+      "word": "New",
+      "start": 77.756,
+      "end": 78.126,
+      "score": 0.622
+    },
+    {
+      "word": "heart",
+      "start": 78.206,
+      "end": 78.716,
+      "score": 0.623
+    },
+    {
+      "word": "New",
+      "start": 78.716,
+      "end": 79.226,
+      "score": 0.623
+    },
+    {
+      "word": "skin",
+      "start": 79.286,
+      "end": 79.956,
+      "score": 0.534
+    },
+    {
+      "word": "New",
+      "start": 79.956,
+      "end": 80.626,
+      "score": 0.534
+    },
+    {
+      "word": "life",
+      "start": 80.666,
+      "end": 81.006,
+      "score": 0.581
+    },
+    {
+      "word": "Come",
+      "start": 81.006,
+      "end": 81.346,
+      "score": 0.581
+    },
+    {
+      "word": "as",
+      "start": 81.446,
+      "end": 81.566,
+      "score": 0.596
+    },
+    {
+      "word": "you",
+      "start": 81.606,
+      "end": 82.026,
+      "score": 0.507
+    },
+    {
+      "word": "were",
+      "start": 82.086,
+      "end": 82.896,
+      "score": 0.749
+    },
+    {
+      "word": "Come",
+      "start": 82.896,
+      "end": 83.706,
+      "score": 0.749
+    },
+    {
+      "word": "as",
+      "start": 83.786,
+      "end": 83.866,
+      "score": 0.48
+    },
+    {
+      "word": "you",
+      "start": 83.986,
+      "end": 84.386,
+      "score": 0.533
+    },
+    {
+      "word": "were",
+      "start": 84.446,
+      "end": 85.006,
+      "score": 0.72
+    },
+    {
+      "word": "He",
+      "start": 85.006,
+      "end": 85.566,
+      "score": 0.72
+    },
+    {
+      "word": "is",
+      "start": 85.746,
+      "end": 85.846,
+      "score": 0.372
+    },
+    {
+      "word": "calling",
+      "start": 86.006,
+      "end": 87.506,
+      "score": 0.55
+    },
+    {
+      "word": "you",
+      "start": 87.526,
+      "end": 87.646,
+      "score": 0.663
+    },
+    {
+      "word": "back",
+      "start": 88.226,
+      "end": 89.267,
+      "score": 0.818
+    },
+    {
+      "word": "home",
+      "start": 89.287,
+      "end": 89.847,
+      "score": 0.608
+    },
+    {
+      "word": "Calling",
+      "start": 89.847,
+      "end": 90.407,
+      "score": 0.608
+    },
+    {
+      "word": "you",
+      "start": 90.427,
+      "end": 90.927,
+      "score": 0.553
+    },
+    {
+      "word": "back",
+      "start": 90.947,
+      "end": 91.127,
+      "score": 0.443
+    },
+    {
+      "word": "home",
+      "start": 91.447,
+      "end": 91.647,
+      "score": 0.357
+    },
+    {
+      "word": "To",
+      "start": 91.647,
+      "end": 91.847,
+      "score": 0.357
+    },
+    {
+      "word": "the",
+      "start": 91.887,
+      "end": 92.347,
+      "score": 0.628
+    },
+    {
+      "word": "garden",
+      "start": 92.507,
+      "end": 93.247,
+      "score": 0.643
+    },
+    {
+      "word": "where",
+      "start": 93.327,
+      "end": 93.987,
+      "score": 0.501
+    },
+    {
+      "word": "you",
+      "start": 94.147,
+      "end": 94.347,
+      "score": 0.488
+    },
+    {
+      "word": "started",
+      "start": 94.367,
+      "end": 95.297,
+      "score": 0.55
+    },
+    {
+      "word": "He",
+      "start": 95.297,
+      "end": 96.227,
+      "score": 0.55
+    },
+    {
+      "word": "is",
+      "start": 96.427,
+      "end": 96.627,
+      "score": 0.68
+    },
+    {
+      "word": "calling",
+      "start": 96.807,
+      "end": 97.467,
+      "score": 0.309
+    },
+    {
+      "word": "you",
+      "start": 97.487,
+      "end": 97.747,
+      "score": 0.495
+    },
+    {
+      "word": "back",
+      "start": 97.807,
+      "end": 98.007,
+      "score": 0.39
+    },
+    {
+      "word": "home",
+      "start": 98.067,
+      "end": 98.707,
+      "score": 0.502
+    },
+    {
+      "word": "Calling",
+      "start": 98.707,
+      "end": 99.347,
+      "score": 0.502
+    },
+    {
+      "word": "you",
+      "start": 99.387,
+      "end": 99.627,
+      "score": 0.56
+    },
+    {
+      "word": "back",
+      "start": 99.687,
+      "end": 100.367,
+      "score": 0.761
+    },
+    {
+      "word": "home",
+      "start": 100.427,
+      "end": 100.977,
+      "score": 0.593
+    },
+    {
+      "word": "Back",
+      "start": 100.977,
+      "end": 101.527,
+      "score": 0.593
+    },
+    {
+      "word": "home",
+      "start": 101.607,
+      "end": 102.358,
+      "score": 0.455
+    },
+    {
+      "word": "Back",
+      "start": 102.358,
+      "end": 103.108,
+      "score": 0.455
+    },
+    {
+      "word": "home",
+      "start": 103.168,
+      "end": 103.758,
+      "score": 0.752
+    },
+    {
+      "word": "No",
+      "start": 103.758,
+      "end": 104.348,
+      "score": 0.752
+    },
+    {
+      "word": "more",
+      "start": 104.548,
+      "end": 105.248,
+      "score": 0.583
+    },
+    {
+      "word": "running",
+      "start": 105.488,
+      "end": 106.218,
+      "score": 0.657
+    },
+    {
+      "word": "No",
+      "start": 106.218,
+      "end": 106.948,
+      "score": 0.657
+    },
+    {
+      "word": "more",
+      "start": 106.988,
+      "end": 107.148,
+      "score": 0.323
+    },
+    {
+      "word": "hiding",
+      "start": 107.268,
+      "end": 107.598,
+      "score": 0.542
+    },
+    {
+      "word": "No",
+      "start": 107.598,
+      "end": 107.928,
+      "score": 0.542
+    },
+    {
+      "word": "more",
+      "start": 108.268,
+      "end": 108.888,
+      "score": 0.611
+    },
+    {
+      "word": "fighting",
+      "start": 109.028,
+      "end": 110.028,
+      "score": 0.692
+    },
+    {
+      "word": "the",
+      "start": 110.108,
+      "end": 110.228,
+      "score": 0.51
+    },
+    {
+      "word": "design",
+      "start": 110.248,
+      "end": 110.708,
+      "score": 0.565
+    },
+    {
+      "word": "He",
+      "start": 110.708,
+      "end": 111.168,
+      "score": 0.565
+    },
+    {
+      "word": "is",
+      "start": 111.308,
+      "end": 111.588,
+      "score": 0.712
+    },
+    {
+      "word": "the",
+      "start": 111.668,
+      "end": 111.908,
+      "score": 0.547
+    },
+    {
+      "word": "root",
+      "start": 112.028,
+      "end": 112.578,
+      "score": 0.59
+    },
+    {
+      "word": "He",
+      "start": 112.578,
+      "end": 113.128,
+      "score": 0.59
+    },
+    {
+      "word": "is",
+      "start": 113.148,
+      "end": 113.328,
+      "score": 0.653
+    },
+    {
+      "word": "the",
+      "start": 113.548,
+      "end": 113.728,
+      "score": 0.432
+    },
+    {
+      "word": "truth",
+      "start": 113.788,
+      "end": 114.368,
+      "score": 0.518
+    },
+    {
+      "word": "He",
+      "start": 114.368,
+      "end": 114.948,
+      "score": 0.518
+    },
+    {
+      "word": "is",
+      "start": 115.128,
+      "end": 115.328,
+      "score": 0.644
+    },
+    {
+      "word": "the",
+      "start": 115.428,
+      "end": 115.488,
+      "score": 0.065
+    },
+    {
+      "word": "vine",
+      "start": 115.508,
+      "end": 115.828,
+      "score": 0.441
+    },
+    {
+      "word": "I",
+      "start": 115.828,
+      "end": 116.148,
+      "score": 0.441
+    },
+    {
+      "word": "see",
+      "start": 116.288,
+      "end": 116.869,
+      "score": 0.763
+    },
+    {
+      "word": "the",
+      "start": 116.929,
+      "end": 117.089,
+      "score": 0.53
+    },
+    {
+      "word": "sunrise",
+      "start": 117.229,
+      "end": 117.669,
+      "score": 0.296
+    },
+    {
+      "word": "I",
+      "start": 117.669,
+      "end": 118.109,
+      "score": 0.296
+    },
+    {
+      "word": "see",
+      "start": 118.709,
+      "end": 118.769,
+      "score": 0.017
+    },
+    {
+      "word": "the",
+      "start": 118.829,
+      "end": 119.049,
+      "score": 0.571
+    },
+    {
+      "word": "sunrise",
+      "start": 119.209,
+      "end": 120.269,
+      "score": 0.738
+    },
+    {
+      "word": "I",
+      "start": 120.269,
+      "end": 121.329,
+      "score": 0.738
+    },
+    {
+      "word": "see",
+      "start": 122.589,
+      "end": 123.049,
+      "score": 0.718
+    },
+    {
+      "word": "the",
+      "start": 133.61,
+      "end": 133.73,
+      "score": 0.324
+    },
+    {
+      "word": "sunrise",
+      "start": 133.75,
+      "end": 133.85,
+      "score": 0.072
+    },
+    {
+      "word": "He",
+      "start": 133.85,
+      "end": 133.95,
+      "score": 0.072
+    },
+    {
+      "word": "is",
+      "start": 134.19,
+      "end": 134.29,
+      "score": 0.538
+    },
+    {
+      "word": "calling",
+      "start": 134.35,
+      "end": 134.67,
+      "score": 0.272
+    },
+    {
+      "word": "you",
+      "start": 134.71,
+      "end": 134.83,
+      "score": 0.215
+    },
+    {
+      "word": "back",
+      "start": 134.91,
+      "end": 135.19,
+      "score": 0.756
+    },
+    {
+      "word": "home",
+      "start": 135.25,
+      "end": 136.8,
+      "score": 0.565
+    },
+    {
+      "word": "Calling",
+      "start": 136.8,
+      "end": 138.35,
+      "score": 0.565
+    },
+    {
+      "word": "you",
+      "start": 138.41,
+      "end": 138.61,
+      "score": 0.267
+    },
+    {
+      "word": "back",
+      "start": 138.69,
+      "end": 138.97,
+      "score": 0.553
+    },
+    {
+      "word": "home",
+      "start": 139.07,
+      "end": 139.39,
+      "score": 0.548
+    },
+    {
+      "word": "To",
+      "start": 139.39,
+      "end": 139.71,
+      "score": 0.548
+    },
+    {
+      "word": "the",
+      "start": 139.73,
+      "end": 139.91,
+      "score": 0.294
+    },
+    {
+      "word": "garden",
+      "start": 139.97,
+      "end": 140.61,
+      "score": 0.558
+    },
+    {
+      "word": "where",
+      "start": 140.69,
+      "end": 140.87,
+      "score": 0.4
+    },
+    {
+      "word": "you",
+      "start": 140.89,
+      "end": 140.95,
+      "score": 0.011
+    },
+    {
+      "word": "started",
+      "start": 140.97,
+      "end": 141.39,
+      "score": 0.531
+    },
+    {
+      "word": "He",
+      "start": 141.39,
+      "end": 141.81,
+      "score": 0.531
+    },
+    {
+      "word": "is",
+      "start": 141.83,
+      "end": 141.97,
+      "score": 0.641
+    },
+    {
+      "word": "calling",
+      "start": 142.09,
+      "end": 143.11,
+      "score": 0.701
+    },
+    {
+      "word": "you",
+      "start": 143.17,
+      "end": 143.43,
+      "score": 0.516
+    },
+    {
+      "word": "back",
+      "start": 143.53,
+      "end": 143.751,
+      "score": 0.517
+    },
+    {
+      "word": "home",
+      "start": 143.971,
+      "end": 144.481,
+      "score": 0.535
+    },
+    {
+      "word": "Calling",
+      "start": 144.481,
+      "end": 144.991,
+      "score": 0.535
+    },
+    {
+      "word": "you",
+      "start": 145.151,
+      "end": 145.671,
+      "score": 0.586
+    },
+    {
+      "word": "back",
+      "start": 146.371,
+      "end": 150.891,
+      "score": 0.739
+    },
+    {
+      "word": "home",
+      "start": 151.891,
+      "end": 153.281,
+      "score": 0.779
+    },
+    {
+      "word": "Back",
+      "start": 153.281,
+      "end": 154.671,
+      "score": 0.779
+    },
+    {
+      "word": "home",
+      "start": 155.691,
+      "end": 156.702,
+      "score": 0.596
+    },
+    {
+      "word": "Back",
+      "start": 156.702,
+      "end": 157.712,
+      "score": 0.596
+    },
+    {
+      "word": "home",
+      "start": 158.532,
+      "end": 159.682,
+      "score": 0.691
+    },
+    {
+      "word": "Open",
+      "start": 159.682,
+      "end": 160.832,
+      "score": 0.691
+    },
+    {
+      "word": "up",
+      "start": 161.412,
+      "end": 162.052,
+      "score": 0.823
+    },
+    {
+      "word": "Open",
+      "start": 162.052,
+      "end": 162.692,
+      "score": 0.823
+    },
+    {
+      "word": "up",
+      "start": 163.292,
+      "end": 163.482,
+      "score": 0.368
+    },
+    {
+      "word": "Pure",
+      "start": 163.482,
+      "end": 163.672,
+      "score": 0.368
+    },
+    {
+      "word": "light",
+      "start": 163.852,
+      "end": 164.812,
+      "score": 0.64
+    },
+    {
+      "word": "Pure",
+      "start": 164.812,
+      "end": 165.772,
+      "score": 0.64
+    },
+    {
+      "word": "light",
+      "start": 165.932,
+      "end": 166.782,
+      "score": 0.789
+    },
+    {
+      "word": "Back",
+      "start": 166.782,
+      "end": 167.632,
+      "score": 0.789
+    },
+    {
+      "word": "home",
+      "start": 167.912,
+      "end": 168.732,
+      "score": 0.764
+    },
+    {
+      "word": "Back",
+      "start": 168.732,
+      "end": 169.552,
+      "score": 0.764
+    },
+    {
+      "word": "home",
+      "start": 170.312,
+      "end": 170.752,
+      "score": 0.554
+    },
+    {
+      "word": "Back",
+      "start": 170.752,
+      "end": 171.193,
+      "score": 0.554
+    },
+    {
+      "word": "home",
+      "start": 171.213,
+      "end": 171.373,
+      "score": 0.407
+    }
+  ]
+}

@@ -1,0 +1,2149 @@
+{
+  "segments": [
+    {
+      "start": 5.6,
+      "end": 150.587,
+      "text": "Old ways\nChange your mind\nLeaving the shadow\nLooking for a brand new kind of life\nBroken\nTurning around\nWalking a path that is finally solid ground\nNew soul\nNew heart\nNew day\nCambia il tuo cuore\nChanger de vie\nCambia tu vida\nChange your life\nWerde neu\nZmień się\nSpremeni se\nTurn toward the light\nChange your life\nChange your life\nOh oh oh\nNew life\nNew life\nOh oh oh\nFixed gaze\nStronger now\nCold water washing the sweat from a heavy brow\nFresh start\nWash it away\nListening close to the things that the elders say\nOne path\nOne truth\nOne choice\nCambia il tuo cuore\nChanger de vie\nCambia tu vida\nChange your life\nWerde neu\nZmień się\nSpremeni se\nTurn toward the light\nChange your life\nChange your life\nOh oh oh\nNew life\nNew life\nOh oh oh\nVær tro mod dig selv\nBli ny igjen\nVarje steg räknas\nEvery step matters\nEvery prayer matters\nEvery change matters\nForza\nCoraggio\nBelieve\nCambia il tuo cuore\nChanger de vie\nCambia tu vida\nChange your life\nWerde neu\nZmień się\nSpremeni se\nTurn toward the light\nChange your life\nChange your life\nChange your life\nMuda a tua vida\nZměň svůj život\nChange your life\nNew life\nNew life\nAmen",
+      "words": [
+        {
+          "word": "Old",
+          "start": 5.6,
+          "end": 5.84,
+          "score": 0.858
+        },
+        {
+          "word": "ways\nChange",
+          "start": 5.94,
+          "end": 7.92,
+          "score": 0.765
+        },
+        {
+          "word": "your",
+          "start": 7.94,
+          "end": 8.32,
+          "score": 0.746
+        },
+        {
+          "word": "mind\nLeaving",
+          "start": 8.42,
+          "end": 9.86,
+          "score": 0.789
+        },
+        {
+          "word": "the",
+          "start": 9.9,
+          "end": 9.98,
+          "score": 0.697
+        },
+        {
+          "word": "shadow\nLooking",
+          "start": 10.1,
+          "end": 11.801,
+          "score": 0.761
+        },
+        {
+          "word": "for",
+          "start": 11.881,
+          "end": 12.181,
+          "score": 0.81
+        },
+        {
+          "word": "a",
+          "start": 12.241,
+          "end": 12.281,
+          "score": 0.644
+        },
+        {
+          "word": "brand",
+          "start": 12.401,
+          "end": 12.861,
+          "score": 0.79
+        },
+        {
+          "word": "new",
+          "start": 12.881,
+          "end": 13.221,
+          "score": 0.773
+        },
+        {
+          "word": "kind",
+          "start": 13.341,
+          "end": 13.861,
+          "score": 0.735
+        },
+        {
+          "word": "of",
+          "start": 13.941,
+          "end": 14.001,
+          "score": 0.318
+        },
+        {
+          "word": "life\nBroken\nTurning",
+          "start": 14.121,
+          "end": 17.901,
+          "score": 0.777
+        },
+        {
+          "word": "around\nWalking",
+          "start": 18.021,
+          "end": 19.901,
+          "score": 0.756
+        },
+        {
+          "word": "a",
+          "start": 19.961,
+          "end": 20.001,
+          "score": 0.66
+        },
+        {
+          "word": "path",
+          "start": 20.121,
+          "end": 20.541,
+          "score": 0.589
+        },
+        {
+          "word": "that",
+          "start": 20.661,
+          "end": 21.161,
+          "score": 0.608
+        },
+        {
+          "word": "is",
+          "start": 21.221,
+          "end": 21.301,
+          "score": 0.454
+        },
+        {
+          "word": "finally",
+          "start": 21.401,
+          "end": 21.861,
+          "score": 0.508
+        },
+        {
+          "word": "solid",
+          "start": 21.901,
+          "end": 22.301,
+          "score": 0.522
+        },
+        {
+          "word": "ground\nNew",
+          "start": 22.401,
+          "end": 23.221,
+          "score": 0.712
+        },
+        {
+          "word": "soul\nNew",
+          "start": 23.361,
+          "end": 24.301,
+          "score": 0.786
+        },
+        {
+          "word": "heart\nNew",
+          "start": 24.421,
+          "end": 26.081,
+          "score": 0.657
+        },
+        {
+          "word": "day\nCambia",
+          "start": 26.161,
+          "end": 29.881,
+          "score": 0.665
+        },
+        {
+          "word": "il",
+          "start": 29.981,
+          "end": 30.061,
+          "score": 0.371
+        },
+        {
+          "word": "tuo",
+          "start": 30.101,
+          "end": 30.301,
+          "score": 0.728
+        },
+        {
+          "word": "cuore\nChanger",
+          "start": 30.361,
+          "end": 31.841,
+          "score": 0.581
+        },
+        {
+          "word": "de",
+          "start": 31.881,
+          "end": 32.081,
+          "score": 0.758
+        },
+        {
+          "word": "vie\nCambia",
+          "start": 32.141,
+          "end": 33.802,
+          "score": 0.699
+        },
+        {
+          "word": "tu",
+          "start": 33.882,
+          "end": 34.082,
+          "score": 0.785
+        },
+        {
+          "word": "vida\nChange",
+          "start": 34.142,
+          "end": 35.802,
+          "score": 0.627
+        },
+        {
+          "word": "your",
+          "start": 35.842,
+          "end": 36.422,
+          "score": 0.602
+        },
+        {
+          "word": "life\nWerde",
+          "start": 36.502,
+          "end": 37.862,
+          "score": 0.686
+        },
+        {
+          "word": "neu\nZmień",
+          "start": 37.882,
+          "end": 38.342,
+          "score": 0.482
+        },
+        {
+          "word": "się\nSpremeni",
+          "start": 38.422,
+          "end": 40.022,
+          "score": 0.684
+        },
+        {
+          "word": "se\nTurn",
+          "start": 40.122,
+          "end": 40.882,
+          "score": 0.511
+        },
+        {
+          "word": "toward",
+          "start": 40.942,
+          "end": 41.342,
+          "score": 0.58
+        },
+        {
+          "word": "the",
+          "start": 41.902,
+          "end": 42.042,
+          "score": 0.671
+        },
+        {
+          "word": "light\nChange",
+          "start": 42.082,
+          "end": 43.782,
+          "score": 0.551
+        },
+        {
+          "word": "your",
+          "start": 43.822,
+          "end": 44.402,
+          "score": 0.611
+        },
+        {
+          "word": "life\nChange",
+          "start": 44.502,
+          "end": 45.762,
+          "score": 0.635
+        },
+        {
+          "word": "your",
+          "start": 45.822,
+          "end": 46.202,
+          "score": 0.551
+        },
+        {
+          "word": "life\nOh",
+          "start": 46.242,
+          "end": 47.362,
+          "score": 0.528
+        },
+        {
+          "word": "oh",
+          "start": 48.102,
+          "end": 48.362,
+          "score": 0.753
+        },
+        {
+          "word": "oh\nNew",
+          "start": 48.942,
+          "end": 50.162,
+          "score": 0.835
+        },
+        {
+          "word": "life\nNew",
+          "start": 50.882,
+          "end": 52.382,
+          "score": 0.628
+        },
+        {
+          "word": "life\nOh",
+          "start": 52.442,
+          "end": 53.122,
+          "score": 0.305
+        },
+        {
+          "word": "oh",
+          "start": 53.282,
+          "end": 53.763,
+          "score": 0.894
+        },
+        {
+          "word": "oh\nFixed",
+          "start": 53.983,
+          "end": 57.703,
+          "score": 0.765
+        },
+        {
+          "word": "gaze\nStronger",
+          "start": 57.883,
+          "end": 60.083,
+          "score": 0.849
+        },
+        {
+          "word": "now\nCold",
+          "start": 60.163,
+          "end": 61.743,
+          "score": 0.731
+        },
+        {
+          "word": "water",
+          "start": 61.883,
+          "end": 62.283,
+          "score": 0.451
+        },
+        {
+          "word": "washing",
+          "start": 62.363,
+          "end": 62.863,
+          "score": 0.876
+        },
+        {
+          "word": "the",
+          "start": 62.903,
+          "end": 62.963,
+          "score": 0.024
+        },
+        {
+          "word": "sweat",
+          "start": 63.063,
+          "end": 63.403,
+          "score": 0.693
+        },
+        {
+          "word": "from",
+          "start": 63.623,
+          "end": 63.903,
+          "score": 0.549
+        },
+        {
+          "word": "a",
+          "start": 64.023,
+          "end": 64.103,
+          "score": 0.657
+        },
+        {
+          "word": "heavy",
+          "start": 64.163,
+          "end": 64.563,
+          "score": 0.659
+        },
+        {
+          "word": "brow\nFresh",
+          "start": 64.603,
+          "end": 65.663,
+          "score": 0.523
+        },
+        {
+          "word": "start\nWash",
+          "start": 65.783,
+          "end": 67.643,
+          "score": 0.854
+        },
+        {
+          "word": "it",
+          "start": 67.763,
+          "end": 67.923,
+          "score": 0.614
+        },
+        {
+          "word": "away\nListening",
+          "start": 67.983,
+          "end": 70.043,
+          "score": 0.583
+        },
+        {
+          "word": "close",
+          "start": 70.163,
+          "end": 70.523,
+          "score": 0.453
+        },
+        {
+          "word": "to",
+          "start": 70.623,
+          "end": 70.783,
+          "score": 0.684
+        },
+        {
+          "word": "the",
+          "start": 70.823,
+          "end": 70.963,
+          "score": 0.224
+        },
+        {
+          "word": "things",
+          "start": 71.143,
+          "end": 71.563,
+          "score": 0.626
+        },
+        {
+          "word": "that",
+          "start": 71.643,
+          "end": 71.863,
+          "score": 0.692
+        },
+        {
+          "word": "the",
+          "start": 71.923,
+          "end": 72.123,
+          "score": 0.642
+        },
+        {
+          "word": "elders",
+          "start": 72.243,
+          "end": 72.543,
+          "score": 0.318
+        },
+        {
+          "word": "say\nOne",
+          "start": 72.643,
+          "end": 73.783,
+          "score": 0.862
+        },
+        {
+          "word": "path\nOne",
+          "start": 73.923,
+          "end": 75.224,
+          "score": 0.787
+        },
+        {
+          "word": "truth\nOne",
+          "start": 75.324,
+          "end": 76.244,
+          "score": 0.767
+        },
+        {
+          "word": "choice\nCambia",
+          "start": 76.324,
+          "end": 77.904,
+          "score": 0.645
+        },
+        {
+          "word": "il",
+          "start": 77.964,
+          "end": 78.084,
+          "score": 0.43
+        },
+        {
+          "word": "tuo",
+          "start": 78.124,
+          "end": 78.304,
+          "score": 0.673
+        },
+        {
+          "word": "cuore\nChanger",
+          "start": 78.424,
+          "end": 79.844,
+          "score": 0.597
+        },
+        {
+          "word": "de",
+          "start": 79.864,
+          "end": 80.084,
+          "score": 0.691
+        },
+        {
+          "word": "vie\nCambia",
+          "start": 80.144,
+          "end": 81.864,
+          "score": 0.659
+        },
+        {
+          "word": "tu",
+          "start": 81.904,
+          "end": 82.084,
+          "score": 0.728
+        },
+        {
+          "word": "vida\nChange",
+          "start": 82.144,
+          "end": 83.824,
+          "score": 0.695
+        },
+        {
+          "word": "your",
+          "start": 83.844,
+          "end": 84.404,
+          "score": 0.465
+        },
+        {
+          "word": "life\nWerde",
+          "start": 84.464,
+          "end": 85.884,
+          "score": 0.546
+        },
+        {
+          "word": "neu\nZmień",
+          "start": 85.984,
+          "end": 86.884,
+          "score": 0.719
+        },
+        {
+          "word": "się\nSpremeni",
+          "start": 87.044,
+          "end": 88.004,
+          "score": 0.585
+        },
+        {
+          "word": "se\nTurn",
+          "start": 88.144,
+          "end": 89.324,
+          "score": 0.514
+        },
+        {
+          "word": "toward",
+          "start": 89.404,
+          "end": 89.864,
+          "score": 0.536
+        },
+        {
+          "word": "the",
+          "start": 89.904,
+          "end": 90.064,
+          "score": 0.655
+        },
+        {
+          "word": "light\nChange",
+          "start": 90.144,
+          "end": 91.804,
+          "score": 0.606
+        },
+        {
+          "word": "your",
+          "start": 91.844,
+          "end": 92.344,
+          "score": 0.529
+        },
+        {
+          "word": "life\nChange",
+          "start": 92.364,
+          "end": 93.784,
+          "score": 0.645
+        },
+        {
+          "word": "your",
+          "start": 93.804,
+          "end": 94.204,
+          "score": 0.576
+        },
+        {
+          "word": "life\nOh",
+          "start": 94.224,
+          "end": 95.884,
+          "score": 0.79
+        },
+        {
+          "word": "oh",
+          "start": 96.304,
+          "end": 96.404,
+          "score": 0.514
+        },
+        {
+          "word": "oh\nNew",
+          "start": 96.765,
+          "end": 98.045,
+          "score": 0.778
+        },
+        {
+          "word": "life\nNew",
+          "start": 98.925,
+          "end": 99.845,
+          "score": 0.588
+        },
+        {
+          "word": "life\nOh",
+          "start": 100.105,
+          "end": 101.105,
+          "score": 0.548
+        },
+        {
+          "word": "oh",
+          "start": 101.605,
+          "end": 101.665,
+          "score": 0.254
+        },
+        {
+          "word": "oh\nVær",
+          "start": 101.865,
+          "end": 102.605,
+          "score": 0.546
+        },
+        {
+          "word": "tro",
+          "start": 102.625,
+          "end": 102.865,
+          "score": 0.623
+        },
+        {
+          "word": "mod",
+          "start": 102.905,
+          "end": 103.065,
+          "score": 0.495
+        },
+        {
+          "word": "dig",
+          "start": 103.105,
+          "end": 103.265,
+          "score": 0.565
+        },
+        {
+          "word": "selv\nBli",
+          "start": 103.385,
+          "end": 104.745,
+          "score": 0.616
+        },
+        {
+          "word": "ny",
+          "start": 105.065,
+          "end": 105.285,
+          "score": 0.775
+        },
+        {
+          "word": "igjen\nVarje",
+          "start": 105.305,
+          "end": 106.765,
+          "score": 0.401
+        },
+        {
+          "word": "steg",
+          "start": 106.805,
+          "end": 107.185,
+          "score": 0.675
+        },
+        {
+          "word": "räknas\nEvery",
+          "start": 107.305,
+          "end": 108.905,
+          "score": 0.692
+        },
+        {
+          "word": "step",
+          "start": 109.005,
+          "end": 109.225,
+          "score": 0.599
+        },
+        {
+          "word": "matters\nEvery",
+          "start": 109.325,
+          "end": 110.565,
+          "score": 0.359
+        },
+        {
+          "word": "prayer",
+          "start": 110.625,
+          "end": 110.805,
+          "score": 0.372
+        },
+        {
+          "word": "matters\nEvery",
+          "start": 110.905,
+          "end": 112.805,
+          "score": 0.591
+        },
+        {
+          "word": "change",
+          "start": 112.865,
+          "end": 113.245,
+          "score": 0.521
+        },
+        {
+          "word": "matters\nForza\nCoraggio\nBelieve\nCambia",
+          "start": 113.545,
+          "end": 116.885,
+          "score": 0.438
+        },
+        {
+          "word": "il",
+          "start": 117.805,
+          "end": 117.965,
+          "score": 0.678
+        },
+        {
+          "word": "tuo",
+          "start": 118.106,
+          "end": 118.246,
+          "score": 0.445
+        },
+        {
+          "word": "cuore\nChanger",
+          "start": 118.386,
+          "end": 119.826,
+          "score": 0.609
+        },
+        {
+          "word": "de",
+          "start": 119.886,
+          "end": 120.086,
+          "score": 0.756
+        },
+        {
+          "word": "vie\nCambia",
+          "start": 120.146,
+          "end": 121.806,
+          "score": 0.632
+        },
+        {
+          "word": "tu",
+          "start": 121.886,
+          "end": 122.066,
+          "score": 0.686
+        },
+        {
+          "word": "vida\nChange",
+          "start": 122.126,
+          "end": 123.806,
+          "score": 0.669
+        },
+        {
+          "word": "your",
+          "start": 123.846,
+          "end": 124.246,
+          "score": 0.535
+        },
+        {
+          "word": "life\nWerde",
+          "start": 124.866,
+          "end": 125.406,
+          "score": 0.554
+        },
+        {
+          "word": "neu\nZmień",
+          "start": 125.426,
+          "end": 125.866,
+          "score": 0.423
+        },
+        {
+          "word": "się\nSpremeni",
+          "start": 125.926,
+          "end": 126.366,
+          "score": 0.333
+        },
+        {
+          "word": "se\nTurn",
+          "start": 126.406,
+          "end": 126.826,
+          "score": 0.341
+        },
+        {
+          "word": "toward",
+          "start": 127.346,
+          "end": 127.586,
+          "score": 0.178
+        },
+        {
+          "word": "the",
+          "start": 127.626,
+          "end": 127.966,
+          "score": 0.694
+        },
+        {
+          "word": "light\nChange",
+          "start": 127.986,
+          "end": 128.686,
+          "score": 0.389
+        },
+        {
+          "word": "your",
+          "start": 128.926,
+          "end": 129.306,
+          "score": 0.402
+        },
+        {
+          "word": "life\nChange",
+          "start": 130.166,
+          "end": 131.806,
+          "score": 0.59
+        },
+        {
+          "word": "your",
+          "start": 131.886,
+          "end": 132.246,
+          "score": 0.518
+        },
+        {
+          "word": "life\nChange",
+          "start": 132.366,
+          "end": 133.706,
+          "score": 0.473
+        },
+        {
+          "word": "your",
+          "start": 133.746,
+          "end": 134.086,
+          "score": 0.546
+        },
+        {
+          "word": "life\nMuda",
+          "start": 134.106,
+          "end": 136.266,
+          "score": 0.376
+        },
+        {
+          "word": "a",
+          "start": 136.626,
+          "end": 136.766,
+          "score": 0.784
+        },
+        {
+          "word": "tua",
+          "start": 137.086,
+          "end": 137.306,
+          "score": 0.523
+        },
+        {
+          "word": "vida\nZměň",
+          "start": 138.066,
+          "end": 139.887,
+          "score": 0.549
+        },
+        {
+          "word": "svůj",
+          "start": 139.907,
+          "end": 140.007,
+          "score": 0.319
+        },
+        {
+          "word": "život\nChange",
+          "start": 140.047,
+          "end": 141.407,
+          "score": 0.504
+        },
+        {
+          "word": "your",
+          "start": 141.527,
+          "end": 143.507,
+          "score": 0.8
+        },
+        {
+          "word": "life\nNew",
+          "start": 143.967,
+          "end": 145.627,
+          "score": 0.756
+        },
+        {
+          "word": "life\nNew",
+          "start": 145.747,
+          "end": 146.187,
+          "score": 0.452
+        },
+        {
+          "word": "life\nAmen",
+          "start": 149.447,
+          "end": 150.587,
+          "score": 0.479
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Old",
+      "start": 5.6,
+      "end": 5.84,
+      "score": 0.858
+    },
+    {
+      "word": "ways",
+      "start": 5.94,
+      "end": 6.93,
+      "score": 0.765
+    },
+    {
+      "word": "Change",
+      "start": 6.93,
+      "end": 7.92,
+      "score": 0.765
+    },
+    {
+      "word": "your",
+      "start": 7.94,
+      "end": 8.32,
+      "score": 0.746
+    },
+    {
+      "word": "mind",
+      "start": 8.42,
+      "end": 9.14,
+      "score": 0.789
+    },
+    {
+      "word": "Leaving",
+      "start": 9.14,
+      "end": 9.86,
+      "score": 0.789
+    },
+    {
+      "word": "the",
+      "start": 9.9,
+      "end": 9.98,
+      "score": 0.697
+    },
+    {
+      "word": "shadow",
+      "start": 10.1,
+      "end": 10.95,
+      "score": 0.761
+    },
+    {
+      "word": "Looking",
+      "start": 10.95,
+      "end": 11.801,
+      "score": 0.761
+    },
+    {
+      "word": "for",
+      "start": 11.881,
+      "end": 12.181,
+      "score": 0.81
+    },
+    {
+      "word": "a",
+      "start": 12.241,
+      "end": 12.281,
+      "score": 0.644
+    },
+    {
+      "word": "brand",
+      "start": 12.401,
+      "end": 12.861,
+      "score": 0.79
+    },
+    {
+      "word": "new",
+      "start": 12.881,
+      "end": 13.221,
+      "score": 0.773
+    },
+    {
+      "word": "kind",
+      "start": 13.341,
+      "end": 13.861,
+      "score": 0.735
+    },
+    {
+      "word": "of",
+      "start": 13.941,
+      "end": 14.001,
+      "score": 0.318
+    },
+    {
+      "word": "life",
+      "start": 14.121,
+      "end": 15.381,
+      "score": 0.777
+    },
+    {
+      "word": "Broken",
+      "start": 15.381,
+      "end": 16.641,
+      "score": 0.777
+    },
+    {
+      "word": "Turning",
+      "start": 16.641,
+      "end": 17.901,
+      "score": 0.777
+    },
+    {
+      "word": "around",
+      "start": 18.021,
+      "end": 18.961,
+      "score": 0.756
+    },
+    {
+      "word": "Walking",
+      "start": 18.961,
+      "end": 19.901,
+      "score": 0.756
+    },
+    {
+      "word": "a",
+      "start": 19.961,
+      "end": 20.001,
+      "score": 0.66
+    },
+    {
+      "word": "path",
+      "start": 20.121,
+      "end": 20.541,
+      "score": 0.589
+    },
+    {
+      "word": "that",
+      "start": 20.661,
+      "end": 21.161,
+      "score": 0.608
+    },
+    {
+      "word": "is",
+      "start": 21.221,
+      "end": 21.301,
+      "score": 0.454
+    },
+    {
+      "word": "finally",
+      "start": 21.401,
+      "end": 21.861,
+      "score": 0.508
+    },
+    {
+      "word": "solid",
+      "start": 21.901,
+      "end": 22.301,
+      "score": 0.522
+    },
+    {
+      "word": "ground",
+      "start": 22.401,
+      "end": 22.811,
+      "score": 0.712
+    },
+    {
+      "word": "New",
+      "start": 22.811,
+      "end": 23.221,
+      "score": 0.712
+    },
+    {
+      "word": "soul",
+      "start": 23.361,
+      "end": 23.831,
+      "score": 0.786
+    },
+    {
+      "word": "New",
+      "start": 23.831,
+      "end": 24.301,
+      "score": 0.786
+    },
+    {
+      "word": "heart",
+      "start": 24.421,
+      "end": 25.251,
+      "score": 0.657
+    },
+    {
+      "word": "New",
+      "start": 25.251,
+      "end": 26.081,
+      "score": 0.657
+    },
+    {
+      "word": "day",
+      "start": 26.161,
+      "end": 28.021,
+      "score": 0.665
+    },
+    {
+      "word": "Cambia",
+      "start": 28.021,
+      "end": 29.881,
+      "score": 0.665
+    },
+    {
+      "word": "il",
+      "start": 29.981,
+      "end": 30.061,
+      "score": 0.371
+    },
+    {
+      "word": "tuo",
+      "start": 30.101,
+      "end": 30.301,
+      "score": 0.728
+    },
+    {
+      "word": "cuore",
+      "start": 30.361,
+      "end": 31.101,
+      "score": 0.581
+    },
+    {
+      "word": "Changer",
+      "start": 31.101,
+      "end": 31.841,
+      "score": 0.581
+    },
+    {
+      "word": "de",
+      "start": 31.881,
+      "end": 32.081,
+      "score": 0.758
+    },
+    {
+      "word": "vie",
+      "start": 32.141,
+      "end": 32.972,
+      "score": 0.699
+    },
+    {
+      "word": "Cambia",
+      "start": 32.972,
+      "end": 33.802,
+      "score": 0.699
+    },
+    {
+      "word": "tu",
+      "start": 33.882,
+      "end": 34.082,
+      "score": 0.785
+    },
+    {
+      "word": "vida",
+      "start": 34.142,
+      "end": 34.972,
+      "score": 0.627
+    },
+    {
+      "word": "Change",
+      "start": 34.972,
+      "end": 35.802,
+      "score": 0.627
+    },
+    {
+      "word": "your",
+      "start": 35.842,
+      "end": 36.422,
+      "score": 0.602
+    },
+    {
+      "word": "life",
+      "start": 36.502,
+      "end": 37.182,
+      "score": 0.686
+    },
+    {
+      "word": "Werde",
+      "start": 37.182,
+      "end": 37.862,
+      "score": 0.686
+    },
+    {
+      "word": "neu",
+      "start": 37.882,
+      "end": 38.112,
+      "score": 0.482
+    },
+    {
+      "word": "Zmień",
+      "start": 38.112,
+      "end": 38.342,
+      "score": 0.482
+    },
+    {
+      "word": "się",
+      "start": 38.422,
+      "end": 39.222,
+      "score": 0.684
+    },
+    {
+      "word": "Spremeni",
+      "start": 39.222,
+      "end": 40.022,
+      "score": 0.684
+    },
+    {
+      "word": "se",
+      "start": 40.122,
+      "end": 40.502,
+      "score": 0.511
+    },
+    {
+      "word": "Turn",
+      "start": 40.502,
+      "end": 40.882,
+      "score": 0.511
+    },
+    {
+      "word": "toward",
+      "start": 40.942,
+      "end": 41.342,
+      "score": 0.58
+    },
+    {
+      "word": "the",
+      "start": 41.902,
+      "end": 42.042,
+      "score": 0.671
+    },
+    {
+      "word": "light",
+      "start": 42.082,
+      "end": 42.932,
+      "score": 0.551
+    },
+    {
+      "word": "Change",
+      "start": 42.932,
+      "end": 43.782,
+      "score": 0.551
+    },
+    {
+      "word": "your",
+      "start": 43.822,
+      "end": 44.402,
+      "score": 0.611
+    },
+    {
+      "word": "life",
+      "start": 44.502,
+      "end": 45.132,
+      "score": 0.635
+    },
+    {
+      "word": "Change",
+      "start": 45.132,
+      "end": 45.762,
+      "score": 0.635
+    },
+    {
+      "word": "your",
+      "start": 45.822,
+      "end": 46.202,
+      "score": 0.551
+    },
+    {
+      "word": "life",
+      "start": 46.242,
+      "end": 46.802,
+      "score": 0.528
+    },
+    {
+      "word": "Oh",
+      "start": 46.802,
+      "end": 47.362,
+      "score": 0.528
+    },
+    {
+      "word": "oh",
+      "start": 48.102,
+      "end": 48.362,
+      "score": 0.753
+    },
+    {
+      "word": "oh",
+      "start": 48.942,
+      "end": 49.552,
+      "score": 0.835
+    },
+    {
+      "word": "New",
+      "start": 49.552,
+      "end": 50.162,
+      "score": 0.835
+    },
+    {
+      "word": "life",
+      "start": 50.882,
+      "end": 51.632,
+      "score": 0.628
+    },
+    {
+      "word": "New",
+      "start": 51.632,
+      "end": 52.382,
+      "score": 0.628
+    },
+    {
+      "word": "life",
+      "start": 52.442,
+      "end": 52.782,
+      "score": 0.305
+    },
+    {
+      "word": "Oh",
+      "start": 52.782,
+      "end": 53.122,
+      "score": 0.305
+    },
+    {
+      "word": "oh",
+      "start": 53.282,
+      "end": 53.763,
+      "score": 0.894
+    },
+    {
+      "word": "oh",
+      "start": 53.983,
+      "end": 55.843,
+      "score": 0.765
+    },
+    {
+      "word": "Fixed",
+      "start": 55.843,
+      "end": 57.703,
+      "score": 0.765
+    },
+    {
+      "word": "gaze",
+      "start": 57.883,
+      "end": 58.983,
+      "score": 0.849
+    },
+    {
+      "word": "Stronger",
+      "start": 58.983,
+      "end": 60.083,
+      "score": 0.849
+    },
+    {
+      "word": "now",
+      "start": 60.163,
+      "end": 60.953,
+      "score": 0.731
+    },
+    {
+      "word": "Cold",
+      "start": 60.953,
+      "end": 61.743,
+      "score": 0.731
+    },
+    {
+      "word": "water",
+      "start": 61.883,
+      "end": 62.283,
+      "score": 0.451
+    },
+    {
+      "word": "washing",
+      "start": 62.363,
+      "end": 62.863,
+      "score": 0.876
+    },
+    {
+      "word": "the",
+      "start": 62.903,
+      "end": 62.963,
+      "score": 0.024
+    },
+    {
+      "word": "sweat",
+      "start": 63.063,
+      "end": 63.403,
+      "score": 0.693
+    },
+    {
+      "word": "from",
+      "start": 63.623,
+      "end": 63.903,
+      "score": 0.549
+    },
+    {
+      "word": "a",
+      "start": 64.023,
+      "end": 64.103,
+      "score": 0.657
+    },
+    {
+      "word": "heavy",
+      "start": 64.163,
+      "end": 64.563,
+      "score": 0.659
+    },
+    {
+      "word": "brow",
+      "start": 64.603,
+      "end": 65.133,
+      "score": 0.523
+    },
+    {
+      "word": "Fresh",
+      "start": 65.133,
+      "end": 65.663,
+      "score": 0.523
+    },
+    {
+      "word": "start",
+      "start": 65.783,
+      "end": 66.713,
+      "score": 0.854
+    },
+    {
+      "word": "Wash",
+      "start": 66.713,
+      "end": 67.643,
+      "score": 0.854
+    },
+    {
+      "word": "it",
+      "start": 67.763,
+      "end": 67.923,
+      "score": 0.614
+    },
+    {
+      "word": "away",
+      "start": 67.983,
+      "end": 69.013,
+      "score": 0.583
+    },
+    {
+      "word": "Listening",
+      "start": 69.013,
+      "end": 70.043,
+      "score": 0.583
+    },
+    {
+      "word": "close",
+      "start": 70.163,
+      "end": 70.523,
+      "score": 0.453
+    },
+    {
+      "word": "to",
+      "start": 70.623,
+      "end": 70.783,
+      "score": 0.684
+    },
+    {
+      "word": "the",
+      "start": 70.823,
+      "end": 70.963,
+      "score": 0.224
+    },
+    {
+      "word": "things",
+      "start": 71.143,
+      "end": 71.563,
+      "score": 0.626
+    },
+    {
+      "word": "that",
+      "start": 71.643,
+      "end": 71.863,
+      "score": 0.692
+    },
+    {
+      "word": "the",
+      "start": 71.923,
+      "end": 72.123,
+      "score": 0.642
+    },
+    {
+      "word": "elders",
+      "start": 72.243,
+      "end": 72.543,
+      "score": 0.318
+    },
+    {
+      "word": "say",
+      "start": 72.643,
+      "end": 73.213,
+      "score": 0.862
+    },
+    {
+      "word": "One",
+      "start": 73.213,
+      "end": 73.783,
+      "score": 0.862
+    },
+    {
+      "word": "path",
+      "start": 73.923,
+      "end": 74.574,
+      "score": 0.787
+    },
+    {
+      "word": "One",
+      "start": 74.574,
+      "end": 75.224,
+      "score": 0.787
+    },
+    {
+      "word": "truth",
+      "start": 75.324,
+      "end": 75.784,
+      "score": 0.767
+    },
+    {
+      "word": "One",
+      "start": 75.784,
+      "end": 76.244,
+      "score": 0.767
+    },
+    {
+      "word": "choice",
+      "start": 76.324,
+      "end": 77.114,
+      "score": 0.645
+    },
+    {
+      "word": "Cambia",
+      "start": 77.114,
+      "end": 77.904,
+      "score": 0.645
+    },
+    {
+      "word": "il",
+      "start": 77.964,
+      "end": 78.084,
+      "score": 0.43
+    },
+    {
+      "word": "tuo",
+      "start": 78.124,
+      "end": 78.304,
+      "score": 0.673
+    },
+    {
+      "word": "cuore",
+      "start": 78.424,
+      "end": 79.134,
+      "score": 0.597
+    },
+    {
+      "word": "Changer",
+      "start": 79.134,
+      "end": 79.844,
+      "score": 0.597
+    },
+    {
+      "word": "de",
+      "start": 79.864,
+      "end": 80.084,
+      "score": 0.691
+    },
+    {
+      "word": "vie",
+      "start": 80.144,
+      "end": 81.004,
+      "score": 0.659
+    },
+    {
+      "word": "Cambia",
+      "start": 81.004,
+      "end": 81.864,
+      "score": 0.659
+    },
+    {
+      "word": "tu",
+      "start": 81.904,
+      "end": 82.084,
+      "score": 0.728
+    },
+    {
+      "word": "vida",
+      "start": 82.144,
+      "end": 82.984,
+      "score": 0.695
+    },
+    {
+      "word": "Change",
+      "start": 82.984,
+      "end": 83.824,
+      "score": 0.695
+    },
+    {
+      "word": "your",
+      "start": 83.844,
+      "end": 84.404,
+      "score": 0.465
+    },
+    {
+      "word": "life",
+      "start": 84.464,
+      "end": 85.174,
+      "score": 0.546
+    },
+    {
+      "word": "Werde",
+      "start": 85.174,
+      "end": 85.884,
+      "score": 0.546
+    },
+    {
+      "word": "neu",
+      "start": 85.984,
+      "end": 86.434,
+      "score": 0.719
+    },
+    {
+      "word": "Zmień",
+      "start": 86.434,
+      "end": 86.884,
+      "score": 0.719
+    },
+    {
+      "word": "się",
+      "start": 87.044,
+      "end": 87.524,
+      "score": 0.585
+    },
+    {
+      "word": "Spremeni",
+      "start": 87.524,
+      "end": 88.004,
+      "score": 0.585
+    },
+    {
+      "word": "se",
+      "start": 88.144,
+      "end": 88.734,
+      "score": 0.514
+    },
+    {
+      "word": "Turn",
+      "start": 88.734,
+      "end": 89.324,
+      "score": 0.514
+    },
+    {
+      "word": "toward",
+      "start": 89.404,
+      "end": 89.864,
+      "score": 0.536
+    },
+    {
+      "word": "the",
+      "start": 89.904,
+      "end": 90.064,
+      "score": 0.655
+    },
+    {
+      "word": "light",
+      "start": 90.144,
+      "end": 90.974,
+      "score": 0.606
+    },
+    {
+      "word": "Change",
+      "start": 90.974,
+      "end": 91.804,
+      "score": 0.606
+    },
+    {
+      "word": "your",
+      "start": 91.844,
+      "end": 92.344,
+      "score": 0.529
+    },
+    {
+      "word": "life",
+      "start": 92.364,
+      "end": 93.074,
+      "score": 0.645
+    },
+    {
+      "word": "Change",
+      "start": 93.074,
+      "end": 93.784,
+      "score": 0.645
+    },
+    {
+      "word": "your",
+      "start": 93.804,
+      "end": 94.204,
+      "score": 0.576
+    },
+    {
+      "word": "life",
+      "start": 94.224,
+      "end": 95.054,
+      "score": 0.79
+    },
+    {
+      "word": "Oh",
+      "start": 95.054,
+      "end": 95.884,
+      "score": 0.79
+    },
+    {
+      "word": "oh",
+      "start": 96.304,
+      "end": 96.404,
+      "score": 0.514
+    },
+    {
+      "word": "oh",
+      "start": 96.765,
+      "end": 97.405,
+      "score": 0.778
+    },
+    {
+      "word": "New",
+      "start": 97.405,
+      "end": 98.045,
+      "score": 0.778
+    },
+    {
+      "word": "life",
+      "start": 98.925,
+      "end": 99.385,
+      "score": 0.588
+    },
+    {
+      "word": "New",
+      "start": 99.385,
+      "end": 99.845,
+      "score": 0.588
+    },
+    {
+      "word": "life",
+      "start": 100.105,
+      "end": 100.605,
+      "score": 0.548
+    },
+    {
+      "word": "Oh",
+      "start": 100.605,
+      "end": 101.105,
+      "score": 0.548
+    },
+    {
+      "word": "oh",
+      "start": 101.605,
+      "end": 101.665,
+      "score": 0.254
+    },
+    {
+      "word": "oh",
+      "start": 101.865,
+      "end": 102.235,
+      "score": 0.546
+    },
+    {
+      "word": "Vær",
+      "start": 102.235,
+      "end": 102.605,
+      "score": 0.546
+    },
+    {
+      "word": "tro",
+      "start": 102.625,
+      "end": 102.865,
+      "score": 0.623
+    },
+    {
+      "word": "mod",
+      "start": 102.905,
+      "end": 103.065,
+      "score": 0.495
+    },
+    {
+      "word": "dig",
+      "start": 103.105,
+      "end": 103.265,
+      "score": 0.565
+    },
+    {
+      "word": "selv",
+      "start": 103.385,
+      "end": 104.065,
+      "score": 0.616
+    },
+    {
+      "word": "Bli",
+      "start": 104.065,
+      "end": 104.745,
+      "score": 0.616
+    },
+    {
+      "word": "ny",
+      "start": 105.065,
+      "end": 105.285,
+      "score": 0.775
+    },
+    {
+      "word": "igjen",
+      "start": 105.305,
+      "end": 106.035,
+      "score": 0.401
+    },
+    {
+      "word": "Varje",
+      "start": 106.035,
+      "end": 106.765,
+      "score": 0.401
+    },
+    {
+      "word": "steg",
+      "start": 106.805,
+      "end": 107.185,
+      "score": 0.675
+    },
+    {
+      "word": "räknas",
+      "start": 107.305,
+      "end": 108.105,
+      "score": 0.692
+    },
+    {
+      "word": "Every",
+      "start": 108.105,
+      "end": 108.905,
+      "score": 0.692
+    },
+    {
+      "word": "step",
+      "start": 109.005,
+      "end": 109.225,
+      "score": 0.599
+    },
+    {
+      "word": "matters",
+      "start": 109.325,
+      "end": 109.945,
+      "score": 0.359
+    },
+    {
+      "word": "Every",
+      "start": 109.945,
+      "end": 110.565,
+      "score": 0.359
+    },
+    {
+      "word": "prayer",
+      "start": 110.625,
+      "end": 110.805,
+      "score": 0.372
+    },
+    {
+      "word": "matters",
+      "start": 110.905,
+      "end": 111.855,
+      "score": 0.591
+    },
+    {
+      "word": "Every",
+      "start": 111.855,
+      "end": 112.805,
+      "score": 0.591
+    },
+    {
+      "word": "change",
+      "start": 112.865,
+      "end": 113.245,
+      "score": 0.521
+    },
+    {
+      "word": "matters",
+      "start": 113.545,
+      "end": 114.213,
+      "score": 0.438
+    },
+    {
+      "word": "Forza",
+      "start": 114.213,
+      "end": 114.881,
+      "score": 0.438
+    },
+    {
+      "word": "Coraggio",
+      "start": 114.881,
+      "end": 115.549,
+      "score": 0.438
+    },
+    {
+      "word": "Believe",
+      "start": 115.549,
+      "end": 116.217,
+      "score": 0.438
+    },
+    {
+      "word": "Cambia",
+      "start": 116.217,
+      "end": 116.885,
+      "score": 0.438
+    },
+    {
+      "word": "il",
+      "start": 117.805,
+      "end": 117.965,
+      "score": 0.678
+    },
+    {
+      "word": "tuo",
+      "start": 118.106,
+      "end": 118.246,
+      "score": 0.445
+    },
+    {
+      "word": "cuore",
+      "start": 118.386,
+      "end": 119.106,
+      "score": 0.609
+    },
+    {
+      "word": "Changer",
+      "start": 119.106,
+      "end": 119.826,
+      "score": 0.609
+    },
+    {
+      "word": "de",
+      "start": 119.886,
+      "end": 120.086,
+      "score": 0.756
+    },
+    {
+      "word": "vie",
+      "start": 120.146,
+      "end": 120.976,
+      "score": 0.632
+    },
+    {
+      "word": "Cambia",
+      "start": 120.976,
+      "end": 121.806,
+      "score": 0.632
+    },
+    {
+      "word": "tu",
+      "start": 121.886,
+      "end": 122.066,
+      "score": 0.686
+    },
+    {
+      "word": "vida",
+      "start": 122.126,
+      "end": 122.966,
+      "score": 0.669
+    },
+    {
+      "word": "Change",
+      "start": 122.966,
+      "end": 123.806,
+      "score": 0.669
+    },
+    {
+      "word": "your",
+      "start": 123.846,
+      "end": 124.246,
+      "score": 0.535
+    },
+    {
+      "word": "life",
+      "start": 124.866,
+      "end": 125.136,
+      "score": 0.554
+    },
+    {
+      "word": "Werde",
+      "start": 125.136,
+      "end": 125.406,
+      "score": 0.554
+    },
+    {
+      "word": "neu",
+      "start": 125.426,
+      "end": 125.646,
+      "score": 0.423
+    },
+    {
+      "word": "Zmień",
+      "start": 125.646,
+      "end": 125.866,
+      "score": 0.423
+    },
+    {
+      "word": "się",
+      "start": 125.926,
+      "end": 126.146,
+      "score": 0.333
+    },
+    {
+      "word": "Spremeni",
+      "start": 126.146,
+      "end": 126.366,
+      "score": 0.333
+    },
+    {
+      "word": "se",
+      "start": 126.406,
+      "end": 126.616,
+      "score": 0.341
+    },
+    {
+      "word": "Turn",
+      "start": 126.616,
+      "end": 126.826,
+      "score": 0.341
+    },
+    {
+      "word": "toward",
+      "start": 127.346,
+      "end": 127.586,
+      "score": 0.178
+    },
+    {
+      "word": "the",
+      "start": 127.626,
+      "end": 127.966,
+      "score": 0.694
+    },
+    {
+      "word": "light",
+      "start": 127.986,
+      "end": 128.336,
+      "score": 0.389
+    },
+    {
+      "word": "Change",
+      "start": 128.336,
+      "end": 128.686,
+      "score": 0.389
+    },
+    {
+      "word": "your",
+      "start": 128.926,
+      "end": 129.306,
+      "score": 0.402
+    },
+    {
+      "word": "life",
+      "start": 130.166,
+      "end": 130.986,
+      "score": 0.59
+    },
+    {
+      "word": "Change",
+      "start": 130.986,
+      "end": 131.806,
+      "score": 0.59
+    },
+    {
+      "word": "your",
+      "start": 131.886,
+      "end": 132.246,
+      "score": 0.518
+    },
+    {
+      "word": "life",
+      "start": 132.366,
+      "end": 133.036,
+      "score": 0.473
+    },
+    {
+      "word": "Change",
+      "start": 133.036,
+      "end": 133.706,
+      "score": 0.473
+    },
+    {
+      "word": "your",
+      "start": 133.746,
+      "end": 134.086,
+      "score": 0.546
+    },
+    {
+      "word": "life",
+      "start": 134.106,
+      "end": 135.186,
+      "score": 0.376
+    },
+    {
+      "word": "Muda",
+      "start": 135.186,
+      "end": 136.266,
+      "score": 0.376
+    },
+    {
+      "word": "a",
+      "start": 136.626,
+      "end": 136.766,
+      "score": 0.784
+    },
+    {
+      "word": "tua",
+      "start": 137.086,
+      "end": 137.306,
+      "score": 0.523
+    },
+    {
+      "word": "vida",
+      "start": 138.066,
+      "end": 138.976,
+      "score": 0.549
+    },
+    {
+      "word": "Změň",
+      "start": 138.976,
+      "end": 139.887,
+      "score": 0.549
+    },
+    {
+      "word": "svůj",
+      "start": 139.907,
+      "end": 140.007,
+      "score": 0.319
+    },
+    {
+      "word": "život",
+      "start": 140.047,
+      "end": 140.727,
+      "score": 0.504
+    },
+    {
+      "word": "Change",
+      "start": 140.727,
+      "end": 141.407,
+      "score": 0.504
+    },
+    {
+      "word": "your",
+      "start": 141.527,
+      "end": 143.507,
+      "score": 0.8
+    },
+    {
+      "word": "life",
+      "start": 143.967,
+      "end": 144.797,
+      "score": 0.756
+    },
+    {
+      "word": "New",
+      "start": 144.797,
+      "end": 145.627,
+      "score": 0.756
+    },
+    {
+      "word": "life",
+      "start": 145.747,
+      "end": 145.967,
+      "score": 0.452
+    },
+    {
+      "word": "New",
+      "start": 145.967,
+      "end": 146.187,
+      "score": 0.452
+    },
+    {
+      "word": "life",
+      "start": 149.447,
+      "end": 150.017,
+      "score": 0.479
+    },
+    {
+      "word": "Amen",
+      "start": 150.017,
+      "end": 150.587,
+      "score": 0.479
+    }
+  ]
+}

@@ -1,0 +1,3067 @@
+{
+  "segments": [
+    {
+      "start": 1.36,
+      "end": 147.246,
+      "text": "Frozen\nWhite dirt on the pine\nI pull my collar tight\nHoping for a change of mind\nPraying\nHard\nHeavy boots in the hall\nWishing for a winter without a wall\nTake it away\nMake it go away\nI’m sitting in the chapel praying take it away\nWash me clean\nLike the snow on the roof\nI just want the truth\nI just want the truth\nMake me brand new\nMake me brand new\nHeal me\nHeal me\nFix what is wrong\nFix what is wrong\nCold beds\nSmall room\nStaring at the ceiling in the gloom\nI try\nI try\nI try to be the man they say is inside\nBible\nOpen\nLooking for a spark\nLost in the dark\nSearching for a miracle that hasn’t started yet\nCounting every single sunset\nTake it away\nMake it go away\nI’m sitting in the chapel praying take it away\nWash me clean\nLike the snow on the roof\nI just want the truth\nI just want the truth\nMake me brand new\nMake me brand new\nHeal me\nHeal me\nFix what is wrong\nFix what is wrong\nSilver bells on the gate\nBut I’m drowning in the weight\nIs it a gift\nOr is it a test\nI just want to rest\nI just want to rest\nI just want to rest\nTake it away\nMake it go away\nI’m sitting in the chapel praying take it away\nWash me clean\nLike the snow on the roof\nI just want the truth\nI just want the truth\nMake me brand new\nMake me brand new\nMerry Christmas to the holy\nMerry Christmas to the lonely\nWishing I was different\nWishing I was gone\nFrozen\nUntil the dawn",
+      "words": [
+        {
+          "word": "Frozen\nWhite",
+          "start": 1.36,
+          "end": 2.92,
+          "score": 0.727
+        },
+        {
+          "word": "dirt",
+          "start": 3.38,
+          "end": 3.58,
+          "score": 0.39
+        },
+        {
+          "word": "on",
+          "start": 3.64,
+          "end": 3.72,
+          "score": 0.928
+        },
+        {
+          "word": "the",
+          "start": 3.76,
+          "end": 3.86,
+          "score": 0.714
+        },
+        {
+          "word": "pine\nI",
+          "start": 3.9,
+          "end": 4.38,
+          "score": 0.43
+        },
+        {
+          "word": "pull",
+          "start": 4.9,
+          "end": 5.18,
+          "score": 0.609
+        },
+        {
+          "word": "my",
+          "start": 5.22,
+          "end": 5.36,
+          "score": 0.746
+        },
+        {
+          "word": "collar",
+          "start": 5.4,
+          "end": 5.9,
+          "score": 0.698
+        },
+        {
+          "word": "tight\nHoping",
+          "start": 5.92,
+          "end": 6.88,
+          "score": 0.566
+        },
+        {
+          "word": "for",
+          "start": 6.92,
+          "end": 7.24,
+          "score": 0.873
+        },
+        {
+          "word": "a",
+          "start": 7.26,
+          "end": 7.28,
+          "score": 0.076
+        },
+        {
+          "word": "change",
+          "start": 7.38,
+          "end": 7.74,
+          "score": 0.926
+        },
+        {
+          "word": "of",
+          "start": 7.82,
+          "end": 7.9,
+          "score": 0.38
+        },
+        {
+          "word": "mind\nPraying\nHard\nHeavy",
+          "start": 7.96,
+          "end": 11.3,
+          "score": 0.666
+        },
+        {
+          "word": "boots",
+          "start": 11.34,
+          "end": 11.58,
+          "score": 0.891
+        },
+        {
+          "word": "in",
+          "start": 11.64,
+          "end": 11.7,
+          "score": 0.918
+        },
+        {
+          "word": "the",
+          "start": 11.74,
+          "end": 11.84,
+          "score": 0.813
+        },
+        {
+          "word": "hall\nWishing",
+          "start": 11.88,
+          "end": 13.841,
+          "score": 0.663
+        },
+        {
+          "word": "for",
+          "start": 13.901,
+          "end": 14.261,
+          "score": 0.861
+        },
+        {
+          "word": "a",
+          "start": 14.321,
+          "end": 14.361,
+          "score": 0.577
+        },
+        {
+          "word": "winter",
+          "start": 14.421,
+          "end": 14.981,
+          "score": 0.799
+        },
+        {
+          "word": "without",
+          "start": 15.201,
+          "end": 15.721,
+          "score": 0.91
+        },
+        {
+          "word": "a",
+          "start": 15.821,
+          "end": 15.861,
+          "score": 0.581
+        },
+        {
+          "word": "wall\nTake",
+          "start": 15.901,
+          "end": 17.741,
+          "score": 0.731
+        },
+        {
+          "word": "it",
+          "start": 17.961,
+          "end": 18.101,
+          "score": 0.866
+        },
+        {
+          "word": "away\nMake",
+          "start": 18.181,
+          "end": 19.681,
+          "score": 0.773
+        },
+        {
+          "word": "it",
+          "start": 19.761,
+          "end": 19.841,
+          "score": 0.377
+        },
+        {
+          "word": "go",
+          "start": 19.901,
+          "end": 20.241,
+          "score": 0.856
+        },
+        {
+          "word": "away\nI’m",
+          "start": 20.321,
+          "end": 21.281,
+          "score": 0.819
+        },
+        {
+          "word": "sitting",
+          "start": 21.381,
+          "end": 21.741,
+          "score": 0.755
+        },
+        {
+          "word": "in",
+          "start": 21.901,
+          "end": 22.021,
+          "score": 0.864
+        },
+        {
+          "word": "the",
+          "start": 22.061,
+          "end": 22.161,
+          "score": 0.815
+        },
+        {
+          "word": "chapel",
+          "start": 22.221,
+          "end": 22.701,
+          "score": 0.817
+        },
+        {
+          "word": "praying",
+          "start": 22.741,
+          "end": 23.261,
+          "score": 0.667
+        },
+        {
+          "word": "take",
+          "start": 23.341,
+          "end": 23.661,
+          "score": 0.738
+        },
+        {
+          "word": "it",
+          "start": 23.901,
+          "end": 24.081,
+          "score": 0.837
+        },
+        {
+          "word": "away\nWash",
+          "start": 24.141,
+          "end": 25.041,
+          "score": 0.723
+        },
+        {
+          "word": "me",
+          "start": 25.081,
+          "end": 25.201,
+          "score": 0.915
+        },
+        {
+          "word": "clean\nLike",
+          "start": 25.281,
+          "end": 26.141,
+          "score": 0.768
+        },
+        {
+          "word": "the",
+          "start": 26.181,
+          "end": 26.341,
+          "score": 0.623
+        },
+        {
+          "word": "snow",
+          "start": 26.361,
+          "end": 26.701,
+          "score": 0.821
+        },
+        {
+          "word": "on",
+          "start": 26.941,
+          "end": 27.081,
+          "score": 0.912
+        },
+        {
+          "word": "the",
+          "start": 27.101,
+          "end": 27.241,
+          "score": 0.654
+        },
+        {
+          "word": "roof\nI",
+          "start": 27.281,
+          "end": 28.341,
+          "score": 0.724
+        },
+        {
+          "word": "just",
+          "start": 28.401,
+          "end": 28.661,
+          "score": 0.811
+        },
+        {
+          "word": "want",
+          "start": 28.741,
+          "end": 29.021,
+          "score": 0.892
+        },
+        {
+          "word": "the",
+          "start": 29.061,
+          "end": 29.141,
+          "score": 0.953
+        },
+        {
+          "word": "truth\nI",
+          "start": 29.201,
+          "end": 30.361,
+          "score": 0.873
+        },
+        {
+          "word": "just",
+          "start": 30.401,
+          "end": 30.681,
+          "score": 0.759
+        },
+        {
+          "word": "want",
+          "start": 30.741,
+          "end": 31.041,
+          "score": 0.833
+        },
+        {
+          "word": "the",
+          "start": 31.061,
+          "end": 31.161,
+          "score": 0.846
+        },
+        {
+          "word": "truth\nMake",
+          "start": 31.221,
+          "end": 32.681,
+          "score": 0.849
+        },
+        {
+          "word": "me",
+          "start": 32.741,
+          "end": 32.861,
+          "score": 0.886
+        },
+        {
+          "word": "brand",
+          "start": 32.901,
+          "end": 33.321,
+          "score": 0.787
+        },
+        {
+          "word": "new\nMake",
+          "start": 33.381,
+          "end": 36.682,
+          "score": 0.855
+        },
+        {
+          "word": "me",
+          "start": 36.722,
+          "end": 36.842,
+          "score": 0.972
+        },
+        {
+          "word": "brand",
+          "start": 36.902,
+          "end": 37.322,
+          "score": 0.811
+        },
+        {
+          "word": "new\nHeal",
+          "start": 37.382,
+          "end": 42.662,
+          "score": 0.809
+        },
+        {
+          "word": "me\nHeal",
+          "start": 42.702,
+          "end": 43.982,
+          "score": 0.743
+        },
+        {
+          "word": "me\nFix",
+          "start": 44.022,
+          "end": 44.522,
+          "score": 0.915
+        },
+        {
+          "word": "what",
+          "start": 44.562,
+          "end": 44.702,
+          "score": 0.815
+        },
+        {
+          "word": "is",
+          "start": 44.762,
+          "end": 44.842,
+          "score": 0.776
+        },
+        {
+          "word": "wrong\nFix",
+          "start": 44.902,
+          "end": 46.542,
+          "score": 0.892
+        },
+        {
+          "word": "what",
+          "start": 46.582,
+          "end": 46.722,
+          "score": 0.763
+        },
+        {
+          "word": "is",
+          "start": 46.782,
+          "end": 46.862,
+          "score": 0.734
+        },
+        {
+          "word": "wrong\nCold",
+          "start": 46.902,
+          "end": 52.702,
+          "score": 0.816
+        },
+        {
+          "word": "beds\nSmall",
+          "start": 52.742,
+          "end": 53.962,
+          "score": 0.702
+        },
+        {
+          "word": "room\nStaring",
+          "start": 54.002,
+          "end": 54.742,
+          "score": 0.641
+        },
+        {
+          "word": "at",
+          "start": 54.782,
+          "end": 54.862,
+          "score": 0.512
+        },
+        {
+          "word": "the",
+          "start": 54.902,
+          "end": 54.982,
+          "score": 0.882
+        },
+        {
+          "word": "ceiling",
+          "start": 55.042,
+          "end": 55.742,
+          "score": 0.797
+        },
+        {
+          "word": "in",
+          "start": 55.862,
+          "end": 56.022,
+          "score": 0.843
+        },
+        {
+          "word": "the",
+          "start": 56.082,
+          "end": 56.162,
+          "score": 0.732
+        },
+        {
+          "word": "gloom\nI",
+          "start": 56.222,
+          "end": 56.942,
+          "score": 0.798
+        },
+        {
+          "word": "try\nI",
+          "start": 57.002,
+          "end": 57.942,
+          "score": 0.81
+        },
+        {
+          "word": "try\nI",
+          "start": 58.022,
+          "end": 58.562,
+          "score": 0.637
+        },
+        {
+          "word": "try",
+          "start": 59.182,
+          "end": 59.522,
+          "score": 0.871
+        },
+        {
+          "word": "to",
+          "start": 59.562,
+          "end": 59.662,
+          "score": 0.598
+        },
+        {
+          "word": "be",
+          "start": 59.702,
+          "end": 59.842,
+          "score": 0.946
+        },
+        {
+          "word": "the",
+          "start": 59.862,
+          "end": 60.042,
+          "score": 0.601
+        },
+        {
+          "word": "man",
+          "start": 60.063,
+          "end": 60.203,
+          "score": 0.586
+        },
+        {
+          "word": "they",
+          "start": 60.223,
+          "end": 60.343,
+          "score": 0.594
+        },
+        {
+          "word": "say",
+          "start": 60.383,
+          "end": 60.583,
+          "score": 0.943
+        },
+        {
+          "word": "is",
+          "start": 60.603,
+          "end": 60.683,
+          "score": 0.392
+        },
+        {
+          "word": "inside\nBible\nOpen\nLooking",
+          "start": 60.743,
+          "end": 63.663,
+          "score": 0.773
+        },
+        {
+          "word": "for",
+          "start": 63.703,
+          "end": 63.843,
+          "score": 0.909
+        },
+        {
+          "word": "a",
+          "start": 63.883,
+          "end": 63.963,
+          "score": 0.669
+        },
+        {
+          "word": "spark\nLost",
+          "start": 63.983,
+          "end": 64.683,
+          "score": 0.746
+        },
+        {
+          "word": "in",
+          "start": 64.763,
+          "end": 64.843,
+          "score": 0.918
+        },
+        {
+          "word": "the",
+          "start": 64.883,
+          "end": 64.963,
+          "score": 0.728
+        },
+        {
+          "word": "dark\nSearching",
+          "start": 65.043,
+          "end": 65.663,
+          "score": 0.697
+        },
+        {
+          "word": "for",
+          "start": 65.723,
+          "end": 65.923,
+          "score": 0.862
+        },
+        {
+          "word": "a",
+          "start": 65.963,
+          "end": 66.003,
+          "score": 0.476
+        },
+        {
+          "word": "miracle",
+          "start": 66.043,
+          "end": 66.503,
+          "score": 0.878
+        },
+        {
+          "word": "that",
+          "start": 66.543,
+          "end": 66.663,
+          "score": 0.904
+        },
+        {
+          "word": "hasn’t",
+          "start": 66.723,
+          "end": 66.963,
+          "score": 0.814
+        },
+        {
+          "word": "started",
+          "start": 67.003,
+          "end": 67.343,
+          "score": 0.872
+        },
+        {
+          "word": "yet\nCounting",
+          "start": 67.383,
+          "end": 68.043,
+          "score": 0.797
+        },
+        {
+          "word": "every",
+          "start": 68.123,
+          "end": 68.323,
+          "score": 0.795
+        },
+        {
+          "word": "single",
+          "start": 68.383,
+          "end": 68.663,
+          "score": 0.833
+        },
+        {
+          "word": "sunset\nTake",
+          "start": 68.703,
+          "end": 70.723,
+          "score": 0.886
+        },
+        {
+          "word": "it",
+          "start": 70.963,
+          "end": 71.623,
+          "score": 0.738
+        },
+        {
+          "word": "away\nMake",
+          "start": 71.643,
+          "end": 72.663,
+          "score": 0.485
+        },
+        {
+          "word": "it",
+          "start": 72.743,
+          "end": 72.823,
+          "score": 0.372
+        },
+        {
+          "word": "go",
+          "start": 72.883,
+          "end": 73.223,
+          "score": 0.864
+        },
+        {
+          "word": "away\nI’m",
+          "start": 73.323,
+          "end": 74.283,
+          "score": 0.825
+        },
+        {
+          "word": "sitting",
+          "start": 74.383,
+          "end": 74.723,
+          "score": 0.875
+        },
+        {
+          "word": "in",
+          "start": 74.883,
+          "end": 75.043,
+          "score": 0.802
+        },
+        {
+          "word": "the",
+          "start": 75.083,
+          "end": 75.183,
+          "score": 0.812
+        },
+        {
+          "word": "chapel",
+          "start": 75.223,
+          "end": 75.723,
+          "score": 0.847
+        },
+        {
+          "word": "praying",
+          "start": 75.763,
+          "end": 76.323,
+          "score": 0.627
+        },
+        {
+          "word": "take",
+          "start": 76.383,
+          "end": 76.703,
+          "score": 0.674
+        },
+        {
+          "word": "it",
+          "start": 76.923,
+          "end": 77.083,
+          "score": 0.737
+        },
+        {
+          "word": "away\nWash",
+          "start": 77.163,
+          "end": 78.043,
+          "score": 0.778
+        },
+        {
+          "word": "me",
+          "start": 78.083,
+          "end": 78.263,
+          "score": 0.831
+        },
+        {
+          "word": "clean\nLike",
+          "start": 78.323,
+          "end": 79.183,
+          "score": 0.792
+        },
+        {
+          "word": "the",
+          "start": 79.223,
+          "end": 79.423,
+          "score": 0.609
+        },
+        {
+          "word": "snow",
+          "start": 79.443,
+          "end": 79.723,
+          "score": 0.776
+        },
+        {
+          "word": "on",
+          "start": 79.963,
+          "end": 80.103,
+          "score": 0.881
+        },
+        {
+          "word": "the",
+          "start": 80.123,
+          "end": 80.283,
+          "score": 0.881
+        },
+        {
+          "word": "roof\nI",
+          "start": 80.343,
+          "end": 81.383,
+          "score": 0.585
+        },
+        {
+          "word": "just",
+          "start": 81.423,
+          "end": 81.703,
+          "score": 0.738
+        },
+        {
+          "word": "want",
+          "start": 81.783,
+          "end": 82.063,
+          "score": 0.854
+        },
+        {
+          "word": "the",
+          "start": 82.103,
+          "end": 82.203,
+          "score": 0.804
+        },
+        {
+          "word": "truth\nI",
+          "start": 82.243,
+          "end": 83.363,
+          "score": 0.886
+        },
+        {
+          "word": "just",
+          "start": 83.423,
+          "end": 83.683,
+          "score": 0.818
+        },
+        {
+          "word": "want",
+          "start": 83.763,
+          "end": 84.043,
+          "score": 0.898
+        },
+        {
+          "word": "the",
+          "start": 84.084,
+          "end": 84.184,
+          "score": 0.669
+        },
+        {
+          "word": "truth\nMake",
+          "start": 84.224,
+          "end": 85.664,
+          "score": 0.882
+        },
+        {
+          "word": "me",
+          "start": 85.704,
+          "end": 85.844,
+          "score": 0.826
+        },
+        {
+          "word": "brand",
+          "start": 85.884,
+          "end": 86.284,
+          "score": 0.82
+        },
+        {
+          "word": "new\nMake",
+          "start": 86.364,
+          "end": 89.684,
+          "score": 0.835
+        },
+        {
+          "word": "me",
+          "start": 89.724,
+          "end": 89.864,
+          "score": 0.831
+        },
+        {
+          "word": "brand",
+          "start": 89.904,
+          "end": 90.324,
+          "score": 0.838
+        },
+        {
+          "word": "new\nHeal",
+          "start": 90.404,
+          "end": 95.704,
+          "score": 0.621
+        },
+        {
+          "word": "me\nHeal",
+          "start": 95.744,
+          "end": 97.744,
+          "score": 0.616
+        },
+        {
+          "word": "me\nFix",
+          "start": 97.784,
+          "end": 98.684,
+          "score": 0.865
+        },
+        {
+          "word": "what",
+          "start": 98.744,
+          "end": 99.064,
+          "score": 0.749
+        },
+        {
+          "word": "is",
+          "start": 99.124,
+          "end": 99.204,
+          "score": 0.55
+        },
+        {
+          "word": "wrong\nFix",
+          "start": 99.244,
+          "end": 100.644,
+          "score": 0.843
+        },
+        {
+          "word": "what",
+          "start": 100.724,
+          "end": 101.064,
+          "score": 0.672
+        },
+        {
+          "word": "is",
+          "start": 101.124,
+          "end": 101.204,
+          "score": 0.688
+        },
+        {
+          "word": "wrong\nSilver",
+          "start": 101.264,
+          "end": 102.684,
+          "score": 0.808
+        },
+        {
+          "word": "bells",
+          "start": 102.744,
+          "end": 103.064,
+          "score": 0.827
+        },
+        {
+          "word": "on",
+          "start": 103.144,
+          "end": 103.224,
+          "score": 0.96
+        },
+        {
+          "word": "the",
+          "start": 103.244,
+          "end": 103.344,
+          "score": 0.7
+        },
+        {
+          "word": "gate\nBut",
+          "start": 103.384,
+          "end": 103.924,
+          "score": 0.628
+        },
+        {
+          "word": "I’m",
+          "start": 104.104,
+          "end": 104.304,
+          "score": 0.806
+        },
+        {
+          "word": "drowning",
+          "start": 104.344,
+          "end": 104.724,
+          "score": 0.714
+        },
+        {
+          "word": "in",
+          "start": 104.844,
+          "end": 105.024,
+          "score": 0.746
+        },
+        {
+          "word": "the",
+          "start": 105.064,
+          "end": 105.184,
+          "score": 0.426
+        },
+        {
+          "word": "weight\nIs",
+          "start": 105.264,
+          "end": 105.664,
+          "score": 0.457
+        },
+        {
+          "word": "it",
+          "start": 105.784,
+          "end": 105.904,
+          "score": 0.736
+        },
+        {
+          "word": "a",
+          "start": 105.964,
+          "end": 106.024,
+          "score": 0.503
+        },
+        {
+          "word": "gift\nOr",
+          "start": 106.064,
+          "end": 106.604,
+          "score": 0.799
+        },
+        {
+          "word": "is",
+          "start": 106.644,
+          "end": 106.704,
+          "score": 0.315
+        },
+        {
+          "word": "it",
+          "start": 106.804,
+          "end": 106.904,
+          "score": 0.755
+        },
+        {
+          "word": "a",
+          "start": 106.964,
+          "end": 107.044,
+          "score": 0.581
+        },
+        {
+          "word": "test\nI",
+          "start": 107.064,
+          "end": 107.564,
+          "score": 0.798
+        },
+        {
+          "word": "just",
+          "start": 107.604,
+          "end": 107.704,
+          "score": 0.379
+        },
+        {
+          "word": "want",
+          "start": 107.744,
+          "end": 107.924,
+          "score": 0.487
+        },
+        {
+          "word": "to",
+          "start": 107.944,
+          "end": 108.024,
+          "score": 0.372
+        },
+        {
+          "word": "rest\nI",
+          "start": 108.084,
+          "end": 108.565,
+          "score": 0.746
+        },
+        {
+          "word": "just",
+          "start": 108.585,
+          "end": 108.725,
+          "score": 0.521
+        },
+        {
+          "word": "want",
+          "start": 108.765,
+          "end": 108.945,
+          "score": 0.394
+        },
+        {
+          "word": "to",
+          "start": 108.965,
+          "end": 109.025,
+          "score": 0.244
+        },
+        {
+          "word": "rest\nI",
+          "start": 109.065,
+          "end": 109.565,
+          "score": 0.745
+        },
+        {
+          "word": "just",
+          "start": 109.585,
+          "end": 109.705,
+          "score": 0.214
+        },
+        {
+          "word": "want",
+          "start": 109.745,
+          "end": 109.905,
+          "score": 0.404
+        },
+        {
+          "word": "to",
+          "start": 109.925,
+          "end": 110.025,
+          "score": 0.532
+        },
+        {
+          "word": "rest\nTake",
+          "start": 110.065,
+          "end": 111.785,
+          "score": 0.78
+        },
+        {
+          "word": "it",
+          "start": 111.985,
+          "end": 112.145,
+          "score": 0.793
+        },
+        {
+          "word": "away\nMake",
+          "start": 112.225,
+          "end": 113.705,
+          "score": 0.857
+        },
+        {
+          "word": "it",
+          "start": 113.805,
+          "end": 113.885,
+          "score": 0.327
+        },
+        {
+          "word": "go",
+          "start": 113.965,
+          "end": 114.285,
+          "score": 0.964
+        },
+        {
+          "word": "away\nI’m",
+          "start": 114.385,
+          "end": 115.325,
+          "score": 0.858
+        },
+        {
+          "word": "sitting",
+          "start": 115.405,
+          "end": 115.785,
+          "score": 0.83
+        },
+        {
+          "word": "in",
+          "start": 115.905,
+          "end": 116.045,
+          "score": 0.894
+        },
+        {
+          "word": "the",
+          "start": 116.125,
+          "end": 116.205,
+          "score": 0.833
+        },
+        {
+          "word": "chapel",
+          "start": 116.265,
+          "end": 116.745,
+          "score": 0.785
+        },
+        {
+          "word": "praying",
+          "start": 116.785,
+          "end": 117.285,
+          "score": 0.719
+        },
+        {
+          "word": "take",
+          "start": 117.385,
+          "end": 117.705,
+          "score": 0.8
+        },
+        {
+          "word": "it",
+          "start": 117.905,
+          "end": 118.065,
+          "score": 0.718
+        },
+        {
+          "word": "away\nWash",
+          "start": 118.145,
+          "end": 119.045,
+          "score": 0.768
+        },
+        {
+          "word": "me",
+          "start": 119.085,
+          "end": 119.205,
+          "score": 0.9
+        },
+        {
+          "word": "clean\nLike",
+          "start": 119.305,
+          "end": 120.165,
+          "score": 0.796
+        },
+        {
+          "word": "the",
+          "start": 120.205,
+          "end": 120.365,
+          "score": 0.635
+        },
+        {
+          "word": "snow",
+          "start": 120.385,
+          "end": 120.685,
+          "score": 0.838
+        },
+        {
+          "word": "on",
+          "start": 120.885,
+          "end": 121.025,
+          "score": 0.927
+        },
+        {
+          "word": "the",
+          "start": 121.065,
+          "end": 121.205,
+          "score": 0.715
+        },
+        {
+          "word": "roof\nI",
+          "start": 121.245,
+          "end": 122.345,
+          "score": 0.81
+        },
+        {
+          "word": "just",
+          "start": 122.405,
+          "end": 122.705,
+          "score": 0.754
+        },
+        {
+          "word": "want",
+          "start": 122.765,
+          "end": 123.025,
+          "score": 0.893
+        },
+        {
+          "word": "the",
+          "start": 123.065,
+          "end": 123.165,
+          "score": 0.692
+        },
+        {
+          "word": "truth\nI",
+          "start": 123.205,
+          "end": 124.365,
+          "score": 0.875
+        },
+        {
+          "word": "just",
+          "start": 124.425,
+          "end": 124.705,
+          "score": 0.822
+        },
+        {
+          "word": "want",
+          "start": 124.765,
+          "end": 125.045,
+          "score": 0.79
+        },
+        {
+          "word": "the",
+          "start": 125.085,
+          "end": 125.185,
+          "score": 0.807
+        },
+        {
+          "word": "truth\nMake",
+          "start": 125.225,
+          "end": 126.665,
+          "score": 0.862
+        },
+        {
+          "word": "me",
+          "start": 126.725,
+          "end": 126.845,
+          "score": 0.916
+        },
+        {
+          "word": "brand",
+          "start": 126.905,
+          "end": 127.345,
+          "score": 0.72
+        },
+        {
+          "word": "new\nMake",
+          "start": 127.525,
+          "end": 130.645,
+          "score": 0.819
+        },
+        {
+          "word": "me",
+          "start": 130.685,
+          "end": 130.845,
+          "score": 0.838
+        },
+        {
+          "word": "brand",
+          "start": 130.885,
+          "end": 131.305,
+          "score": 0.758
+        },
+        {
+          "word": "new\nMerry",
+          "start": 131.545,
+          "end": 135.186,
+          "score": 0.839
+        },
+        {
+          "word": "Christmas",
+          "start": 135.226,
+          "end": 135.726,
+          "score": 0.79
+        },
+        {
+          "word": "to",
+          "start": 135.746,
+          "end": 135.926,
+          "score": 0.911
+        },
+        {
+          "word": "the",
+          "start": 135.946,
+          "end": 136.026,
+          "score": 0.584
+        },
+        {
+          "word": "holy\nMerry",
+          "start": 136.086,
+          "end": 137.066,
+          "score": 0.859
+        },
+        {
+          "word": "Christmas",
+          "start": 137.126,
+          "end": 137.686,
+          "score": 0.746
+        },
+        {
+          "word": "to",
+          "start": 137.746,
+          "end": 137.946,
+          "score": 0.9
+        },
+        {
+          "word": "the",
+          "start": 137.966,
+          "end": 138.046,
+          "score": 0.472
+        },
+        {
+          "word": "lonely\nWishing",
+          "start": 138.126,
+          "end": 139.786,
+          "score": 0.808
+        },
+        {
+          "word": "I",
+          "start": 139.966,
+          "end": 140.046,
+          "score": 0.49
+        },
+        {
+          "word": "was",
+          "start": 140.086,
+          "end": 140.246,
+          "score": 0.564
+        },
+        {
+          "word": "different\nWishing",
+          "start": 140.286,
+          "end": 141.746,
+          "score": 0.638
+        },
+        {
+          "word": "I",
+          "start": 141.946,
+          "end": 142.026,
+          "score": 0.721
+        },
+        {
+          "word": "was",
+          "start": 142.066,
+          "end": 142.186,
+          "score": 0.691
+        },
+        {
+          "word": "gone\nFrozen\nUntil",
+          "start": 142.246,
+          "end": 146.746,
+          "score": 0.817
+        },
+        {
+          "word": "the",
+          "start": 146.766,
+          "end": 146.886,
+          "score": 0.705
+        },
+        {
+          "word": "dawn",
+          "start": 146.926,
+          "end": 147.246,
+          "score": 0.615
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Frozen",
+      "start": 1.36,
+      "end": 2.14,
+      "score": 0.727
+    },
+    {
+      "word": "White",
+      "start": 2.14,
+      "end": 2.92,
+      "score": 0.727
+    },
+    {
+      "word": "dirt",
+      "start": 3.38,
+      "end": 3.58,
+      "score": 0.39
+    },
+    {
+      "word": "on",
+      "start": 3.64,
+      "end": 3.72,
+      "score": 0.928
+    },
+    {
+      "word": "the",
+      "start": 3.76,
+      "end": 3.86,
+      "score": 0.714
+    },
+    {
+      "word": "pine",
+      "start": 3.9,
+      "end": 4.14,
+      "score": 0.43
+    },
+    {
+      "word": "I",
+      "start": 4.14,
+      "end": 4.38,
+      "score": 0.43
+    },
+    {
+      "word": "pull",
+      "start": 4.9,
+      "end": 5.18,
+      "score": 0.609
+    },
+    {
+      "word": "my",
+      "start": 5.22,
+      "end": 5.36,
+      "score": 0.746
+    },
+    {
+      "word": "collar",
+      "start": 5.4,
+      "end": 5.9,
+      "score": 0.698
+    },
+    {
+      "word": "tight",
+      "start": 5.92,
+      "end": 6.4,
+      "score": 0.566
+    },
+    {
+      "word": "Hoping",
+      "start": 6.4,
+      "end": 6.88,
+      "score": 0.566
+    },
+    {
+      "word": "for",
+      "start": 6.92,
+      "end": 7.24,
+      "score": 0.873
+    },
+    {
+      "word": "a",
+      "start": 7.26,
+      "end": 7.28,
+      "score": 0.076
+    },
+    {
+      "word": "change",
+      "start": 7.38,
+      "end": 7.74,
+      "score": 0.926
+    },
+    {
+      "word": "of",
+      "start": 7.82,
+      "end": 7.9,
+      "score": 0.38
+    },
+    {
+      "word": "mind",
+      "start": 7.96,
+      "end": 8.795,
+      "score": 0.666
+    },
+    {
+      "word": "Praying",
+      "start": 8.795,
+      "end": 9.63,
+      "score": 0.666
+    },
+    {
+      "word": "Hard",
+      "start": 9.63,
+      "end": 10.465,
+      "score": 0.666
+    },
+    {
+      "word": "Heavy",
+      "start": 10.465,
+      "end": 11.3,
+      "score": 0.666
+    },
+    {
+      "word": "boots",
+      "start": 11.34,
+      "end": 11.58,
+      "score": 0.891
+    },
+    {
+      "word": "in",
+      "start": 11.64,
+      "end": 11.7,
+      "score": 0.918
+    },
+    {
+      "word": "the",
+      "start": 11.74,
+      "end": 11.84,
+      "score": 0.813
+    },
+    {
+      "word": "hall",
+      "start": 11.88,
+      "end": 12.86,
+      "score": 0.663
+    },
+    {
+      "word": "Wishing",
+      "start": 12.86,
+      "end": 13.841,
+      "score": 0.663
+    },
+    {
+      "word": "for",
+      "start": 13.901,
+      "end": 14.261,
+      "score": 0.861
+    },
+    {
+      "word": "a",
+      "start": 14.321,
+      "end": 14.361,
+      "score": 0.577
+    },
+    {
+      "word": "winter",
+      "start": 14.421,
+      "end": 14.981,
+      "score": 0.799
+    },
+    {
+      "word": "without",
+      "start": 15.201,
+      "end": 15.721,
+      "score": 0.91
+    },
+    {
+      "word": "a",
+      "start": 15.821,
+      "end": 15.861,
+      "score": 0.581
+    },
+    {
+      "word": "wall",
+      "start": 15.901,
+      "end": 16.821,
+      "score": 0.731
+    },
+    {
+      "word": "Take",
+      "start": 16.821,
+      "end": 17.741,
+      "score": 0.731
+    },
+    {
+      "word": "it",
+      "start": 17.961,
+      "end": 18.101,
+      "score": 0.866
+    },
+    {
+      "word": "away",
+      "start": 18.181,
+      "end": 18.931,
+      "score": 0.773
+    },
+    {
+      "word": "Make",
+      "start": 18.931,
+      "end": 19.681,
+      "score": 0.773
+    },
+    {
+      "word": "it",
+      "start": 19.761,
+      "end": 19.841,
+      "score": 0.377
+    },
+    {
+      "word": "go",
+      "start": 19.901,
+      "end": 20.241,
+      "score": 0.856
+    },
+    {
+      "word": "away",
+      "start": 20.321,
+      "end": 20.801,
+      "score": 0.819
+    },
+    {
+      "word": "I’m",
+      "start": 20.801,
+      "end": 21.281,
+      "score": 0.819
+    },
+    {
+      "word": "sitting",
+      "start": 21.381,
+      "end": 21.741,
+      "score": 0.755
+    },
+    {
+      "word": "in",
+      "start": 21.901,
+      "end": 22.021,
+      "score": 0.864
+    },
+    {
+      "word": "the",
+      "start": 22.061,
+      "end": 22.161,
+      "score": 0.815
+    },
+    {
+      "word": "chapel",
+      "start": 22.221,
+      "end": 22.701,
+      "score": 0.817
+    },
+    {
+      "word": "praying",
+      "start": 22.741,
+      "end": 23.261,
+      "score": 0.667
+    },
+    {
+      "word": "take",
+      "start": 23.341,
+      "end": 23.661,
+      "score": 0.738
+    },
+    {
+      "word": "it",
+      "start": 23.901,
+      "end": 24.081,
+      "score": 0.837
+    },
+    {
+      "word": "away",
+      "start": 24.141,
+      "end": 24.591,
+      "score": 0.723
+    },
+    {
+      "word": "Wash",
+      "start": 24.591,
+      "end": 25.041,
+      "score": 0.723
+    },
+    {
+      "word": "me",
+      "start": 25.081,
+      "end": 25.201,
+      "score": 0.915
+    },
+    {
+      "word": "clean",
+      "start": 25.281,
+      "end": 25.711,
+      "score": 0.768
+    },
+    {
+      "word": "Like",
+      "start": 25.711,
+      "end": 26.141,
+      "score": 0.768
+    },
+    {
+      "word": "the",
+      "start": 26.181,
+      "end": 26.341,
+      "score": 0.623
+    },
+    {
+      "word": "snow",
+      "start": 26.361,
+      "end": 26.701,
+      "score": 0.821
+    },
+    {
+      "word": "on",
+      "start": 26.941,
+      "end": 27.081,
+      "score": 0.912
+    },
+    {
+      "word": "the",
+      "start": 27.101,
+      "end": 27.241,
+      "score": 0.654
+    },
+    {
+      "word": "roof",
+      "start": 27.281,
+      "end": 27.811,
+      "score": 0.724
+    },
+    {
+      "word": "I",
+      "start": 27.811,
+      "end": 28.341,
+      "score": 0.724
+    },
+    {
+      "word": "just",
+      "start": 28.401,
+      "end": 28.661,
+      "score": 0.811
+    },
+    {
+      "word": "want",
+      "start": 28.741,
+      "end": 29.021,
+      "score": 0.892
+    },
+    {
+      "word": "the",
+      "start": 29.061,
+      "end": 29.141,
+      "score": 0.953
+    },
+    {
+      "word": "truth",
+      "start": 29.201,
+      "end": 29.781,
+      "score": 0.873
+    },
+    {
+      "word": "I",
+      "start": 29.781,
+      "end": 30.361,
+      "score": 0.873
+    },
+    {
+      "word": "just",
+      "start": 30.401,
+      "end": 30.681,
+      "score": 0.759
+    },
+    {
+      "word": "want",
+      "start": 30.741,
+      "end": 31.041,
+      "score": 0.833
+    },
+    {
+      "word": "the",
+      "start": 31.061,
+      "end": 31.161,
+      "score": 0.846
+    },
+    {
+      "word": "truth",
+      "start": 31.221,
+      "end": 31.951,
+      "score": 0.849
+    },
+    {
+      "word": "Make",
+      "start": 31.951,
+      "end": 32.681,
+      "score": 0.849
+    },
+    {
+      "word": "me",
+      "start": 32.741,
+      "end": 32.861,
+      "score": 0.886
+    },
+    {
+      "word": "brand",
+      "start": 32.901,
+      "end": 33.321,
+      "score": 0.787
+    },
+    {
+      "word": "new",
+      "start": 33.381,
+      "end": 35.032,
+      "score": 0.855
+    },
+    {
+      "word": "Make",
+      "start": 35.032,
+      "end": 36.682,
+      "score": 0.855
+    },
+    {
+      "word": "me",
+      "start": 36.722,
+      "end": 36.842,
+      "score": 0.972
+    },
+    {
+      "word": "brand",
+      "start": 36.902,
+      "end": 37.322,
+      "score": 0.811
+    },
+    {
+      "word": "new",
+      "start": 37.382,
+      "end": 40.022,
+      "score": 0.809
+    },
+    {
+      "word": "Heal",
+      "start": 40.022,
+      "end": 42.662,
+      "score": 0.809
+    },
+    {
+      "word": "me",
+      "start": 42.702,
+      "end": 43.342,
+      "score": 0.743
+    },
+    {
+      "word": "Heal",
+      "start": 43.342,
+      "end": 43.982,
+      "score": 0.743
+    },
+    {
+      "word": "me",
+      "start": 44.022,
+      "end": 44.272,
+      "score": 0.915
+    },
+    {
+      "word": "Fix",
+      "start": 44.272,
+      "end": 44.522,
+      "score": 0.915
+    },
+    {
+      "word": "what",
+      "start": 44.562,
+      "end": 44.702,
+      "score": 0.815
+    },
+    {
+      "word": "is",
+      "start": 44.762,
+      "end": 44.842,
+      "score": 0.776
+    },
+    {
+      "word": "wrong",
+      "start": 44.902,
+      "end": 45.722,
+      "score": 0.892
+    },
+    {
+      "word": "Fix",
+      "start": 45.722,
+      "end": 46.542,
+      "score": 0.892
+    },
+    {
+      "word": "what",
+      "start": 46.582,
+      "end": 46.722,
+      "score": 0.763
+    },
+    {
+      "word": "is",
+      "start": 46.782,
+      "end": 46.862,
+      "score": 0.734
+    },
+    {
+      "word": "wrong",
+      "start": 46.902,
+      "end": 49.802,
+      "score": 0.816
+    },
+    {
+      "word": "Cold",
+      "start": 49.802,
+      "end": 52.702,
+      "score": 0.816
+    },
+    {
+      "word": "beds",
+      "start": 52.742,
+      "end": 53.352,
+      "score": 0.702
+    },
+    {
+      "word": "Small",
+      "start": 53.352,
+      "end": 53.962,
+      "score": 0.702
+    },
+    {
+      "word": "room",
+      "start": 54.002,
+      "end": 54.372,
+      "score": 0.641
+    },
+    {
+      "word": "Staring",
+      "start": 54.372,
+      "end": 54.742,
+      "score": 0.641
+    },
+    {
+      "word": "at",
+      "start": 54.782,
+      "end": 54.862,
+      "score": 0.512
+    },
+    {
+      "word": "the",
+      "start": 54.902,
+      "end": 54.982,
+      "score": 0.882
+    },
+    {
+      "word": "ceiling",
+      "start": 55.042,
+      "end": 55.742,
+      "score": 0.797
+    },
+    {
+      "word": "in",
+      "start": 55.862,
+      "end": 56.022,
+      "score": 0.843
+    },
+    {
+      "word": "the",
+      "start": 56.082,
+      "end": 56.162,
+      "score": 0.732
+    },
+    {
+      "word": "gloom",
+      "start": 56.222,
+      "end": 56.582,
+      "score": 0.798
+    },
+    {
+      "word": "I",
+      "start": 56.582,
+      "end": 56.942,
+      "score": 0.798
+    },
+    {
+      "word": "try",
+      "start": 57.002,
+      "end": 57.472,
+      "score": 0.81
+    },
+    {
+      "word": "I",
+      "start": 57.472,
+      "end": 57.942,
+      "score": 0.81
+    },
+    {
+      "word": "try",
+      "start": 58.022,
+      "end": 58.292,
+      "score": 0.637
+    },
+    {
+      "word": "I",
+      "start": 58.292,
+      "end": 58.562,
+      "score": 0.637
+    },
+    {
+      "word": "try",
+      "start": 59.182,
+      "end": 59.522,
+      "score": 0.871
+    },
+    {
+      "word": "to",
+      "start": 59.562,
+      "end": 59.662,
+      "score": 0.598
+    },
+    {
+      "word": "be",
+      "start": 59.702,
+      "end": 59.842,
+      "score": 0.946
+    },
+    {
+      "word": "the",
+      "start": 59.862,
+      "end": 60.042,
+      "score": 0.601
+    },
+    {
+      "word": "man",
+      "start": 60.063,
+      "end": 60.203,
+      "score": 0.586
+    },
+    {
+      "word": "they",
+      "start": 60.223,
+      "end": 60.343,
+      "score": 0.594
+    },
+    {
+      "word": "say",
+      "start": 60.383,
+      "end": 60.583,
+      "score": 0.943
+    },
+    {
+      "word": "is",
+      "start": 60.603,
+      "end": 60.683,
+      "score": 0.392
+    },
+    {
+      "word": "inside",
+      "start": 60.743,
+      "end": 61.473,
+      "score": 0.773
+    },
+    {
+      "word": "Bible",
+      "start": 61.473,
+      "end": 62.203,
+      "score": 0.773
+    },
+    {
+      "word": "Open",
+      "start": 62.203,
+      "end": 62.933,
+      "score": 0.773
+    },
+    {
+      "word": "Looking",
+      "start": 62.933,
+      "end": 63.663,
+      "score": 0.773
+    },
+    {
+      "word": "for",
+      "start": 63.703,
+      "end": 63.843,
+      "score": 0.909
+    },
+    {
+      "word": "a",
+      "start": 63.883,
+      "end": 63.963,
+      "score": 0.669
+    },
+    {
+      "word": "spark",
+      "start": 63.983,
+      "end": 64.333,
+      "score": 0.746
+    },
+    {
+      "word": "Lost",
+      "start": 64.333,
+      "end": 64.683,
+      "score": 0.746
+    },
+    {
+      "word": "in",
+      "start": 64.763,
+      "end": 64.843,
+      "score": 0.918
+    },
+    {
+      "word": "the",
+      "start": 64.883,
+      "end": 64.963,
+      "score": 0.728
+    },
+    {
+      "word": "dark",
+      "start": 65.043,
+      "end": 65.353,
+      "score": 0.697
+    },
+    {
+      "word": "Searching",
+      "start": 65.353,
+      "end": 65.663,
+      "score": 0.697
+    },
+    {
+      "word": "for",
+      "start": 65.723,
+      "end": 65.923,
+      "score": 0.862
+    },
+    {
+      "word": "a",
+      "start": 65.963,
+      "end": 66.003,
+      "score": 0.476
+    },
+    {
+      "word": "miracle",
+      "start": 66.043,
+      "end": 66.503,
+      "score": 0.878
+    },
+    {
+      "word": "that",
+      "start": 66.543,
+      "end": 66.663,
+      "score": 0.904
+    },
+    {
+      "word": "hasn’t",
+      "start": 66.723,
+      "end": 66.963,
+      "score": 0.814
+    },
+    {
+      "word": "started",
+      "start": 67.003,
+      "end": 67.343,
+      "score": 0.872
+    },
+    {
+      "word": "yet",
+      "start": 67.383,
+      "end": 67.713,
+      "score": 0.797
+    },
+    {
+      "word": "Counting",
+      "start": 67.713,
+      "end": 68.043,
+      "score": 0.797
+    },
+    {
+      "word": "every",
+      "start": 68.123,
+      "end": 68.323,
+      "score": 0.795
+    },
+    {
+      "word": "single",
+      "start": 68.383,
+      "end": 68.663,
+      "score": 0.833
+    },
+    {
+      "word": "sunset",
+      "start": 68.703,
+      "end": 69.713,
+      "score": 0.886
+    },
+    {
+      "word": "Take",
+      "start": 69.713,
+      "end": 70.723,
+      "score": 0.886
+    },
+    {
+      "word": "it",
+      "start": 70.963,
+      "end": 71.623,
+      "score": 0.738
+    },
+    {
+      "word": "away",
+      "start": 71.643,
+      "end": 72.153,
+      "score": 0.485
+    },
+    {
+      "word": "Make",
+      "start": 72.153,
+      "end": 72.663,
+      "score": 0.485
+    },
+    {
+      "word": "it",
+      "start": 72.743,
+      "end": 72.823,
+      "score": 0.372
+    },
+    {
+      "word": "go",
+      "start": 72.883,
+      "end": 73.223,
+      "score": 0.864
+    },
+    {
+      "word": "away",
+      "start": 73.323,
+      "end": 73.803,
+      "score": 0.825
+    },
+    {
+      "word": "I’m",
+      "start": 73.803,
+      "end": 74.283,
+      "score": 0.825
+    },
+    {
+      "word": "sitting",
+      "start": 74.383,
+      "end": 74.723,
+      "score": 0.875
+    },
+    {
+      "word": "in",
+      "start": 74.883,
+      "end": 75.043,
+      "score": 0.802
+    },
+    {
+      "word": "the",
+      "start": 75.083,
+      "end": 75.183,
+      "score": 0.812
+    },
+    {
+      "word": "chapel",
+      "start": 75.223,
+      "end": 75.723,
+      "score": 0.847
+    },
+    {
+      "word": "praying",
+      "start": 75.763,
+      "end": 76.323,
+      "score": 0.627
+    },
+    {
+      "word": "take",
+      "start": 76.383,
+      "end": 76.703,
+      "score": 0.674
+    },
+    {
+      "word": "it",
+      "start": 76.923,
+      "end": 77.083,
+      "score": 0.737
+    },
+    {
+      "word": "away",
+      "start": 77.163,
+      "end": 77.603,
+      "score": 0.778
+    },
+    {
+      "word": "Wash",
+      "start": 77.603,
+      "end": 78.043,
+      "score": 0.778
+    },
+    {
+      "word": "me",
+      "start": 78.083,
+      "end": 78.263,
+      "score": 0.831
+    },
+    {
+      "word": "clean",
+      "start": 78.323,
+      "end": 78.753,
+      "score": 0.792
+    },
+    {
+      "word": "Like",
+      "start": 78.753,
+      "end": 79.183,
+      "score": 0.792
+    },
+    {
+      "word": "the",
+      "start": 79.223,
+      "end": 79.423,
+      "score": 0.609
+    },
+    {
+      "word": "snow",
+      "start": 79.443,
+      "end": 79.723,
+      "score": 0.776
+    },
+    {
+      "word": "on",
+      "start": 79.963,
+      "end": 80.103,
+      "score": 0.881
+    },
+    {
+      "word": "the",
+      "start": 80.123,
+      "end": 80.283,
+      "score": 0.881
+    },
+    {
+      "word": "roof",
+      "start": 80.343,
+      "end": 80.863,
+      "score": 0.585
+    },
+    {
+      "word": "I",
+      "start": 80.863,
+      "end": 81.383,
+      "score": 0.585
+    },
+    {
+      "word": "just",
+      "start": 81.423,
+      "end": 81.703,
+      "score": 0.738
+    },
+    {
+      "word": "want",
+      "start": 81.783,
+      "end": 82.063,
+      "score": 0.854
+    },
+    {
+      "word": "the",
+      "start": 82.103,
+      "end": 82.203,
+      "score": 0.804
+    },
+    {
+      "word": "truth",
+      "start": 82.243,
+      "end": 82.803,
+      "score": 0.886
+    },
+    {
+      "word": "I",
+      "start": 82.803,
+      "end": 83.363,
+      "score": 0.886
+    },
+    {
+      "word": "just",
+      "start": 83.423,
+      "end": 83.683,
+      "score": 0.818
+    },
+    {
+      "word": "want",
+      "start": 83.763,
+      "end": 84.043,
+      "score": 0.898
+    },
+    {
+      "word": "the",
+      "start": 84.084,
+      "end": 84.184,
+      "score": 0.669
+    },
+    {
+      "word": "truth",
+      "start": 84.224,
+      "end": 84.944,
+      "score": 0.882
+    },
+    {
+      "word": "Make",
+      "start": 84.944,
+      "end": 85.664,
+      "score": 0.882
+    },
+    {
+      "word": "me",
+      "start": 85.704,
+      "end": 85.844,
+      "score": 0.826
+    },
+    {
+      "word": "brand",
+      "start": 85.884,
+      "end": 86.284,
+      "score": 0.82
+    },
+    {
+      "word": "new",
+      "start": 86.364,
+      "end": 88.024,
+      "score": 0.835
+    },
+    {
+      "word": "Make",
+      "start": 88.024,
+      "end": 89.684,
+      "score": 0.835
+    },
+    {
+      "word": "me",
+      "start": 89.724,
+      "end": 89.864,
+      "score": 0.831
+    },
+    {
+      "word": "brand",
+      "start": 89.904,
+      "end": 90.324,
+      "score": 0.838
+    },
+    {
+      "word": "new",
+      "start": 90.404,
+      "end": 93.054,
+      "score": 0.621
+    },
+    {
+      "word": "Heal",
+      "start": 93.054,
+      "end": 95.704,
+      "score": 0.621
+    },
+    {
+      "word": "me",
+      "start": 95.744,
+      "end": 96.744,
+      "score": 0.616
+    },
+    {
+      "word": "Heal",
+      "start": 96.744,
+      "end": 97.744,
+      "score": 0.616
+    },
+    {
+      "word": "me",
+      "start": 97.784,
+      "end": 98.234,
+      "score": 0.865
+    },
+    {
+      "word": "Fix",
+      "start": 98.234,
+      "end": 98.684,
+      "score": 0.865
+    },
+    {
+      "word": "what",
+      "start": 98.744,
+      "end": 99.064,
+      "score": 0.749
+    },
+    {
+      "word": "is",
+      "start": 99.124,
+      "end": 99.204,
+      "score": 0.55
+    },
+    {
+      "word": "wrong",
+      "start": 99.244,
+      "end": 99.944,
+      "score": 0.843
+    },
+    {
+      "word": "Fix",
+      "start": 99.944,
+      "end": 100.644,
+      "score": 0.843
+    },
+    {
+      "word": "what",
+      "start": 100.724,
+      "end": 101.064,
+      "score": 0.672
+    },
+    {
+      "word": "is",
+      "start": 101.124,
+      "end": 101.204,
+      "score": 0.688
+    },
+    {
+      "word": "wrong",
+      "start": 101.264,
+      "end": 101.974,
+      "score": 0.808
+    },
+    {
+      "word": "Silver",
+      "start": 101.974,
+      "end": 102.684,
+      "score": 0.808
+    },
+    {
+      "word": "bells",
+      "start": 102.744,
+      "end": 103.064,
+      "score": 0.827
+    },
+    {
+      "word": "on",
+      "start": 103.144,
+      "end": 103.224,
+      "score": 0.96
+    },
+    {
+      "word": "the",
+      "start": 103.244,
+      "end": 103.344,
+      "score": 0.7
+    },
+    {
+      "word": "gate",
+      "start": 103.384,
+      "end": 103.654,
+      "score": 0.628
+    },
+    {
+      "word": "But",
+      "start": 103.654,
+      "end": 103.924,
+      "score": 0.628
+    },
+    {
+      "word": "I’m",
+      "start": 104.104,
+      "end": 104.304,
+      "score": 0.806
+    },
+    {
+      "word": "drowning",
+      "start": 104.344,
+      "end": 104.724,
+      "score": 0.714
+    },
+    {
+      "word": "in",
+      "start": 104.844,
+      "end": 105.024,
+      "score": 0.746
+    },
+    {
+      "word": "the",
+      "start": 105.064,
+      "end": 105.184,
+      "score": 0.426
+    },
+    {
+      "word": "weight",
+      "start": 105.264,
+      "end": 105.464,
+      "score": 0.457
+    },
+    {
+      "word": "Is",
+      "start": 105.464,
+      "end": 105.664,
+      "score": 0.457
+    },
+    {
+      "word": "it",
+      "start": 105.784,
+      "end": 105.904,
+      "score": 0.736
+    },
+    {
+      "word": "a",
+      "start": 105.964,
+      "end": 106.024,
+      "score": 0.503
+    },
+    {
+      "word": "gift",
+      "start": 106.064,
+      "end": 106.334,
+      "score": 0.799
+    },
+    {
+      "word": "Or",
+      "start": 106.334,
+      "end": 106.604,
+      "score": 0.799
+    },
+    {
+      "word": "is",
+      "start": 106.644,
+      "end": 106.704,
+      "score": 0.315
+    },
+    {
+      "word": "it",
+      "start": 106.804,
+      "end": 106.904,
+      "score": 0.755
+    },
+    {
+      "word": "a",
+      "start": 106.964,
+      "end": 107.044,
+      "score": 0.581
+    },
+    {
+      "word": "test",
+      "start": 107.064,
+      "end": 107.314,
+      "score": 0.798
+    },
+    {
+      "word": "I",
+      "start": 107.314,
+      "end": 107.564,
+      "score": 0.798
+    },
+    {
+      "word": "just",
+      "start": 107.604,
+      "end": 107.704,
+      "score": 0.379
+    },
+    {
+      "word": "want",
+      "start": 107.744,
+      "end": 107.924,
+      "score": 0.487
+    },
+    {
+      "word": "to",
+      "start": 107.944,
+      "end": 108.024,
+      "score": 0.372
+    },
+    {
+      "word": "rest",
+      "start": 108.084,
+      "end": 108.324,
+      "score": 0.746
+    },
+    {
+      "word": "I",
+      "start": 108.324,
+      "end": 108.565,
+      "score": 0.746
+    },
+    {
+      "word": "just",
+      "start": 108.585,
+      "end": 108.725,
+      "score": 0.521
+    },
+    {
+      "word": "want",
+      "start": 108.765,
+      "end": 108.945,
+      "score": 0.394
+    },
+    {
+      "word": "to",
+      "start": 108.965,
+      "end": 109.025,
+      "score": 0.244
+    },
+    {
+      "word": "rest",
+      "start": 109.065,
+      "end": 109.315,
+      "score": 0.745
+    },
+    {
+      "word": "I",
+      "start": 109.315,
+      "end": 109.565,
+      "score": 0.745
+    },
+    {
+      "word": "just",
+      "start": 109.585,
+      "end": 109.705,
+      "score": 0.214
+    },
+    {
+      "word": "want",
+      "start": 109.745,
+      "end": 109.905,
+      "score": 0.404
+    },
+    {
+      "word": "to",
+      "start": 109.925,
+      "end": 110.025,
+      "score": 0.532
+    },
+    {
+      "word": "rest",
+      "start": 110.065,
+      "end": 110.925,
+      "score": 0.78
+    },
+    {
+      "word": "Take",
+      "start": 110.925,
+      "end": 111.785,
+      "score": 0.78
+    },
+    {
+      "word": "it",
+      "start": 111.985,
+      "end": 112.145,
+      "score": 0.793
+    },
+    {
+      "word": "away",
+      "start": 112.225,
+      "end": 112.965,
+      "score": 0.857
+    },
+    {
+      "word": "Make",
+      "start": 112.965,
+      "end": 113.705,
+      "score": 0.857
+    },
+    {
+      "word": "it",
+      "start": 113.805,
+      "end": 113.885,
+      "score": 0.327
+    },
+    {
+      "word": "go",
+      "start": 113.965,
+      "end": 114.285,
+      "score": 0.964
+    },
+    {
+      "word": "away",
+      "start": 114.385,
+      "end": 114.855,
+      "score": 0.858
+    },
+    {
+      "word": "I’m",
+      "start": 114.855,
+      "end": 115.325,
+      "score": 0.858
+    },
+    {
+      "word": "sitting",
+      "start": 115.405,
+      "end": 115.785,
+      "score": 0.83
+    },
+    {
+      "word": "in",
+      "start": 115.905,
+      "end": 116.045,
+      "score": 0.894
+    },
+    {
+      "word": "the",
+      "start": 116.125,
+      "end": 116.205,
+      "score": 0.833
+    },
+    {
+      "word": "chapel",
+      "start": 116.265,
+      "end": 116.745,
+      "score": 0.785
+    },
+    {
+      "word": "praying",
+      "start": 116.785,
+      "end": 117.285,
+      "score": 0.719
+    },
+    {
+      "word": "take",
+      "start": 117.385,
+      "end": 117.705,
+      "score": 0.8
+    },
+    {
+      "word": "it",
+      "start": 117.905,
+      "end": 118.065,
+      "score": 0.718
+    },
+    {
+      "word": "away",
+      "start": 118.145,
+      "end": 118.595,
+      "score": 0.768
+    },
+    {
+      "word": "Wash",
+      "start": 118.595,
+      "end": 119.045,
+      "score": 0.768
+    },
+    {
+      "word": "me",
+      "start": 119.085,
+      "end": 119.205,
+      "score": 0.9
+    },
+    {
+      "word": "clean",
+      "start": 119.305,
+      "end": 119.735,
+      "score": 0.796
+    },
+    {
+      "word": "Like",
+      "start": 119.735,
+      "end": 120.165,
+      "score": 0.796
+    },
+    {
+      "word": "the",
+      "start": 120.205,
+      "end": 120.365,
+      "score": 0.635
+    },
+    {
+      "word": "snow",
+      "start": 120.385,
+      "end": 120.685,
+      "score": 0.838
+    },
+    {
+      "word": "on",
+      "start": 120.885,
+      "end": 121.025,
+      "score": 0.927
+    },
+    {
+      "word": "the",
+      "start": 121.065,
+      "end": 121.205,
+      "score": 0.715
+    },
+    {
+      "word": "roof",
+      "start": 121.245,
+      "end": 121.795,
+      "score": 0.81
+    },
+    {
+      "word": "I",
+      "start": 121.795,
+      "end": 122.345,
+      "score": 0.81
+    },
+    {
+      "word": "just",
+      "start": 122.405,
+      "end": 122.705,
+      "score": 0.754
+    },
+    {
+      "word": "want",
+      "start": 122.765,
+      "end": 123.025,
+      "score": 0.893
+    },
+    {
+      "word": "the",
+      "start": 123.065,
+      "end": 123.165,
+      "score": 0.692
+    },
+    {
+      "word": "truth",
+      "start": 123.205,
+      "end": 123.785,
+      "score": 0.875
+    },
+    {
+      "word": "I",
+      "start": 123.785,
+      "end": 124.365,
+      "score": 0.875
+    },
+    {
+      "word": "just",
+      "start": 124.425,
+      "end": 124.705,
+      "score": 0.822
+    },
+    {
+      "word": "want",
+      "start": 124.765,
+      "end": 125.045,
+      "score": 0.79
+    },
+    {
+      "word": "the",
+      "start": 125.085,
+      "end": 125.185,
+      "score": 0.807
+    },
+    {
+      "word": "truth",
+      "start": 125.225,
+      "end": 125.945,
+      "score": 0.862
+    },
+    {
+      "word": "Make",
+      "start": 125.945,
+      "end": 126.665,
+      "score": 0.862
+    },
+    {
+      "word": "me",
+      "start": 126.725,
+      "end": 126.845,
+      "score": 0.916
+    },
+    {
+      "word": "brand",
+      "start": 126.905,
+      "end": 127.345,
+      "score": 0.72
+    },
+    {
+      "word": "new",
+      "start": 127.525,
+      "end": 129.085,
+      "score": 0.819
+    },
+    {
+      "word": "Make",
+      "start": 129.085,
+      "end": 130.645,
+      "score": 0.819
+    },
+    {
+      "word": "me",
+      "start": 130.685,
+      "end": 130.845,
+      "score": 0.838
+    },
+    {
+      "word": "brand",
+      "start": 130.885,
+      "end": 131.305,
+      "score": 0.758
+    },
+    {
+      "word": "new",
+      "start": 131.545,
+      "end": 133.366,
+      "score": 0.839
+    },
+    {
+      "word": "Merry",
+      "start": 133.366,
+      "end": 135.186,
+      "score": 0.839
+    },
+    {
+      "word": "Christmas",
+      "start": 135.226,
+      "end": 135.726,
+      "score": 0.79
+    },
+    {
+      "word": "to",
+      "start": 135.746,
+      "end": 135.926,
+      "score": 0.911
+    },
+    {
+      "word": "the",
+      "start": 135.946,
+      "end": 136.026,
+      "score": 0.584
+    },
+    {
+      "word": "holy",
+      "start": 136.086,
+      "end": 136.576,
+      "score": 0.859
+    },
+    {
+      "word": "Merry",
+      "start": 136.576,
+      "end": 137.066,
+      "score": 0.859
+    },
+    {
+      "word": "Christmas",
+      "start": 137.126,
+      "end": 137.686,
+      "score": 0.746
+    },
+    {
+      "word": "to",
+      "start": 137.746,
+      "end": 137.946,
+      "score": 0.9
+    },
+    {
+      "word": "the",
+      "start": 137.966,
+      "end": 138.046,
+      "score": 0.472
+    },
+    {
+      "word": "lonely",
+      "start": 138.126,
+      "end": 138.956,
+      "score": 0.808
+    },
+    {
+      "word": "Wishing",
+      "start": 138.956,
+      "end": 139.786,
+      "score": 0.808
+    },
+    {
+      "word": "I",
+      "start": 139.966,
+      "end": 140.046,
+      "score": 0.49
+    },
+    {
+      "word": "was",
+      "start": 140.086,
+      "end": 140.246,
+      "score": 0.564
+    },
+    {
+      "word": "different",
+      "start": 140.286,
+      "end": 141.016,
+      "score": 0.638
+    },
+    {
+      "word": "Wishing",
+      "start": 141.016,
+      "end": 141.746,
+      "score": 0.638
+    },
+    {
+      "word": "I",
+      "start": 141.946,
+      "end": 142.026,
+      "score": 0.721
+    },
+    {
+      "word": "was",
+      "start": 142.066,
+      "end": 142.186,
+      "score": 0.691
+    },
+    {
+      "word": "gone",
+      "start": 142.246,
+      "end": 143.746,
+      "score": 0.817
+    },
+    {
+      "word": "Frozen",
+      "start": 143.746,
+      "end": 145.246,
+      "score": 0.817
+    },
+    {
+      "word": "Until",
+      "start": 145.246,
+      "end": 146.746,
+      "score": 0.817
+    },
+    {
+      "word": "the",
+      "start": 146.766,
+      "end": 146.886,
+      "score": 0.705
+    },
+    {
+      "word": "dawn",
+      "start": 146.926,
+      "end": 147.246,
+      "score": 0.615
+    }
+  ]
+}
