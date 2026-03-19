@@ -1,0 +1,3793 @@
+{
+  "segments": [
+    {
+      "start": 0.62,
+      "end": 234.136,
+      "text": "Old ways\nHard truths\nBuilt on the rock of a heavy youth\nWe see your face in the mirror\nLooking for a way back home\nTrying to find something clearer\nWalking this path alone\nTough love\nWide arms\nShielding your soul from the modern harms\nCome back to the fold\nSafe inside the fence\nDoing what we are told\nLosing every defense\nWe love you too much to let you go\nWe love you too much to say it's right\nToo much to let you go\nToo much to say it's right\nBack to the family\nBack to the light\nWe love you too much\nWe love you too much\nThe sound of belonging is here tonight\nToo much\nToo much\nWrong turns\nCold rain\nWashing away every secret stain\nStop\nListen\nFaith is a gift that you might have missing\nHard to swallow\nBitter pill\nClimbing up the steepest hill\nIron gate\nOpen wide\nNowhere left for you to hide\nPure heart\nWhite sand\nSifting the grain with a steady hand\nWe love you too much to let you go\nWe love you too much to say it's right\nToo much to let you go\nToo much to say it's right\nBack to the family\nBack to the light\nWe love you too much\nWe love you too much\nThe sound of belonging is here tonight\nToo much\nToo much\nWe pray for you\nWe fast for you\nWe wait for you\nUntil the morning\nUntil the healing\nUntil the turning\nGive it up\nPut it down\nWear the crown\nThe old you is dead and gone\nWe love you too much to let you go\nWe love you too much to say it's right\nToo much to let you go\nToo much to say it's right\nBack to the family\nBack to the light\nWe love you too much\nWe love you too much\nThe sound of belonging is here tonight\nToo much\nToo much\nToo much\nToo much\nSafe now\nHome now\nFinally one of us\nDon't look back\nNever look back\nWe love you too much\nWe love you too much",
+      "words": [
+        {
+          "word": "Old",
+          "start": 0.62,
+          "end": 0.86,
+          "score": 0.753
+        },
+        {
+          "word": "ways\nHard",
+          "start": 0.96,
+          "end": 2.38,
+          "score": 0.733
+        },
+        {
+          "word": "truths\nBuilt",
+          "start": 2.42,
+          "end": 3.48,
+          "score": 0.526
+        },
+        {
+          "word": "on",
+          "start": 3.58,
+          "end": 3.68,
+          "score": 0.594
+        },
+        {
+          "word": "the",
+          "start": 3.74,
+          "end": 3.88,
+          "score": 0.545
+        },
+        {
+          "word": "rock",
+          "start": 3.96,
+          "end": 4.36,
+          "score": 0.663
+        },
+        {
+          "word": "of",
+          "start": 4.48,
+          "end": 4.56,
+          "score": 0.618
+        },
+        {
+          "word": "a",
+          "start": 4.64,
+          "end": 4.7,
+          "score": 0.433
+        },
+        {
+          "word": "heavy",
+          "start": 4.76,
+          "end": 5.62,
+          "score": 0.806
+        },
+        {
+          "word": "youth\nWe",
+          "start": 5.66,
+          "end": 6.68,
+          "score": 0.725
+        },
+        {
+          "word": "see",
+          "start": 6.78,
+          "end": 6.86,
+          "score": 0.34
+        },
+        {
+          "word": "your",
+          "start": 6.94,
+          "end": 7.24,
+          "score": 0.371
+        },
+        {
+          "word": "face",
+          "start": 7.32,
+          "end": 7.741,
+          "score": 0.651
+        },
+        {
+          "word": "in",
+          "start": 7.861,
+          "end": 7.961,
+          "score": 0.662
+        },
+        {
+          "word": "the",
+          "start": 8.001,
+          "end": 8.121,
+          "score": 0.36
+        },
+        {
+          "word": "mirror\nLooking",
+          "start": 8.221,
+          "end": 10.281,
+          "score": 0.713
+        },
+        {
+          "word": "for",
+          "start": 10.341,
+          "end": 10.521,
+          "score": 0.469
+        },
+        {
+          "word": "a",
+          "start": 10.781,
+          "end": 10.981,
+          "score": 0.798
+        },
+        {
+          "word": "way",
+          "start": 11.021,
+          "end": 11.181,
+          "score": 0.618
+        },
+        {
+          "word": "back",
+          "start": 11.241,
+          "end": 11.581,
+          "score": 0.5
+        },
+        {
+          "word": "home\nTrying",
+          "start": 11.681,
+          "end": 14.061,
+          "score": 0.654
+        },
+        {
+          "word": "to",
+          "start": 15.241,
+          "end": 15.801,
+          "score": 0.8
+        },
+        {
+          "word": "find",
+          "start": 15.901,
+          "end": 16.321,
+          "score": 0.644
+        },
+        {
+          "word": "something",
+          "start": 16.361,
+          "end": 16.701,
+          "score": 0.408
+        },
+        {
+          "word": "clearer\nWalking",
+          "start": 16.761,
+          "end": 18.381,
+          "score": 0.665
+        },
+        {
+          "word": "this",
+          "start": 18.501,
+          "end": 19.121,
+          "score": 0.601
+        },
+        {
+          "word": "path",
+          "start": 19.161,
+          "end": 19.841,
+          "score": 0.548
+        },
+        {
+          "word": "alone\nTough",
+          "start": 19.921,
+          "end": 21.121,
+          "score": 0.486
+        },
+        {
+          "word": "love\nWide",
+          "start": 21.321,
+          "end": 22.622,
+          "score": 0.665
+        },
+        {
+          "word": "arms\nShielding",
+          "start": 22.922,
+          "end": 23.722,
+          "score": 0.402
+        },
+        {
+          "word": "your",
+          "start": 23.842,
+          "end": 24.082,
+          "score": 0.542
+        },
+        {
+          "word": "soul",
+          "start": 24.462,
+          "end": 24.882,
+          "score": 0.617
+        },
+        {
+          "word": "from",
+          "start": 24.922,
+          "end": 25.122,
+          "score": 0.638
+        },
+        {
+          "word": "the",
+          "start": 25.142,
+          "end": 25.242,
+          "score": 0.431
+        },
+        {
+          "word": "modern",
+          "start": 25.362,
+          "end": 27.042,
+          "score": 0.73
+        },
+        {
+          "word": "harms\nCome",
+          "start": 27.142,
+          "end": 28.122,
+          "score": 0.546
+        },
+        {
+          "word": "back",
+          "start": 28.162,
+          "end": 28.382,
+          "score": 0.471
+        },
+        {
+          "word": "to",
+          "start": 28.402,
+          "end": 28.542,
+          "score": 0.606
+        },
+        {
+          "word": "the",
+          "start": 28.562,
+          "end": 28.662,
+          "score": 0.342
+        },
+        {
+          "word": "fold\nSafe",
+          "start": 28.762,
+          "end": 29.622,
+          "score": 0.589
+        },
+        {
+          "word": "inside",
+          "start": 29.702,
+          "end": 30.062,
+          "score": 0.366
+        },
+        {
+          "word": "the",
+          "start": 30.102,
+          "end": 30.202,
+          "score": 0.287
+        },
+        {
+          "word": "fence\nDoing",
+          "start": 30.262,
+          "end": 30.922,
+          "score": 0.433
+        },
+        {
+          "word": "what",
+          "start": 30.962,
+          "end": 31.282,
+          "score": 0.392
+        },
+        {
+          "word": "we",
+          "start": 31.362,
+          "end": 31.762,
+          "score": 0.664
+        },
+        {
+          "word": "are",
+          "start": 31.902,
+          "end": 32.182,
+          "score": 0.619
+        },
+        {
+          "word": "told\nLosing",
+          "start": 32.222,
+          "end": 33.082,
+          "score": 0.583
+        },
+        {
+          "word": "every",
+          "start": 33.162,
+          "end": 33.482,
+          "score": 0.726
+        },
+        {
+          "word": "defense\nWe",
+          "start": 33.522,
+          "end": 35.802,
+          "score": 0.857
+        },
+        {
+          "word": "love",
+          "start": 35.862,
+          "end": 36.062,
+          "score": 0.487
+        },
+        {
+          "word": "you",
+          "start": 36.122,
+          "end": 36.242,
+          "score": 0.22
+        },
+        {
+          "word": "too",
+          "start": 36.302,
+          "end": 36.542,
+          "score": 0.581
+        },
+        {
+          "word": "much",
+          "start": 36.782,
+          "end": 37.022,
+          "score": 0.422
+        },
+        {
+          "word": "to",
+          "start": 37.143,
+          "end": 37.343,
+          "score": 0.75
+        },
+        {
+          "word": "let",
+          "start": 37.363,
+          "end": 37.703,
+          "score": 0.619
+        },
+        {
+          "word": "you",
+          "start": 37.743,
+          "end": 37.963,
+          "score": 0.637
+        },
+        {
+          "word": "go\nWe",
+          "start": 38.023,
+          "end": 39.223,
+          "score": 0.912
+        },
+        {
+          "word": "love",
+          "start": 39.283,
+          "end": 39.383,
+          "score": 0.134
+        },
+        {
+          "word": "you",
+          "start": 39.483,
+          "end": 39.643,
+          "score": 0.578
+        },
+        {
+          "word": "too",
+          "start": 39.703,
+          "end": 39.983,
+          "score": 0.788
+        },
+        {
+          "word": "much",
+          "start": 40.183,
+          "end": 40.383,
+          "score": 0.521
+        },
+        {
+          "word": "to",
+          "start": 40.403,
+          "end": 40.483,
+          "score": 0.302
+        },
+        {
+          "word": "say",
+          "start": 40.763,
+          "end": 41.103,
+          "score": 0.784
+        },
+        {
+          "word": "it's",
+          "start": 41.223,
+          "end": 41.323,
+          "score": 0.204
+        },
+        {
+          "word": "right\nToo",
+          "start": 41.443,
+          "end": 42.683,
+          "score": 0.731
+        },
+        {
+          "word": "much",
+          "start": 42.723,
+          "end": 43.003,
+          "score": 0.606
+        },
+        {
+          "word": "to",
+          "start": 43.103,
+          "end": 43.343,
+          "score": 0.849
+        },
+        {
+          "word": "let",
+          "start": 43.403,
+          "end": 43.663,
+          "score": 0.714
+        },
+        {
+          "word": "you",
+          "start": 43.723,
+          "end": 43.943,
+          "score": 0.644
+        },
+        {
+          "word": "go\nToo",
+          "start": 44.003,
+          "end": 46.083,
+          "score": 0.69
+        },
+        {
+          "word": "much",
+          "start": 46.143,
+          "end": 46.443,
+          "score": 0.705
+        },
+        {
+          "word": "to",
+          "start": 46.463,
+          "end": 46.583,
+          "score": 0.512
+        },
+        {
+          "word": "say",
+          "start": 46.743,
+          "end": 47.163,
+          "score": 0.814
+        },
+        {
+          "word": "it's",
+          "start": 47.203,
+          "end": 47.303,
+          "score": 0.105
+        },
+        {
+          "word": "right\nBack",
+          "start": 47.423,
+          "end": 48.963,
+          "score": 0.527
+        },
+        {
+          "word": "to",
+          "start": 48.983,
+          "end": 49.123,
+          "score": 0.592
+        },
+        {
+          "word": "the",
+          "start": 49.183,
+          "end": 49.243,
+          "score": 0.066
+        },
+        {
+          "word": "family\nBack",
+          "start": 49.323,
+          "end": 49.983,
+          "score": 0.381
+        },
+        {
+          "word": "to",
+          "start": 50.003,
+          "end": 50.623,
+          "score": 0.906
+        },
+        {
+          "word": "the",
+          "start": 50.663,
+          "end": 50.903,
+          "score": 0.544
+        },
+        {
+          "word": "light\nWe",
+          "start": 51.223,
+          "end": 52.164,
+          "score": 0.595
+        },
+        {
+          "word": "love",
+          "start": 52.184,
+          "end": 52.504,
+          "score": 0.517
+        },
+        {
+          "word": "you",
+          "start": 52.564,
+          "end": 52.824,
+          "score": 0.738
+        },
+        {
+          "word": "too",
+          "start": 53.244,
+          "end": 53.844,
+          "score": 0.542
+        },
+        {
+          "word": "much\nWe",
+          "start": 53.864,
+          "end": 54.684,
+          "score": 0.703
+        },
+        {
+          "word": "love",
+          "start": 54.784,
+          "end": 55.184,
+          "score": 0.66
+        },
+        {
+          "word": "you",
+          "start": 55.264,
+          "end": 61.124,
+          "score": 0.964
+        },
+        {
+          "word": "too",
+          "start": 61.964,
+          "end": 62.324,
+          "score": 0.827
+        },
+        {
+          "word": "much\nThe",
+          "start": 62.464,
+          "end": 70.165,
+          "score": 0.876
+        },
+        {
+          "word": "sound",
+          "start": 70.965,
+          "end": 75.625,
+          "score": 0.326
+        },
+        {
+          "word": "of",
+          "start": 75.685,
+          "end": 75.785,
+          "score": 0.382
+        },
+        {
+          "word": "belonging",
+          "start": 75.945,
+          "end": 76.625,
+          "score": 0.459
+        },
+        {
+          "word": "is",
+          "start": 76.645,
+          "end": 76.785,
+          "score": 0.478
+        },
+        {
+          "word": "here",
+          "start": 76.805,
+          "end": 76.945,
+          "score": 0.401
+        },
+        {
+          "word": "tonight\nToo",
+          "start": 77.025,
+          "end": 77.705,
+          "score": 0.48
+        },
+        {
+          "word": "much\nToo",
+          "start": 77.745,
+          "end": 78.205,
+          "score": 0.387
+        },
+        {
+          "word": "much\nWrong",
+          "start": 78.265,
+          "end": 79.205,
+          "score": 0.528
+        },
+        {
+          "word": "turns\nCold",
+          "start": 79.345,
+          "end": 80.125,
+          "score": 0.596
+        },
+        {
+          "word": "rain\nWashing",
+          "start": 80.225,
+          "end": 81.405,
+          "score": 0.724
+        },
+        {
+          "word": "away",
+          "start": 81.465,
+          "end": 82.006,
+          "score": 0.593
+        },
+        {
+          "word": "every",
+          "start": 82.226,
+          "end": 82.666,
+          "score": 0.366
+        },
+        {
+          "word": "secret",
+          "start": 82.706,
+          "end": 83.366,
+          "score": 0.632
+        },
+        {
+          "word": "stain\nStop\nListen\nFaith",
+          "start": 83.626,
+          "end": 85.826,
+          "score": 0.533
+        },
+        {
+          "word": "is",
+          "start": 85.886,
+          "end": 86.006,
+          "score": 0.556
+        },
+        {
+          "word": "a",
+          "start": 86.066,
+          "end": 86.126,
+          "score": 0.641
+        },
+        {
+          "word": "gift",
+          "start": 86.226,
+          "end": 86.566,
+          "score": 0.541
+        },
+        {
+          "word": "that",
+          "start": 86.606,
+          "end": 86.806,
+          "score": 0.66
+        },
+        {
+          "word": "you",
+          "start": 86.826,
+          "end": 87.006,
+          "score": 0.589
+        },
+        {
+          "word": "might",
+          "start": 87.066,
+          "end": 87.466,
+          "score": 0.625
+        },
+        {
+          "word": "have",
+          "start": 87.546,
+          "end": 87.866,
+          "score": 0.663
+        },
+        {
+          "word": "missing\nHard",
+          "start": 87.906,
+          "end": 89.406,
+          "score": 0.682
+        },
+        {
+          "word": "to",
+          "start": 89.446,
+          "end": 89.826,
+          "score": 0.773
+        },
+        {
+          "word": "swallow\nBitter",
+          "start": 89.846,
+          "end": 91.546,
+          "score": 0.52
+        },
+        {
+          "word": "pill\nClimbing",
+          "start": 91.606,
+          "end": 93.226,
+          "score": 0.478
+        },
+        {
+          "word": "up",
+          "start": 93.426,
+          "end": 93.526,
+          "score": 0.32
+        },
+        {
+          "word": "the",
+          "start": 93.546,
+          "end": 93.826,
+          "score": 0.571
+        },
+        {
+          "word": "steepest",
+          "start": 94.126,
+          "end": 94.626,
+          "score": 0.594
+        },
+        {
+          "word": "hill\nIron",
+          "start": 94.746,
+          "end": 95.506,
+          "score": 0.487
+        },
+        {
+          "word": "gate\nOpen",
+          "start": 95.766,
+          "end": 96.787,
+          "score": 0.686
+        },
+        {
+          "word": "wide\nNowhere",
+          "start": 96.927,
+          "end": 97.727,
+          "score": 0.53
+        },
+        {
+          "word": "left",
+          "start": 97.787,
+          "end": 98.067,
+          "score": 0.532
+        },
+        {
+          "word": "for",
+          "start": 98.167,
+          "end": 98.547,
+          "score": 0.723
+        },
+        {
+          "word": "you",
+          "start": 98.687,
+          "end": 98.927,
+          "score": 0.549
+        },
+        {
+          "word": "to",
+          "start": 99.027,
+          "end": 99.407,
+          "score": 0.81
+        },
+        {
+          "word": "hide\nPure",
+          "start": 99.527,
+          "end": 100.687,
+          "score": 0.763
+        },
+        {
+          "word": "heart\nWhite",
+          "start": 100.807,
+          "end": 101.447,
+          "score": 0.308
+        },
+        {
+          "word": "sand\nSifting",
+          "start": 101.547,
+          "end": 102.687,
+          "score": 0.624
+        },
+        {
+          "word": "the",
+          "start": 102.907,
+          "end": 103.227,
+          "score": 0.632
+        },
+        {
+          "word": "grain",
+          "start": 103.307,
+          "end": 103.767,
+          "score": 0.506
+        },
+        {
+          "word": "with",
+          "start": 103.807,
+          "end": 104.047,
+          "score": 0.499
+        },
+        {
+          "word": "a",
+          "start": 104.407,
+          "end": 104.547,
+          "score": 0.85
+        },
+        {
+          "word": "steady",
+          "start": 104.647,
+          "end": 105.787,
+          "score": 0.59
+        },
+        {
+          "word": "hand\nWe",
+          "start": 105.867,
+          "end": 107.807,
+          "score": 0.745
+        },
+        {
+          "word": "love",
+          "start": 107.847,
+          "end": 108.067,
+          "score": 0.417
+        },
+        {
+          "word": "you",
+          "start": 108.127,
+          "end": 108.227,
+          "score": 0.222
+        },
+        {
+          "word": "too",
+          "start": 108.287,
+          "end": 108.707,
+          "score": 0.819
+        },
+        {
+          "word": "much",
+          "start": 108.767,
+          "end": 109.027,
+          "score": 0.443
+        },
+        {
+          "word": "to",
+          "start": 109.127,
+          "end": 109.327,
+          "score": 0.798
+        },
+        {
+          "word": "let",
+          "start": 109.347,
+          "end": 109.707,
+          "score": 0.482
+        },
+        {
+          "word": "you",
+          "start": 109.747,
+          "end": 109.947,
+          "score": 0.679
+        },
+        {
+          "word": "go\nWe",
+          "start": 110.027,
+          "end": 111.207,
+          "score": 0.852
+        },
+        {
+          "word": "love",
+          "start": 111.227,
+          "end": 111.448,
+          "score": 0.434
+        },
+        {
+          "word": "you",
+          "start": 111.528,
+          "end": 111.648,
+          "score": 0.362
+        },
+        {
+          "word": "too",
+          "start": 111.708,
+          "end": 112.088,
+          "score": 0.836
+        },
+        {
+          "word": "much",
+          "start": 112.168,
+          "end": 112.388,
+          "score": 0.476
+        },
+        {
+          "word": "to",
+          "start": 112.408,
+          "end": 112.488,
+          "score": 0.315
+        },
+        {
+          "word": "say",
+          "start": 112.768,
+          "end": 113.148,
+          "score": 0.88
+        },
+        {
+          "word": "it's",
+          "start": 113.208,
+          "end": 113.328,
+          "score": 0.249
+        },
+        {
+          "word": "right\nToo",
+          "start": 113.448,
+          "end": 114.688,
+          "score": 0.472
+        },
+        {
+          "word": "much",
+          "start": 114.728,
+          "end": 115.008,
+          "score": 0.585
+        },
+        {
+          "word": "to",
+          "start": 115.108,
+          "end": 115.328,
+          "score": 0.78
+        },
+        {
+          "word": "let",
+          "start": 115.388,
+          "end": 115.688,
+          "score": 0.702
+        },
+        {
+          "word": "you",
+          "start": 115.728,
+          "end": 115.928,
+          "score": 0.696
+        },
+        {
+          "word": "go\nToo",
+          "start": 115.988,
+          "end": 118.088,
+          "score": 0.796
+        },
+        {
+          "word": "much",
+          "start": 118.108,
+          "end": 118.348,
+          "score": 0.422
+        },
+        {
+          "word": "to",
+          "start": 118.368,
+          "end": 118.468,
+          "score": 0.367
+        },
+        {
+          "word": "say",
+          "start": 118.748,
+          "end": 119.168,
+          "score": 0.808
+        },
+        {
+          "word": "it's",
+          "start": 119.208,
+          "end": 119.308,
+          "score": 0.126
+        },
+        {
+          "word": "right\nBack",
+          "start": 119.408,
+          "end": 120.968,
+          "score": 0.564
+        },
+        {
+          "word": "to",
+          "start": 120.988,
+          "end": 121.148,
+          "score": 0.714
+        },
+        {
+          "word": "the",
+          "start": 121.168,
+          "end": 121.248,
+          "score": 0.515
+        },
+        {
+          "word": "family\nBack",
+          "start": 121.328,
+          "end": 122.628,
+          "score": 0.567
+        },
+        {
+          "word": "to",
+          "start": 122.648,
+          "end": 122.848,
+          "score": 0.782
+        },
+        {
+          "word": "the",
+          "start": 122.908,
+          "end": 123.028,
+          "score": 0.265
+        },
+        {
+          "word": "light\nWe",
+          "start": 123.068,
+          "end": 123.928,
+          "score": 0.556
+        },
+        {
+          "word": "love",
+          "start": 123.988,
+          "end": 124.128,
+          "score": 0.192
+        },
+        {
+          "word": "you",
+          "start": 124.248,
+          "end": 124.508,
+          "score": 0.286
+        },
+        {
+          "word": "too",
+          "start": 124.588,
+          "end": 124.808,
+          "score": 0.316
+        },
+        {
+          "word": "much\nWe",
+          "start": 124.848,
+          "end": 125.328,
+          "score": 0.349
+        },
+        {
+          "word": "love",
+          "start": 125.628,
+          "end": 126.229,
+          "score": 0.586
+        },
+        {
+          "word": "you",
+          "start": 126.309,
+          "end": 126.489,
+          "score": 0.516
+        },
+        {
+          "word": "too",
+          "start": 126.529,
+          "end": 126.669,
+          "score": 0.263
+        },
+        {
+          "word": "much\nThe",
+          "start": 126.809,
+          "end": 127.189,
+          "score": 0.358
+        },
+        {
+          "word": "sound",
+          "start": 133.989,
+          "end": 134.269,
+          "score": 0.593
+        },
+        {
+          "word": "of",
+          "start": 134.289,
+          "end": 134.329,
+          "score": 0.0
+        },
+        {
+          "word": "belonging",
+          "start": 134.449,
+          "end": 142.03,
+          "score": 0.611
+        },
+        {
+          "word": "is",
+          "start": 142.87,
+          "end": 143.91,
+          "score": 0.879
+        },
+        {
+          "word": "here",
+          "start": 144.57,
+          "end": 145.65,
+          "score": 0.781
+        },
+        {
+          "word": "tonight\nToo",
+          "start": 147.25,
+          "end": 160.151,
+          "score": 0.836
+        },
+        {
+          "word": "much\nToo",
+          "start": 161.251,
+          "end": 162.431,
+          "score": 0.542
+        },
+        {
+          "word": "much\nWe",
+          "start": 162.491,
+          "end": 162.831,
+          "score": 0.399
+        },
+        {
+          "word": "pray",
+          "start": 162.851,
+          "end": 163.091,
+          "score": 0.306
+        },
+        {
+          "word": "for",
+          "start": 163.131,
+          "end": 163.391,
+          "score": 0.657
+        },
+        {
+          "word": "you\nWe",
+          "start": 163.431,
+          "end": 163.891,
+          "score": 0.755
+        },
+        {
+          "word": "fast",
+          "start": 163.971,
+          "end": 164.291,
+          "score": 0.61
+        },
+        {
+          "word": "for",
+          "start": 164.371,
+          "end": 164.631,
+          "score": 0.677
+        },
+        {
+          "word": "you\nWe",
+          "start": 164.651,
+          "end": 165.231,
+          "score": 0.753
+        },
+        {
+          "word": "wait",
+          "start": 165.291,
+          "end": 165.611,
+          "score": 0.714
+        },
+        {
+          "word": "for",
+          "start": 165.651,
+          "end": 165.891,
+          "score": 0.621
+        },
+        {
+          "word": "you\nUntil",
+          "start": 165.931,
+          "end": 166.911,
+          "score": 0.72
+        },
+        {
+          "word": "the",
+          "start": 166.971,
+          "end": 167.111,
+          "score": 0.754
+        },
+        {
+          "word": "morning\nUntil",
+          "start": 167.211,
+          "end": 169.931,
+          "score": 0.744
+        },
+        {
+          "word": "the",
+          "start": 169.971,
+          "end": 170.091,
+          "score": 0.908
+        },
+        {
+          "word": "healing\nUntil",
+          "start": 170.171,
+          "end": 171.632,
+          "score": 0.66
+        },
+        {
+          "word": "the",
+          "start": 171.672,
+          "end": 171.812,
+          "score": 0.843
+        },
+        {
+          "word": "turning\nGive",
+          "start": 171.892,
+          "end": 173.232,
+          "score": 0.663
+        },
+        {
+          "word": "it",
+          "start": 173.352,
+          "end": 173.472,
+          "score": 0.642
+        },
+        {
+          "word": "up\nPut",
+          "start": 173.692,
+          "end": 174.332,
+          "score": 0.551
+        },
+        {
+          "word": "it",
+          "start": 174.532,
+          "end": 174.652,
+          "score": 0.618
+        },
+        {
+          "word": "down\nWear",
+          "start": 174.712,
+          "end": 175.752,
+          "score": 0.651
+        },
+        {
+          "word": "the",
+          "start": 175.772,
+          "end": 175.832,
+          "score": 0.055
+        },
+        {
+          "word": "crown\nThe",
+          "start": 175.992,
+          "end": 176.712,
+          "score": 0.567
+        },
+        {
+          "word": "old",
+          "start": 176.732,
+          "end": 177.012,
+          "score": 0.447
+        },
+        {
+          "word": "you",
+          "start": 177.072,
+          "end": 177.252,
+          "score": 0.492
+        },
+        {
+          "word": "is",
+          "start": 177.332,
+          "end": 177.392,
+          "score": 0.288
+        },
+        {
+          "word": "dead",
+          "start": 177.492,
+          "end": 177.752,
+          "score": 0.551
+        },
+        {
+          "word": "and",
+          "start": 177.772,
+          "end": 177.912,
+          "score": 0.472
+        },
+        {
+          "word": "gone\nWe",
+          "start": 177.952,
+          "end": 179.812,
+          "score": 0.859
+        },
+        {
+          "word": "love",
+          "start": 179.852,
+          "end": 180.072,
+          "score": 0.364
+        },
+        {
+          "word": "you",
+          "start": 180.092,
+          "end": 180.232,
+          "score": 0.401
+        },
+        {
+          "word": "too",
+          "start": 180.312,
+          "end": 180.672,
+          "score": 0.779
+        },
+        {
+          "word": "much",
+          "start": 180.772,
+          "end": 181.032,
+          "score": 0.594
+        },
+        {
+          "word": "to",
+          "start": 181.132,
+          "end": 181.332,
+          "score": 0.692
+        },
+        {
+          "word": "let",
+          "start": 181.372,
+          "end": 181.712,
+          "score": 0.728
+        },
+        {
+          "word": "you",
+          "start": 181.772,
+          "end": 181.972,
+          "score": 0.654
+        },
+        {
+          "word": "go\nWe",
+          "start": 182.032,
+          "end": 183.252,
+          "score": 0.851
+        },
+        {
+          "word": "love",
+          "start": 183.292,
+          "end": 183.672,
+          "score": 0.632
+        },
+        {
+          "word": "you",
+          "start": 183.732,
+          "end": 183.932,
+          "score": 0.687
+        },
+        {
+          "word": "too",
+          "start": 183.952,
+          "end": 184.112,
+          "score": 0.385
+        },
+        {
+          "word": "much",
+          "start": 184.192,
+          "end": 184.392,
+          "score": 0.373
+        },
+        {
+          "word": "to",
+          "start": 184.412,
+          "end": 184.512,
+          "score": 0.334
+        },
+        {
+          "word": "say",
+          "start": 184.752,
+          "end": 185.152,
+          "score": 0.862
+        },
+        {
+          "word": "it's",
+          "start": 185.192,
+          "end": 185.352,
+          "score": 0.461
+        },
+        {
+          "word": "right\nToo",
+          "start": 185.452,
+          "end": 186.673,
+          "score": 0.658
+        },
+        {
+          "word": "much",
+          "start": 186.733,
+          "end": 187.013,
+          "score": 0.601
+        },
+        {
+          "word": "to",
+          "start": 187.113,
+          "end": 187.353,
+          "score": 0.849
+        },
+        {
+          "word": "let",
+          "start": 187.393,
+          "end": 187.693,
+          "score": 0.716
+        },
+        {
+          "word": "you",
+          "start": 187.753,
+          "end": 187.973,
+          "score": 0.657
+        },
+        {
+          "word": "go\nToo",
+          "start": 188.013,
+          "end": 190.113,
+          "score": 0.739
+        },
+        {
+          "word": "much",
+          "start": 190.173,
+          "end": 190.453,
+          "score": 0.666
+        },
+        {
+          "word": "to",
+          "start": 190.473,
+          "end": 190.633,
+          "score": 0.442
+        },
+        {
+          "word": "say",
+          "start": 190.773,
+          "end": 191.213,
+          "score": 0.785
+        },
+        {
+          "word": "it's",
+          "start": 191.233,
+          "end": 191.333,
+          "score": 0.069
+        },
+        {
+          "word": "right\nBack",
+          "start": 191.453,
+          "end": 192.973,
+          "score": 0.529
+        },
+        {
+          "word": "to",
+          "start": 192.993,
+          "end": 193.173,
+          "score": 0.697
+        },
+        {
+          "word": "the",
+          "start": 193.213,
+          "end": 193.273,
+          "score": 0.579
+        },
+        {
+          "word": "family\nBack",
+          "start": 193.353,
+          "end": 194.653,
+          "score": 0.704
+        },
+        {
+          "word": "to",
+          "start": 194.673,
+          "end": 194.873,
+          "score": 0.729
+        },
+        {
+          "word": "the",
+          "start": 194.913,
+          "end": 195.053,
+          "score": 0.491
+        },
+        {
+          "word": "light\nWe",
+          "start": 195.113,
+          "end": 196.133,
+          "score": 0.708
+        },
+        {
+          "word": "love",
+          "start": 196.193,
+          "end": 196.553,
+          "score": 0.626
+        },
+        {
+          "word": "you",
+          "start": 196.593,
+          "end": 196.793,
+          "score": 0.529
+        },
+        {
+          "word": "too",
+          "start": 196.833,
+          "end": 196.953,
+          "score": 0.221
+        },
+        {
+          "word": "much\nWe",
+          "start": 197.033,
+          "end": 197.873,
+          "score": 0.656
+        },
+        {
+          "word": "love",
+          "start": 197.893,
+          "end": 198.113,
+          "score": 0.329
+        },
+        {
+          "word": "you",
+          "start": 198.133,
+          "end": 198.233,
+          "score": 0.199
+        },
+        {
+          "word": "too",
+          "start": 198.293,
+          "end": 198.673,
+          "score": 0.658
+        },
+        {
+          "word": "much\nThe",
+          "start": 198.753,
+          "end": 199.193,
+          "score": 0.39
+        },
+        {
+          "word": "sound",
+          "start": 199.293,
+          "end": 199.633,
+          "score": 0.532
+        },
+        {
+          "word": "of",
+          "start": 200.113,
+          "end": 200.293,
+          "score": 0.727
+        },
+        {
+          "word": "belonging",
+          "start": 200.434,
+          "end": 201.494,
+          "score": 0.525
+        },
+        {
+          "word": "is",
+          "start": 201.614,
+          "end": 201.814,
+          "score": 0.452
+        },
+        {
+          "word": "here",
+          "start": 201.914,
+          "end": 202.294,
+          "score": 0.602
+        },
+        {
+          "word": "tonight\nToo",
+          "start": 202.394,
+          "end": 203.914,
+          "score": 0.45
+        },
+        {
+          "word": "much\nToo",
+          "start": 205.414,
+          "end": 206.374,
+          "score": 0.629
+        },
+        {
+          "word": "much\nToo",
+          "start": 206.474,
+          "end": 207.814,
+          "score": 0.557
+        },
+        {
+          "word": "much\nToo",
+          "start": 208.414,
+          "end": 210.774,
+          "score": 0.821
+        },
+        {
+          "word": "much\nSafe",
+          "start": 210.894,
+          "end": 212.434,
+          "score": 0.839
+        },
+        {
+          "word": "now\nHome",
+          "start": 212.794,
+          "end": 215.054,
+          "score": 0.854
+        },
+        {
+          "word": "now\nFinally",
+          "start": 215.355,
+          "end": 217.635,
+          "score": 0.686
+        },
+        {
+          "word": "one",
+          "start": 217.895,
+          "end": 218.095,
+          "score": 0.487
+        },
+        {
+          "word": "of",
+          "start": 218.755,
+          "end": 218.935,
+          "score": 0.426
+        },
+        {
+          "word": "us\nDon't",
+          "start": 219.575,
+          "end": 220.215,
+          "score": 0.678
+        },
+        {
+          "word": "look",
+          "start": 220.435,
+          "end": 220.675,
+          "score": 0.503
+        },
+        {
+          "word": "back\nNever",
+          "start": 220.735,
+          "end": 224.815,
+          "score": 0.597
+        },
+        {
+          "word": "look",
+          "start": 225.555,
+          "end": 225.815,
+          "score": 0.4
+        },
+        {
+          "word": "back\nWe",
+          "start": 226.395,
+          "end": 227.515,
+          "score": 0.689
+        },
+        {
+          "word": "love",
+          "start": 227.655,
+          "end": 228.355,
+          "score": 0.564
+        },
+        {
+          "word": "you",
+          "start": 228.975,
+          "end": 229.175,
+          "score": 0.504
+        },
+        {
+          "word": "too",
+          "start": 229.195,
+          "end": 230.015,
+          "score": 0.616
+        },
+        {
+          "word": "much\nWe",
+          "start": 230.256,
+          "end": 231.356,
+          "score": 0.791
+        },
+        {
+          "word": "love",
+          "start": 231.976,
+          "end": 232.656,
+          "score": 0.731
+        },
+        {
+          "word": "you",
+          "start": 232.756,
+          "end": 232.896,
+          "score": 0.268
+        },
+        {
+          "word": "too",
+          "start": 233.256,
+          "end": 233.516,
+          "score": 0.459
+        },
+        {
+          "word": "much",
+          "start": 233.656,
+          "end": 234.136,
+          "score": 0.442
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Old",
+      "start": 0.62,
+      "end": 0.86,
+      "score": 0.753
+    },
+    {
+      "word": "ways",
+      "start": 0.96,
+      "end": 1.67,
+      "score": 0.733
+    },
+    {
+      "word": "Hard",
+      "start": 1.67,
+      "end": 2.38,
+      "score": 0.733
+    },
+    {
+      "word": "truths",
+      "start": 2.42,
+      "end": 2.95,
+      "score": 0.526
+    },
+    {
+      "word": "Built",
+      "start": 2.95,
+      "end": 3.48,
+      "score": 0.526
+    },
+    {
+      "word": "on",
+      "start": 3.58,
+      "end": 3.68,
+      "score": 0.594
+    },
+    {
+      "word": "the",
+      "start": 3.74,
+      "end": 3.88,
+      "score": 0.545
+    },
+    {
+      "word": "rock",
+      "start": 3.96,
+      "end": 4.36,
+      "score": 0.663
+    },
+    {
+      "word": "of",
+      "start": 4.48,
+      "end": 4.56,
+      "score": 0.618
+    },
+    {
+      "word": "a",
+      "start": 4.64,
+      "end": 4.7,
+      "score": 0.433
+    },
+    {
+      "word": "heavy",
+      "start": 4.76,
+      "end": 5.62,
+      "score": 0.806
+    },
+    {
+      "word": "youth",
+      "start": 5.66,
+      "end": 6.17,
+      "score": 0.725
+    },
+    {
+      "word": "We",
+      "start": 6.17,
+      "end": 6.68,
+      "score": 0.725
+    },
+    {
+      "word": "see",
+      "start": 6.78,
+      "end": 6.86,
+      "score": 0.34
+    },
+    {
+      "word": "your",
+      "start": 6.94,
+      "end": 7.24,
+      "score": 0.371
+    },
+    {
+      "word": "face",
+      "start": 7.32,
+      "end": 7.741,
+      "score": 0.651
+    },
+    {
+      "word": "in",
+      "start": 7.861,
+      "end": 7.961,
+      "score": 0.662
+    },
+    {
+      "word": "the",
+      "start": 8.001,
+      "end": 8.121,
+      "score": 0.36
+    },
+    {
+      "word": "mirror",
+      "start": 8.221,
+      "end": 9.251,
+      "score": 0.713
+    },
+    {
+      "word": "Looking",
+      "start": 9.251,
+      "end": 10.281,
+      "score": 0.713
+    },
+    {
+      "word": "for",
+      "start": 10.341,
+      "end": 10.521,
+      "score": 0.469
+    },
+    {
+      "word": "a",
+      "start": 10.781,
+      "end": 10.981,
+      "score": 0.798
+    },
+    {
+      "word": "way",
+      "start": 11.021,
+      "end": 11.181,
+      "score": 0.618
+    },
+    {
+      "word": "back",
+      "start": 11.241,
+      "end": 11.581,
+      "score": 0.5
+    },
+    {
+      "word": "home",
+      "start": 11.681,
+      "end": 12.871,
+      "score": 0.654
+    },
+    {
+      "word": "Trying",
+      "start": 12.871,
+      "end": 14.061,
+      "score": 0.654
+    },
+    {
+      "word": "to",
+      "start": 15.241,
+      "end": 15.801,
+      "score": 0.8
+    },
+    {
+      "word": "find",
+      "start": 15.901,
+      "end": 16.321,
+      "score": 0.644
+    },
+    {
+      "word": "something",
+      "start": 16.361,
+      "end": 16.701,
+      "score": 0.408
+    },
+    {
+      "word": "clearer",
+      "start": 16.761,
+      "end": 17.571,
+      "score": 0.665
+    },
+    {
+      "word": "Walking",
+      "start": 17.571,
+      "end": 18.381,
+      "score": 0.665
+    },
+    {
+      "word": "this",
+      "start": 18.501,
+      "end": 19.121,
+      "score": 0.601
+    },
+    {
+      "word": "path",
+      "start": 19.161,
+      "end": 19.841,
+      "score": 0.548
+    },
+    {
+      "word": "alone",
+      "start": 19.921,
+      "end": 20.521,
+      "score": 0.486
+    },
+    {
+      "word": "Tough",
+      "start": 20.521,
+      "end": 21.121,
+      "score": 0.486
+    },
+    {
+      "word": "love",
+      "start": 21.321,
+      "end": 21.972,
+      "score": 0.665
+    },
+    {
+      "word": "Wide",
+      "start": 21.972,
+      "end": 22.622,
+      "score": 0.665
+    },
+    {
+      "word": "arms",
+      "start": 22.922,
+      "end": 23.322,
+      "score": 0.402
+    },
+    {
+      "word": "Shielding",
+      "start": 23.322,
+      "end": 23.722,
+      "score": 0.402
+    },
+    {
+      "word": "your",
+      "start": 23.842,
+      "end": 24.082,
+      "score": 0.542
+    },
+    {
+      "word": "soul",
+      "start": 24.462,
+      "end": 24.882,
+      "score": 0.617
+    },
+    {
+      "word": "from",
+      "start": 24.922,
+      "end": 25.122,
+      "score": 0.638
+    },
+    {
+      "word": "the",
+      "start": 25.142,
+      "end": 25.242,
+      "score": 0.431
+    },
+    {
+      "word": "modern",
+      "start": 25.362,
+      "end": 27.042,
+      "score": 0.73
+    },
+    {
+      "word": "harms",
+      "start": 27.142,
+      "end": 27.632,
+      "score": 0.546
+    },
+    {
+      "word": "Come",
+      "start": 27.632,
+      "end": 28.122,
+      "score": 0.546
+    },
+    {
+      "word": "back",
+      "start": 28.162,
+      "end": 28.382,
+      "score": 0.471
+    },
+    {
+      "word": "to",
+      "start": 28.402,
+      "end": 28.542,
+      "score": 0.606
+    },
+    {
+      "word": "the",
+      "start": 28.562,
+      "end": 28.662,
+      "score": 0.342
+    },
+    {
+      "word": "fold",
+      "start": 28.762,
+      "end": 29.192,
+      "score": 0.589
+    },
+    {
+      "word": "Safe",
+      "start": 29.192,
+      "end": 29.622,
+      "score": 0.589
+    },
+    {
+      "word": "inside",
+      "start": 29.702,
+      "end": 30.062,
+      "score": 0.366
+    },
+    {
+      "word": "the",
+      "start": 30.102,
+      "end": 30.202,
+      "score": 0.287
+    },
+    {
+      "word": "fence",
+      "start": 30.262,
+      "end": 30.592,
+      "score": 0.433
+    },
+    {
+      "word": "Doing",
+      "start": 30.592,
+      "end": 30.922,
+      "score": 0.433
+    },
+    {
+      "word": "what",
+      "start": 30.962,
+      "end": 31.282,
+      "score": 0.392
+    },
+    {
+      "word": "we",
+      "start": 31.362,
+      "end": 31.762,
+      "score": 0.664
+    },
+    {
+      "word": "are",
+      "start": 31.902,
+      "end": 32.182,
+      "score": 0.619
+    },
+    {
+      "word": "told",
+      "start": 32.222,
+      "end": 32.652,
+      "score": 0.583
+    },
+    {
+      "word": "Losing",
+      "start": 32.652,
+      "end": 33.082,
+      "score": 0.583
+    },
+    {
+      "word": "every",
+      "start": 33.162,
+      "end": 33.482,
+      "score": 0.726
+    },
+    {
+      "word": "defense",
+      "start": 33.522,
+      "end": 34.662,
+      "score": 0.857
+    },
+    {
+      "word": "We",
+      "start": 34.662,
+      "end": 35.802,
+      "score": 0.857
+    },
+    {
+      "word": "love",
+      "start": 35.862,
+      "end": 36.062,
+      "score": 0.487
+    },
+    {
+      "word": "you",
+      "start": 36.122,
+      "end": 36.242,
+      "score": 0.22
+    },
+    {
+      "word": "too",
+      "start": 36.302,
+      "end": 36.542,
+      "score": 0.581
+    },
+    {
+      "word": "much",
+      "start": 36.782,
+      "end": 37.022,
+      "score": 0.422
+    },
+    {
+      "word": "to",
+      "start": 37.143,
+      "end": 37.343,
+      "score": 0.75
+    },
+    {
+      "word": "let",
+      "start": 37.363,
+      "end": 37.703,
+      "score": 0.619
+    },
+    {
+      "word": "you",
+      "start": 37.743,
+      "end": 37.963,
+      "score": 0.637
+    },
+    {
+      "word": "go",
+      "start": 38.023,
+      "end": 38.623,
+      "score": 0.912
+    },
+    {
+      "word": "We",
+      "start": 38.623,
+      "end": 39.223,
+      "score": 0.912
+    },
+    {
+      "word": "love",
+      "start": 39.283,
+      "end": 39.383,
+      "score": 0.134
+    },
+    {
+      "word": "you",
+      "start": 39.483,
+      "end": 39.643,
+      "score": 0.578
+    },
+    {
+      "word": "too",
+      "start": 39.703,
+      "end": 39.983,
+      "score": 0.788
+    },
+    {
+      "word": "much",
+      "start": 40.183,
+      "end": 40.383,
+      "score": 0.521
+    },
+    {
+      "word": "to",
+      "start": 40.403,
+      "end": 40.483,
+      "score": 0.302
+    },
+    {
+      "word": "say",
+      "start": 40.763,
+      "end": 41.103,
+      "score": 0.784
+    },
+    {
+      "word": "it's",
+      "start": 41.223,
+      "end": 41.323,
+      "score": 0.204
+    },
+    {
+      "word": "right",
+      "start": 41.443,
+      "end": 42.063,
+      "score": 0.731
+    },
+    {
+      "word": "Too",
+      "start": 42.063,
+      "end": 42.683,
+      "score": 0.731
+    },
+    {
+      "word": "much",
+      "start": 42.723,
+      "end": 43.003,
+      "score": 0.606
+    },
+    {
+      "word": "to",
+      "start": 43.103,
+      "end": 43.343,
+      "score": 0.849
+    },
+    {
+      "word": "let",
+      "start": 43.403,
+      "end": 43.663,
+      "score": 0.714
+    },
+    {
+      "word": "you",
+      "start": 43.723,
+      "end": 43.943,
+      "score": 0.644
+    },
+    {
+      "word": "go",
+      "start": 44.003,
+      "end": 45.043,
+      "score": 0.69
+    },
+    {
+      "word": "Too",
+      "start": 45.043,
+      "end": 46.083,
+      "score": 0.69
+    },
+    {
+      "word": "much",
+      "start": 46.143,
+      "end": 46.443,
+      "score": 0.705
+    },
+    {
+      "word": "to",
+      "start": 46.463,
+      "end": 46.583,
+      "score": 0.512
+    },
+    {
+      "word": "say",
+      "start": 46.743,
+      "end": 47.163,
+      "score": 0.814
+    },
+    {
+      "word": "it's",
+      "start": 47.203,
+      "end": 47.303,
+      "score": 0.105
+    },
+    {
+      "word": "right",
+      "start": 47.423,
+      "end": 48.193,
+      "score": 0.527
+    },
+    {
+      "word": "Back",
+      "start": 48.193,
+      "end": 48.963,
+      "score": 0.527
+    },
+    {
+      "word": "to",
+      "start": 48.983,
+      "end": 49.123,
+      "score": 0.592
+    },
+    {
+      "word": "the",
+      "start": 49.183,
+      "end": 49.243,
+      "score": 0.066
+    },
+    {
+      "word": "family",
+      "start": 49.323,
+      "end": 49.653,
+      "score": 0.381
+    },
+    {
+      "word": "Back",
+      "start": 49.653,
+      "end": 49.983,
+      "score": 0.381
+    },
+    {
+      "word": "to",
+      "start": 50.003,
+      "end": 50.623,
+      "score": 0.906
+    },
+    {
+      "word": "the",
+      "start": 50.663,
+      "end": 50.903,
+      "score": 0.544
+    },
+    {
+      "word": "light",
+      "start": 51.223,
+      "end": 51.694,
+      "score": 0.595
+    },
+    {
+      "word": "We",
+      "start": 51.694,
+      "end": 52.164,
+      "score": 0.595
+    },
+    {
+      "word": "love",
+      "start": 52.184,
+      "end": 52.504,
+      "score": 0.517
+    },
+    {
+      "word": "you",
+      "start": 52.564,
+      "end": 52.824,
+      "score": 0.738
+    },
+    {
+      "word": "too",
+      "start": 53.244,
+      "end": 53.844,
+      "score": 0.542
+    },
+    {
+      "word": "much",
+      "start": 53.864,
+      "end": 54.274,
+      "score": 0.703
+    },
+    {
+      "word": "We",
+      "start": 54.274,
+      "end": 54.684,
+      "score": 0.703
+    },
+    {
+      "word": "love",
+      "start": 54.784,
+      "end": 55.184,
+      "score": 0.66
+    },
+    {
+      "word": "you",
+      "start": 55.264,
+      "end": 61.124,
+      "score": 0.964
+    },
+    {
+      "word": "too",
+      "start": 61.964,
+      "end": 62.324,
+      "score": 0.827
+    },
+    {
+      "word": "much",
+      "start": 62.464,
+      "end": 66.315,
+      "score": 0.876
+    },
+    {
+      "word": "The",
+      "start": 66.315,
+      "end": 70.165,
+      "score": 0.876
+    },
+    {
+      "word": "sound",
+      "start": 70.965,
+      "end": 75.625,
+      "score": 0.326
+    },
+    {
+      "word": "of",
+      "start": 75.685,
+      "end": 75.785,
+      "score": 0.382
+    },
+    {
+      "word": "belonging",
+      "start": 75.945,
+      "end": 76.625,
+      "score": 0.459
+    },
+    {
+      "word": "is",
+      "start": 76.645,
+      "end": 76.785,
+      "score": 0.478
+    },
+    {
+      "word": "here",
+      "start": 76.805,
+      "end": 76.945,
+      "score": 0.401
+    },
+    {
+      "word": "tonight",
+      "start": 77.025,
+      "end": 77.365,
+      "score": 0.48
+    },
+    {
+      "word": "Too",
+      "start": 77.365,
+      "end": 77.705,
+      "score": 0.48
+    },
+    {
+      "word": "much",
+      "start": 77.745,
+      "end": 77.975,
+      "score": 0.387
+    },
+    {
+      "word": "Too",
+      "start": 77.975,
+      "end": 78.205,
+      "score": 0.387
+    },
+    {
+      "word": "much",
+      "start": 78.265,
+      "end": 78.735,
+      "score": 0.528
+    },
+    {
+      "word": "Wrong",
+      "start": 78.735,
+      "end": 79.205,
+      "score": 0.528
+    },
+    {
+      "word": "turns",
+      "start": 79.345,
+      "end": 79.735,
+      "score": 0.596
+    },
+    {
+      "word": "Cold",
+      "start": 79.735,
+      "end": 80.125,
+      "score": 0.596
+    },
+    {
+      "word": "rain",
+      "start": 80.225,
+      "end": 80.815,
+      "score": 0.724
+    },
+    {
+      "word": "Washing",
+      "start": 80.815,
+      "end": 81.405,
+      "score": 0.724
+    },
+    {
+      "word": "away",
+      "start": 81.465,
+      "end": 82.006,
+      "score": 0.593
+    },
+    {
+      "word": "every",
+      "start": 82.226,
+      "end": 82.666,
+      "score": 0.366
+    },
+    {
+      "word": "secret",
+      "start": 82.706,
+      "end": 83.366,
+      "score": 0.632
+    },
+    {
+      "word": "stain",
+      "start": 83.626,
+      "end": 84.176,
+      "score": 0.533
+    },
+    {
+      "word": "Stop",
+      "start": 84.176,
+      "end": 84.726,
+      "score": 0.533
+    },
+    {
+      "word": "Listen",
+      "start": 84.726,
+      "end": 85.276,
+      "score": 0.533
+    },
+    {
+      "word": "Faith",
+      "start": 85.276,
+      "end": 85.826,
+      "score": 0.533
+    },
+    {
+      "word": "is",
+      "start": 85.886,
+      "end": 86.006,
+      "score": 0.556
+    },
+    {
+      "word": "a",
+      "start": 86.066,
+      "end": 86.126,
+      "score": 0.641
+    },
+    {
+      "word": "gift",
+      "start": 86.226,
+      "end": 86.566,
+      "score": 0.541
+    },
+    {
+      "word": "that",
+      "start": 86.606,
+      "end": 86.806,
+      "score": 0.66
+    },
+    {
+      "word": "you",
+      "start": 86.826,
+      "end": 87.006,
+      "score": 0.589
+    },
+    {
+      "word": "might",
+      "start": 87.066,
+      "end": 87.466,
+      "score": 0.625
+    },
+    {
+      "word": "have",
+      "start": 87.546,
+      "end": 87.866,
+      "score": 0.663
+    },
+    {
+      "word": "missing",
+      "start": 87.906,
+      "end": 88.656,
+      "score": 0.682
+    },
+    {
+      "word": "Hard",
+      "start": 88.656,
+      "end": 89.406,
+      "score": 0.682
+    },
+    {
+      "word": "to",
+      "start": 89.446,
+      "end": 89.826,
+      "score": 0.773
+    },
+    {
+      "word": "swallow",
+      "start": 89.846,
+      "end": 90.696,
+      "score": 0.52
+    },
+    {
+      "word": "Bitter",
+      "start": 90.696,
+      "end": 91.546,
+      "score": 0.52
+    },
+    {
+      "word": "pill",
+      "start": 91.606,
+      "end": 92.416,
+      "score": 0.478
+    },
+    {
+      "word": "Climbing",
+      "start": 92.416,
+      "end": 93.226,
+      "score": 0.478
+    },
+    {
+      "word": "up",
+      "start": 93.426,
+      "end": 93.526,
+      "score": 0.32
+    },
+    {
+      "word": "the",
+      "start": 93.546,
+      "end": 93.826,
+      "score": 0.571
+    },
+    {
+      "word": "steepest",
+      "start": 94.126,
+      "end": 94.626,
+      "score": 0.594
+    },
+    {
+      "word": "hill",
+      "start": 94.746,
+      "end": 95.126,
+      "score": 0.487
+    },
+    {
+      "word": "Iron",
+      "start": 95.126,
+      "end": 95.506,
+      "score": 0.487
+    },
+    {
+      "word": "gate",
+      "start": 95.766,
+      "end": 96.276,
+      "score": 0.686
+    },
+    {
+      "word": "Open",
+      "start": 96.276,
+      "end": 96.787,
+      "score": 0.686
+    },
+    {
+      "word": "wide",
+      "start": 96.927,
+      "end": 97.327,
+      "score": 0.53
+    },
+    {
+      "word": "Nowhere",
+      "start": 97.327,
+      "end": 97.727,
+      "score": 0.53
+    },
+    {
+      "word": "left",
+      "start": 97.787,
+      "end": 98.067,
+      "score": 0.532
+    },
+    {
+      "word": "for",
+      "start": 98.167,
+      "end": 98.547,
+      "score": 0.723
+    },
+    {
+      "word": "you",
+      "start": 98.687,
+      "end": 98.927,
+      "score": 0.549
+    },
+    {
+      "word": "to",
+      "start": 99.027,
+      "end": 99.407,
+      "score": 0.81
+    },
+    {
+      "word": "hide",
+      "start": 99.527,
+      "end": 100.107,
+      "score": 0.763
+    },
+    {
+      "word": "Pure",
+      "start": 100.107,
+      "end": 100.687,
+      "score": 0.763
+    },
+    {
+      "word": "heart",
+      "start": 100.807,
+      "end": 101.127,
+      "score": 0.308
+    },
+    {
+      "word": "White",
+      "start": 101.127,
+      "end": 101.447,
+      "score": 0.308
+    },
+    {
+      "word": "sand",
+      "start": 101.547,
+      "end": 102.117,
+      "score": 0.624
+    },
+    {
+      "word": "Sifting",
+      "start": 102.117,
+      "end": 102.687,
+      "score": 0.624
+    },
+    {
+      "word": "the",
+      "start": 102.907,
+      "end": 103.227,
+      "score": 0.632
+    },
+    {
+      "word": "grain",
+      "start": 103.307,
+      "end": 103.767,
+      "score": 0.506
+    },
+    {
+      "word": "with",
+      "start": 103.807,
+      "end": 104.047,
+      "score": 0.499
+    },
+    {
+      "word": "a",
+      "start": 104.407,
+      "end": 104.547,
+      "score": 0.85
+    },
+    {
+      "word": "steady",
+      "start": 104.647,
+      "end": 105.787,
+      "score": 0.59
+    },
+    {
+      "word": "hand",
+      "start": 105.867,
+      "end": 106.837,
+      "score": 0.745
+    },
+    {
+      "word": "We",
+      "start": 106.837,
+      "end": 107.807,
+      "score": 0.745
+    },
+    {
+      "word": "love",
+      "start": 107.847,
+      "end": 108.067,
+      "score": 0.417
+    },
+    {
+      "word": "you",
+      "start": 108.127,
+      "end": 108.227,
+      "score": 0.222
+    },
+    {
+      "word": "too",
+      "start": 108.287,
+      "end": 108.707,
+      "score": 0.819
+    },
+    {
+      "word": "much",
+      "start": 108.767,
+      "end": 109.027,
+      "score": 0.443
+    },
+    {
+      "word": "to",
+      "start": 109.127,
+      "end": 109.327,
+      "score": 0.798
+    },
+    {
+      "word": "let",
+      "start": 109.347,
+      "end": 109.707,
+      "score": 0.482
+    },
+    {
+      "word": "you",
+      "start": 109.747,
+      "end": 109.947,
+      "score": 0.679
+    },
+    {
+      "word": "go",
+      "start": 110.027,
+      "end": 110.617,
+      "score": 0.852
+    },
+    {
+      "word": "We",
+      "start": 110.617,
+      "end": 111.207,
+      "score": 0.852
+    },
+    {
+      "word": "love",
+      "start": 111.227,
+      "end": 111.448,
+      "score": 0.434
+    },
+    {
+      "word": "you",
+      "start": 111.528,
+      "end": 111.648,
+      "score": 0.362
+    },
+    {
+      "word": "too",
+      "start": 111.708,
+      "end": 112.088,
+      "score": 0.836
+    },
+    {
+      "word": "much",
+      "start": 112.168,
+      "end": 112.388,
+      "score": 0.476
+    },
+    {
+      "word": "to",
+      "start": 112.408,
+      "end": 112.488,
+      "score": 0.315
+    },
+    {
+      "word": "say",
+      "start": 112.768,
+      "end": 113.148,
+      "score": 0.88
+    },
+    {
+      "word": "it's",
+      "start": 113.208,
+      "end": 113.328,
+      "score": 0.249
+    },
+    {
+      "word": "right",
+      "start": 113.448,
+      "end": 114.068,
+      "score": 0.472
+    },
+    {
+      "word": "Too",
+      "start": 114.068,
+      "end": 114.688,
+      "score": 0.472
+    },
+    {
+      "word": "much",
+      "start": 114.728,
+      "end": 115.008,
+      "score": 0.585
+    },
+    {
+      "word": "to",
+      "start": 115.108,
+      "end": 115.328,
+      "score": 0.78
+    },
+    {
+      "word": "let",
+      "start": 115.388,
+      "end": 115.688,
+      "score": 0.702
+    },
+    {
+      "word": "you",
+      "start": 115.728,
+      "end": 115.928,
+      "score": 0.696
+    },
+    {
+      "word": "go",
+      "start": 115.988,
+      "end": 117.038,
+      "score": 0.796
+    },
+    {
+      "word": "Too",
+      "start": 117.038,
+      "end": 118.088,
+      "score": 0.796
+    },
+    {
+      "word": "much",
+      "start": 118.108,
+      "end": 118.348,
+      "score": 0.422
+    },
+    {
+      "word": "to",
+      "start": 118.368,
+      "end": 118.468,
+      "score": 0.367
+    },
+    {
+      "word": "say",
+      "start": 118.748,
+      "end": 119.168,
+      "score": 0.808
+    },
+    {
+      "word": "it's",
+      "start": 119.208,
+      "end": 119.308,
+      "score": 0.126
+    },
+    {
+      "word": "right",
+      "start": 119.408,
+      "end": 120.188,
+      "score": 0.564
+    },
+    {
+      "word": "Back",
+      "start": 120.188,
+      "end": 120.968,
+      "score": 0.564
+    },
+    {
+      "word": "to",
+      "start": 120.988,
+      "end": 121.148,
+      "score": 0.714
+    },
+    {
+      "word": "the",
+      "start": 121.168,
+      "end": 121.248,
+      "score": 0.515
+    },
+    {
+      "word": "family",
+      "start": 121.328,
+      "end": 121.978,
+      "score": 0.567
+    },
+    {
+      "word": "Back",
+      "start": 121.978,
+      "end": 122.628,
+      "score": 0.567
+    },
+    {
+      "word": "to",
+      "start": 122.648,
+      "end": 122.848,
+      "score": 0.782
+    },
+    {
+      "word": "the",
+      "start": 122.908,
+      "end": 123.028,
+      "score": 0.265
+    },
+    {
+      "word": "light",
+      "start": 123.068,
+      "end": 123.498,
+      "score": 0.556
+    },
+    {
+      "word": "We",
+      "start": 123.498,
+      "end": 123.928,
+      "score": 0.556
+    },
+    {
+      "word": "love",
+      "start": 123.988,
+      "end": 124.128,
+      "score": 0.192
+    },
+    {
+      "word": "you",
+      "start": 124.248,
+      "end": 124.508,
+      "score": 0.286
+    },
+    {
+      "word": "too",
+      "start": 124.588,
+      "end": 124.808,
+      "score": 0.316
+    },
+    {
+      "word": "much",
+      "start": 124.848,
+      "end": 125.088,
+      "score": 0.349
+    },
+    {
+      "word": "We",
+      "start": 125.088,
+      "end": 125.328,
+      "score": 0.349
+    },
+    {
+      "word": "love",
+      "start": 125.628,
+      "end": 126.229,
+      "score": 0.586
+    },
+    {
+      "word": "you",
+      "start": 126.309,
+      "end": 126.489,
+      "score": 0.516
+    },
+    {
+      "word": "too",
+      "start": 126.529,
+      "end": 126.669,
+      "score": 0.263
+    },
+    {
+      "word": "much",
+      "start": 126.809,
+      "end": 126.999,
+      "score": 0.358
+    },
+    {
+      "word": "The",
+      "start": 126.999,
+      "end": 127.189,
+      "score": 0.358
+    },
+    {
+      "word": "sound",
+      "start": 133.989,
+      "end": 134.269,
+      "score": 0.593
+    },
+    {
+      "word": "of",
+      "start": 134.289,
+      "end": 134.329,
+      "score": 0.0
+    },
+    {
+      "word": "belonging",
+      "start": 134.449,
+      "end": 142.03,
+      "score": 0.611
+    },
+    {
+      "word": "is",
+      "start": 142.87,
+      "end": 143.91,
+      "score": 0.879
+    },
+    {
+      "word": "here",
+      "start": 144.57,
+      "end": 145.65,
+      "score": 0.781
+    },
+    {
+      "word": "tonight",
+      "start": 147.25,
+      "end": 153.7,
+      "score": 0.836
+    },
+    {
+      "word": "Too",
+      "start": 153.7,
+      "end": 160.151,
+      "score": 0.836
+    },
+    {
+      "word": "much",
+      "start": 161.251,
+      "end": 161.841,
+      "score": 0.542
+    },
+    {
+      "word": "Too",
+      "start": 161.841,
+      "end": 162.431,
+      "score": 0.542
+    },
+    {
+      "word": "much",
+      "start": 162.491,
+      "end": 162.661,
+      "score": 0.399
+    },
+    {
+      "word": "We",
+      "start": 162.661,
+      "end": 162.831,
+      "score": 0.399
+    },
+    {
+      "word": "pray",
+      "start": 162.851,
+      "end": 163.091,
+      "score": 0.306
+    },
+    {
+      "word": "for",
+      "start": 163.131,
+      "end": 163.391,
+      "score": 0.657
+    },
+    {
+      "word": "you",
+      "start": 163.431,
+      "end": 163.661,
+      "score": 0.755
+    },
+    {
+      "word": "We",
+      "start": 163.661,
+      "end": 163.891,
+      "score": 0.755
+    },
+    {
+      "word": "fast",
+      "start": 163.971,
+      "end": 164.291,
+      "score": 0.61
+    },
+    {
+      "word": "for",
+      "start": 164.371,
+      "end": 164.631,
+      "score": 0.677
+    },
+    {
+      "word": "you",
+      "start": 164.651,
+      "end": 164.941,
+      "score": 0.753
+    },
+    {
+      "word": "We",
+      "start": 164.941,
+      "end": 165.231,
+      "score": 0.753
+    },
+    {
+      "word": "wait",
+      "start": 165.291,
+      "end": 165.611,
+      "score": 0.714
+    },
+    {
+      "word": "for",
+      "start": 165.651,
+      "end": 165.891,
+      "score": 0.621
+    },
+    {
+      "word": "you",
+      "start": 165.931,
+      "end": 166.421,
+      "score": 0.72
+    },
+    {
+      "word": "Until",
+      "start": 166.421,
+      "end": 166.911,
+      "score": 0.72
+    },
+    {
+      "word": "the",
+      "start": 166.971,
+      "end": 167.111,
+      "score": 0.754
+    },
+    {
+      "word": "morning",
+      "start": 167.211,
+      "end": 168.571,
+      "score": 0.744
+    },
+    {
+      "word": "Until",
+      "start": 168.571,
+      "end": 169.931,
+      "score": 0.744
+    },
+    {
+      "word": "the",
+      "start": 169.971,
+      "end": 170.091,
+      "score": 0.908
+    },
+    {
+      "word": "healing",
+      "start": 170.171,
+      "end": 170.902,
+      "score": 0.66
+    },
+    {
+      "word": "Until",
+      "start": 170.902,
+      "end": 171.632,
+      "score": 0.66
+    },
+    {
+      "word": "the",
+      "start": 171.672,
+      "end": 171.812,
+      "score": 0.843
+    },
+    {
+      "word": "turning",
+      "start": 171.892,
+      "end": 172.562,
+      "score": 0.663
+    },
+    {
+      "word": "Give",
+      "start": 172.562,
+      "end": 173.232,
+      "score": 0.663
+    },
+    {
+      "word": "it",
+      "start": 173.352,
+      "end": 173.472,
+      "score": 0.642
+    },
+    {
+      "word": "up",
+      "start": 173.692,
+      "end": 174.012,
+      "score": 0.551
+    },
+    {
+      "word": "Put",
+      "start": 174.012,
+      "end": 174.332,
+      "score": 0.551
+    },
+    {
+      "word": "it",
+      "start": 174.532,
+      "end": 174.652,
+      "score": 0.618
+    },
+    {
+      "word": "down",
+      "start": 174.712,
+      "end": 175.232,
+      "score": 0.651
+    },
+    {
+      "word": "Wear",
+      "start": 175.232,
+      "end": 175.752,
+      "score": 0.651
+    },
+    {
+      "word": "the",
+      "start": 175.772,
+      "end": 175.832,
+      "score": 0.055
+    },
+    {
+      "word": "crown",
+      "start": 175.992,
+      "end": 176.352,
+      "score": 0.567
+    },
+    {
+      "word": "The",
+      "start": 176.352,
+      "end": 176.712,
+      "score": 0.567
+    },
+    {
+      "word": "old",
+      "start": 176.732,
+      "end": 177.012,
+      "score": 0.447
+    },
+    {
+      "word": "you",
+      "start": 177.072,
+      "end": 177.252,
+      "score": 0.492
+    },
+    {
+      "word": "is",
+      "start": 177.332,
+      "end": 177.392,
+      "score": 0.288
+    },
+    {
+      "word": "dead",
+      "start": 177.492,
+      "end": 177.752,
+      "score": 0.551
+    },
+    {
+      "word": "and",
+      "start": 177.772,
+      "end": 177.912,
+      "score": 0.472
+    },
+    {
+      "word": "gone",
+      "start": 177.952,
+      "end": 178.882,
+      "score": 0.859
+    },
+    {
+      "word": "We",
+      "start": 178.882,
+      "end": 179.812,
+      "score": 0.859
+    },
+    {
+      "word": "love",
+      "start": 179.852,
+      "end": 180.072,
+      "score": 0.364
+    },
+    {
+      "word": "you",
+      "start": 180.092,
+      "end": 180.232,
+      "score": 0.401
+    },
+    {
+      "word": "too",
+      "start": 180.312,
+      "end": 180.672,
+      "score": 0.779
+    },
+    {
+      "word": "much",
+      "start": 180.772,
+      "end": 181.032,
+      "score": 0.594
+    },
+    {
+      "word": "to",
+      "start": 181.132,
+      "end": 181.332,
+      "score": 0.692
+    },
+    {
+      "word": "let",
+      "start": 181.372,
+      "end": 181.712,
+      "score": 0.728
+    },
+    {
+      "word": "you",
+      "start": 181.772,
+      "end": 181.972,
+      "score": 0.654
+    },
+    {
+      "word": "go",
+      "start": 182.032,
+      "end": 182.642,
+      "score": 0.851
+    },
+    {
+      "word": "We",
+      "start": 182.642,
+      "end": 183.252,
+      "score": 0.851
+    },
+    {
+      "word": "love",
+      "start": 183.292,
+      "end": 183.672,
+      "score": 0.632
+    },
+    {
+      "word": "you",
+      "start": 183.732,
+      "end": 183.932,
+      "score": 0.687
+    },
+    {
+      "word": "too",
+      "start": 183.952,
+      "end": 184.112,
+      "score": 0.385
+    },
+    {
+      "word": "much",
+      "start": 184.192,
+      "end": 184.392,
+      "score": 0.373
+    },
+    {
+      "word": "to",
+      "start": 184.412,
+      "end": 184.512,
+      "score": 0.334
+    },
+    {
+      "word": "say",
+      "start": 184.752,
+      "end": 185.152,
+      "score": 0.862
+    },
+    {
+      "word": "it's",
+      "start": 185.192,
+      "end": 185.352,
+      "score": 0.461
+    },
+    {
+      "word": "right",
+      "start": 185.452,
+      "end": 186.062,
+      "score": 0.658
+    },
+    {
+      "word": "Too",
+      "start": 186.062,
+      "end": 186.673,
+      "score": 0.658
+    },
+    {
+      "word": "much",
+      "start": 186.733,
+      "end": 187.013,
+      "score": 0.601
+    },
+    {
+      "word": "to",
+      "start": 187.113,
+      "end": 187.353,
+      "score": 0.849
+    },
+    {
+      "word": "let",
+      "start": 187.393,
+      "end": 187.693,
+      "score": 0.716
+    },
+    {
+      "word": "you",
+      "start": 187.753,
+      "end": 187.973,
+      "score": 0.657
+    },
+    {
+      "word": "go",
+      "start": 188.013,
+      "end": 189.063,
+      "score": 0.739
+    },
+    {
+      "word": "Too",
+      "start": 189.063,
+      "end": 190.113,
+      "score": 0.739
+    },
+    {
+      "word": "much",
+      "start": 190.173,
+      "end": 190.453,
+      "score": 0.666
+    },
+    {
+      "word": "to",
+      "start": 190.473,
+      "end": 190.633,
+      "score": 0.442
+    },
+    {
+      "word": "say",
+      "start": 190.773,
+      "end": 191.213,
+      "score": 0.785
+    },
+    {
+      "word": "it's",
+      "start": 191.233,
+      "end": 191.333,
+      "score": 0.069
+    },
+    {
+      "word": "right",
+      "start": 191.453,
+      "end": 192.213,
+      "score": 0.529
+    },
+    {
+      "word": "Back",
+      "start": 192.213,
+      "end": 192.973,
+      "score": 0.529
+    },
+    {
+      "word": "to",
+      "start": 192.993,
+      "end": 193.173,
+      "score": 0.697
+    },
+    {
+      "word": "the",
+      "start": 193.213,
+      "end": 193.273,
+      "score": 0.579
+    },
+    {
+      "word": "family",
+      "start": 193.353,
+      "end": 194.003,
+      "score": 0.704
+    },
+    {
+      "word": "Back",
+      "start": 194.003,
+      "end": 194.653,
+      "score": 0.704
+    },
+    {
+      "word": "to",
+      "start": 194.673,
+      "end": 194.873,
+      "score": 0.729
+    },
+    {
+      "word": "the",
+      "start": 194.913,
+      "end": 195.053,
+      "score": 0.491
+    },
+    {
+      "word": "light",
+      "start": 195.113,
+      "end": 195.623,
+      "score": 0.708
+    },
+    {
+      "word": "We",
+      "start": 195.623,
+      "end": 196.133,
+      "score": 0.708
+    },
+    {
+      "word": "love",
+      "start": 196.193,
+      "end": 196.553,
+      "score": 0.626
+    },
+    {
+      "word": "you",
+      "start": 196.593,
+      "end": 196.793,
+      "score": 0.529
+    },
+    {
+      "word": "too",
+      "start": 196.833,
+      "end": 196.953,
+      "score": 0.221
+    },
+    {
+      "word": "much",
+      "start": 197.033,
+      "end": 197.453,
+      "score": 0.656
+    },
+    {
+      "word": "We",
+      "start": 197.453,
+      "end": 197.873,
+      "score": 0.656
+    },
+    {
+      "word": "love",
+      "start": 197.893,
+      "end": 198.113,
+      "score": 0.329
+    },
+    {
+      "word": "you",
+      "start": 198.133,
+      "end": 198.233,
+      "score": 0.199
+    },
+    {
+      "word": "too",
+      "start": 198.293,
+      "end": 198.673,
+      "score": 0.658
+    },
+    {
+      "word": "much",
+      "start": 198.753,
+      "end": 198.973,
+      "score": 0.39
+    },
+    {
+      "word": "The",
+      "start": 198.973,
+      "end": 199.193,
+      "score": 0.39
+    },
+    {
+      "word": "sound",
+      "start": 199.293,
+      "end": 199.633,
+      "score": 0.532
+    },
+    {
+      "word": "of",
+      "start": 200.113,
+      "end": 200.293,
+      "score": 0.727
+    },
+    {
+      "word": "belonging",
+      "start": 200.434,
+      "end": 201.494,
+      "score": 0.525
+    },
+    {
+      "word": "is",
+      "start": 201.614,
+      "end": 201.814,
+      "score": 0.452
+    },
+    {
+      "word": "here",
+      "start": 201.914,
+      "end": 202.294,
+      "score": 0.602
+    },
+    {
+      "word": "tonight",
+      "start": 202.394,
+      "end": 203.154,
+      "score": 0.45
+    },
+    {
+      "word": "Too",
+      "start": 203.154,
+      "end": 203.914,
+      "score": 0.45
+    },
+    {
+      "word": "much",
+      "start": 205.414,
+      "end": 205.894,
+      "score": 0.629
+    },
+    {
+      "word": "Too",
+      "start": 205.894,
+      "end": 206.374,
+      "score": 0.629
+    },
+    {
+      "word": "much",
+      "start": 206.474,
+      "end": 207.144,
+      "score": 0.557
+    },
+    {
+      "word": "Too",
+      "start": 207.144,
+      "end": 207.814,
+      "score": 0.557
+    },
+    {
+      "word": "much",
+      "start": 208.414,
+      "end": 209.594,
+      "score": 0.821
+    },
+    {
+      "word": "Too",
+      "start": 209.594,
+      "end": 210.774,
+      "score": 0.821
+    },
+    {
+      "word": "much",
+      "start": 210.894,
+      "end": 211.664,
+      "score": 0.839
+    },
+    {
+      "word": "Safe",
+      "start": 211.664,
+      "end": 212.434,
+      "score": 0.839
+    },
+    {
+      "word": "now",
+      "start": 212.794,
+      "end": 213.924,
+      "score": 0.854
+    },
+    {
+      "word": "Home",
+      "start": 213.924,
+      "end": 215.054,
+      "score": 0.854
+    },
+    {
+      "word": "now",
+      "start": 215.355,
+      "end": 216.495,
+      "score": 0.686
+    },
+    {
+      "word": "Finally",
+      "start": 216.495,
+      "end": 217.635,
+      "score": 0.686
+    },
+    {
+      "word": "one",
+      "start": 217.895,
+      "end": 218.095,
+      "score": 0.487
+    },
+    {
+      "word": "of",
+      "start": 218.755,
+      "end": 218.935,
+      "score": 0.426
+    },
+    {
+      "word": "us",
+      "start": 219.575,
+      "end": 219.895,
+      "score": 0.678
+    },
+    {
+      "word": "Don't",
+      "start": 219.895,
+      "end": 220.215,
+      "score": 0.678
+    },
+    {
+      "word": "look",
+      "start": 220.435,
+      "end": 220.675,
+      "score": 0.503
+    },
+    {
+      "word": "back",
+      "start": 220.735,
+      "end": 222.775,
+      "score": 0.597
+    },
+    {
+      "word": "Never",
+      "start": 222.775,
+      "end": 224.815,
+      "score": 0.597
+    },
+    {
+      "word": "look",
+      "start": 225.555,
+      "end": 225.815,
+      "score": 0.4
+    },
+    {
+      "word": "back",
+      "start": 226.395,
+      "end": 226.955,
+      "score": 0.689
+    },
+    {
+      "word": "We",
+      "start": 226.955,
+      "end": 227.515,
+      "score": 0.689
+    },
+    {
+      "word": "love",
+      "start": 227.655,
+      "end": 228.355,
+      "score": 0.564
+    },
+    {
+      "word": "you",
+      "start": 228.975,
+      "end": 229.175,
+      "score": 0.504
+    },
+    {
+      "word": "too",
+      "start": 229.195,
+      "end": 230.015,
+      "score": 0.616
+    },
+    {
+      "word": "much",
+      "start": 230.256,
+      "end": 230.806,
+      "score": 0.791
+    },
+    {
+      "word": "We",
+      "start": 230.806,
+      "end": 231.356,
+      "score": 0.791
+    },
+    {
+      "word": "love",
+      "start": 231.976,
+      "end": 232.656,
+      "score": 0.731
+    },
+    {
+      "word": "you",
+      "start": 232.756,
+      "end": 232.896,
+      "score": 0.268
+    },
+    {
+      "word": "too",
+      "start": 233.256,
+      "end": 233.516,
+      "score": 0.459
+    },
+    {
+      "word": "much",
+      "start": 233.656,
+      "end": 234.136,
+      "score": 0.442
+    }
+  ]
+}

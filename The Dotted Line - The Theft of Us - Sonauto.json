@@ -1,0 +1,2683 @@
+{
+  "segments": [
+    {
+      "start": 13.981,
+      "end": 156.108,
+      "text": "Empty hall\nDust on the shelves where the trophies would stand\nQuiet house\nYou traded your name for a grain of sand\nNow\nNothing fits right in this place\nGone\nTracing the lines of a ghost in your face\nThey ROGD us\nYeah they robbed us\nTook the girl with the ribbons and the gold\nThey ROGD us\nYeah they robbed us\nLeft a story that was never meant to be told\nOur daughter\nOur daughter\nOur daughter\nBlue screen\nFlicker and flash in the dead of the night\nChanging fast\nHiding away from the morning light\nYou\nWon't even look in my eyes\nWait\nSinking beneath all the synthetic lies\nCold\nHeavy the weight of the clothes on the floor\nThey ROGD us\nYeah they robbed us\nTook the girl with the ribbons and the gold\nThey ROGD us\nYeah they robbed us\nLeft a story that was never meant to be told\nOur daughter\nOur daughter\nOur daughter\nI see a stranger\nI see a shadow\nI see a wall\nWhere did you go\nWhere did you go\nWhere did you go\nBring her back to the garden\nBring her back to the sun\nBring her back to the start\nThey ROGD us\nYeah they robbed us\nTook the girl with the ribbons and the gold\nThey ROGD us\nYeah they robbed us\nLeft a story that was never meant to be told\nOur daughter\nOur daughter\nOur daughter\nRobbed us\nROGD us\nSlowly fading out\nFading out\nFading\nGones",
+      "words": [
+        {
+          "word": "Empty",
+          "start": 13.981,
+          "end": 14.381,
+          "score": 0.47
+        },
+        {
+          "word": "hall\nDust",
+          "start": 14.501,
+          "end": 15.781,
+          "score": 0.742
+        },
+        {
+          "word": "on",
+          "start": 15.921,
+          "end": 16.001,
+          "score": 0.737
+        },
+        {
+          "word": "the",
+          "start": 16.021,
+          "end": 16.121,
+          "score": 0.297
+        },
+        {
+          "word": "shelves",
+          "start": 16.201,
+          "end": 16.621,
+          "score": 0.495
+        },
+        {
+          "word": "where",
+          "start": 16.661,
+          "end": 16.841,
+          "score": 0.426
+        },
+        {
+          "word": "the",
+          "start": 16.861,
+          "end": 16.941,
+          "score": 0.305
+        },
+        {
+          "word": "trophies",
+          "start": 17.041,
+          "end": 17.461,
+          "score": 0.43
+        },
+        {
+          "word": "would",
+          "start": 17.501,
+          "end": 17.681,
+          "score": 0.246
+        },
+        {
+          "word": "stand\nQuiet",
+          "start": 17.901,
+          "end": 19.441,
+          "score": 0.687
+        },
+        {
+          "word": "house\nYou",
+          "start": 19.501,
+          "end": 20.561,
+          "score": 0.664
+        },
+        {
+          "word": "traded",
+          "start": 20.621,
+          "end": 21.021,
+          "score": 0.597
+        },
+        {
+          "word": "your",
+          "start": 21.101,
+          "end": 21.281,
+          "score": 0.356
+        },
+        {
+          "word": "name",
+          "start": 21.321,
+          "end": 21.701,
+          "score": 0.726
+        },
+        {
+          "word": "for",
+          "start": 21.741,
+          "end": 22.021,
+          "score": 0.778
+        },
+        {
+          "word": "a",
+          "start": 22.041,
+          "end": 22.061,
+          "score": 0.001
+        },
+        {
+          "word": "grain",
+          "start": 22.161,
+          "end": 22.641,
+          "score": 0.764
+        },
+        {
+          "word": "of",
+          "start": 22.741,
+          "end": 22.901,
+          "score": 0.714
+        },
+        {
+          "word": "sand\nNow\nNothing",
+          "start": 22.981,
+          "end": 24.441,
+          "score": 0.578
+        },
+        {
+          "word": "fits",
+          "start": 24.461,
+          "end": 24.581,
+          "score": 0.146
+        },
+        {
+          "word": "right",
+          "start": 24.681,
+          "end": 24.981,
+          "score": 0.484
+        },
+        {
+          "word": "in",
+          "start": 25.041,
+          "end": 25.261,
+          "score": 0.752
+        },
+        {
+          "word": "this",
+          "start": 25.301,
+          "end": 25.421,
+          "score": 0.29
+        },
+        {
+          "word": "place\nGone\nTracing",
+          "start": 25.521,
+          "end": 27.862,
+          "score": 0.677
+        },
+        {
+          "word": "the",
+          "start": 27.882,
+          "end": 28.022,
+          "score": 0.604
+        },
+        {
+          "word": "lines",
+          "start": 28.082,
+          "end": 28.502,
+          "score": 0.658
+        },
+        {
+          "word": "of",
+          "start": 28.602,
+          "end": 28.722,
+          "score": 0.792
+        },
+        {
+          "word": "a",
+          "start": 28.742,
+          "end": 28.762,
+          "score": 0.002
+        },
+        {
+          "word": "ghost",
+          "start": 28.922,
+          "end": 29.262,
+          "score": 0.413
+        },
+        {
+          "word": "in",
+          "start": 29.422,
+          "end": 29.522,
+          "score": 0.688
+        },
+        {
+          "word": "your",
+          "start": 29.562,
+          "end": 29.662,
+          "score": 0.116
+        },
+        {
+          "word": "face\nThey",
+          "start": 29.762,
+          "end": 31.422,
+          "score": 0.745
+        },
+        {
+          "word": "ROGD",
+          "start": 31.482,
+          "end": 31.682,
+          "score": 0.554
+        },
+        {
+          "word": "us\nYeah",
+          "start": 31.762,
+          "end": 32.022,
+          "score": 0.336
+        },
+        {
+          "word": "they",
+          "start": 32.082,
+          "end": 32.262,
+          "score": 0.416
+        },
+        {
+          "word": "robbed",
+          "start": 32.362,
+          "end": 33.462,
+          "score": 0.831
+        },
+        {
+          "word": "us\nTook",
+          "start": 33.522,
+          "end": 34.102,
+          "score": 0.594
+        },
+        {
+          "word": "the",
+          "start": 34.202,
+          "end": 34.402,
+          "score": 0.608
+        },
+        {
+          "word": "girl",
+          "start": 34.422,
+          "end": 34.602,
+          "score": 0.43
+        },
+        {
+          "word": "with",
+          "start": 34.642,
+          "end": 34.742,
+          "score": 0.13
+        },
+        {
+          "word": "the",
+          "start": 34.822,
+          "end": 35.002,
+          "score": 0.63
+        },
+        {
+          "word": "ribbons",
+          "start": 35.042,
+          "end": 35.522,
+          "score": 0.559
+        },
+        {
+          "word": "and",
+          "start": 35.822,
+          "end": 36.022,
+          "score": 0.617
+        },
+        {
+          "word": "the",
+          "start": 36.102,
+          "end": 36.422,
+          "score": 0.389
+        },
+        {
+          "word": "gold\nThey",
+          "start": 36.502,
+          "end": 37.382,
+          "score": 0.643
+        },
+        {
+          "word": "ROGD",
+          "start": 37.422,
+          "end": 38.102,
+          "score": 0.627
+        },
+        {
+          "word": "us\nYeah",
+          "start": 38.342,
+          "end": 39.402,
+          "score": 0.8
+        },
+        {
+          "word": "they",
+          "start": 39.482,
+          "end": 39.882,
+          "score": 0.641
+        },
+        {
+          "word": "robbed",
+          "start": 40.082,
+          "end": 40.422,
+          "score": 0.427
+        },
+        {
+          "word": "us\nLeft",
+          "start": 40.482,
+          "end": 40.802,
+          "score": 0.523
+        },
+        {
+          "word": "a",
+          "start": 40.822,
+          "end": 40.842,
+          "score": 0.0
+        },
+        {
+          "word": "story",
+          "start": 40.882,
+          "end": 41.362,
+          "score": 0.619
+        },
+        {
+          "word": "that",
+          "start": 41.382,
+          "end": 41.722,
+          "score": 0.539
+        },
+        {
+          "word": "was",
+          "start": 41.782,
+          "end": 42.002,
+          "score": 0.525
+        },
+        {
+          "word": "never",
+          "start": 42.042,
+          "end": 42.342,
+          "score": 0.488
+        },
+        {
+          "word": "meant",
+          "start": 42.422,
+          "end": 42.702,
+          "score": 0.383
+        },
+        {
+          "word": "to",
+          "start": 42.822,
+          "end": 43.002,
+          "score": 0.742
+        },
+        {
+          "word": "be",
+          "start": 43.042,
+          "end": 43.222,
+          "score": 0.739
+        },
+        {
+          "word": "told\nOur",
+          "start": 43.282,
+          "end": 44.262,
+          "score": 0.574
+        },
+        {
+          "word": "daughter\nOur",
+          "start": 44.322,
+          "end": 47.223,
+          "score": 0.618
+        },
+        {
+          "word": "daughter\nOur",
+          "start": 47.283,
+          "end": 50.963,
+          "score": 0.573
+        },
+        {
+          "word": "daughter\nBlue",
+          "start": 51.063,
+          "end": 54.743,
+          "score": 0.673
+        },
+        {
+          "word": "screen\nFlicker",
+          "start": 54.823,
+          "end": 56.543,
+          "score": 0.611
+        },
+        {
+          "word": "and",
+          "start": 56.603,
+          "end": 56.703,
+          "score": 0.187
+        },
+        {
+          "word": "flash",
+          "start": 56.803,
+          "end": 57.163,
+          "score": 0.349
+        },
+        {
+          "word": "in",
+          "start": 57.323,
+          "end": 57.403,
+          "score": 0.558
+        },
+        {
+          "word": "the",
+          "start": 57.443,
+          "end": 57.583,
+          "score": 0.457
+        },
+        {
+          "word": "dead",
+          "start": 57.623,
+          "end": 58.043,
+          "score": 0.56
+        },
+        {
+          "word": "of",
+          "start": 58.063,
+          "end": 58.223,
+          "score": 0.574
+        },
+        {
+          "word": "the",
+          "start": 58.263,
+          "end": 58.383,
+          "score": 0.599
+        },
+        {
+          "word": "night\nChanging",
+          "start": 58.483,
+          "end": 59.843,
+          "score": 0.609
+        },
+        {
+          "word": "fast\nHiding",
+          "start": 59.943,
+          "end": 61.643,
+          "score": 0.576
+        },
+        {
+          "word": "away",
+          "start": 61.663,
+          "end": 62.243,
+          "score": 0.644
+        },
+        {
+          "word": "from",
+          "start": 62.303,
+          "end": 62.463,
+          "score": 0.332
+        },
+        {
+          "word": "the",
+          "start": 62.503,
+          "end": 62.603,
+          "score": 0.598
+        },
+        {
+          "word": "morning",
+          "start": 62.623,
+          "end": 63.423,
+          "score": 0.713
+        },
+        {
+          "word": "light\nYou\nWon't",
+          "start": 63.483,
+          "end": 64.864,
+          "score": 0.493
+        },
+        {
+          "word": "even",
+          "start": 64.944,
+          "end": 65.184,
+          "score": 0.595
+        },
+        {
+          "word": "look",
+          "start": 65.244,
+          "end": 65.544,
+          "score": 0.65
+        },
+        {
+          "word": "in",
+          "start": 65.744,
+          "end": 65.844,
+          "score": 0.527
+        },
+        {
+          "word": "my",
+          "start": 65.904,
+          "end": 66.144,
+          "score": 0.76
+        },
+        {
+          "word": "eyes\nWait\nSinking",
+          "start": 66.464,
+          "end": 68.364,
+          "score": 0.627
+        },
+        {
+          "word": "beneath",
+          "start": 68.424,
+          "end": 68.944,
+          "score": 0.504
+        },
+        {
+          "word": "all",
+          "start": 69.124,
+          "end": 69.364,
+          "score": 0.427
+        },
+        {
+          "word": "the",
+          "start": 69.464,
+          "end": 69.804,
+          "score": 0.701
+        },
+        {
+          "word": "synthetic",
+          "start": 69.884,
+          "end": 70.904,
+          "score": 0.636
+        },
+        {
+          "word": "lies\nCold\nHeavy",
+          "start": 70.944,
+          "end": 73.424,
+          "score": 0.631
+        },
+        {
+          "word": "the",
+          "start": 73.484,
+          "end": 73.584,
+          "score": 0.668
+        },
+        {
+          "word": "weight",
+          "start": 73.684,
+          "end": 74.004,
+          "score": 0.395
+        },
+        {
+          "word": "of",
+          "start": 74.164,
+          "end": 74.284,
+          "score": 0.69
+        },
+        {
+          "word": "the",
+          "start": 74.304,
+          "end": 74.404,
+          "score": 0.322
+        },
+        {
+          "word": "clothes",
+          "start": 74.464,
+          "end": 74.904,
+          "score": 0.52
+        },
+        {
+          "word": "on",
+          "start": 75.044,
+          "end": 75.124,
+          "score": 0.383
+        },
+        {
+          "word": "the",
+          "start": 75.164,
+          "end": 75.264,
+          "score": 0.323
+        },
+        {
+          "word": "floor\nThey",
+          "start": 75.384,
+          "end": 76.344,
+          "score": 0.53
+        },
+        {
+          "word": "ROGD",
+          "start": 76.384,
+          "end": 76.504,
+          "score": 0.165
+        },
+        {
+          "word": "us\nYeah",
+          "start": 76.724,
+          "end": 77.304,
+          "score": 0.627
+        },
+        {
+          "word": "they",
+          "start": 77.464,
+          "end": 77.664,
+          "score": 0.466
+        },
+        {
+          "word": "robbed",
+          "start": 77.684,
+          "end": 78.284,
+          "score": 0.589
+        },
+        {
+          "word": "us\nTook",
+          "start": 78.684,
+          "end": 79.304,
+          "score": 0.613
+        },
+        {
+          "word": "the",
+          "start": 79.404,
+          "end": 79.744,
+          "score": 0.635
+        },
+        {
+          "word": "girl",
+          "start": 79.824,
+          "end": 80.224,
+          "score": 0.531
+        },
+        {
+          "word": "with",
+          "start": 80.264,
+          "end": 80.364,
+          "score": 0.126
+        },
+        {
+          "word": "the",
+          "start": 80.444,
+          "end": 80.604,
+          "score": 0.527
+        },
+        {
+          "word": "ribbons",
+          "start": 80.644,
+          "end": 81.144,
+          "score": 0.558
+        },
+        {
+          "word": "and",
+          "start": 81.524,
+          "end": 81.664,
+          "score": 0.609
+        },
+        {
+          "word": "the",
+          "start": 81.724,
+          "end": 82.044,
+          "score": 0.751
+        },
+        {
+          "word": "gold\nThey",
+          "start": 82.124,
+          "end": 83.004,
+          "score": 0.49
+        },
+        {
+          "word": "ROGD",
+          "start": 83.045,
+          "end": 83.165,
+          "score": 0.256
+        },
+        {
+          "word": "us\nYeah",
+          "start": 83.505,
+          "end": 84.065,
+          "score": 0.48
+        },
+        {
+          "word": "they",
+          "start": 84.245,
+          "end": 84.445,
+          "score": 0.508
+        },
+        {
+          "word": "robbed",
+          "start": 84.545,
+          "end": 85.025,
+          "score": 0.559
+        },
+        {
+          "word": "us\nLeft",
+          "start": 85.385,
+          "end": 86.085,
+          "score": 0.697
+        },
+        {
+          "word": "a",
+          "start": 86.285,
+          "end": 86.345,
+          "score": 0.71
+        },
+        {
+          "word": "story",
+          "start": 86.385,
+          "end": 87.045,
+          "score": 0.522
+        },
+        {
+          "word": "that",
+          "start": 87.205,
+          "end": 87.365,
+          "score": 0.349
+        },
+        {
+          "word": "was",
+          "start": 87.425,
+          "end": 87.605,
+          "score": 0.448
+        },
+        {
+          "word": "never",
+          "start": 87.665,
+          "end": 87.965,
+          "score": 0.411
+        },
+        {
+          "word": "meant",
+          "start": 88.045,
+          "end": 88.345,
+          "score": 0.512
+        },
+        {
+          "word": "to",
+          "start": 88.445,
+          "end": 88.625,
+          "score": 0.742
+        },
+        {
+          "word": "be",
+          "start": 88.685,
+          "end": 88.845,
+          "score": 0.734
+        },
+        {
+          "word": "told\nOur",
+          "start": 88.905,
+          "end": 89.905,
+          "score": 0.682
+        },
+        {
+          "word": "daughter\nOur",
+          "start": 89.965,
+          "end": 90.765,
+          "score": 0.421
+        },
+        {
+          "word": "daughter\nOur",
+          "start": 90.785,
+          "end": 92.825,
+          "score": 0.525
+        },
+        {
+          "word": "daughter\nI",
+          "start": 92.925,
+          "end": 94.205,
+          "score": 0.653
+        },
+        {
+          "word": "see",
+          "start": 94.325,
+          "end": 94.585,
+          "score": 0.541
+        },
+        {
+          "word": "a",
+          "start": 94.725,
+          "end": 94.805,
+          "score": 0.724
+        },
+        {
+          "word": "stranger\nI",
+          "start": 95.065,
+          "end": 96.545,
+          "score": 0.59
+        },
+        {
+          "word": "see",
+          "start": 96.565,
+          "end": 96.625,
+          "score": 0.014
+        },
+        {
+          "word": "a",
+          "start": 96.645,
+          "end": 96.665,
+          "score": 0.001
+        },
+        {
+          "word": "shadow\nI",
+          "start": 96.725,
+          "end": 100.465,
+          "score": 0.73
+        },
+        {
+          "word": "see",
+          "start": 100.545,
+          "end": 100.705,
+          "score": 0.457
+        },
+        {
+          "word": "a",
+          "start": 100.725,
+          "end": 100.825,
+          "score": 0.721
+        },
+        {
+          "word": "wall\nWhere",
+          "start": 100.925,
+          "end": 101.866,
+          "score": 0.573
+        },
+        {
+          "word": "did",
+          "start": 102.226,
+          "end": 102.466,
+          "score": 0.667
+        },
+        {
+          "word": "you",
+          "start": 102.586,
+          "end": 103.106,
+          "score": 0.676
+        },
+        {
+          "word": "go\nWhere",
+          "start": 103.166,
+          "end": 103.506,
+          "score": 0.331
+        },
+        {
+          "word": "did",
+          "start": 103.686,
+          "end": 103.846,
+          "score": 0.566
+        },
+        {
+          "word": "you",
+          "start": 104.146,
+          "end": 104.266,
+          "score": 0.27
+        },
+        {
+          "word": "go\nWhere",
+          "start": 104.346,
+          "end": 105.566,
+          "score": 0.583
+        },
+        {
+          "word": "did",
+          "start": 105.606,
+          "end": 106.046,
+          "score": 0.756
+        },
+        {
+          "word": "you",
+          "start": 106.426,
+          "end": 106.626,
+          "score": 0.446
+        },
+        {
+          "word": "go\nBring",
+          "start": 106.806,
+          "end": 107.386,
+          "score": 0.46
+        },
+        {
+          "word": "her",
+          "start": 107.526,
+          "end": 107.946,
+          "score": 0.541
+        },
+        {
+          "word": "back",
+          "start": 108.046,
+          "end": 108.526,
+          "score": 0.574
+        },
+        {
+          "word": "to",
+          "start": 108.566,
+          "end": 108.946,
+          "score": 0.444
+        },
+        {
+          "word": "the",
+          "start": 109.206,
+          "end": 109.366,
+          "score": 0.565
+        },
+        {
+          "word": "garden\nBring",
+          "start": 109.386,
+          "end": 109.986,
+          "score": 0.408
+        },
+        {
+          "word": "her",
+          "start": 110.046,
+          "end": 110.166,
+          "score": 0.289
+        },
+        {
+          "word": "back",
+          "start": 110.226,
+          "end": 110.406,
+          "score": 0.452
+        },
+        {
+          "word": "to",
+          "start": 110.486,
+          "end": 110.646,
+          "score": 0.746
+        },
+        {
+          "word": "the",
+          "start": 110.686,
+          "end": 110.806,
+          "score": 0.677
+        },
+        {
+          "word": "sun\nBring",
+          "start": 110.906,
+          "end": 111.466,
+          "score": 0.379
+        },
+        {
+          "word": "her",
+          "start": 111.566,
+          "end": 111.886,
+          "score": 0.753
+        },
+        {
+          "word": "back",
+          "start": 111.946,
+          "end": 112.486,
+          "score": 0.576
+        },
+        {
+          "word": "to",
+          "start": 112.586,
+          "end": 113.026,
+          "score": 0.826
+        },
+        {
+          "word": "the",
+          "start": 113.226,
+          "end": 113.546,
+          "score": 0.679
+        },
+        {
+          "word": "start\nThey",
+          "start": 113.786,
+          "end": 116.926,
+          "score": 0.686
+        },
+        {
+          "word": "ROGD",
+          "start": 116.966,
+          "end": 117.086,
+          "score": 0.242
+        },
+        {
+          "word": "us\nYeah",
+          "start": 117.286,
+          "end": 117.866,
+          "score": 0.526
+        },
+        {
+          "word": "they",
+          "start": 118.006,
+          "end": 118.246,
+          "score": 0.604
+        },
+        {
+          "word": "robbed",
+          "start": 118.286,
+          "end": 118.866,
+          "score": 0.479
+        },
+        {
+          "word": "us\nTook",
+          "start": 118.906,
+          "end": 119.386,
+          "score": 0.405
+        },
+        {
+          "word": "the",
+          "start": 119.546,
+          "end": 119.866,
+          "score": 0.634
+        },
+        {
+          "word": "girl",
+          "start": 119.967,
+          "end": 120.307,
+          "score": 0.522
+        },
+        {
+          "word": "with",
+          "start": 120.407,
+          "end": 120.927,
+          "score": 0.56
+        },
+        {
+          "word": "the",
+          "start": 121.027,
+          "end": 121.207,
+          "score": 0.621
+        },
+        {
+          "word": "ribbons",
+          "start": 121.247,
+          "end": 121.727,
+          "score": 0.445
+        },
+        {
+          "word": "and",
+          "start": 122.047,
+          "end": 122.247,
+          "score": 0.617
+        },
+        {
+          "word": "the",
+          "start": 122.307,
+          "end": 122.627,
+          "score": 0.528
+        },
+        {
+          "word": "gold\nThey",
+          "start": 122.707,
+          "end": 123.727,
+          "score": 0.736
+        },
+        {
+          "word": "ROGD",
+          "start": 123.747,
+          "end": 124.307,
+          "score": 0.622
+        },
+        {
+          "word": "us\nYeah",
+          "start": 124.507,
+          "end": 125.607,
+          "score": 0.656
+        },
+        {
+          "word": "they",
+          "start": 125.687,
+          "end": 125.827,
+          "score": 0.414
+        },
+        {
+          "word": "robbed",
+          "start": 125.927,
+          "end": 126.647,
+          "score": 0.604
+        },
+        {
+          "word": "us\nLeft",
+          "start": 126.867,
+          "end": 127.007,
+          "score": 0.09
+        },
+        {
+          "word": "a",
+          "start": 127.027,
+          "end": 127.047,
+          "score": 0.0
+        },
+        {
+          "word": "story",
+          "start": 127.067,
+          "end": 127.587,
+          "score": 0.662
+        },
+        {
+          "word": "that",
+          "start": 127.787,
+          "end": 127.947,
+          "score": 0.387
+        },
+        {
+          "word": "was",
+          "start": 128.007,
+          "end": 128.207,
+          "score": 0.585
+        },
+        {
+          "word": "never",
+          "start": 128.247,
+          "end": 128.527,
+          "score": 0.493
+        },
+        {
+          "word": "meant",
+          "start": 128.627,
+          "end": 128.927,
+          "score": 0.396
+        },
+        {
+          "word": "to",
+          "start": 129.027,
+          "end": 129.207,
+          "score": 0.737
+        },
+        {
+          "word": "be",
+          "start": 129.247,
+          "end": 129.407,
+          "score": 0.712
+        },
+        {
+          "word": "told\nOur",
+          "start": 129.467,
+          "end": 133.367,
+          "score": 0.721
+        },
+        {
+          "word": "daughter\nOur",
+          "start": 133.487,
+          "end": 135.347,
+          "score": 0.579
+        },
+        {
+          "word": "daughter\nOur",
+          "start": 136.047,
+          "end": 137.187,
+          "score": 0.469
+        },
+        {
+          "word": "daughter\nRobbed",
+          "start": 137.287,
+          "end": 141.268,
+          "score": 0.652
+        },
+        {
+          "word": "us\nROGD",
+          "start": 142.968,
+          "end": 144.808,
+          "score": 0.844
+        },
+        {
+          "word": "us\nSlowly",
+          "start": 145.048,
+          "end": 147.028,
+          "score": 0.631
+        },
+        {
+          "word": "fading",
+          "start": 147.168,
+          "end": 149.648,
+          "score": 0.832
+        },
+        {
+          "word": "out\nFading",
+          "start": 149.888,
+          "end": 150.908,
+          "score": 0.433
+        },
+        {
+          "word": "out\nFading\nGones",
+          "start": 151.908,
+          "end": 156.108,
+          "score": 0.606
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Empty",
+      "start": 13.981,
+      "end": 14.381,
+      "score": 0.47
+    },
+    {
+      "word": "hall",
+      "start": 14.501,
+      "end": 15.141,
+      "score": 0.742
+    },
+    {
+      "word": "Dust",
+      "start": 15.141,
+      "end": 15.781,
+      "score": 0.742
+    },
+    {
+      "word": "on",
+      "start": 15.921,
+      "end": 16.001,
+      "score": 0.737
+    },
+    {
+      "word": "the",
+      "start": 16.021,
+      "end": 16.121,
+      "score": 0.297
+    },
+    {
+      "word": "shelves",
+      "start": 16.201,
+      "end": 16.621,
+      "score": 0.495
+    },
+    {
+      "word": "where",
+      "start": 16.661,
+      "end": 16.841,
+      "score": 0.426
+    },
+    {
+      "word": "the",
+      "start": 16.861,
+      "end": 16.941,
+      "score": 0.305
+    },
+    {
+      "word": "trophies",
+      "start": 17.041,
+      "end": 17.461,
+      "score": 0.43
+    },
+    {
+      "word": "would",
+      "start": 17.501,
+      "end": 17.681,
+      "score": 0.246
+    },
+    {
+      "word": "stand",
+      "start": 17.901,
+      "end": 18.671,
+      "score": 0.687
+    },
+    {
+      "word": "Quiet",
+      "start": 18.671,
+      "end": 19.441,
+      "score": 0.687
+    },
+    {
+      "word": "house",
+      "start": 19.501,
+      "end": 20.031,
+      "score": 0.664
+    },
+    {
+      "word": "You",
+      "start": 20.031,
+      "end": 20.561,
+      "score": 0.664
+    },
+    {
+      "word": "traded",
+      "start": 20.621,
+      "end": 21.021,
+      "score": 0.597
+    },
+    {
+      "word": "your",
+      "start": 21.101,
+      "end": 21.281,
+      "score": 0.356
+    },
+    {
+      "word": "name",
+      "start": 21.321,
+      "end": 21.701,
+      "score": 0.726
+    },
+    {
+      "word": "for",
+      "start": 21.741,
+      "end": 22.021,
+      "score": 0.778
+    },
+    {
+      "word": "a",
+      "start": 22.041,
+      "end": 22.061,
+      "score": 0.001
+    },
+    {
+      "word": "grain",
+      "start": 22.161,
+      "end": 22.641,
+      "score": 0.764
+    },
+    {
+      "word": "of",
+      "start": 22.741,
+      "end": 22.901,
+      "score": 0.714
+    },
+    {
+      "word": "sand",
+      "start": 22.981,
+      "end": 23.468,
+      "score": 0.578
+    },
+    {
+      "word": "Now",
+      "start": 23.468,
+      "end": 23.954,
+      "score": 0.578
+    },
+    {
+      "word": "Nothing",
+      "start": 23.954,
+      "end": 24.441,
+      "score": 0.578
+    },
+    {
+      "word": "fits",
+      "start": 24.461,
+      "end": 24.581,
+      "score": 0.146
+    },
+    {
+      "word": "right",
+      "start": 24.681,
+      "end": 24.981,
+      "score": 0.484
+    },
+    {
+      "word": "in",
+      "start": 25.041,
+      "end": 25.261,
+      "score": 0.752
+    },
+    {
+      "word": "this",
+      "start": 25.301,
+      "end": 25.421,
+      "score": 0.29
+    },
+    {
+      "word": "place",
+      "start": 25.521,
+      "end": 26.301,
+      "score": 0.677
+    },
+    {
+      "word": "Gone",
+      "start": 26.301,
+      "end": 27.082,
+      "score": 0.677
+    },
+    {
+      "word": "Tracing",
+      "start": 27.082,
+      "end": 27.862,
+      "score": 0.677
+    },
+    {
+      "word": "the",
+      "start": 27.882,
+      "end": 28.022,
+      "score": 0.604
+    },
+    {
+      "word": "lines",
+      "start": 28.082,
+      "end": 28.502,
+      "score": 0.658
+    },
+    {
+      "word": "of",
+      "start": 28.602,
+      "end": 28.722,
+      "score": 0.792
+    },
+    {
+      "word": "a",
+      "start": 28.742,
+      "end": 28.762,
+      "score": 0.002
+    },
+    {
+      "word": "ghost",
+      "start": 28.922,
+      "end": 29.262,
+      "score": 0.413
+    },
+    {
+      "word": "in",
+      "start": 29.422,
+      "end": 29.522,
+      "score": 0.688
+    },
+    {
+      "word": "your",
+      "start": 29.562,
+      "end": 29.662,
+      "score": 0.116
+    },
+    {
+      "word": "face",
+      "start": 29.762,
+      "end": 30.592,
+      "score": 0.745
+    },
+    {
+      "word": "They",
+      "start": 30.592,
+      "end": 31.422,
+      "score": 0.745
+    },
+    {
+      "word": "ROGD",
+      "start": 31.482,
+      "end": 31.682,
+      "score": 0.554
+    },
+    {
+      "word": "us",
+      "start": 31.762,
+      "end": 31.892,
+      "score": 0.336
+    },
+    {
+      "word": "Yeah",
+      "start": 31.892,
+      "end": 32.022,
+      "score": 0.336
+    },
+    {
+      "word": "they",
+      "start": 32.082,
+      "end": 32.262,
+      "score": 0.416
+    },
+    {
+      "word": "robbed",
+      "start": 32.362,
+      "end": 33.462,
+      "score": 0.831
+    },
+    {
+      "word": "us",
+      "start": 33.522,
+      "end": 33.812,
+      "score": 0.594
+    },
+    {
+      "word": "Took",
+      "start": 33.812,
+      "end": 34.102,
+      "score": 0.594
+    },
+    {
+      "word": "the",
+      "start": 34.202,
+      "end": 34.402,
+      "score": 0.608
+    },
+    {
+      "word": "girl",
+      "start": 34.422,
+      "end": 34.602,
+      "score": 0.43
+    },
+    {
+      "word": "with",
+      "start": 34.642,
+      "end": 34.742,
+      "score": 0.13
+    },
+    {
+      "word": "the",
+      "start": 34.822,
+      "end": 35.002,
+      "score": 0.63
+    },
+    {
+      "word": "ribbons",
+      "start": 35.042,
+      "end": 35.522,
+      "score": 0.559
+    },
+    {
+      "word": "and",
+      "start": 35.822,
+      "end": 36.022,
+      "score": 0.617
+    },
+    {
+      "word": "the",
+      "start": 36.102,
+      "end": 36.422,
+      "score": 0.389
+    },
+    {
+      "word": "gold",
+      "start": 36.502,
+      "end": 36.942,
+      "score": 0.643
+    },
+    {
+      "word": "They",
+      "start": 36.942,
+      "end": 37.382,
+      "score": 0.643
+    },
+    {
+      "word": "ROGD",
+      "start": 37.422,
+      "end": 38.102,
+      "score": 0.627
+    },
+    {
+      "word": "us",
+      "start": 38.342,
+      "end": 38.872,
+      "score": 0.8
+    },
+    {
+      "word": "Yeah",
+      "start": 38.872,
+      "end": 39.402,
+      "score": 0.8
+    },
+    {
+      "word": "they",
+      "start": 39.482,
+      "end": 39.882,
+      "score": 0.641
+    },
+    {
+      "word": "robbed",
+      "start": 40.082,
+      "end": 40.422,
+      "score": 0.427
+    },
+    {
+      "word": "us",
+      "start": 40.482,
+      "end": 40.642,
+      "score": 0.523
+    },
+    {
+      "word": "Left",
+      "start": 40.642,
+      "end": 40.802,
+      "score": 0.523
+    },
+    {
+      "word": "a",
+      "start": 40.822,
+      "end": 40.842,
+      "score": 0.0
+    },
+    {
+      "word": "story",
+      "start": 40.882,
+      "end": 41.362,
+      "score": 0.619
+    },
+    {
+      "word": "that",
+      "start": 41.382,
+      "end": 41.722,
+      "score": 0.539
+    },
+    {
+      "word": "was",
+      "start": 41.782,
+      "end": 42.002,
+      "score": 0.525
+    },
+    {
+      "word": "never",
+      "start": 42.042,
+      "end": 42.342,
+      "score": 0.488
+    },
+    {
+      "word": "meant",
+      "start": 42.422,
+      "end": 42.702,
+      "score": 0.383
+    },
+    {
+      "word": "to",
+      "start": 42.822,
+      "end": 43.002,
+      "score": 0.742
+    },
+    {
+      "word": "be",
+      "start": 43.042,
+      "end": 43.222,
+      "score": 0.739
+    },
+    {
+      "word": "told",
+      "start": 43.282,
+      "end": 43.772,
+      "score": 0.574
+    },
+    {
+      "word": "Our",
+      "start": 43.772,
+      "end": 44.262,
+      "score": 0.574
+    },
+    {
+      "word": "daughter",
+      "start": 44.322,
+      "end": 45.772,
+      "score": 0.618
+    },
+    {
+      "word": "Our",
+      "start": 45.772,
+      "end": 47.223,
+      "score": 0.618
+    },
+    {
+      "word": "daughter",
+      "start": 47.283,
+      "end": 49.123,
+      "score": 0.573
+    },
+    {
+      "word": "Our",
+      "start": 49.123,
+      "end": 50.963,
+      "score": 0.573
+    },
+    {
+      "word": "daughter",
+      "start": 51.063,
+      "end": 52.903,
+      "score": 0.673
+    },
+    {
+      "word": "Blue",
+      "start": 52.903,
+      "end": 54.743,
+      "score": 0.673
+    },
+    {
+      "word": "screen",
+      "start": 54.823,
+      "end": 55.683,
+      "score": 0.611
+    },
+    {
+      "word": "Flicker",
+      "start": 55.683,
+      "end": 56.543,
+      "score": 0.611
+    },
+    {
+      "word": "and",
+      "start": 56.603,
+      "end": 56.703,
+      "score": 0.187
+    },
+    {
+      "word": "flash",
+      "start": 56.803,
+      "end": 57.163,
+      "score": 0.349
+    },
+    {
+      "word": "in",
+      "start": 57.323,
+      "end": 57.403,
+      "score": 0.558
+    },
+    {
+      "word": "the",
+      "start": 57.443,
+      "end": 57.583,
+      "score": 0.457
+    },
+    {
+      "word": "dead",
+      "start": 57.623,
+      "end": 58.043,
+      "score": 0.56
+    },
+    {
+      "word": "of",
+      "start": 58.063,
+      "end": 58.223,
+      "score": 0.574
+    },
+    {
+      "word": "the",
+      "start": 58.263,
+      "end": 58.383,
+      "score": 0.599
+    },
+    {
+      "word": "night",
+      "start": 58.483,
+      "end": 59.163,
+      "score": 0.609
+    },
+    {
+      "word": "Changing",
+      "start": 59.163,
+      "end": 59.843,
+      "score": 0.609
+    },
+    {
+      "word": "fast",
+      "start": 59.943,
+      "end": 60.793,
+      "score": 0.576
+    },
+    {
+      "word": "Hiding",
+      "start": 60.793,
+      "end": 61.643,
+      "score": 0.576
+    },
+    {
+      "word": "away",
+      "start": 61.663,
+      "end": 62.243,
+      "score": 0.644
+    },
+    {
+      "word": "from",
+      "start": 62.303,
+      "end": 62.463,
+      "score": 0.332
+    },
+    {
+      "word": "the",
+      "start": 62.503,
+      "end": 62.603,
+      "score": 0.598
+    },
+    {
+      "word": "morning",
+      "start": 62.623,
+      "end": 63.423,
+      "score": 0.713
+    },
+    {
+      "word": "light",
+      "start": 63.483,
+      "end": 63.943,
+      "score": 0.493
+    },
+    {
+      "word": "You",
+      "start": 63.943,
+      "end": 64.404,
+      "score": 0.493
+    },
+    {
+      "word": "Won't",
+      "start": 64.404,
+      "end": 64.864,
+      "score": 0.493
+    },
+    {
+      "word": "even",
+      "start": 64.944,
+      "end": 65.184,
+      "score": 0.595
+    },
+    {
+      "word": "look",
+      "start": 65.244,
+      "end": 65.544,
+      "score": 0.65
+    },
+    {
+      "word": "in",
+      "start": 65.744,
+      "end": 65.844,
+      "score": 0.527
+    },
+    {
+      "word": "my",
+      "start": 65.904,
+      "end": 66.144,
+      "score": 0.76
+    },
+    {
+      "word": "eyes",
+      "start": 66.464,
+      "end": 67.097,
+      "score": 0.627
+    },
+    {
+      "word": "Wait",
+      "start": 67.097,
+      "end": 67.731,
+      "score": 0.627
+    },
+    {
+      "word": "Sinking",
+      "start": 67.731,
+      "end": 68.364,
+      "score": 0.627
+    },
+    {
+      "word": "beneath",
+      "start": 68.424,
+      "end": 68.944,
+      "score": 0.504
+    },
+    {
+      "word": "all",
+      "start": 69.124,
+      "end": 69.364,
+      "score": 0.427
+    },
+    {
+      "word": "the",
+      "start": 69.464,
+      "end": 69.804,
+      "score": 0.701
+    },
+    {
+      "word": "synthetic",
+      "start": 69.884,
+      "end": 70.904,
+      "score": 0.636
+    },
+    {
+      "word": "lies",
+      "start": 70.944,
+      "end": 71.771,
+      "score": 0.631
+    },
+    {
+      "word": "Cold",
+      "start": 71.771,
+      "end": 72.597,
+      "score": 0.631
+    },
+    {
+      "word": "Heavy",
+      "start": 72.597,
+      "end": 73.424,
+      "score": 0.631
+    },
+    {
+      "word": "the",
+      "start": 73.484,
+      "end": 73.584,
+      "score": 0.668
+    },
+    {
+      "word": "weight",
+      "start": 73.684,
+      "end": 74.004,
+      "score": 0.395
+    },
+    {
+      "word": "of",
+      "start": 74.164,
+      "end": 74.284,
+      "score": 0.69
+    },
+    {
+      "word": "the",
+      "start": 74.304,
+      "end": 74.404,
+      "score": 0.322
+    },
+    {
+      "word": "clothes",
+      "start": 74.464,
+      "end": 74.904,
+      "score": 0.52
+    },
+    {
+      "word": "on",
+      "start": 75.044,
+      "end": 75.124,
+      "score": 0.383
+    },
+    {
+      "word": "the",
+      "start": 75.164,
+      "end": 75.264,
+      "score": 0.323
+    },
+    {
+      "word": "floor",
+      "start": 75.384,
+      "end": 75.864,
+      "score": 0.53
+    },
+    {
+      "word": "They",
+      "start": 75.864,
+      "end": 76.344,
+      "score": 0.53
+    },
+    {
+      "word": "ROGD",
+      "start": 76.384,
+      "end": 76.504,
+      "score": 0.165
+    },
+    {
+      "word": "us",
+      "start": 76.724,
+      "end": 77.014,
+      "score": 0.627
+    },
+    {
+      "word": "Yeah",
+      "start": 77.014,
+      "end": 77.304,
+      "score": 0.627
+    },
+    {
+      "word": "they",
+      "start": 77.464,
+      "end": 77.664,
+      "score": 0.466
+    },
+    {
+      "word": "robbed",
+      "start": 77.684,
+      "end": 78.284,
+      "score": 0.589
+    },
+    {
+      "word": "us",
+      "start": 78.684,
+      "end": 78.994,
+      "score": 0.613
+    },
+    {
+      "word": "Took",
+      "start": 78.994,
+      "end": 79.304,
+      "score": 0.613
+    },
+    {
+      "word": "the",
+      "start": 79.404,
+      "end": 79.744,
+      "score": 0.635
+    },
+    {
+      "word": "girl",
+      "start": 79.824,
+      "end": 80.224,
+      "score": 0.531
+    },
+    {
+      "word": "with",
+      "start": 80.264,
+      "end": 80.364,
+      "score": 0.126
+    },
+    {
+      "word": "the",
+      "start": 80.444,
+      "end": 80.604,
+      "score": 0.527
+    },
+    {
+      "word": "ribbons",
+      "start": 80.644,
+      "end": 81.144,
+      "score": 0.558
+    },
+    {
+      "word": "and",
+      "start": 81.524,
+      "end": 81.664,
+      "score": 0.609
+    },
+    {
+      "word": "the",
+      "start": 81.724,
+      "end": 82.044,
+      "score": 0.751
+    },
+    {
+      "word": "gold",
+      "start": 82.124,
+      "end": 82.564,
+      "score": 0.49
+    },
+    {
+      "word": "They",
+      "start": 82.564,
+      "end": 83.004,
+      "score": 0.49
+    },
+    {
+      "word": "ROGD",
+      "start": 83.045,
+      "end": 83.165,
+      "score": 0.256
+    },
+    {
+      "word": "us",
+      "start": 83.505,
+      "end": 83.785,
+      "score": 0.48
+    },
+    {
+      "word": "Yeah",
+      "start": 83.785,
+      "end": 84.065,
+      "score": 0.48
+    },
+    {
+      "word": "they",
+      "start": 84.245,
+      "end": 84.445,
+      "score": 0.508
+    },
+    {
+      "word": "robbed",
+      "start": 84.545,
+      "end": 85.025,
+      "score": 0.559
+    },
+    {
+      "word": "us",
+      "start": 85.385,
+      "end": 85.735,
+      "score": 0.697
+    },
+    {
+      "word": "Left",
+      "start": 85.735,
+      "end": 86.085,
+      "score": 0.697
+    },
+    {
+      "word": "a",
+      "start": 86.285,
+      "end": 86.345,
+      "score": 0.71
+    },
+    {
+      "word": "story",
+      "start": 86.385,
+      "end": 87.045,
+      "score": 0.522
+    },
+    {
+      "word": "that",
+      "start": 87.205,
+      "end": 87.365,
+      "score": 0.349
+    },
+    {
+      "word": "was",
+      "start": 87.425,
+      "end": 87.605,
+      "score": 0.448
+    },
+    {
+      "word": "never",
+      "start": 87.665,
+      "end": 87.965,
+      "score": 0.411
+    },
+    {
+      "word": "meant",
+      "start": 88.045,
+      "end": 88.345,
+      "score": 0.512
+    },
+    {
+      "word": "to",
+      "start": 88.445,
+      "end": 88.625,
+      "score": 0.742
+    },
+    {
+      "word": "be",
+      "start": 88.685,
+      "end": 88.845,
+      "score": 0.734
+    },
+    {
+      "word": "told",
+      "start": 88.905,
+      "end": 89.405,
+      "score": 0.682
+    },
+    {
+      "word": "Our",
+      "start": 89.405,
+      "end": 89.905,
+      "score": 0.682
+    },
+    {
+      "word": "daughter",
+      "start": 89.965,
+      "end": 90.365,
+      "score": 0.421
+    },
+    {
+      "word": "Our",
+      "start": 90.365,
+      "end": 90.765,
+      "score": 0.421
+    },
+    {
+      "word": "daughter",
+      "start": 90.785,
+      "end": 91.805,
+      "score": 0.525
+    },
+    {
+      "word": "Our",
+      "start": 91.805,
+      "end": 92.825,
+      "score": 0.525
+    },
+    {
+      "word": "daughter",
+      "start": 92.925,
+      "end": 93.565,
+      "score": 0.653
+    },
+    {
+      "word": "I",
+      "start": 93.565,
+      "end": 94.205,
+      "score": 0.653
+    },
+    {
+      "word": "see",
+      "start": 94.325,
+      "end": 94.585,
+      "score": 0.541
+    },
+    {
+      "word": "a",
+      "start": 94.725,
+      "end": 94.805,
+      "score": 0.724
+    },
+    {
+      "word": "stranger",
+      "start": 95.065,
+      "end": 95.805,
+      "score": 0.59
+    },
+    {
+      "word": "I",
+      "start": 95.805,
+      "end": 96.545,
+      "score": 0.59
+    },
+    {
+      "word": "see",
+      "start": 96.565,
+      "end": 96.625,
+      "score": 0.014
+    },
+    {
+      "word": "a",
+      "start": 96.645,
+      "end": 96.665,
+      "score": 0.001
+    },
+    {
+      "word": "shadow",
+      "start": 96.725,
+      "end": 98.595,
+      "score": 0.73
+    },
+    {
+      "word": "I",
+      "start": 98.595,
+      "end": 100.465,
+      "score": 0.73
+    },
+    {
+      "word": "see",
+      "start": 100.545,
+      "end": 100.705,
+      "score": 0.457
+    },
+    {
+      "word": "a",
+      "start": 100.725,
+      "end": 100.825,
+      "score": 0.721
+    },
+    {
+      "word": "wall",
+      "start": 100.925,
+      "end": 101.396,
+      "score": 0.573
+    },
+    {
+      "word": "Where",
+      "start": 101.396,
+      "end": 101.866,
+      "score": 0.573
+    },
+    {
+      "word": "did",
+      "start": 102.226,
+      "end": 102.466,
+      "score": 0.667
+    },
+    {
+      "word": "you",
+      "start": 102.586,
+      "end": 103.106,
+      "score": 0.676
+    },
+    {
+      "word": "go",
+      "start": 103.166,
+      "end": 103.336,
+      "score": 0.331
+    },
+    {
+      "word": "Where",
+      "start": 103.336,
+      "end": 103.506,
+      "score": 0.331
+    },
+    {
+      "word": "did",
+      "start": 103.686,
+      "end": 103.846,
+      "score": 0.566
+    },
+    {
+      "word": "you",
+      "start": 104.146,
+      "end": 104.266,
+      "score": 0.27
+    },
+    {
+      "word": "go",
+      "start": 104.346,
+      "end": 104.956,
+      "score": 0.583
+    },
+    {
+      "word": "Where",
+      "start": 104.956,
+      "end": 105.566,
+      "score": 0.583
+    },
+    {
+      "word": "did",
+      "start": 105.606,
+      "end": 106.046,
+      "score": 0.756
+    },
+    {
+      "word": "you",
+      "start": 106.426,
+      "end": 106.626,
+      "score": 0.446
+    },
+    {
+      "word": "go",
+      "start": 106.806,
+      "end": 107.096,
+      "score": 0.46
+    },
+    {
+      "word": "Bring",
+      "start": 107.096,
+      "end": 107.386,
+      "score": 0.46
+    },
+    {
+      "word": "her",
+      "start": 107.526,
+      "end": 107.946,
+      "score": 0.541
+    },
+    {
+      "word": "back",
+      "start": 108.046,
+      "end": 108.526,
+      "score": 0.574
+    },
+    {
+      "word": "to",
+      "start": 108.566,
+      "end": 108.946,
+      "score": 0.444
+    },
+    {
+      "word": "the",
+      "start": 109.206,
+      "end": 109.366,
+      "score": 0.565
+    },
+    {
+      "word": "garden",
+      "start": 109.386,
+      "end": 109.686,
+      "score": 0.408
+    },
+    {
+      "word": "Bring",
+      "start": 109.686,
+      "end": 109.986,
+      "score": 0.408
+    },
+    {
+      "word": "her",
+      "start": 110.046,
+      "end": 110.166,
+      "score": 0.289
+    },
+    {
+      "word": "back",
+      "start": 110.226,
+      "end": 110.406,
+      "score": 0.452
+    },
+    {
+      "word": "to",
+      "start": 110.486,
+      "end": 110.646,
+      "score": 0.746
+    },
+    {
+      "word": "the",
+      "start": 110.686,
+      "end": 110.806,
+      "score": 0.677
+    },
+    {
+      "word": "sun",
+      "start": 110.906,
+      "end": 111.186,
+      "score": 0.379
+    },
+    {
+      "word": "Bring",
+      "start": 111.186,
+      "end": 111.466,
+      "score": 0.379
+    },
+    {
+      "word": "her",
+      "start": 111.566,
+      "end": 111.886,
+      "score": 0.753
+    },
+    {
+      "word": "back",
+      "start": 111.946,
+      "end": 112.486,
+      "score": 0.576
+    },
+    {
+      "word": "to",
+      "start": 112.586,
+      "end": 113.026,
+      "score": 0.826
+    },
+    {
+      "word": "the",
+      "start": 113.226,
+      "end": 113.546,
+      "score": 0.679
+    },
+    {
+      "word": "start",
+      "start": 113.786,
+      "end": 115.356,
+      "score": 0.686
+    },
+    {
+      "word": "They",
+      "start": 115.356,
+      "end": 116.926,
+      "score": 0.686
+    },
+    {
+      "word": "ROGD",
+      "start": 116.966,
+      "end": 117.086,
+      "score": 0.242
+    },
+    {
+      "word": "us",
+      "start": 117.286,
+      "end": 117.576,
+      "score": 0.526
+    },
+    {
+      "word": "Yeah",
+      "start": 117.576,
+      "end": 117.866,
+      "score": 0.526
+    },
+    {
+      "word": "they",
+      "start": 118.006,
+      "end": 118.246,
+      "score": 0.604
+    },
+    {
+      "word": "robbed",
+      "start": 118.286,
+      "end": 118.866,
+      "score": 0.479
+    },
+    {
+      "word": "us",
+      "start": 118.906,
+      "end": 119.146,
+      "score": 0.405
+    },
+    {
+      "word": "Took",
+      "start": 119.146,
+      "end": 119.386,
+      "score": 0.405
+    },
+    {
+      "word": "the",
+      "start": 119.546,
+      "end": 119.866,
+      "score": 0.634
+    },
+    {
+      "word": "girl",
+      "start": 119.967,
+      "end": 120.307,
+      "score": 0.522
+    },
+    {
+      "word": "with",
+      "start": 120.407,
+      "end": 120.927,
+      "score": 0.56
+    },
+    {
+      "word": "the",
+      "start": 121.027,
+      "end": 121.207,
+      "score": 0.621
+    },
+    {
+      "word": "ribbons",
+      "start": 121.247,
+      "end": 121.727,
+      "score": 0.445
+    },
+    {
+      "word": "and",
+      "start": 122.047,
+      "end": 122.247,
+      "score": 0.617
+    },
+    {
+      "word": "the",
+      "start": 122.307,
+      "end": 122.627,
+      "score": 0.528
+    },
+    {
+      "word": "gold",
+      "start": 122.707,
+      "end": 123.217,
+      "score": 0.736
+    },
+    {
+      "word": "They",
+      "start": 123.217,
+      "end": 123.727,
+      "score": 0.736
+    },
+    {
+      "word": "ROGD",
+      "start": 123.747,
+      "end": 124.307,
+      "score": 0.622
+    },
+    {
+      "word": "us",
+      "start": 124.507,
+      "end": 125.057,
+      "score": 0.656
+    },
+    {
+      "word": "Yeah",
+      "start": 125.057,
+      "end": 125.607,
+      "score": 0.656
+    },
+    {
+      "word": "they",
+      "start": 125.687,
+      "end": 125.827,
+      "score": 0.414
+    },
+    {
+      "word": "robbed",
+      "start": 125.927,
+      "end": 126.647,
+      "score": 0.604
+    },
+    {
+      "word": "us",
+      "start": 126.867,
+      "end": 126.937,
+      "score": 0.09
+    },
+    {
+      "word": "Left",
+      "start": 126.937,
+      "end": 127.007,
+      "score": 0.09
+    },
+    {
+      "word": "a",
+      "start": 127.027,
+      "end": 127.047,
+      "score": 0.0
+    },
+    {
+      "word": "story",
+      "start": 127.067,
+      "end": 127.587,
+      "score": 0.662
+    },
+    {
+      "word": "that",
+      "start": 127.787,
+      "end": 127.947,
+      "score": 0.387
+    },
+    {
+      "word": "was",
+      "start": 128.007,
+      "end": 128.207,
+      "score": 0.585
+    },
+    {
+      "word": "never",
+      "start": 128.247,
+      "end": 128.527,
+      "score": 0.493
+    },
+    {
+      "word": "meant",
+      "start": 128.627,
+      "end": 128.927,
+      "score": 0.396
+    },
+    {
+      "word": "to",
+      "start": 129.027,
+      "end": 129.207,
+      "score": 0.737
+    },
+    {
+      "word": "be",
+      "start": 129.247,
+      "end": 129.407,
+      "score": 0.712
+    },
+    {
+      "word": "told",
+      "start": 129.467,
+      "end": 131.417,
+      "score": 0.721
+    },
+    {
+      "word": "Our",
+      "start": 131.417,
+      "end": 133.367,
+      "score": 0.721
+    },
+    {
+      "word": "daughter",
+      "start": 133.487,
+      "end": 134.417,
+      "score": 0.579
+    },
+    {
+      "word": "Our",
+      "start": 134.417,
+      "end": 135.347,
+      "score": 0.579
+    },
+    {
+      "word": "daughter",
+      "start": 136.047,
+      "end": 136.617,
+      "score": 0.469
+    },
+    {
+      "word": "Our",
+      "start": 136.617,
+      "end": 137.187,
+      "score": 0.469
+    },
+    {
+      "word": "daughter",
+      "start": 137.287,
+      "end": 139.278,
+      "score": 0.652
+    },
+    {
+      "word": "Robbed",
+      "start": 139.278,
+      "end": 141.268,
+      "score": 0.652
+    },
+    {
+      "word": "us",
+      "start": 142.968,
+      "end": 143.888,
+      "score": 0.844
+    },
+    {
+      "word": "ROGD",
+      "start": 143.888,
+      "end": 144.808,
+      "score": 0.844
+    },
+    {
+      "word": "us",
+      "start": 145.048,
+      "end": 146.038,
+      "score": 0.631
+    },
+    {
+      "word": "Slowly",
+      "start": 146.038,
+      "end": 147.028,
+      "score": 0.631
+    },
+    {
+      "word": "fading",
+      "start": 147.168,
+      "end": 149.648,
+      "score": 0.832
+    },
+    {
+      "word": "out",
+      "start": 149.888,
+      "end": 150.398,
+      "score": 0.433
+    },
+    {
+      "word": "Fading",
+      "start": 150.398,
+      "end": 150.908,
+      "score": 0.433
+    },
+    {
+      "word": "out",
+      "start": 151.908,
+      "end": 153.308,
+      "score": 0.606
+    },
+    {
+      "word": "Fading",
+      "start": 153.308,
+      "end": 154.708,
+      "score": 0.606
+    },
+    {
+      "word": "Gones",
+      "start": 154.708,
+      "end": 156.108,
+      "score": 0.606
+    }
+  ]
+}

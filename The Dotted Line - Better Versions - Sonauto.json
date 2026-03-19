@@ -1,0 +1,2023 @@
+{
+  "segments": [
+    {
+      "start": 16.222,
+      "end": 142.636,
+      "text": "Change\nFix the mind\nMend the broken parts\nRestaurar\nRenovar\nTodo tu corazón\nClean slate\nWash away the old ways\nBorrar el pasado\nVivir\nWe can change for the better\nCambio total\nWe can change for the better\nChangement total\nBetter for you\nBetter for me\nJust be new\nJust be new\nJust be new\nOh oh oh\nNovo\nNew\nNuevo\nOh oh oh\nFocus\nFind the path\nRegarde vers le ciel\nSimple\nStraight\nTrue\nUn nouveau départ\nUn nouveau jour\nLuz\nPeace is found in the right way\nCaminho certo\nSeguir\nWe can change for the better\nCambio total\nWe can change for the better\nChangement total\nBetter for you\nBetter for me\nJust be new\nJust be new\nJust be new\nOh oh oh\nNovo\nNew\nNuevo\nOh oh oh\nGive it up\nGive it in\nGive it all\nEverything moves toward the center\nEverything turns to the norm\nI choose\nYou choose\nWe choose\nThe right side of the line\nWe can change for the better\nCambio total\nWe can change for the better\nChangement total\nBetter for you\nBetter for me\nJust be new\nJust be new\nJust be new\nFinal\nPerfecto\nFix it\nFix it\nFix it\nNew\nNew\nNew",
+      "words": [
+        {
+          "word": "Change\nFix",
+          "start": 16.222,
+          "end": 18.822,
+          "score": 0.477
+        },
+        {
+          "word": "the",
+          "start": 18.862,
+          "end": 18.982,
+          "score": 0.814
+        },
+        {
+          "word": "mind\nMend",
+          "start": 19.002,
+          "end": 20.402,
+          "score": 0.828
+        },
+        {
+          "word": "the",
+          "start": 20.442,
+          "end": 20.602,
+          "score": 0.599
+        },
+        {
+          "word": "broken",
+          "start": 20.662,
+          "end": 21.562,
+          "score": 0.468
+        },
+        {
+          "word": "parts\nRestaurar\nRenovar\nTodo",
+          "start": 22.042,
+          "end": 25.403,
+          "score": 0.475
+        },
+        {
+          "word": "tu",
+          "start": 25.463,
+          "end": 25.643,
+          "score": 0.642
+        },
+        {
+          "word": "corazón\nClean",
+          "start": 25.723,
+          "end": 27.283,
+          "score": 0.564
+        },
+        {
+          "word": "slate\nWash",
+          "start": 27.303,
+          "end": 28.343,
+          "score": 0.65
+        },
+        {
+          "word": "away",
+          "start": 28.383,
+          "end": 28.743,
+          "score": 0.713
+        },
+        {
+          "word": "the",
+          "start": 28.903,
+          "end": 29.143,
+          "score": 0.531
+        },
+        {
+          "word": "old",
+          "start": 29.243,
+          "end": 29.403,
+          "score": 0.4
+        },
+        {
+          "word": "ways\nBorrar",
+          "start": 29.463,
+          "end": 31.744,
+          "score": 0.67
+        },
+        {
+          "word": "el",
+          "start": 32.124,
+          "end": 32.204,
+          "score": 0.382
+        },
+        {
+          "word": "pasado\nVivir\nWe",
+          "start": 32.324,
+          "end": 36.704,
+          "score": 0.773
+        },
+        {
+          "word": "can",
+          "start": 36.804,
+          "end": 36.984,
+          "score": 0.627
+        },
+        {
+          "word": "change",
+          "start": 37.064,
+          "end": 37.504,
+          "score": 0.685
+        },
+        {
+          "word": "for",
+          "start": 37.584,
+          "end": 37.844,
+          "score": 0.613
+        },
+        {
+          "word": "the",
+          "start": 37.864,
+          "end": 37.964,
+          "score": 0.439
+        },
+        {
+          "word": "better\nCambio",
+          "start": 38.004,
+          "end": 40.985,
+          "score": 0.563
+        },
+        {
+          "word": "total\nWe",
+          "start": 41.025,
+          "end": 42.005,
+          "score": 0.585
+        },
+        {
+          "word": "can",
+          "start": 42.065,
+          "end": 42.285,
+          "score": 0.607
+        },
+        {
+          "word": "change",
+          "start": 42.345,
+          "end": 42.805,
+          "score": 0.646
+        },
+        {
+          "word": "for",
+          "start": 42.865,
+          "end": 43.125,
+          "score": 0.631
+        },
+        {
+          "word": "the",
+          "start": 43.145,
+          "end": 43.245,
+          "score": 0.666
+        },
+        {
+          "word": "better\nChangement",
+          "start": 43.305,
+          "end": 45.185,
+          "score": 0.585
+        },
+        {
+          "word": "total\nBetter",
+          "start": 45.265,
+          "end": 46.305,
+          "score": 0.596
+        },
+        {
+          "word": "for",
+          "start": 46.345,
+          "end": 46.465,
+          "score": 0.345
+        },
+        {
+          "word": "you\nBetter",
+          "start": 46.505,
+          "end": 47.325,
+          "score": 0.414
+        },
+        {
+          "word": "for",
+          "start": 47.345,
+          "end": 47.485,
+          "score": 0.519
+        },
+        {
+          "word": "me\nJust",
+          "start": 47.525,
+          "end": 48.385,
+          "score": 0.842
+        },
+        {
+          "word": "be",
+          "start": 48.425,
+          "end": 48.585,
+          "score": 0.714
+        },
+        {
+          "word": "new\nJust",
+          "start": 48.705,
+          "end": 49.426,
+          "score": 0.786
+        },
+        {
+          "word": "be",
+          "start": 49.466,
+          "end": 49.626,
+          "score": 0.684
+        },
+        {
+          "word": "new\nJust",
+          "start": 49.746,
+          "end": 50.446,
+          "score": 0.809
+        },
+        {
+          "word": "be",
+          "start": 50.506,
+          "end": 50.686,
+          "score": 0.688
+        },
+        {
+          "word": "new\nOh",
+          "start": 50.826,
+          "end": 52.646,
+          "score": 0.732
+        },
+        {
+          "word": "oh",
+          "start": 52.806,
+          "end": 52.906,
+          "score": 0.448
+        },
+        {
+          "word": "oh\nNovo\nNew\nNuevo\nOh",
+          "start": 53.206,
+          "end": 56.426,
+          "score": 0.626
+        },
+        {
+          "word": "oh",
+          "start": 56.746,
+          "end": 56.946,
+          "score": 0.599
+        },
+        {
+          "word": "oh\nFocus\nFind",
+          "start": 57.266,
+          "end": 58.927,
+          "score": 0.609
+        },
+        {
+          "word": "the",
+          "start": 58.947,
+          "end": 59.067,
+          "score": 0.583
+        },
+        {
+          "word": "path\nRegarde",
+          "start": 59.107,
+          "end": 60.767,
+          "score": 0.55
+        },
+        {
+          "word": "vers",
+          "start": 60.787,
+          "end": 61.007,
+          "score": 0.357
+        },
+        {
+          "word": "le",
+          "start": 61.047,
+          "end": 61.207,
+          "score": 0.688
+        },
+        {
+          "word": "ciel\nSimple\nStraight\nTrue\nUn",
+          "start": 61.227,
+          "end": 64.207,
+          "score": 0.56
+        },
+        {
+          "word": "nouveau",
+          "start": 64.267,
+          "end": 64.767,
+          "score": 0.606
+        },
+        {
+          "word": "départ\nUn",
+          "start": 64.927,
+          "end": 66.347,
+          "score": 0.661
+        },
+        {
+          "word": "nouveau",
+          "start": 66.367,
+          "end": 67.067,
+          "score": 0.397
+        },
+        {
+          "word": "jour\nLuz\nPeace",
+          "start": 67.127,
+          "end": 68.448,
+          "score": 0.556
+        },
+        {
+          "word": "is",
+          "start": 68.548,
+          "end": 68.688,
+          "score": 0.703
+        },
+        {
+          "word": "found",
+          "start": 68.748,
+          "end": 69.008,
+          "score": 0.415
+        },
+        {
+          "word": "in",
+          "start": 69.068,
+          "end": 69.108,
+          "score": 0.05
+        },
+        {
+          "word": "the",
+          "start": 69.148,
+          "end": 69.228,
+          "score": 0.379
+        },
+        {
+          "word": "right",
+          "start": 69.268,
+          "end": 69.868,
+          "score": 0.567
+        },
+        {
+          "word": "way\nCaminho",
+          "start": 70.328,
+          "end": 71.568,
+          "score": 0.569
+        },
+        {
+          "word": "certo\nSeguir\nWe",
+          "start": 71.628,
+          "end": 75.768,
+          "score": 0.848
+        },
+        {
+          "word": "can",
+          "start": 75.868,
+          "end": 76.068,
+          "score": 0.695
+        },
+        {
+          "word": "change",
+          "start": 76.128,
+          "end": 76.589,
+          "score": 0.614
+        },
+        {
+          "word": "for",
+          "start": 76.669,
+          "end": 76.909,
+          "score": 0.65
+        },
+        {
+          "word": "the",
+          "start": 76.929,
+          "end": 77.029,
+          "score": 0.637
+        },
+        {
+          "word": "better\nCambio",
+          "start": 77.069,
+          "end": 80.029,
+          "score": 0.592
+        },
+        {
+          "word": "total\nWe",
+          "start": 80.089,
+          "end": 80.829,
+          "score": 0.431
+        },
+        {
+          "word": "can",
+          "start": 81.129,
+          "end": 81.349,
+          "score": 0.772
+        },
+        {
+          "word": "change",
+          "start": 81.409,
+          "end": 81.849,
+          "score": 0.63
+        },
+        {
+          "word": "for",
+          "start": 81.929,
+          "end": 82.189,
+          "score": 0.562
+        },
+        {
+          "word": "the",
+          "start": 82.209,
+          "end": 82.309,
+          "score": 0.738
+        },
+        {
+          "word": "better\nChangement",
+          "start": 82.349,
+          "end": 84.229,
+          "score": 0.565
+        },
+        {
+          "word": "total\nBetter",
+          "start": 84.289,
+          "end": 85.35,
+          "score": 0.487
+        },
+        {
+          "word": "for",
+          "start": 85.39,
+          "end": 85.53,
+          "score": 0.392
+        },
+        {
+          "word": "you\nBetter",
+          "start": 85.55,
+          "end": 86.39,
+          "score": 0.342
+        },
+        {
+          "word": "for",
+          "start": 86.41,
+          "end": 86.55,
+          "score": 0.484
+        },
+        {
+          "word": "me\nJust",
+          "start": 86.59,
+          "end": 87.43,
+          "score": 0.857
+        },
+        {
+          "word": "be",
+          "start": 87.47,
+          "end": 87.65,
+          "score": 0.702
+        },
+        {
+          "word": "new\nJust",
+          "start": 87.75,
+          "end": 88.49,
+          "score": 0.751
+        },
+        {
+          "word": "be",
+          "start": 88.53,
+          "end": 88.71,
+          "score": 0.672
+        },
+        {
+          "word": "new\nJust",
+          "start": 88.81,
+          "end": 89.53,
+          "score": 0.694
+        },
+        {
+          "word": "be",
+          "start": 89.57,
+          "end": 89.75,
+          "score": 0.676
+        },
+        {
+          "word": "new\nOh",
+          "start": 89.91,
+          "end": 91.69,
+          "score": 0.692
+        },
+        {
+          "word": "oh",
+          "start": 91.85,
+          "end": 91.95,
+          "score": 0.448
+        },
+        {
+          "word": "oh\nNovo\nNew\nNuevo\nOh",
+          "start": 92.25,
+          "end": 95.431,
+          "score": 0.68
+        },
+        {
+          "word": "oh",
+          "start": 95.571,
+          "end": 95.951,
+          "score": 0.796
+        },
+        {
+          "word": "oh\nGive",
+          "start": 96.371,
+          "end": 97.151,
+          "score": 0.803
+        },
+        {
+          "word": "it",
+          "start": 97.191,
+          "end": 97.291,
+          "score": 0.671
+        },
+        {
+          "word": "up\nGive",
+          "start": 97.351,
+          "end": 98.031,
+          "score": 0.709
+        },
+        {
+          "word": "it",
+          "start": 98.111,
+          "end": 98.251,
+          "score": 0.658
+        },
+        {
+          "word": "in\nGive",
+          "start": 98.271,
+          "end": 98.991,
+          "score": 0.66
+        },
+        {
+          "word": "it",
+          "start": 99.051,
+          "end": 99.131,
+          "score": 0.717
+        },
+        {
+          "word": "all\nEverything",
+          "start": 99.291,
+          "end": 100.391,
+          "score": 0.489
+        },
+        {
+          "word": "moves",
+          "start": 100.411,
+          "end": 100.631,
+          "score": 0.458
+        },
+        {
+          "word": "toward",
+          "start": 100.671,
+          "end": 100.991,
+          "score": 0.466
+        },
+        {
+          "word": "the",
+          "start": 101.011,
+          "end": 101.111,
+          "score": 0.267
+        },
+        {
+          "word": "center\nEverything",
+          "start": 101.171,
+          "end": 102.451,
+          "score": 0.499
+        },
+        {
+          "word": "turns",
+          "start": 102.511,
+          "end": 102.991,
+          "score": 0.598
+        },
+        {
+          "word": "to",
+          "start": 103.032,
+          "end": 103.292,
+          "score": 0.708
+        },
+        {
+          "word": "the",
+          "start": 103.332,
+          "end": 103.452,
+          "score": 0.575
+        },
+        {
+          "word": "norm\nI",
+          "start": 103.472,
+          "end": 104.532,
+          "score": 0.691
+        },
+        {
+          "word": "choose\nYou",
+          "start": 104.592,
+          "end": 105.632,
+          "score": 0.631
+        },
+        {
+          "word": "choose\nWe",
+          "start": 105.672,
+          "end": 106.692,
+          "score": 0.697
+        },
+        {
+          "word": "choose\nThe",
+          "start": 106.732,
+          "end": 107.672,
+          "score": 0.598
+        },
+        {
+          "word": "right",
+          "start": 107.712,
+          "end": 107.972,
+          "score": 0.384
+        },
+        {
+          "word": "side",
+          "start": 107.992,
+          "end": 108.332,
+          "score": 0.393
+        },
+        {
+          "word": "of",
+          "start": 108.452,
+          "end": 108.572,
+          "score": 0.582
+        },
+        {
+          "word": "the",
+          "start": 108.592,
+          "end": 108.692,
+          "score": 0.499
+        },
+        {
+          "word": "line\nWe",
+          "start": 108.812,
+          "end": 110.632,
+          "score": 0.844
+        },
+        {
+          "word": "can",
+          "start": 110.672,
+          "end": 110.892,
+          "score": 0.674
+        },
+        {
+          "word": "change",
+          "start": 110.952,
+          "end": 111.412,
+          "score": 0.677
+        },
+        {
+          "word": "for",
+          "start": 111.492,
+          "end": 111.732,
+          "score": 0.614
+        },
+        {
+          "word": "the",
+          "start": 111.752,
+          "end": 111.872,
+          "score": 0.63
+        },
+        {
+          "word": "better\nCambio",
+          "start": 111.892,
+          "end": 114.853,
+          "score": 0.633
+        },
+        {
+          "word": "total\nWe",
+          "start": 114.913,
+          "end": 115.653,
+          "score": 0.626
+        },
+        {
+          "word": "can",
+          "start": 115.773,
+          "end": 116.173,
+          "score": 0.813
+        },
+        {
+          "word": "change",
+          "start": 116.233,
+          "end": 116.693,
+          "score": 0.719
+        },
+        {
+          "word": "for",
+          "start": 116.713,
+          "end": 117.013,
+          "score": 0.657
+        },
+        {
+          "word": "the",
+          "start": 117.053,
+          "end": 117.153,
+          "score": 0.722
+        },
+        {
+          "word": "better\nChangement",
+          "start": 117.193,
+          "end": 119.053,
+          "score": 0.541
+        },
+        {
+          "word": "total\nBetter",
+          "start": 119.133,
+          "end": 120.173,
+          "score": 0.549
+        },
+        {
+          "word": "for",
+          "start": 120.233,
+          "end": 120.293,
+          "score": 0.004
+        },
+        {
+          "word": "you\nBetter",
+          "start": 120.313,
+          "end": 121.214,
+          "score": 0.453
+        },
+        {
+          "word": "for",
+          "start": 121.254,
+          "end": 121.374,
+          "score": 0.482
+        },
+        {
+          "word": "me\nJust",
+          "start": 121.414,
+          "end": 122.274,
+          "score": 0.855
+        },
+        {
+          "word": "be",
+          "start": 122.314,
+          "end": 122.494,
+          "score": 0.718
+        },
+        {
+          "word": "new\nJust",
+          "start": 122.574,
+          "end": 123.314,
+          "score": 0.753
+        },
+        {
+          "word": "be",
+          "start": 123.374,
+          "end": 123.534,
+          "score": 0.663
+        },
+        {
+          "word": "new\nJust",
+          "start": 123.634,
+          "end": 124.374,
+          "score": 0.767
+        },
+        {
+          "word": "be",
+          "start": 124.434,
+          "end": 124.594,
+          "score": 0.565
+        },
+        {
+          "word": "new\nFinal\nPerfecto\nFix",
+          "start": 124.634,
+          "end": 138.275,
+          "score": 0.558
+        },
+        {
+          "word": "it\nFix",
+          "start": 138.455,
+          "end": 139.096,
+          "score": 0.644
+        },
+        {
+          "word": "it\nFix",
+          "start": 139.516,
+          "end": 139.936,
+          "score": 0.471
+        },
+        {
+          "word": "it\nNew\nNew\nNew",
+          "start": 140.576,
+          "end": 142.636,
+          "score": 0.516
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Change",
+      "start": 16.222,
+      "end": 17.522,
+      "score": 0.477
+    },
+    {
+      "word": "Fix",
+      "start": 17.522,
+      "end": 18.822,
+      "score": 0.477
+    },
+    {
+      "word": "the",
+      "start": 18.862,
+      "end": 18.982,
+      "score": 0.814
+    },
+    {
+      "word": "mind",
+      "start": 19.002,
+      "end": 19.702,
+      "score": 0.828
+    },
+    {
+      "word": "Mend",
+      "start": 19.702,
+      "end": 20.402,
+      "score": 0.828
+    },
+    {
+      "word": "the",
+      "start": 20.442,
+      "end": 20.602,
+      "score": 0.599
+    },
+    {
+      "word": "broken",
+      "start": 20.662,
+      "end": 21.562,
+      "score": 0.468
+    },
+    {
+      "word": "parts",
+      "start": 22.042,
+      "end": 22.882,
+      "score": 0.475
+    },
+    {
+      "word": "Restaurar",
+      "start": 22.882,
+      "end": 23.723,
+      "score": 0.475
+    },
+    {
+      "word": "Renovar",
+      "start": 23.723,
+      "end": 24.563,
+      "score": 0.475
+    },
+    {
+      "word": "Todo",
+      "start": 24.563,
+      "end": 25.403,
+      "score": 0.475
+    },
+    {
+      "word": "tu",
+      "start": 25.463,
+      "end": 25.643,
+      "score": 0.642
+    },
+    {
+      "word": "corazón",
+      "start": 25.723,
+      "end": 26.503,
+      "score": 0.564
+    },
+    {
+      "word": "Clean",
+      "start": 26.503,
+      "end": 27.283,
+      "score": 0.564
+    },
+    {
+      "word": "slate",
+      "start": 27.303,
+      "end": 27.823,
+      "score": 0.65
+    },
+    {
+      "word": "Wash",
+      "start": 27.823,
+      "end": 28.343,
+      "score": 0.65
+    },
+    {
+      "word": "away",
+      "start": 28.383,
+      "end": 28.743,
+      "score": 0.713
+    },
+    {
+      "word": "the",
+      "start": 28.903,
+      "end": 29.143,
+      "score": 0.531
+    },
+    {
+      "word": "old",
+      "start": 29.243,
+      "end": 29.403,
+      "score": 0.4
+    },
+    {
+      "word": "ways",
+      "start": 29.463,
+      "end": 30.604,
+      "score": 0.67
+    },
+    {
+      "word": "Borrar",
+      "start": 30.604,
+      "end": 31.744,
+      "score": 0.67
+    },
+    {
+      "word": "el",
+      "start": 32.124,
+      "end": 32.204,
+      "score": 0.382
+    },
+    {
+      "word": "pasado",
+      "start": 32.324,
+      "end": 33.784,
+      "score": 0.773
+    },
+    {
+      "word": "Vivir",
+      "start": 33.784,
+      "end": 35.244,
+      "score": 0.773
+    },
+    {
+      "word": "We",
+      "start": 35.244,
+      "end": 36.704,
+      "score": 0.773
+    },
+    {
+      "word": "can",
+      "start": 36.804,
+      "end": 36.984,
+      "score": 0.627
+    },
+    {
+      "word": "change",
+      "start": 37.064,
+      "end": 37.504,
+      "score": 0.685
+    },
+    {
+      "word": "for",
+      "start": 37.584,
+      "end": 37.844,
+      "score": 0.613
+    },
+    {
+      "word": "the",
+      "start": 37.864,
+      "end": 37.964,
+      "score": 0.439
+    },
+    {
+      "word": "better",
+      "start": 38.004,
+      "end": 39.495,
+      "score": 0.563
+    },
+    {
+      "word": "Cambio",
+      "start": 39.495,
+      "end": 40.985,
+      "score": 0.563
+    },
+    {
+      "word": "total",
+      "start": 41.025,
+      "end": 41.515,
+      "score": 0.585
+    },
+    {
+      "word": "We",
+      "start": 41.515,
+      "end": 42.005,
+      "score": 0.585
+    },
+    {
+      "word": "can",
+      "start": 42.065,
+      "end": 42.285,
+      "score": 0.607
+    },
+    {
+      "word": "change",
+      "start": 42.345,
+      "end": 42.805,
+      "score": 0.646
+    },
+    {
+      "word": "for",
+      "start": 42.865,
+      "end": 43.125,
+      "score": 0.631
+    },
+    {
+      "word": "the",
+      "start": 43.145,
+      "end": 43.245,
+      "score": 0.666
+    },
+    {
+      "word": "better",
+      "start": 43.305,
+      "end": 44.245,
+      "score": 0.585
+    },
+    {
+      "word": "Changement",
+      "start": 44.245,
+      "end": 45.185,
+      "score": 0.585
+    },
+    {
+      "word": "total",
+      "start": 45.265,
+      "end": 45.785,
+      "score": 0.596
+    },
+    {
+      "word": "Better",
+      "start": 45.785,
+      "end": 46.305,
+      "score": 0.596
+    },
+    {
+      "word": "for",
+      "start": 46.345,
+      "end": 46.465,
+      "score": 0.345
+    },
+    {
+      "word": "you",
+      "start": 46.505,
+      "end": 46.915,
+      "score": 0.414
+    },
+    {
+      "word": "Better",
+      "start": 46.915,
+      "end": 47.325,
+      "score": 0.414
+    },
+    {
+      "word": "for",
+      "start": 47.345,
+      "end": 47.485,
+      "score": 0.519
+    },
+    {
+      "word": "me",
+      "start": 47.525,
+      "end": 47.955,
+      "score": 0.842
+    },
+    {
+      "word": "Just",
+      "start": 47.955,
+      "end": 48.385,
+      "score": 0.842
+    },
+    {
+      "word": "be",
+      "start": 48.425,
+      "end": 48.585,
+      "score": 0.714
+    },
+    {
+      "word": "new",
+      "start": 48.705,
+      "end": 49.066,
+      "score": 0.786
+    },
+    {
+      "word": "Just",
+      "start": 49.066,
+      "end": 49.426,
+      "score": 0.786
+    },
+    {
+      "word": "be",
+      "start": 49.466,
+      "end": 49.626,
+      "score": 0.684
+    },
+    {
+      "word": "new",
+      "start": 49.746,
+      "end": 50.096,
+      "score": 0.809
+    },
+    {
+      "word": "Just",
+      "start": 50.096,
+      "end": 50.446,
+      "score": 0.809
+    },
+    {
+      "word": "be",
+      "start": 50.506,
+      "end": 50.686,
+      "score": 0.688
+    },
+    {
+      "word": "new",
+      "start": 50.826,
+      "end": 51.736,
+      "score": 0.732
+    },
+    {
+      "word": "Oh",
+      "start": 51.736,
+      "end": 52.646,
+      "score": 0.732
+    },
+    {
+      "word": "oh",
+      "start": 52.806,
+      "end": 52.906,
+      "score": 0.448
+    },
+    {
+      "word": "oh",
+      "start": 53.206,
+      "end": 53.85,
+      "score": 0.626
+    },
+    {
+      "word": "Novo",
+      "start": 53.85,
+      "end": 54.494,
+      "score": 0.626
+    },
+    {
+      "word": "New",
+      "start": 54.494,
+      "end": 55.138,
+      "score": 0.626
+    },
+    {
+      "word": "Nuevo",
+      "start": 55.138,
+      "end": 55.782,
+      "score": 0.626
+    },
+    {
+      "word": "Oh",
+      "start": 55.782,
+      "end": 56.426,
+      "score": 0.626
+    },
+    {
+      "word": "oh",
+      "start": 56.746,
+      "end": 56.946,
+      "score": 0.599
+    },
+    {
+      "word": "oh",
+      "start": 57.266,
+      "end": 57.82,
+      "score": 0.609
+    },
+    {
+      "word": "Focus",
+      "start": 57.82,
+      "end": 58.373,
+      "score": 0.609
+    },
+    {
+      "word": "Find",
+      "start": 58.373,
+      "end": 58.927,
+      "score": 0.609
+    },
+    {
+      "word": "the",
+      "start": 58.947,
+      "end": 59.067,
+      "score": 0.583
+    },
+    {
+      "word": "path",
+      "start": 59.107,
+      "end": 59.937,
+      "score": 0.55
+    },
+    {
+      "word": "Regarde",
+      "start": 59.937,
+      "end": 60.767,
+      "score": 0.55
+    },
+    {
+      "word": "vers",
+      "start": 60.787,
+      "end": 61.007,
+      "score": 0.357
+    },
+    {
+      "word": "le",
+      "start": 61.047,
+      "end": 61.207,
+      "score": 0.688
+    },
+    {
+      "word": "ciel",
+      "start": 61.227,
+      "end": 61.823,
+      "score": 0.56
+    },
+    {
+      "word": "Simple",
+      "start": 61.823,
+      "end": 62.419,
+      "score": 0.56
+    },
+    {
+      "word": "Straight",
+      "start": 62.419,
+      "end": 63.015,
+      "score": 0.56
+    },
+    {
+      "word": "True",
+      "start": 63.015,
+      "end": 63.611,
+      "score": 0.56
+    },
+    {
+      "word": "Un",
+      "start": 63.611,
+      "end": 64.207,
+      "score": 0.56
+    },
+    {
+      "word": "nouveau",
+      "start": 64.267,
+      "end": 64.767,
+      "score": 0.606
+    },
+    {
+      "word": "départ",
+      "start": 64.927,
+      "end": 65.637,
+      "score": 0.661
+    },
+    {
+      "word": "Un",
+      "start": 65.637,
+      "end": 66.347,
+      "score": 0.661
+    },
+    {
+      "word": "nouveau",
+      "start": 66.367,
+      "end": 67.067,
+      "score": 0.397
+    },
+    {
+      "word": "jour",
+      "start": 67.127,
+      "end": 67.567,
+      "score": 0.556
+    },
+    {
+      "word": "Luz",
+      "start": 67.567,
+      "end": 68.008,
+      "score": 0.556
+    },
+    {
+      "word": "Peace",
+      "start": 68.008,
+      "end": 68.448,
+      "score": 0.556
+    },
+    {
+      "word": "is",
+      "start": 68.548,
+      "end": 68.688,
+      "score": 0.703
+    },
+    {
+      "word": "found",
+      "start": 68.748,
+      "end": 69.008,
+      "score": 0.415
+    },
+    {
+      "word": "in",
+      "start": 69.068,
+      "end": 69.108,
+      "score": 0.05
+    },
+    {
+      "word": "the",
+      "start": 69.148,
+      "end": 69.228,
+      "score": 0.379
+    },
+    {
+      "word": "right",
+      "start": 69.268,
+      "end": 69.868,
+      "score": 0.567
+    },
+    {
+      "word": "way",
+      "start": 70.328,
+      "end": 70.948,
+      "score": 0.569
+    },
+    {
+      "word": "Caminho",
+      "start": 70.948,
+      "end": 71.568,
+      "score": 0.569
+    },
+    {
+      "word": "certo",
+      "start": 71.628,
+      "end": 73.008,
+      "score": 0.848
+    },
+    {
+      "word": "Seguir",
+      "start": 73.008,
+      "end": 74.388,
+      "score": 0.848
+    },
+    {
+      "word": "We",
+      "start": 74.388,
+      "end": 75.768,
+      "score": 0.848
+    },
+    {
+      "word": "can",
+      "start": 75.868,
+      "end": 76.068,
+      "score": 0.695
+    },
+    {
+      "word": "change",
+      "start": 76.128,
+      "end": 76.589,
+      "score": 0.614
+    },
+    {
+      "word": "for",
+      "start": 76.669,
+      "end": 76.909,
+      "score": 0.65
+    },
+    {
+      "word": "the",
+      "start": 76.929,
+      "end": 77.029,
+      "score": 0.637
+    },
+    {
+      "word": "better",
+      "start": 77.069,
+      "end": 78.549,
+      "score": 0.592
+    },
+    {
+      "word": "Cambio",
+      "start": 78.549,
+      "end": 80.029,
+      "score": 0.592
+    },
+    {
+      "word": "total",
+      "start": 80.089,
+      "end": 80.459,
+      "score": 0.431
+    },
+    {
+      "word": "We",
+      "start": 80.459,
+      "end": 80.829,
+      "score": 0.431
+    },
+    {
+      "word": "can",
+      "start": 81.129,
+      "end": 81.349,
+      "score": 0.772
+    },
+    {
+      "word": "change",
+      "start": 81.409,
+      "end": 81.849,
+      "score": 0.63
+    },
+    {
+      "word": "for",
+      "start": 81.929,
+      "end": 82.189,
+      "score": 0.562
+    },
+    {
+      "word": "the",
+      "start": 82.209,
+      "end": 82.309,
+      "score": 0.738
+    },
+    {
+      "word": "better",
+      "start": 82.349,
+      "end": 83.289,
+      "score": 0.565
+    },
+    {
+      "word": "Changement",
+      "start": 83.289,
+      "end": 84.229,
+      "score": 0.565
+    },
+    {
+      "word": "total",
+      "start": 84.289,
+      "end": 84.82,
+      "score": 0.487
+    },
+    {
+      "word": "Better",
+      "start": 84.82,
+      "end": 85.35,
+      "score": 0.487
+    },
+    {
+      "word": "for",
+      "start": 85.39,
+      "end": 85.53,
+      "score": 0.392
+    },
+    {
+      "word": "you",
+      "start": 85.55,
+      "end": 85.97,
+      "score": 0.342
+    },
+    {
+      "word": "Better",
+      "start": 85.97,
+      "end": 86.39,
+      "score": 0.342
+    },
+    {
+      "word": "for",
+      "start": 86.41,
+      "end": 86.55,
+      "score": 0.484
+    },
+    {
+      "word": "me",
+      "start": 86.59,
+      "end": 87.01,
+      "score": 0.857
+    },
+    {
+      "word": "Just",
+      "start": 87.01,
+      "end": 87.43,
+      "score": 0.857
+    },
+    {
+      "word": "be",
+      "start": 87.47,
+      "end": 87.65,
+      "score": 0.702
+    },
+    {
+      "word": "new",
+      "start": 87.75,
+      "end": 88.12,
+      "score": 0.751
+    },
+    {
+      "word": "Just",
+      "start": 88.12,
+      "end": 88.49,
+      "score": 0.751
+    },
+    {
+      "word": "be",
+      "start": 88.53,
+      "end": 88.71,
+      "score": 0.672
+    },
+    {
+      "word": "new",
+      "start": 88.81,
+      "end": 89.17,
+      "score": 0.694
+    },
+    {
+      "word": "Just",
+      "start": 89.17,
+      "end": 89.53,
+      "score": 0.694
+    },
+    {
+      "word": "be",
+      "start": 89.57,
+      "end": 89.75,
+      "score": 0.676
+    },
+    {
+      "word": "new",
+      "start": 89.91,
+      "end": 90.8,
+      "score": 0.692
+    },
+    {
+      "word": "Oh",
+      "start": 90.8,
+      "end": 91.69,
+      "score": 0.692
+    },
+    {
+      "word": "oh",
+      "start": 91.85,
+      "end": 91.95,
+      "score": 0.448
+    },
+    {
+      "word": "oh",
+      "start": 92.25,
+      "end": 92.886,
+      "score": 0.68
+    },
+    {
+      "word": "Novo",
+      "start": 92.886,
+      "end": 93.522,
+      "score": 0.68
+    },
+    {
+      "word": "New",
+      "start": 93.522,
+      "end": 94.159,
+      "score": 0.68
+    },
+    {
+      "word": "Nuevo",
+      "start": 94.159,
+      "end": 94.795,
+      "score": 0.68
+    },
+    {
+      "word": "Oh",
+      "start": 94.795,
+      "end": 95.431,
+      "score": 0.68
+    },
+    {
+      "word": "oh",
+      "start": 95.571,
+      "end": 95.951,
+      "score": 0.796
+    },
+    {
+      "word": "oh",
+      "start": 96.371,
+      "end": 96.761,
+      "score": 0.803
+    },
+    {
+      "word": "Give",
+      "start": 96.761,
+      "end": 97.151,
+      "score": 0.803
+    },
+    {
+      "word": "it",
+      "start": 97.191,
+      "end": 97.291,
+      "score": 0.671
+    },
+    {
+      "word": "up",
+      "start": 97.351,
+      "end": 97.691,
+      "score": 0.709
+    },
+    {
+      "word": "Give",
+      "start": 97.691,
+      "end": 98.031,
+      "score": 0.709
+    },
+    {
+      "word": "it",
+      "start": 98.111,
+      "end": 98.251,
+      "score": 0.658
+    },
+    {
+      "word": "in",
+      "start": 98.271,
+      "end": 98.631,
+      "score": 0.66
+    },
+    {
+      "word": "Give",
+      "start": 98.631,
+      "end": 98.991,
+      "score": 0.66
+    },
+    {
+      "word": "it",
+      "start": 99.051,
+      "end": 99.131,
+      "score": 0.717
+    },
+    {
+      "word": "all",
+      "start": 99.291,
+      "end": 99.841,
+      "score": 0.489
+    },
+    {
+      "word": "Everything",
+      "start": 99.841,
+      "end": 100.391,
+      "score": 0.489
+    },
+    {
+      "word": "moves",
+      "start": 100.411,
+      "end": 100.631,
+      "score": 0.458
+    },
+    {
+      "word": "toward",
+      "start": 100.671,
+      "end": 100.991,
+      "score": 0.466
+    },
+    {
+      "word": "the",
+      "start": 101.011,
+      "end": 101.111,
+      "score": 0.267
+    },
+    {
+      "word": "center",
+      "start": 101.171,
+      "end": 101.811,
+      "score": 0.499
+    },
+    {
+      "word": "Everything",
+      "start": 101.811,
+      "end": 102.451,
+      "score": 0.499
+    },
+    {
+      "word": "turns",
+      "start": 102.511,
+      "end": 102.991,
+      "score": 0.598
+    },
+    {
+      "word": "to",
+      "start": 103.032,
+      "end": 103.292,
+      "score": 0.708
+    },
+    {
+      "word": "the",
+      "start": 103.332,
+      "end": 103.452,
+      "score": 0.575
+    },
+    {
+      "word": "norm",
+      "start": 103.472,
+      "end": 104.002,
+      "score": 0.691
+    },
+    {
+      "word": "I",
+      "start": 104.002,
+      "end": 104.532,
+      "score": 0.691
+    },
+    {
+      "word": "choose",
+      "start": 104.592,
+      "end": 105.112,
+      "score": 0.631
+    },
+    {
+      "word": "You",
+      "start": 105.112,
+      "end": 105.632,
+      "score": 0.631
+    },
+    {
+      "word": "choose",
+      "start": 105.672,
+      "end": 106.182,
+      "score": 0.697
+    },
+    {
+      "word": "We",
+      "start": 106.182,
+      "end": 106.692,
+      "score": 0.697
+    },
+    {
+      "word": "choose",
+      "start": 106.732,
+      "end": 107.202,
+      "score": 0.598
+    },
+    {
+      "word": "The",
+      "start": 107.202,
+      "end": 107.672,
+      "score": 0.598
+    },
+    {
+      "word": "right",
+      "start": 107.712,
+      "end": 107.972,
+      "score": 0.384
+    },
+    {
+      "word": "side",
+      "start": 107.992,
+      "end": 108.332,
+      "score": 0.393
+    },
+    {
+      "word": "of",
+      "start": 108.452,
+      "end": 108.572,
+      "score": 0.582
+    },
+    {
+      "word": "the",
+      "start": 108.592,
+      "end": 108.692,
+      "score": 0.499
+    },
+    {
+      "word": "line",
+      "start": 108.812,
+      "end": 109.722,
+      "score": 0.844
+    },
+    {
+      "word": "We",
+      "start": 109.722,
+      "end": 110.632,
+      "score": 0.844
+    },
+    {
+      "word": "can",
+      "start": 110.672,
+      "end": 110.892,
+      "score": 0.674
+    },
+    {
+      "word": "change",
+      "start": 110.952,
+      "end": 111.412,
+      "score": 0.677
+    },
+    {
+      "word": "for",
+      "start": 111.492,
+      "end": 111.732,
+      "score": 0.614
+    },
+    {
+      "word": "the",
+      "start": 111.752,
+      "end": 111.872,
+      "score": 0.63
+    },
+    {
+      "word": "better",
+      "start": 111.892,
+      "end": 113.373,
+      "score": 0.633
+    },
+    {
+      "word": "Cambio",
+      "start": 113.373,
+      "end": 114.853,
+      "score": 0.633
+    },
+    {
+      "word": "total",
+      "start": 114.913,
+      "end": 115.283,
+      "score": 0.626
+    },
+    {
+      "word": "We",
+      "start": 115.283,
+      "end": 115.653,
+      "score": 0.626
+    },
+    {
+      "word": "can",
+      "start": 115.773,
+      "end": 116.173,
+      "score": 0.813
+    },
+    {
+      "word": "change",
+      "start": 116.233,
+      "end": 116.693,
+      "score": 0.719
+    },
+    {
+      "word": "for",
+      "start": 116.713,
+      "end": 117.013,
+      "score": 0.657
+    },
+    {
+      "word": "the",
+      "start": 117.053,
+      "end": 117.153,
+      "score": 0.722
+    },
+    {
+      "word": "better",
+      "start": 117.193,
+      "end": 118.123,
+      "score": 0.541
+    },
+    {
+      "word": "Changement",
+      "start": 118.123,
+      "end": 119.053,
+      "score": 0.541
+    },
+    {
+      "word": "total",
+      "start": 119.133,
+      "end": 119.653,
+      "score": 0.549
+    },
+    {
+      "word": "Better",
+      "start": 119.653,
+      "end": 120.173,
+      "score": 0.549
+    },
+    {
+      "word": "for",
+      "start": 120.233,
+      "end": 120.293,
+      "score": 0.004
+    },
+    {
+      "word": "you",
+      "start": 120.313,
+      "end": 120.763,
+      "score": 0.453
+    },
+    {
+      "word": "Better",
+      "start": 120.763,
+      "end": 121.214,
+      "score": 0.453
+    },
+    {
+      "word": "for",
+      "start": 121.254,
+      "end": 121.374,
+      "score": 0.482
+    },
+    {
+      "word": "me",
+      "start": 121.414,
+      "end": 121.844,
+      "score": 0.855
+    },
+    {
+      "word": "Just",
+      "start": 121.844,
+      "end": 122.274,
+      "score": 0.855
+    },
+    {
+      "word": "be",
+      "start": 122.314,
+      "end": 122.494,
+      "score": 0.718
+    },
+    {
+      "word": "new",
+      "start": 122.574,
+      "end": 122.944,
+      "score": 0.753
+    },
+    {
+      "word": "Just",
+      "start": 122.944,
+      "end": 123.314,
+      "score": 0.753
+    },
+    {
+      "word": "be",
+      "start": 123.374,
+      "end": 123.534,
+      "score": 0.663
+    },
+    {
+      "word": "new",
+      "start": 123.634,
+      "end": 124.004,
+      "score": 0.767
+    },
+    {
+      "word": "Just",
+      "start": 124.004,
+      "end": 124.374,
+      "score": 0.767
+    },
+    {
+      "word": "be",
+      "start": 124.434,
+      "end": 124.594,
+      "score": 0.565
+    },
+    {
+      "word": "new",
+      "start": 124.634,
+      "end": 128.044,
+      "score": 0.558
+    },
+    {
+      "word": "Final",
+      "start": 128.044,
+      "end": 131.454,
+      "score": 0.558
+    },
+    {
+      "word": "Perfecto",
+      "start": 131.454,
+      "end": 134.865,
+      "score": 0.558
+    },
+    {
+      "word": "Fix",
+      "start": 134.865,
+      "end": 138.275,
+      "score": 0.558
+    },
+    {
+      "word": "it",
+      "start": 138.455,
+      "end": 138.776,
+      "score": 0.644
+    },
+    {
+      "word": "Fix",
+      "start": 138.776,
+      "end": 139.096,
+      "score": 0.644
+    },
+    {
+      "word": "it",
+      "start": 139.516,
+      "end": 139.726,
+      "score": 0.471
+    },
+    {
+      "word": "Fix",
+      "start": 139.726,
+      "end": 139.936,
+      "score": 0.471
+    },
+    {
+      "word": "it",
+      "start": 140.576,
+      "end": 141.091,
+      "score": 0.516
+    },
+    {
+      "word": "New",
+      "start": 141.091,
+      "end": 141.606,
+      "score": 0.516
+    },
+    {
+      "word": "New",
+      "start": 141.606,
+      "end": 142.121,
+      "score": 0.516
+    },
+    {
+      "word": "New",
+      "start": 142.121,
+      "end": 142.636,
+      "score": 0.516
+    }
+  ]
+}

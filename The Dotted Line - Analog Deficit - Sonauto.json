@@ -1,0 +1,2407 @@
+{
+  "segments": [
+    {
+      "start": 6.621,
+      "end": 135.973,
+      "text": "Empty chair\nDust on the wooden legs\nI waited by the peeling paint\nLocked door\nCold floor\nNothing left to see\nNothing left to say\nNothing left to be\nYellowed polaroids curl at the edges\nSearching for the ghost of you\nSearching for the ghost of you\nIn every man I meet\nIn every man I meet\nFixing what was broken\nFixing what was broken\nBroken\nBroken\nOh oh\nLost boy\nLost boy\nOh oh\nStatic\nHissing on the magnetic tape\nYou never called to check the score\nSilent\nAbsence\nHeavy as a stone\nHeavy as a debt\nHeavy as a bone\nBitter winter wind bites through the screen\nSearching for the ghost of you\nSearching for the ghost of you\nIn every man I meet\nIn every man I meet\nFixing what was broken\nFixing what was broken\nBroken\nBroken\nOh oh\nLost boy\nLost boy\nOh oh\nMaybe if you stayed\nMaybe if you prayed\nMaybe if you cared\nThe wires wouldnt tangle\nThe signal wouldnt stray\nI am trying to go back\nI am trying to restart\nI am trying to survive\nSearching for the ghost of you\nSearching for the ghost of you\nIn every man I meet\nIn every man I meet\nFixing what was broken\nFixing what was broken\nBroken\nBroken\nAnalog heart\nDigital pain\nEnd of the tape\nEnd of the tape\nClick\nStop",
+      "words": [
+        {
+          "word": "Empty",
+          "start": 6.621,
+          "end": 7.161,
+          "score": 0.598
+        },
+        {
+          "word": "chair\nDust",
+          "start": 7.221,
+          "end": 7.961,
+          "score": 0.583
+        },
+        {
+          "word": "on",
+          "start": 8.181,
+          "end": 8.501,
+          "score": 0.786
+        },
+        {
+          "word": "the",
+          "start": 8.541,
+          "end": 8.761,
+          "score": 0.503
+        },
+        {
+          "word": "wooden",
+          "start": 8.841,
+          "end": 9.541,
+          "score": 0.654
+        },
+        {
+          "word": "legs\nI",
+          "start": 9.581,
+          "end": 10.321,
+          "score": 0.776
+        },
+        {
+          "word": "waited",
+          "start": 10.401,
+          "end": 11.121,
+          "score": 0.789
+        },
+        {
+          "word": "by",
+          "start": 11.181,
+          "end": 11.561,
+          "score": 0.807
+        },
+        {
+          "word": "the",
+          "start": 11.581,
+          "end": 11.861,
+          "score": 0.702
+        },
+        {
+          "word": "peeling",
+          "start": 11.921,
+          "end": 12.661,
+          "score": 0.686
+        },
+        {
+          "word": "paint\nLocked",
+          "start": 12.721,
+          "end": 14.441,
+          "score": 0.554
+        },
+        {
+          "word": "door\nCold",
+          "start": 14.641,
+          "end": 16.002,
+          "score": 0.767
+        },
+        {
+          "word": "floor\nNothing",
+          "start": 16.202,
+          "end": 17.882,
+          "score": 0.656
+        },
+        {
+          "word": "left",
+          "start": 17.942,
+          "end": 18.182,
+          "score": 0.677
+        },
+        {
+          "word": "to",
+          "start": 18.322,
+          "end": 18.462,
+          "score": 0.654
+        },
+        {
+          "word": "see\nNothing",
+          "start": 18.542,
+          "end": 19.682,
+          "score": 0.527
+        },
+        {
+          "word": "left",
+          "start": 19.702,
+          "end": 20.002,
+          "score": 0.504
+        },
+        {
+          "word": "to",
+          "start": 20.062,
+          "end": 20.202,
+          "score": 0.705
+        },
+        {
+          "word": "say\nNothing",
+          "start": 20.242,
+          "end": 21.222,
+          "score": 0.613
+        },
+        {
+          "word": "left",
+          "start": 21.242,
+          "end": 21.442,
+          "score": 0.488
+        },
+        {
+          "word": "to",
+          "start": 21.462,
+          "end": 21.582,
+          "score": 0.658
+        },
+        {
+          "word": "be\nYellowed",
+          "start": 21.682,
+          "end": 22.502,
+          "score": 0.439
+        },
+        {
+          "word": "polaroids",
+          "start": 22.862,
+          "end": 23.742,
+          "score": 0.596
+        },
+        {
+          "word": "curl",
+          "start": 23.782,
+          "end": 24.022,
+          "score": 0.346
+        },
+        {
+          "word": "at",
+          "start": 24.042,
+          "end": 24.122,
+          "score": 0.416
+        },
+        {
+          "word": "the",
+          "start": 24.182,
+          "end": 24.342,
+          "score": 0.517
+        },
+        {
+          "word": "edges\nSearching",
+          "start": 24.482,
+          "end": 25.923,
+          "score": 0.575
+        },
+        {
+          "word": "for",
+          "start": 25.983,
+          "end": 26.303,
+          "score": 0.766
+        },
+        {
+          "word": "the",
+          "start": 26.323,
+          "end": 26.423,
+          "score": 0.339
+        },
+        {
+          "word": "ghost",
+          "start": 26.563,
+          "end": 26.863,
+          "score": 0.654
+        },
+        {
+          "word": "of",
+          "start": 27.023,
+          "end": 27.103,
+          "score": 0.353
+        },
+        {
+          "word": "you\nSearching",
+          "start": 27.163,
+          "end": 29.003,
+          "score": 0.628
+        },
+        {
+          "word": "for",
+          "start": 29.083,
+          "end": 29.423,
+          "score": 0.771
+        },
+        {
+          "word": "the",
+          "start": 29.443,
+          "end": 29.543,
+          "score": 0.227
+        },
+        {
+          "word": "ghost",
+          "start": 29.623,
+          "end": 29.983,
+          "score": 0.58
+        },
+        {
+          "word": "of",
+          "start": 30.103,
+          "end": 30.183,
+          "score": 0.466
+        },
+        {
+          "word": "you\nIn",
+          "start": 30.243,
+          "end": 30.643,
+          "score": 0.463
+        },
+        {
+          "word": "every",
+          "start": 30.683,
+          "end": 31.563,
+          "score": 0.548
+        },
+        {
+          "word": "man",
+          "start": 31.623,
+          "end": 31.763,
+          "score": 0.506
+        },
+        {
+          "word": "I",
+          "start": 32.083,
+          "end": 32.163,
+          "score": 0.719
+        },
+        {
+          "word": "meet\nIn",
+          "start": 32.223,
+          "end": 32.963,
+          "score": 0.608
+        },
+        {
+          "word": "every",
+          "start": 32.983,
+          "end": 33.103,
+          "score": 0.093
+        },
+        {
+          "word": "man",
+          "start": 33.163,
+          "end": 33.403,
+          "score": 0.794
+        },
+        {
+          "word": "I",
+          "start": 33.643,
+          "end": 33.743,
+          "score": 0.666
+        },
+        {
+          "word": "meet\nFixing",
+          "start": 33.783,
+          "end": 34.983,
+          "score": 0.75
+        },
+        {
+          "word": "what",
+          "start": 35.063,
+          "end": 35.223,
+          "score": 0.353
+        },
+        {
+          "word": "was",
+          "start": 35.343,
+          "end": 35.703,
+          "score": 0.734
+        },
+        {
+          "word": "broken\nFixing",
+          "start": 35.723,
+          "end": 36.504,
+          "score": 0.492
+        },
+        {
+          "word": "what",
+          "start": 36.624,
+          "end": 36.804,
+          "score": 0.446
+        },
+        {
+          "word": "was",
+          "start": 36.864,
+          "end": 37.224,
+          "score": 0.727
+        },
+        {
+          "word": "broken\nBroken\nBroken\nOh",
+          "start": 37.704,
+          "end": 42.404,
+          "score": 0.643
+        },
+        {
+          "word": "oh\nLost",
+          "start": 42.644,
+          "end": 44.744,
+          "score": 0.826
+        },
+        {
+          "word": "boy\nLost",
+          "start": 45.204,
+          "end": 48.245,
+          "score": 0.689
+        },
+        {
+          "word": "boy\nOh",
+          "start": 48.325,
+          "end": 49.425,
+          "score": 0.699
+        },
+        {
+          "word": "oh\nStatic\nHissing",
+          "start": 50.045,
+          "end": 54.445,
+          "score": 0.653
+        },
+        {
+          "word": "on",
+          "start": 54.645,
+          "end": 54.805,
+          "score": 0.719
+        },
+        {
+          "word": "the",
+          "start": 55.045,
+          "end": 55.485,
+          "score": 0.767
+        },
+        {
+          "word": "magnetic",
+          "start": 55.565,
+          "end": 56.246,
+          "score": 0.559
+        },
+        {
+          "word": "tape\nYou",
+          "start": 56.366,
+          "end": 57.006,
+          "score": 0.612
+        },
+        {
+          "word": "never",
+          "start": 57.046,
+          "end": 57.846,
+          "score": 0.58
+        },
+        {
+          "word": "called",
+          "start": 57.886,
+          "end": 58.246,
+          "score": 0.44
+        },
+        {
+          "word": "to",
+          "start": 58.366,
+          "end": 58.546,
+          "score": 0.659
+        },
+        {
+          "word": "check",
+          "start": 58.566,
+          "end": 59.006,
+          "score": 0.433
+        },
+        {
+          "word": "the",
+          "start": 59.106,
+          "end": 59.386,
+          "score": 0.478
+        },
+        {
+          "word": "score\nSilent\nAbsence\nHeavy",
+          "start": 59.406,
+          "end": 64.726,
+          "score": 0.714
+        },
+        {
+          "word": "as",
+          "start": 64.966,
+          "end": 65.086,
+          "score": 0.682
+        },
+        {
+          "word": "a",
+          "start": 65.166,
+          "end": 65.226,
+          "score": 0.621
+        },
+        {
+          "word": "stone\nHeavy",
+          "start": 65.246,
+          "end": 66.447,
+          "score": 0.712
+        },
+        {
+          "word": "as",
+          "start": 66.527,
+          "end": 66.967,
+          "score": 0.798
+        },
+        {
+          "word": "a",
+          "start": 67.167,
+          "end": 67.307,
+          "score": 0.686
+        },
+        {
+          "word": "debt\nHeavy",
+          "start": 67.427,
+          "end": 68.047,
+          "score": 0.384
+        },
+        {
+          "word": "as",
+          "start": 68.107,
+          "end": 68.227,
+          "score": 0.655
+        },
+        {
+          "word": "a",
+          "start": 68.307,
+          "end": 68.347,
+          "score": 0.369
+        },
+        {
+          "word": "bone\nBitter",
+          "start": 68.427,
+          "end": 69.507,
+          "score": 0.758
+        },
+        {
+          "word": "winter",
+          "start": 69.567,
+          "end": 70.047,
+          "score": 0.59
+        },
+        {
+          "word": "wind",
+          "start": 70.127,
+          "end": 70.507,
+          "score": 0.764
+        },
+        {
+          "word": "bites",
+          "start": 70.547,
+          "end": 70.747,
+          "score": 0.453
+        },
+        {
+          "word": "through",
+          "start": 70.767,
+          "end": 70.947,
+          "score": 0.21
+        },
+        {
+          "word": "the",
+          "start": 70.987,
+          "end": 71.047,
+          "score": 0.001
+        },
+        {
+          "word": "screen\nSearching",
+          "start": 71.067,
+          "end": 72.647,
+          "score": 0.569
+        },
+        {
+          "word": "for",
+          "start": 72.707,
+          "end": 73.027,
+          "score": 0.751
+        },
+        {
+          "word": "the",
+          "start": 73.067,
+          "end": 73.167,
+          "score": 0.196
+        },
+        {
+          "word": "ghost",
+          "start": 73.267,
+          "end": 73.627,
+          "score": 0.499
+        },
+        {
+          "word": "of",
+          "start": 73.787,
+          "end": 73.867,
+          "score": 0.383
+        },
+        {
+          "word": "you\nSearching",
+          "start": 73.907,
+          "end": 75.767,
+          "score": 0.566
+        },
+        {
+          "word": "for",
+          "start": 75.867,
+          "end": 76.167,
+          "score": 0.733
+        },
+        {
+          "word": "the",
+          "start": 76.187,
+          "end": 76.287,
+          "score": 0.235
+        },
+        {
+          "word": "ghost",
+          "start": 76.367,
+          "end": 76.728,
+          "score": 0.525
+        },
+        {
+          "word": "of",
+          "start": 76.888,
+          "end": 76.968,
+          "score": 0.353
+        },
+        {
+          "word": "you\nIn",
+          "start": 76.988,
+          "end": 77.408,
+          "score": 0.32
+        },
+        {
+          "word": "every",
+          "start": 78.108,
+          "end": 78.548,
+          "score": 0.451
+        },
+        {
+          "word": "man",
+          "start": 78.568,
+          "end": 78.928,
+          "score": 0.528
+        },
+        {
+          "word": "I",
+          "start": 78.948,
+          "end": 78.968,
+          "score": 0.003
+        },
+        {
+          "word": "meet\nIn",
+          "start": 78.988,
+          "end": 79.728,
+          "score": 0.681
+        },
+        {
+          "word": "every",
+          "start": 79.768,
+          "end": 80.168,
+          "score": 0.564
+        },
+        {
+          "word": "man",
+          "start": 80.268,
+          "end": 80.488,
+          "score": 0.649
+        },
+        {
+          "word": "I",
+          "start": 80.508,
+          "end": 80.528,
+          "score": 0.002
+        },
+        {
+          "word": "meet\nFixing",
+          "start": 80.548,
+          "end": 81.408,
+          "score": 0.55
+        },
+        {
+          "word": "what",
+          "start": 81.488,
+          "end": 81.668,
+          "score": 0.442
+        },
+        {
+          "word": "was",
+          "start": 81.788,
+          "end": 81.988,
+          "score": 0.659
+        },
+        {
+          "word": "broken\nFixing",
+          "start": 82.088,
+          "end": 83.308,
+          "score": 0.601
+        },
+        {
+          "word": "what",
+          "start": 83.408,
+          "end": 83.528,
+          "score": 0.3
+        },
+        {
+          "word": "was",
+          "start": 83.868,
+          "end": 84.408,
+          "score": 0.67
+        },
+        {
+          "word": "broken\nBroken\nBroken\nOh",
+          "start": 84.448,
+          "end": 89.569,
+          "score": 0.711
+        },
+        {
+          "word": "oh\nLost",
+          "start": 89.769,
+          "end": 92.389,
+          "score": 0.787
+        },
+        {
+          "word": "boy\nLost",
+          "start": 93.789,
+          "end": 95.309,
+          "score": 0.629
+        },
+        {
+          "word": "boy\nOh",
+          "start": 95.409,
+          "end": 97.23,
+          "score": 0.781
+        },
+        {
+          "word": "oh\nMaybe",
+          "start": 97.91,
+          "end": 100.81,
+          "score": 0.869
+        },
+        {
+          "word": "if",
+          "start": 100.83,
+          "end": 100.93,
+          "score": 0.326
+        },
+        {
+          "word": "you",
+          "start": 100.99,
+          "end": 101.25,
+          "score": 0.516
+        },
+        {
+          "word": "stayed\nMaybe",
+          "start": 101.33,
+          "end": 102.31,
+          "score": 0.726
+        },
+        {
+          "word": "if",
+          "start": 102.33,
+          "end": 102.45,
+          "score": 0.332
+        },
+        {
+          "word": "you",
+          "start": 102.49,
+          "end": 102.63,
+          "score": 0.426
+        },
+        {
+          "word": "prayed\nMaybe",
+          "start": 102.69,
+          "end": 103.97,
+          "score": 0.655
+        },
+        {
+          "word": "if",
+          "start": 103.99,
+          "end": 104.17,
+          "score": 0.729
+        },
+        {
+          "word": "you",
+          "start": 104.23,
+          "end": 104.35,
+          "score": 0.334
+        },
+        {
+          "word": "cared\nThe",
+          "start": 104.41,
+          "end": 104.77,
+          "score": 0.393
+        },
+        {
+          "word": "wires",
+          "start": 104.81,
+          "end": 105.31,
+          "score": 0.614
+        },
+        {
+          "word": "wouldnt",
+          "start": 105.39,
+          "end": 105.73,
+          "score": 0.357
+        },
+        {
+          "word": "tangle\nThe",
+          "start": 105.77,
+          "end": 106.49,
+          "score": 0.513
+        },
+        {
+          "word": "signal",
+          "start": 106.59,
+          "end": 106.95,
+          "score": 0.506
+        },
+        {
+          "word": "wouldnt",
+          "start": 106.99,
+          "end": 107.411,
+          "score": 0.553
+        },
+        {
+          "word": "stray\nI",
+          "start": 107.451,
+          "end": 108.271,
+          "score": 0.858
+        },
+        {
+          "word": "am",
+          "start": 108.351,
+          "end": 108.431,
+          "score": 0.771
+        },
+        {
+          "word": "trying",
+          "start": 108.491,
+          "end": 108.811,
+          "score": 0.785
+        },
+        {
+          "word": "to",
+          "start": 108.831,
+          "end": 108.871,
+          "score": 0.0
+        },
+        {
+          "word": "go",
+          "start": 108.891,
+          "end": 109.051,
+          "score": 0.784
+        },
+        {
+          "word": "back\nI",
+          "start": 109.091,
+          "end": 109.651,
+          "score": 0.613
+        },
+        {
+          "word": "am",
+          "start": 109.731,
+          "end": 109.831,
+          "score": 0.872
+        },
+        {
+          "word": "trying",
+          "start": 109.871,
+          "end": 110.251,
+          "score": 0.786
+        },
+        {
+          "word": "to",
+          "start": 110.271,
+          "end": 110.371,
+          "score": 0.722
+        },
+        {
+          "word": "restart\nI",
+          "start": 110.431,
+          "end": 111.231,
+          "score": 0.766
+        },
+        {
+          "word": "am",
+          "start": 111.271,
+          "end": 111.331,
+          "score": 0.273
+        },
+        {
+          "word": "trying",
+          "start": 111.431,
+          "end": 111.771,
+          "score": 0.347
+        },
+        {
+          "word": "to",
+          "start": 111.871,
+          "end": 111.931,
+          "score": 0.235
+        },
+        {
+          "word": "survive\nSearching",
+          "start": 111.991,
+          "end": 113.231,
+          "score": 0.401
+        },
+        {
+          "word": "for",
+          "start": 113.311,
+          "end": 113.611,
+          "score": 0.708
+        },
+        {
+          "word": "the",
+          "start": 113.631,
+          "end": 113.711,
+          "score": 0.164
+        },
+        {
+          "word": "ghost",
+          "start": 113.851,
+          "end": 114.071,
+          "score": 0.425
+        },
+        {
+          "word": "of",
+          "start": 114.091,
+          "end": 114.151,
+          "score": 0.158
+        },
+        {
+          "word": "you\nSearching",
+          "start": 114.311,
+          "end": 115.911,
+          "score": 0.461
+        },
+        {
+          "word": "for",
+          "start": 116.071,
+          "end": 116.291,
+          "score": 0.584
+        },
+        {
+          "word": "the",
+          "start": 116.351,
+          "end": 116.811,
+          "score": 0.619
+        },
+        {
+          "word": "ghost",
+          "start": 116.951,
+          "end": 117.251,
+          "score": 0.46
+        },
+        {
+          "word": "of",
+          "start": 117.412,
+          "end": 117.492,
+          "score": 0.323
+        },
+        {
+          "word": "you\nIn",
+          "start": 117.512,
+          "end": 118.012,
+          "score": 0.418
+        },
+        {
+          "word": "every",
+          "start": 118.772,
+          "end": 119.112,
+          "score": 0.437
+        },
+        {
+          "word": "man",
+          "start": 119.212,
+          "end": 119.532,
+          "score": 0.66
+        },
+        {
+          "word": "I",
+          "start": 119.732,
+          "end": 119.892,
+          "score": 0.741
+        },
+        {
+          "word": "meet\nIn",
+          "start": 120.052,
+          "end": 120.672,
+          "score": 0.654
+        },
+        {
+          "word": "every",
+          "start": 120.952,
+          "end": 121.092,
+          "score": 0.165
+        },
+        {
+          "word": "man",
+          "start": 121.172,
+          "end": 121.492,
+          "score": 0.704
+        },
+        {
+          "word": "I",
+          "start": 121.872,
+          "end": 121.932,
+          "score": 0.644
+        },
+        {
+          "word": "meet\nFixing",
+          "start": 122.012,
+          "end": 123.312,
+          "score": 0.585
+        },
+        {
+          "word": "what",
+          "start": 123.552,
+          "end": 123.752,
+          "score": 0.398
+        },
+        {
+          "word": "was",
+          "start": 123.872,
+          "end": 124.052,
+          "score": 0.459
+        },
+        {
+          "word": "broken\nFixing",
+          "start": 124.132,
+          "end": 124.912,
+          "score": 0.405
+        },
+        {
+          "word": "what",
+          "start": 124.972,
+          "end": 125.292,
+          "score": 0.6
+        },
+        {
+          "word": "was",
+          "start": 125.392,
+          "end": 125.672,
+          "score": 0.674
+        },
+        {
+          "word": "broken\nBroken\nBroken\nAnalog",
+          "start": 125.732,
+          "end": 129.273,
+          "score": 0.594
+        },
+        {
+          "word": "heart\nDigital",
+          "start": 129.433,
+          "end": 130.313,
+          "score": 0.502
+        },
+        {
+          "word": "pain\nEnd",
+          "start": 130.373,
+          "end": 131.273,
+          "score": 0.549
+        },
+        {
+          "word": "of",
+          "start": 131.453,
+          "end": 131.593,
+          "score": 0.637
+        },
+        {
+          "word": "the",
+          "start": 131.613,
+          "end": 131.893,
+          "score": 0.635
+        },
+        {
+          "word": "tape\nEnd",
+          "start": 131.933,
+          "end": 132.873,
+          "score": 0.497
+        },
+        {
+          "word": "of",
+          "start": 132.993,
+          "end": 133.153,
+          "score": 0.479
+        },
+        {
+          "word": "the",
+          "start": 133.213,
+          "end": 133.433,
+          "score": 0.414
+        },
+        {
+          "word": "tape\nClick\nStop",
+          "start": 133.473,
+          "end": 135.973,
+          "score": 0.712
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Empty",
+      "start": 6.621,
+      "end": 7.161,
+      "score": 0.598
+    },
+    {
+      "word": "chair",
+      "start": 7.221,
+      "end": 7.591,
+      "score": 0.583
+    },
+    {
+      "word": "Dust",
+      "start": 7.591,
+      "end": 7.961,
+      "score": 0.583
+    },
+    {
+      "word": "on",
+      "start": 8.181,
+      "end": 8.501,
+      "score": 0.786
+    },
+    {
+      "word": "the",
+      "start": 8.541,
+      "end": 8.761,
+      "score": 0.503
+    },
+    {
+      "word": "wooden",
+      "start": 8.841,
+      "end": 9.541,
+      "score": 0.654
+    },
+    {
+      "word": "legs",
+      "start": 9.581,
+      "end": 9.951,
+      "score": 0.776
+    },
+    {
+      "word": "I",
+      "start": 9.951,
+      "end": 10.321,
+      "score": 0.776
+    },
+    {
+      "word": "waited",
+      "start": 10.401,
+      "end": 11.121,
+      "score": 0.789
+    },
+    {
+      "word": "by",
+      "start": 11.181,
+      "end": 11.561,
+      "score": 0.807
+    },
+    {
+      "word": "the",
+      "start": 11.581,
+      "end": 11.861,
+      "score": 0.702
+    },
+    {
+      "word": "peeling",
+      "start": 11.921,
+      "end": 12.661,
+      "score": 0.686
+    },
+    {
+      "word": "paint",
+      "start": 12.721,
+      "end": 13.581,
+      "score": 0.554
+    },
+    {
+      "word": "Locked",
+      "start": 13.581,
+      "end": 14.441,
+      "score": 0.554
+    },
+    {
+      "word": "door",
+      "start": 14.641,
+      "end": 15.322,
+      "score": 0.767
+    },
+    {
+      "word": "Cold",
+      "start": 15.322,
+      "end": 16.002,
+      "score": 0.767
+    },
+    {
+      "word": "floor",
+      "start": 16.202,
+      "end": 17.042,
+      "score": 0.656
+    },
+    {
+      "word": "Nothing",
+      "start": 17.042,
+      "end": 17.882,
+      "score": 0.656
+    },
+    {
+      "word": "left",
+      "start": 17.942,
+      "end": 18.182,
+      "score": 0.677
+    },
+    {
+      "word": "to",
+      "start": 18.322,
+      "end": 18.462,
+      "score": 0.654
+    },
+    {
+      "word": "see",
+      "start": 18.542,
+      "end": 19.112,
+      "score": 0.527
+    },
+    {
+      "word": "Nothing",
+      "start": 19.112,
+      "end": 19.682,
+      "score": 0.527
+    },
+    {
+      "word": "left",
+      "start": 19.702,
+      "end": 20.002,
+      "score": 0.504
+    },
+    {
+      "word": "to",
+      "start": 20.062,
+      "end": 20.202,
+      "score": 0.705
+    },
+    {
+      "word": "say",
+      "start": 20.242,
+      "end": 20.732,
+      "score": 0.613
+    },
+    {
+      "word": "Nothing",
+      "start": 20.732,
+      "end": 21.222,
+      "score": 0.613
+    },
+    {
+      "word": "left",
+      "start": 21.242,
+      "end": 21.442,
+      "score": 0.488
+    },
+    {
+      "word": "to",
+      "start": 21.462,
+      "end": 21.582,
+      "score": 0.658
+    },
+    {
+      "word": "be",
+      "start": 21.682,
+      "end": 22.092,
+      "score": 0.439
+    },
+    {
+      "word": "Yellowed",
+      "start": 22.092,
+      "end": 22.502,
+      "score": 0.439
+    },
+    {
+      "word": "polaroids",
+      "start": 22.862,
+      "end": 23.742,
+      "score": 0.596
+    },
+    {
+      "word": "curl",
+      "start": 23.782,
+      "end": 24.022,
+      "score": 0.346
+    },
+    {
+      "word": "at",
+      "start": 24.042,
+      "end": 24.122,
+      "score": 0.416
+    },
+    {
+      "word": "the",
+      "start": 24.182,
+      "end": 24.342,
+      "score": 0.517
+    },
+    {
+      "word": "edges",
+      "start": 24.482,
+      "end": 25.202,
+      "score": 0.575
+    },
+    {
+      "word": "Searching",
+      "start": 25.202,
+      "end": 25.923,
+      "score": 0.575
+    },
+    {
+      "word": "for",
+      "start": 25.983,
+      "end": 26.303,
+      "score": 0.766
+    },
+    {
+      "word": "the",
+      "start": 26.323,
+      "end": 26.423,
+      "score": 0.339
+    },
+    {
+      "word": "ghost",
+      "start": 26.563,
+      "end": 26.863,
+      "score": 0.654
+    },
+    {
+      "word": "of",
+      "start": 27.023,
+      "end": 27.103,
+      "score": 0.353
+    },
+    {
+      "word": "you",
+      "start": 27.163,
+      "end": 28.083,
+      "score": 0.628
+    },
+    {
+      "word": "Searching",
+      "start": 28.083,
+      "end": 29.003,
+      "score": 0.628
+    },
+    {
+      "word": "for",
+      "start": 29.083,
+      "end": 29.423,
+      "score": 0.771
+    },
+    {
+      "word": "the",
+      "start": 29.443,
+      "end": 29.543,
+      "score": 0.227
+    },
+    {
+      "word": "ghost",
+      "start": 29.623,
+      "end": 29.983,
+      "score": 0.58
+    },
+    {
+      "word": "of",
+      "start": 30.103,
+      "end": 30.183,
+      "score": 0.466
+    },
+    {
+      "word": "you",
+      "start": 30.243,
+      "end": 30.443,
+      "score": 0.463
+    },
+    {
+      "word": "In",
+      "start": 30.443,
+      "end": 30.643,
+      "score": 0.463
+    },
+    {
+      "word": "every",
+      "start": 30.683,
+      "end": 31.563,
+      "score": 0.548
+    },
+    {
+      "word": "man",
+      "start": 31.623,
+      "end": 31.763,
+      "score": 0.506
+    },
+    {
+      "word": "I",
+      "start": 32.083,
+      "end": 32.163,
+      "score": 0.719
+    },
+    {
+      "word": "meet",
+      "start": 32.223,
+      "end": 32.593,
+      "score": 0.608
+    },
+    {
+      "word": "In",
+      "start": 32.593,
+      "end": 32.963,
+      "score": 0.608
+    },
+    {
+      "word": "every",
+      "start": 32.983,
+      "end": 33.103,
+      "score": 0.093
+    },
+    {
+      "word": "man",
+      "start": 33.163,
+      "end": 33.403,
+      "score": 0.794
+    },
+    {
+      "word": "I",
+      "start": 33.643,
+      "end": 33.743,
+      "score": 0.666
+    },
+    {
+      "word": "meet",
+      "start": 33.783,
+      "end": 34.383,
+      "score": 0.75
+    },
+    {
+      "word": "Fixing",
+      "start": 34.383,
+      "end": 34.983,
+      "score": 0.75
+    },
+    {
+      "word": "what",
+      "start": 35.063,
+      "end": 35.223,
+      "score": 0.353
+    },
+    {
+      "word": "was",
+      "start": 35.343,
+      "end": 35.703,
+      "score": 0.734
+    },
+    {
+      "word": "broken",
+      "start": 35.723,
+      "end": 36.114,
+      "score": 0.492
+    },
+    {
+      "word": "Fixing",
+      "start": 36.114,
+      "end": 36.504,
+      "score": 0.492
+    },
+    {
+      "word": "what",
+      "start": 36.624,
+      "end": 36.804,
+      "score": 0.446
+    },
+    {
+      "word": "was",
+      "start": 36.864,
+      "end": 37.224,
+      "score": 0.727
+    },
+    {
+      "word": "broken",
+      "start": 37.704,
+      "end": 38.879,
+      "score": 0.643
+    },
+    {
+      "word": "Broken",
+      "start": 38.879,
+      "end": 40.054,
+      "score": 0.643
+    },
+    {
+      "word": "Broken",
+      "start": 40.054,
+      "end": 41.229,
+      "score": 0.643
+    },
+    {
+      "word": "Oh",
+      "start": 41.229,
+      "end": 42.404,
+      "score": 0.643
+    },
+    {
+      "word": "oh",
+      "start": 42.644,
+      "end": 43.694,
+      "score": 0.826
+    },
+    {
+      "word": "Lost",
+      "start": 43.694,
+      "end": 44.744,
+      "score": 0.826
+    },
+    {
+      "word": "boy",
+      "start": 45.204,
+      "end": 46.724,
+      "score": 0.689
+    },
+    {
+      "word": "Lost",
+      "start": 46.724,
+      "end": 48.245,
+      "score": 0.689
+    },
+    {
+      "word": "boy",
+      "start": 48.325,
+      "end": 48.875,
+      "score": 0.699
+    },
+    {
+      "word": "Oh",
+      "start": 48.875,
+      "end": 49.425,
+      "score": 0.699
+    },
+    {
+      "word": "oh",
+      "start": 50.045,
+      "end": 51.512,
+      "score": 0.653
+    },
+    {
+      "word": "Static",
+      "start": 51.512,
+      "end": 52.978,
+      "score": 0.653
+    },
+    {
+      "word": "Hissing",
+      "start": 52.978,
+      "end": 54.445,
+      "score": 0.653
+    },
+    {
+      "word": "on",
+      "start": 54.645,
+      "end": 54.805,
+      "score": 0.719
+    },
+    {
+      "word": "the",
+      "start": 55.045,
+      "end": 55.485,
+      "score": 0.767
+    },
+    {
+      "word": "magnetic",
+      "start": 55.565,
+      "end": 56.246,
+      "score": 0.559
+    },
+    {
+      "word": "tape",
+      "start": 56.366,
+      "end": 56.686,
+      "score": 0.612
+    },
+    {
+      "word": "You",
+      "start": 56.686,
+      "end": 57.006,
+      "score": 0.612
+    },
+    {
+      "word": "never",
+      "start": 57.046,
+      "end": 57.846,
+      "score": 0.58
+    },
+    {
+      "word": "called",
+      "start": 57.886,
+      "end": 58.246,
+      "score": 0.44
+    },
+    {
+      "word": "to",
+      "start": 58.366,
+      "end": 58.546,
+      "score": 0.659
+    },
+    {
+      "word": "check",
+      "start": 58.566,
+      "end": 59.006,
+      "score": 0.433
+    },
+    {
+      "word": "the",
+      "start": 59.106,
+      "end": 59.386,
+      "score": 0.478
+    },
+    {
+      "word": "score",
+      "start": 59.406,
+      "end": 60.736,
+      "score": 0.714
+    },
+    {
+      "word": "Silent",
+      "start": 60.736,
+      "end": 62.066,
+      "score": 0.714
+    },
+    {
+      "word": "Absence",
+      "start": 62.066,
+      "end": 63.396,
+      "score": 0.714
+    },
+    {
+      "word": "Heavy",
+      "start": 63.396,
+      "end": 64.726,
+      "score": 0.714
+    },
+    {
+      "word": "as",
+      "start": 64.966,
+      "end": 65.086,
+      "score": 0.682
+    },
+    {
+      "word": "a",
+      "start": 65.166,
+      "end": 65.226,
+      "score": 0.621
+    },
+    {
+      "word": "stone",
+      "start": 65.246,
+      "end": 65.846,
+      "score": 0.712
+    },
+    {
+      "word": "Heavy",
+      "start": 65.846,
+      "end": 66.447,
+      "score": 0.712
+    },
+    {
+      "word": "as",
+      "start": 66.527,
+      "end": 66.967,
+      "score": 0.798
+    },
+    {
+      "word": "a",
+      "start": 67.167,
+      "end": 67.307,
+      "score": 0.686
+    },
+    {
+      "word": "debt",
+      "start": 67.427,
+      "end": 67.737,
+      "score": 0.384
+    },
+    {
+      "word": "Heavy",
+      "start": 67.737,
+      "end": 68.047,
+      "score": 0.384
+    },
+    {
+      "word": "as",
+      "start": 68.107,
+      "end": 68.227,
+      "score": 0.655
+    },
+    {
+      "word": "a",
+      "start": 68.307,
+      "end": 68.347,
+      "score": 0.369
+    },
+    {
+      "word": "bone",
+      "start": 68.427,
+      "end": 68.967,
+      "score": 0.758
+    },
+    {
+      "word": "Bitter",
+      "start": 68.967,
+      "end": 69.507,
+      "score": 0.758
+    },
+    {
+      "word": "winter",
+      "start": 69.567,
+      "end": 70.047,
+      "score": 0.59
+    },
+    {
+      "word": "wind",
+      "start": 70.127,
+      "end": 70.507,
+      "score": 0.764
+    },
+    {
+      "word": "bites",
+      "start": 70.547,
+      "end": 70.747,
+      "score": 0.453
+    },
+    {
+      "word": "through",
+      "start": 70.767,
+      "end": 70.947,
+      "score": 0.21
+    },
+    {
+      "word": "the",
+      "start": 70.987,
+      "end": 71.047,
+      "score": 0.001
+    },
+    {
+      "word": "screen",
+      "start": 71.067,
+      "end": 71.857,
+      "score": 0.569
+    },
+    {
+      "word": "Searching",
+      "start": 71.857,
+      "end": 72.647,
+      "score": 0.569
+    },
+    {
+      "word": "for",
+      "start": 72.707,
+      "end": 73.027,
+      "score": 0.751
+    },
+    {
+      "word": "the",
+      "start": 73.067,
+      "end": 73.167,
+      "score": 0.196
+    },
+    {
+      "word": "ghost",
+      "start": 73.267,
+      "end": 73.627,
+      "score": 0.499
+    },
+    {
+      "word": "of",
+      "start": 73.787,
+      "end": 73.867,
+      "score": 0.383
+    },
+    {
+      "word": "you",
+      "start": 73.907,
+      "end": 74.837,
+      "score": 0.566
+    },
+    {
+      "word": "Searching",
+      "start": 74.837,
+      "end": 75.767,
+      "score": 0.566
+    },
+    {
+      "word": "for",
+      "start": 75.867,
+      "end": 76.167,
+      "score": 0.733
+    },
+    {
+      "word": "the",
+      "start": 76.187,
+      "end": 76.287,
+      "score": 0.235
+    },
+    {
+      "word": "ghost",
+      "start": 76.367,
+      "end": 76.728,
+      "score": 0.525
+    },
+    {
+      "word": "of",
+      "start": 76.888,
+      "end": 76.968,
+      "score": 0.353
+    },
+    {
+      "word": "you",
+      "start": 76.988,
+      "end": 77.198,
+      "score": 0.32
+    },
+    {
+      "word": "In",
+      "start": 77.198,
+      "end": 77.408,
+      "score": 0.32
+    },
+    {
+      "word": "every",
+      "start": 78.108,
+      "end": 78.548,
+      "score": 0.451
+    },
+    {
+      "word": "man",
+      "start": 78.568,
+      "end": 78.928,
+      "score": 0.528
+    },
+    {
+      "word": "I",
+      "start": 78.948,
+      "end": 78.968,
+      "score": 0.003
+    },
+    {
+      "word": "meet",
+      "start": 78.988,
+      "end": 79.358,
+      "score": 0.681
+    },
+    {
+      "word": "In",
+      "start": 79.358,
+      "end": 79.728,
+      "score": 0.681
+    },
+    {
+      "word": "every",
+      "start": 79.768,
+      "end": 80.168,
+      "score": 0.564
+    },
+    {
+      "word": "man",
+      "start": 80.268,
+      "end": 80.488,
+      "score": 0.649
+    },
+    {
+      "word": "I",
+      "start": 80.508,
+      "end": 80.528,
+      "score": 0.002
+    },
+    {
+      "word": "meet",
+      "start": 80.548,
+      "end": 80.978,
+      "score": 0.55
+    },
+    {
+      "word": "Fixing",
+      "start": 80.978,
+      "end": 81.408,
+      "score": 0.55
+    },
+    {
+      "word": "what",
+      "start": 81.488,
+      "end": 81.668,
+      "score": 0.442
+    },
+    {
+      "word": "was",
+      "start": 81.788,
+      "end": 81.988,
+      "score": 0.659
+    },
+    {
+      "word": "broken",
+      "start": 82.088,
+      "end": 82.698,
+      "score": 0.601
+    },
+    {
+      "word": "Fixing",
+      "start": 82.698,
+      "end": 83.308,
+      "score": 0.601
+    },
+    {
+      "word": "what",
+      "start": 83.408,
+      "end": 83.528,
+      "score": 0.3
+    },
+    {
+      "word": "was",
+      "start": 83.868,
+      "end": 84.408,
+      "score": 0.67
+    },
+    {
+      "word": "broken",
+      "start": 84.448,
+      "end": 85.728,
+      "score": 0.711
+    },
+    {
+      "word": "Broken",
+      "start": 85.728,
+      "end": 87.008,
+      "score": 0.711
+    },
+    {
+      "word": "Broken",
+      "start": 87.008,
+      "end": 88.289,
+      "score": 0.711
+    },
+    {
+      "word": "Oh",
+      "start": 88.289,
+      "end": 89.569,
+      "score": 0.711
+    },
+    {
+      "word": "oh",
+      "start": 89.769,
+      "end": 91.079,
+      "score": 0.787
+    },
+    {
+      "word": "Lost",
+      "start": 91.079,
+      "end": 92.389,
+      "score": 0.787
+    },
+    {
+      "word": "boy",
+      "start": 93.789,
+      "end": 94.549,
+      "score": 0.629
+    },
+    {
+      "word": "Lost",
+      "start": 94.549,
+      "end": 95.309,
+      "score": 0.629
+    },
+    {
+      "word": "boy",
+      "start": 95.409,
+      "end": 96.32,
+      "score": 0.781
+    },
+    {
+      "word": "Oh",
+      "start": 96.32,
+      "end": 97.23,
+      "score": 0.781
+    },
+    {
+      "word": "oh",
+      "start": 97.91,
+      "end": 99.36,
+      "score": 0.869
+    },
+    {
+      "word": "Maybe",
+      "start": 99.36,
+      "end": 100.81,
+      "score": 0.869
+    },
+    {
+      "word": "if",
+      "start": 100.83,
+      "end": 100.93,
+      "score": 0.326
+    },
+    {
+      "word": "you",
+      "start": 100.99,
+      "end": 101.25,
+      "score": 0.516
+    },
+    {
+      "word": "stayed",
+      "start": 101.33,
+      "end": 101.82,
+      "score": 0.726
+    },
+    {
+      "word": "Maybe",
+      "start": 101.82,
+      "end": 102.31,
+      "score": 0.726
+    },
+    {
+      "word": "if",
+      "start": 102.33,
+      "end": 102.45,
+      "score": 0.332
+    },
+    {
+      "word": "you",
+      "start": 102.49,
+      "end": 102.63,
+      "score": 0.426
+    },
+    {
+      "word": "prayed",
+      "start": 102.69,
+      "end": 103.33,
+      "score": 0.655
+    },
+    {
+      "word": "Maybe",
+      "start": 103.33,
+      "end": 103.97,
+      "score": 0.655
+    },
+    {
+      "word": "if",
+      "start": 103.99,
+      "end": 104.17,
+      "score": 0.729
+    },
+    {
+      "word": "you",
+      "start": 104.23,
+      "end": 104.35,
+      "score": 0.334
+    },
+    {
+      "word": "cared",
+      "start": 104.41,
+      "end": 104.59,
+      "score": 0.393
+    },
+    {
+      "word": "The",
+      "start": 104.59,
+      "end": 104.77,
+      "score": 0.393
+    },
+    {
+      "word": "wires",
+      "start": 104.81,
+      "end": 105.31,
+      "score": 0.614
+    },
+    {
+      "word": "wouldnt",
+      "start": 105.39,
+      "end": 105.73,
+      "score": 0.357
+    },
+    {
+      "word": "tangle",
+      "start": 105.77,
+      "end": 106.13,
+      "score": 0.513
+    },
+    {
+      "word": "The",
+      "start": 106.13,
+      "end": 106.49,
+      "score": 0.513
+    },
+    {
+      "word": "signal",
+      "start": 106.59,
+      "end": 106.95,
+      "score": 0.506
+    },
+    {
+      "word": "wouldnt",
+      "start": 106.99,
+      "end": 107.411,
+      "score": 0.553
+    },
+    {
+      "word": "stray",
+      "start": 107.451,
+      "end": 107.861,
+      "score": 0.858
+    },
+    {
+      "word": "I",
+      "start": 107.861,
+      "end": 108.271,
+      "score": 0.858
+    },
+    {
+      "word": "am",
+      "start": 108.351,
+      "end": 108.431,
+      "score": 0.771
+    },
+    {
+      "word": "trying",
+      "start": 108.491,
+      "end": 108.811,
+      "score": 0.785
+    },
+    {
+      "word": "to",
+      "start": 108.831,
+      "end": 108.871,
+      "score": 0.0
+    },
+    {
+      "word": "go",
+      "start": 108.891,
+      "end": 109.051,
+      "score": 0.784
+    },
+    {
+      "word": "back",
+      "start": 109.091,
+      "end": 109.371,
+      "score": 0.613
+    },
+    {
+      "word": "I",
+      "start": 109.371,
+      "end": 109.651,
+      "score": 0.613
+    },
+    {
+      "word": "am",
+      "start": 109.731,
+      "end": 109.831,
+      "score": 0.872
+    },
+    {
+      "word": "trying",
+      "start": 109.871,
+      "end": 110.251,
+      "score": 0.786
+    },
+    {
+      "word": "to",
+      "start": 110.271,
+      "end": 110.371,
+      "score": 0.722
+    },
+    {
+      "word": "restart",
+      "start": 110.431,
+      "end": 110.831,
+      "score": 0.766
+    },
+    {
+      "word": "I",
+      "start": 110.831,
+      "end": 111.231,
+      "score": 0.766
+    },
+    {
+      "word": "am",
+      "start": 111.271,
+      "end": 111.331,
+      "score": 0.273
+    },
+    {
+      "word": "trying",
+      "start": 111.431,
+      "end": 111.771,
+      "score": 0.347
+    },
+    {
+      "word": "to",
+      "start": 111.871,
+      "end": 111.931,
+      "score": 0.235
+    },
+    {
+      "word": "survive",
+      "start": 111.991,
+      "end": 112.611,
+      "score": 0.401
+    },
+    {
+      "word": "Searching",
+      "start": 112.611,
+      "end": 113.231,
+      "score": 0.401
+    },
+    {
+      "word": "for",
+      "start": 113.311,
+      "end": 113.611,
+      "score": 0.708
+    },
+    {
+      "word": "the",
+      "start": 113.631,
+      "end": 113.711,
+      "score": 0.164
+    },
+    {
+      "word": "ghost",
+      "start": 113.851,
+      "end": 114.071,
+      "score": 0.425
+    },
+    {
+      "word": "of",
+      "start": 114.091,
+      "end": 114.151,
+      "score": 0.158
+    },
+    {
+      "word": "you",
+      "start": 114.311,
+      "end": 115.111,
+      "score": 0.461
+    },
+    {
+      "word": "Searching",
+      "start": 115.111,
+      "end": 115.911,
+      "score": 0.461
+    },
+    {
+      "word": "for",
+      "start": 116.071,
+      "end": 116.291,
+      "score": 0.584
+    },
+    {
+      "word": "the",
+      "start": 116.351,
+      "end": 116.811,
+      "score": 0.619
+    },
+    {
+      "word": "ghost",
+      "start": 116.951,
+      "end": 117.251,
+      "score": 0.46
+    },
+    {
+      "word": "of",
+      "start": 117.412,
+      "end": 117.492,
+      "score": 0.323
+    },
+    {
+      "word": "you",
+      "start": 117.512,
+      "end": 117.762,
+      "score": 0.418
+    },
+    {
+      "word": "In",
+      "start": 117.762,
+      "end": 118.012,
+      "score": 0.418
+    },
+    {
+      "word": "every",
+      "start": 118.772,
+      "end": 119.112,
+      "score": 0.437
+    },
+    {
+      "word": "man",
+      "start": 119.212,
+      "end": 119.532,
+      "score": 0.66
+    },
+    {
+      "word": "I",
+      "start": 119.732,
+      "end": 119.892,
+      "score": 0.741
+    },
+    {
+      "word": "meet",
+      "start": 120.052,
+      "end": 120.362,
+      "score": 0.654
+    },
+    {
+      "word": "In",
+      "start": 120.362,
+      "end": 120.672,
+      "score": 0.654
+    },
+    {
+      "word": "every",
+      "start": 120.952,
+      "end": 121.092,
+      "score": 0.165
+    },
+    {
+      "word": "man",
+      "start": 121.172,
+      "end": 121.492,
+      "score": 0.704
+    },
+    {
+      "word": "I",
+      "start": 121.872,
+      "end": 121.932,
+      "score": 0.644
+    },
+    {
+      "word": "meet",
+      "start": 122.012,
+      "end": 122.662,
+      "score": 0.585
+    },
+    {
+      "word": "Fixing",
+      "start": 122.662,
+      "end": 123.312,
+      "score": 0.585
+    },
+    {
+      "word": "what",
+      "start": 123.552,
+      "end": 123.752,
+      "score": 0.398
+    },
+    {
+      "word": "was",
+      "start": 123.872,
+      "end": 124.052,
+      "score": 0.459
+    },
+    {
+      "word": "broken",
+      "start": 124.132,
+      "end": 124.522,
+      "score": 0.405
+    },
+    {
+      "word": "Fixing",
+      "start": 124.522,
+      "end": 124.912,
+      "score": 0.405
+    },
+    {
+      "word": "what",
+      "start": 124.972,
+      "end": 125.292,
+      "score": 0.6
+    },
+    {
+      "word": "was",
+      "start": 125.392,
+      "end": 125.672,
+      "score": 0.674
+    },
+    {
+      "word": "broken",
+      "start": 125.732,
+      "end": 126.617,
+      "score": 0.594
+    },
+    {
+      "word": "Broken",
+      "start": 126.617,
+      "end": 127.502,
+      "score": 0.594
+    },
+    {
+      "word": "Broken",
+      "start": 127.502,
+      "end": 128.388,
+      "score": 0.594
+    },
+    {
+      "word": "Analog",
+      "start": 128.388,
+      "end": 129.273,
+      "score": 0.594
+    },
+    {
+      "word": "heart",
+      "start": 129.433,
+      "end": 129.873,
+      "score": 0.502
+    },
+    {
+      "word": "Digital",
+      "start": 129.873,
+      "end": 130.313,
+      "score": 0.502
+    },
+    {
+      "word": "pain",
+      "start": 130.373,
+      "end": 130.823,
+      "score": 0.549
+    },
+    {
+      "word": "End",
+      "start": 130.823,
+      "end": 131.273,
+      "score": 0.549
+    },
+    {
+      "word": "of",
+      "start": 131.453,
+      "end": 131.593,
+      "score": 0.637
+    },
+    {
+      "word": "the",
+      "start": 131.613,
+      "end": 131.893,
+      "score": 0.635
+    },
+    {
+      "word": "tape",
+      "start": 131.933,
+      "end": 132.403,
+      "score": 0.497
+    },
+    {
+      "word": "End",
+      "start": 132.403,
+      "end": 132.873,
+      "score": 0.497
+    },
+    {
+      "word": "of",
+      "start": 132.993,
+      "end": 133.153,
+      "score": 0.479
+    },
+    {
+      "word": "the",
+      "start": 133.213,
+      "end": 133.433,
+      "score": 0.414
+    },
+    {
+      "word": "tape",
+      "start": 133.473,
+      "end": 134.306,
+      "score": 0.712
+    },
+    {
+      "word": "Click",
+      "start": 134.306,
+      "end": 135.14,
+      "score": 0.712
+    },
+    {
+      "word": "Stop",
+      "start": 135.14,
+      "end": 135.973,
+      "score": 0.712
+    }
+  ]
+}
