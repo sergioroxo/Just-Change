@@ -1,0 +1,2239 @@
+{
+  "segments": [
+    {
+      "start": 13.742,
+      "end": 166.578,
+      "text": "Narrow\nEmpty tea cups on the table\nLeft a hollow space where we used to sit\nCold\nThe kettle stopped singing\nYour keys stayed on the counter\nI didn't reach for them\nI didn't\nHoly\nKeep it holy\nKeep the body quiet like a grave\nHoly\nKeep it holy\nGiving back the love I never gave\nI never gave\nI never gave\nOoh\nLeft behind\nOoh\nStill on my mind\nDust\nSettling on the Sunday pews\nWood is hard and dry against my spine\nHungry\nI hunger\nI thirst\nI wait\nTethered to a promise that I made\nBefore I knew the weight of midnight\nBefore the salt\nWashed out my eyes\nHoly\nKeep it holy\nKeep the body quiet like a grave\nHoly\nKeep it holy\nGiving back the love I never gave\nI never gave\nI never gave\nOoh\nLeft behind\nOoh\nStill on my mind\nCut the wire\nPut out the fire\nWatch the empire fall apart\nI walk the line\nI waste the time\nI break the heart\nMy own heart\nMy own heart\nMy own heart\nHoly\nKeep it holy\nKeep the body quiet like a grave\nHoly\nKeep it holy\nGiving back the love I never gave\nI never gave\nI never gave\nOne plate\nOne chair\nOne prayer\nAmen\nAmen\nAmen",
+      "words": [
+        {
+          "word": "Narrow\nEmpty",
+          "start": 13.742,
+          "end": 16.142,
+          "score": 0.816
+        },
+        {
+          "word": "tea",
+          "start": 16.182,
+          "end": 16.362,
+          "score": 0.566
+        },
+        {
+          "word": "cups",
+          "start": 16.422,
+          "end": 16.862,
+          "score": 0.842
+        },
+        {
+          "word": "on",
+          "start": 16.982,
+          "end": 17.102,
+          "score": 0.956
+        },
+        {
+          "word": "the",
+          "start": 17.142,
+          "end": 17.262,
+          "score": 0.843
+        },
+        {
+          "word": "table\nLeft",
+          "start": 17.302,
+          "end": 19.382,
+          "score": 0.773
+        },
+        {
+          "word": "a",
+          "start": 19.462,
+          "end": 19.542,
+          "score": 0.753
+        },
+        {
+          "word": "hollow",
+          "start": 19.582,
+          "end": 20.002,
+          "score": 0.677
+        },
+        {
+          "word": "space",
+          "start": 20.022,
+          "end": 20.462,
+          "score": 0.768
+        },
+        {
+          "word": "where",
+          "start": 20.522,
+          "end": 20.742,
+          "score": 0.432
+        },
+        {
+          "word": "we",
+          "start": 20.762,
+          "end": 21.002,
+          "score": 0.821
+        },
+        {
+          "word": "used",
+          "start": 21.022,
+          "end": 21.182,
+          "score": 0.433
+        },
+        {
+          "word": "to",
+          "start": 21.222,
+          "end": 21.282,
+          "score": 0.942
+        },
+        {
+          "word": "sit\nCold\nThe",
+          "start": 21.402,
+          "end": 23.563,
+          "score": 0.828
+        },
+        {
+          "word": "kettle",
+          "start": 23.643,
+          "end": 24.083,
+          "score": 0.73
+        },
+        {
+          "word": "stopped",
+          "start": 24.103,
+          "end": 24.503,
+          "score": 0.732
+        },
+        {
+          "word": "singing\nYour",
+          "start": 24.563,
+          "end": 25.423,
+          "score": 0.56
+        },
+        {
+          "word": "keys",
+          "start": 25.463,
+          "end": 25.643,
+          "score": 0.475
+        },
+        {
+          "word": "stayed",
+          "start": 25.663,
+          "end": 25.983,
+          "score": 0.836
+        },
+        {
+          "word": "on",
+          "start": 26.103,
+          "end": 26.183,
+          "score": 0.849
+        },
+        {
+          "word": "the",
+          "start": 26.203,
+          "end": 26.303,
+          "score": 0.624
+        },
+        {
+          "word": "counter\nI",
+          "start": 26.363,
+          "end": 27.223,
+          "score": 0.906
+        },
+        {
+          "word": "didn't",
+          "start": 27.303,
+          "end": 27.703,
+          "score": 0.733
+        },
+        {
+          "word": "reach",
+          "start": 27.783,
+          "end": 28.103,
+          "score": 0.867
+        },
+        {
+          "word": "for",
+          "start": 28.183,
+          "end": 28.403,
+          "score": 0.887
+        },
+        {
+          "word": "them\nI",
+          "start": 28.443,
+          "end": 29.043,
+          "score": 0.782
+        },
+        {
+          "word": "didn't\nHoly\nKeep",
+          "start": 29.123,
+          "end": 34.084,
+          "score": 0.75
+        },
+        {
+          "word": "it",
+          "start": 34.224,
+          "end": 34.304,
+          "score": 0.463
+        },
+        {
+          "word": "holy\nKeep",
+          "start": 34.364,
+          "end": 35.644,
+          "score": 0.697
+        },
+        {
+          "word": "the",
+          "start": 35.684,
+          "end": 35.804,
+          "score": 0.341
+        },
+        {
+          "word": "body",
+          "start": 35.864,
+          "end": 36.264,
+          "score": 0.31
+        },
+        {
+          "word": "quiet",
+          "start": 36.344,
+          "end": 36.724,
+          "score": 0.489
+        },
+        {
+          "word": "like",
+          "start": 36.784,
+          "end": 37.024,
+          "score": 0.842
+        },
+        {
+          "word": "a",
+          "start": 37.064,
+          "end": 37.104,
+          "score": 0.943
+        },
+        {
+          "word": "grave\nHoly\nKeep",
+          "start": 37.164,
+          "end": 41.205,
+          "score": 0.79
+        },
+        {
+          "word": "it",
+          "start": 41.325,
+          "end": 41.425,
+          "score": 0.473
+        },
+        {
+          "word": "holy\nGiving",
+          "start": 41.485,
+          "end": 42.925,
+          "score": 0.786
+        },
+        {
+          "word": "back",
+          "start": 42.985,
+          "end": 43.185,
+          "score": 0.4
+        },
+        {
+          "word": "the",
+          "start": 43.245,
+          "end": 43.405,
+          "score": 0.566
+        },
+        {
+          "word": "love",
+          "start": 43.445,
+          "end": 43.705,
+          "score": 0.794
+        },
+        {
+          "word": "I",
+          "start": 43.765,
+          "end": 43.845,
+          "score": 0.734
+        },
+        {
+          "word": "never",
+          "start": 43.905,
+          "end": 44.265,
+          "score": 0.896
+        },
+        {
+          "word": "gave\nI",
+          "start": 44.325,
+          "end": 45.185,
+          "score": 0.768
+        },
+        {
+          "word": "never",
+          "start": 45.225,
+          "end": 45.605,
+          "score": 0.911
+        },
+        {
+          "word": "gave\nI",
+          "start": 45.665,
+          "end": 46.505,
+          "score": 0.806
+        },
+        {
+          "word": "never",
+          "start": 46.545,
+          "end": 46.945,
+          "score": 0.932
+        },
+        {
+          "word": "gave\nOoh\nLeft",
+          "start": 46.985,
+          "end": 50.065,
+          "score": 0.691
+        },
+        {
+          "word": "behind\nOoh\nStill",
+          "start": 50.085,
+          "end": 57.246,
+          "score": 0.747
+        },
+        {
+          "word": "on",
+          "start": 57.326,
+          "end": 57.446,
+          "score": 0.367
+        },
+        {
+          "word": "my",
+          "start": 57.506,
+          "end": 59.587,
+          "score": 0.861
+        },
+        {
+          "word": "mind\nDust\nSettling",
+          "start": 59.667,
+          "end": 63.487,
+          "score": 0.739
+        },
+        {
+          "word": "on",
+          "start": 63.607,
+          "end": 63.707,
+          "score": 0.929
+        },
+        {
+          "word": "the",
+          "start": 63.727,
+          "end": 63.827,
+          "score": 0.422
+        },
+        {
+          "word": "Sunday",
+          "start": 63.887,
+          "end": 64.287,
+          "score": 0.907
+        },
+        {
+          "word": "pews\nWood",
+          "start": 64.347,
+          "end": 65.967,
+          "score": 0.763
+        },
+        {
+          "word": "is",
+          "start": 66.047,
+          "end": 66.127,
+          "score": 0.592
+        },
+        {
+          "word": "hard",
+          "start": 66.167,
+          "end": 66.447,
+          "score": 0.721
+        },
+        {
+          "word": "and",
+          "start": 66.507,
+          "end": 66.587,
+          "score": 0.43
+        },
+        {
+          "word": "dry",
+          "start": 66.607,
+          "end": 67.007,
+          "score": 0.802
+        },
+        {
+          "word": "against",
+          "start": 67.047,
+          "end": 67.407,
+          "score": 0.725
+        },
+        {
+          "word": "my",
+          "start": 67.527,
+          "end": 67.827,
+          "score": 0.926
+        },
+        {
+          "word": "spine\nHungry\nI",
+          "start": 67.887,
+          "end": 70.188,
+          "score": 0.715
+        },
+        {
+          "word": "hunger\nI",
+          "start": 70.248,
+          "end": 71.088,
+          "score": 0.806
+        },
+        {
+          "word": "thirst\nI",
+          "start": 71.168,
+          "end": 71.868,
+          "score": 0.739
+        },
+        {
+          "word": "wait\nTethered",
+          "start": 71.928,
+          "end": 73.428,
+          "score": 0.612
+        },
+        {
+          "word": "to",
+          "start": 73.468,
+          "end": 73.728,
+          "score": 0.938
+        },
+        {
+          "word": "a",
+          "start": 73.788,
+          "end": 73.848,
+          "score": 0.671
+        },
+        {
+          "word": "promise",
+          "start": 73.908,
+          "end": 74.328,
+          "score": 0.582
+        },
+        {
+          "word": "that",
+          "start": 74.388,
+          "end": 74.668,
+          "score": 0.636
+        },
+        {
+          "word": "I",
+          "start": 74.748,
+          "end": 74.848,
+          "score": 0.763
+        },
+        {
+          "word": "made\nBefore",
+          "start": 74.908,
+          "end": 76.028,
+          "score": 0.771
+        },
+        {
+          "word": "I",
+          "start": 76.148,
+          "end": 76.168,
+          "score": 0.737
+        },
+        {
+          "word": "knew",
+          "start": 76.208,
+          "end": 76.448,
+          "score": 0.458
+        },
+        {
+          "word": "the",
+          "start": 76.468,
+          "end": 76.628,
+          "score": 0.464
+        },
+        {
+          "word": "weight",
+          "start": 76.708,
+          "end": 76.988,
+          "score": 0.382
+        },
+        {
+          "word": "of",
+          "start": 77.028,
+          "end": 77.088,
+          "score": 0.735
+        },
+        {
+          "word": "midnight\nBefore",
+          "start": 77.168,
+          "end": 78.249,
+          "score": 0.913
+        },
+        {
+          "word": "the",
+          "start": 78.309,
+          "end": 78.389,
+          "score": 0.876
+        },
+        {
+          "word": "salt\nWashed",
+          "start": 78.469,
+          "end": 82.129,
+          "score": 0.842
+        },
+        {
+          "word": "out",
+          "start": 82.309,
+          "end": 82.449,
+          "score": 0.976
+        },
+        {
+          "word": "my",
+          "start": 82.609,
+          "end": 82.829,
+          "score": 0.863
+        },
+        {
+          "word": "eyes\nHoly\nKeep",
+          "start": 83.089,
+          "end": 88.11,
+          "score": 0.742
+        },
+        {
+          "word": "it",
+          "start": 88.25,
+          "end": 88.33,
+          "score": 0.483
+        },
+        {
+          "word": "holy\nKeep",
+          "start": 88.37,
+          "end": 89.65,
+          "score": 0.758
+        },
+        {
+          "word": "the",
+          "start": 89.69,
+          "end": 89.83,
+          "score": 0.373
+        },
+        {
+          "word": "body",
+          "start": 89.89,
+          "end": 90.31,
+          "score": 0.58
+        },
+        {
+          "word": "quiet",
+          "start": 90.37,
+          "end": 90.77,
+          "score": 0.525
+        },
+        {
+          "word": "like",
+          "start": 90.81,
+          "end": 91.07,
+          "score": 0.836
+        },
+        {
+          "word": "a",
+          "start": 91.11,
+          "end": 91.15,
+          "score": 0.926
+        },
+        {
+          "word": "grave\nHoly\nKeep",
+          "start": 91.23,
+          "end": 95.25,
+          "score": 0.748
+        },
+        {
+          "word": "it",
+          "start": 95.37,
+          "end": 95.45,
+          "score": 0.458
+        },
+        {
+          "word": "holy\nGiving",
+          "start": 95.49,
+          "end": 97.011,
+          "score": 0.707
+        },
+        {
+          "word": "back",
+          "start": 97.051,
+          "end": 97.211,
+          "score": 0.384
+        },
+        {
+          "word": "the",
+          "start": 97.271,
+          "end": 97.431,
+          "score": 0.636
+        },
+        {
+          "word": "love",
+          "start": 97.491,
+          "end": 97.771,
+          "score": 0.759
+        },
+        {
+          "word": "I",
+          "start": 97.851,
+          "end": 97.931,
+          "score": 0.762
+        },
+        {
+          "word": "never",
+          "start": 97.971,
+          "end": 98.331,
+          "score": 0.885
+        },
+        {
+          "word": "gave\nI",
+          "start": 98.391,
+          "end": 99.231,
+          "score": 0.851
+        },
+        {
+          "word": "never",
+          "start": 99.291,
+          "end": 99.691,
+          "score": 0.882
+        },
+        {
+          "word": "gave\nI",
+          "start": 99.731,
+          "end": 100.571,
+          "score": 0.791
+        },
+        {
+          "word": "never",
+          "start": 100.631,
+          "end": 101.011,
+          "score": 0.952
+        },
+        {
+          "word": "gave\nOoh\nLeft",
+          "start": 101.071,
+          "end": 104.191,
+          "score": 0.652
+        },
+        {
+          "word": "behind\nOoh\nStill",
+          "start": 104.231,
+          "end": 111.412,
+          "score": 0.513
+        },
+        {
+          "word": "on",
+          "start": 111.532,
+          "end": 111.632,
+          "score": 0.4
+        },
+        {
+          "word": "my",
+          "start": 111.692,
+          "end": 114.292,
+          "score": 0.865
+        },
+        {
+          "word": "mind\nCut",
+          "start": 114.353,
+          "end": 116.833,
+          "score": 0.849
+        },
+        {
+          "word": "the",
+          "start": 116.873,
+          "end": 116.993,
+          "score": 0.937
+        },
+        {
+          "word": "wire\nPut",
+          "start": 117.093,
+          "end": 118.473,
+          "score": 0.745
+        },
+        {
+          "word": "out",
+          "start": 118.553,
+          "end": 118.673,
+          "score": 0.518
+        },
+        {
+          "word": "the",
+          "start": 118.713,
+          "end": 118.813,
+          "score": 0.801
+        },
+        {
+          "word": "fire\nWatch",
+          "start": 118.913,
+          "end": 120.233,
+          "score": 0.845
+        },
+        {
+          "word": "the",
+          "start": 120.273,
+          "end": 120.513,
+          "score": 0.637
+        },
+        {
+          "word": "empire",
+          "start": 120.553,
+          "end": 121.353,
+          "score": 0.695
+        },
+        {
+          "word": "fall",
+          "start": 121.833,
+          "end": 122.353,
+          "score": 0.624
+        },
+        {
+          "word": "apart\nI",
+          "start": 122.413,
+          "end": 123.894,
+          "score": 0.731
+        },
+        {
+          "word": "walk",
+          "start": 123.954,
+          "end": 124.234,
+          "score": 0.565
+        },
+        {
+          "word": "the",
+          "start": 124.294,
+          "end": 124.394,
+          "score": 0.279
+        },
+        {
+          "word": "line\nI",
+          "start": 124.414,
+          "end": 125.694,
+          "score": 0.816
+        },
+        {
+          "word": "waste",
+          "start": 125.774,
+          "end": 126.054,
+          "score": 0.562
+        },
+        {
+          "word": "the",
+          "start": 126.094,
+          "end": 126.174,
+          "score": 0.94
+        },
+        {
+          "word": "time\nI",
+          "start": 126.234,
+          "end": 127.534,
+          "score": 0.846
+        },
+        {
+          "word": "break",
+          "start": 127.574,
+          "end": 127.854,
+          "score": 0.724
+        },
+        {
+          "word": "the",
+          "start": 127.874,
+          "end": 127.974,
+          "score": 0.776
+        },
+        {
+          "word": "heart\nMy",
+          "start": 128.034,
+          "end": 129.394,
+          "score": 0.651
+        },
+        {
+          "word": "own",
+          "start": 129.694,
+          "end": 129.874,
+          "score": 0.932
+        },
+        {
+          "word": "heart\nMy",
+          "start": 129.954,
+          "end": 132.995,
+          "score": 0.903
+        },
+        {
+          "word": "own",
+          "start": 133.175,
+          "end": 133.415,
+          "score": 0.693
+        },
+        {
+          "word": "heart\nMy",
+          "start": 133.555,
+          "end": 136.515,
+          "score": 0.905
+        },
+        {
+          "word": "own",
+          "start": 136.595,
+          "end": 136.775,
+          "score": 0.894
+        },
+        {
+          "word": "heart\nHoly\nKeep",
+          "start": 136.895,
+          "end": 142.516,
+          "score": 0.814
+        },
+        {
+          "word": "it",
+          "start": 142.596,
+          "end": 142.696,
+          "score": 0.736
+        },
+        {
+          "word": "holy\nKeep",
+          "start": 142.796,
+          "end": 144.076,
+          "score": 0.704
+        },
+        {
+          "word": "the",
+          "start": 144.116,
+          "end": 144.216,
+          "score": 0.406
+        },
+        {
+          "word": "body",
+          "start": 144.336,
+          "end": 144.716,
+          "score": 0.91
+        },
+        {
+          "word": "quiet",
+          "start": 144.796,
+          "end": 145.196,
+          "score": 0.674
+        },
+        {
+          "word": "like",
+          "start": 145.296,
+          "end": 145.556,
+          "score": 0.788
+        },
+        {
+          "word": "a",
+          "start": 145.576,
+          "end": 145.596,
+          "score": 0.304
+        },
+        {
+          "word": "grave\nHoly\nKeep",
+          "start": 145.716,
+          "end": 149.876,
+          "score": 0.761
+        },
+        {
+          "word": "it",
+          "start": 149.956,
+          "end": 150.056,
+          "score": 0.718
+        },
+        {
+          "word": "holy\nGiving",
+          "start": 150.136,
+          "end": 151.637,
+          "score": 0.781
+        },
+        {
+          "word": "back",
+          "start": 151.697,
+          "end": 151.877,
+          "score": 0.768
+        },
+        {
+          "word": "the",
+          "start": 151.937,
+          "end": 152.077,
+          "score": 0.869
+        },
+        {
+          "word": "love",
+          "start": 152.117,
+          "end": 152.417,
+          "score": 0.824
+        },
+        {
+          "word": "I",
+          "start": 152.477,
+          "end": 152.577,
+          "score": 0.711
+        },
+        {
+          "word": "never",
+          "start": 152.617,
+          "end": 152.957,
+          "score": 0.88
+        },
+        {
+          "word": "gave\nI",
+          "start": 153.037,
+          "end": 153.917,
+          "score": 0.799
+        },
+        {
+          "word": "never",
+          "start": 153.977,
+          "end": 154.317,
+          "score": 0.907
+        },
+        {
+          "word": "gave\nI",
+          "start": 154.417,
+          "end": 155.297,
+          "score": 0.803
+        },
+        {
+          "word": "never",
+          "start": 155.357,
+          "end": 155.717,
+          "score": 0.894
+        },
+        {
+          "word": "gave\nOne",
+          "start": 155.817,
+          "end": 157.057,
+          "score": 0.843
+        },
+        {
+          "word": "plate\nOne",
+          "start": 157.177,
+          "end": 158.897,
+          "score": 0.721
+        },
+        {
+          "word": "chair\nOne",
+          "start": 159.057,
+          "end": 160.758,
+          "score": 0.81
+        },
+        {
+          "word": "prayer\nAmen\nAmen\nAmen",
+          "start": 160.898,
+          "end": 166.578,
+          "score": 0.765
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Narrow",
+      "start": 13.742,
+      "end": 14.942,
+      "score": 0.816
+    },
+    {
+      "word": "Empty",
+      "start": 14.942,
+      "end": 16.142,
+      "score": 0.816
+    },
+    {
+      "word": "tea",
+      "start": 16.182,
+      "end": 16.362,
+      "score": 0.566
+    },
+    {
+      "word": "cups",
+      "start": 16.422,
+      "end": 16.862,
+      "score": 0.842
+    },
+    {
+      "word": "on",
+      "start": 16.982,
+      "end": 17.102,
+      "score": 0.956
+    },
+    {
+      "word": "the",
+      "start": 17.142,
+      "end": 17.262,
+      "score": 0.843
+    },
+    {
+      "word": "table",
+      "start": 17.302,
+      "end": 18.342,
+      "score": 0.773
+    },
+    {
+      "word": "Left",
+      "start": 18.342,
+      "end": 19.382,
+      "score": 0.773
+    },
+    {
+      "word": "a",
+      "start": 19.462,
+      "end": 19.542,
+      "score": 0.753
+    },
+    {
+      "word": "hollow",
+      "start": 19.582,
+      "end": 20.002,
+      "score": 0.677
+    },
+    {
+      "word": "space",
+      "start": 20.022,
+      "end": 20.462,
+      "score": 0.768
+    },
+    {
+      "word": "where",
+      "start": 20.522,
+      "end": 20.742,
+      "score": 0.432
+    },
+    {
+      "word": "we",
+      "start": 20.762,
+      "end": 21.002,
+      "score": 0.821
+    },
+    {
+      "word": "used",
+      "start": 21.022,
+      "end": 21.182,
+      "score": 0.433
+    },
+    {
+      "word": "to",
+      "start": 21.222,
+      "end": 21.282,
+      "score": 0.942
+    },
+    {
+      "word": "sit",
+      "start": 21.402,
+      "end": 22.122,
+      "score": 0.828
+    },
+    {
+      "word": "Cold",
+      "start": 22.122,
+      "end": 22.843,
+      "score": 0.828
+    },
+    {
+      "word": "The",
+      "start": 22.843,
+      "end": 23.563,
+      "score": 0.828
+    },
+    {
+      "word": "kettle",
+      "start": 23.643,
+      "end": 24.083,
+      "score": 0.73
+    },
+    {
+      "word": "stopped",
+      "start": 24.103,
+      "end": 24.503,
+      "score": 0.732
+    },
+    {
+      "word": "singing",
+      "start": 24.563,
+      "end": 24.993,
+      "score": 0.56
+    },
+    {
+      "word": "Your",
+      "start": 24.993,
+      "end": 25.423,
+      "score": 0.56
+    },
+    {
+      "word": "keys",
+      "start": 25.463,
+      "end": 25.643,
+      "score": 0.475
+    },
+    {
+      "word": "stayed",
+      "start": 25.663,
+      "end": 25.983,
+      "score": 0.836
+    },
+    {
+      "word": "on",
+      "start": 26.103,
+      "end": 26.183,
+      "score": 0.849
+    },
+    {
+      "word": "the",
+      "start": 26.203,
+      "end": 26.303,
+      "score": 0.624
+    },
+    {
+      "word": "counter",
+      "start": 26.363,
+      "end": 26.793,
+      "score": 0.906
+    },
+    {
+      "word": "I",
+      "start": 26.793,
+      "end": 27.223,
+      "score": 0.906
+    },
+    {
+      "word": "didn't",
+      "start": 27.303,
+      "end": 27.703,
+      "score": 0.733
+    },
+    {
+      "word": "reach",
+      "start": 27.783,
+      "end": 28.103,
+      "score": 0.867
+    },
+    {
+      "word": "for",
+      "start": 28.183,
+      "end": 28.403,
+      "score": 0.887
+    },
+    {
+      "word": "them",
+      "start": 28.443,
+      "end": 28.743,
+      "score": 0.782
+    },
+    {
+      "word": "I",
+      "start": 28.743,
+      "end": 29.043,
+      "score": 0.782
+    },
+    {
+      "word": "didn't",
+      "start": 29.123,
+      "end": 30.777,
+      "score": 0.75
+    },
+    {
+      "word": "Holy",
+      "start": 30.777,
+      "end": 32.43,
+      "score": 0.75
+    },
+    {
+      "word": "Keep",
+      "start": 32.43,
+      "end": 34.084,
+      "score": 0.75
+    },
+    {
+      "word": "it",
+      "start": 34.224,
+      "end": 34.304,
+      "score": 0.463
+    },
+    {
+      "word": "holy",
+      "start": 34.364,
+      "end": 35.004,
+      "score": 0.697
+    },
+    {
+      "word": "Keep",
+      "start": 35.004,
+      "end": 35.644,
+      "score": 0.697
+    },
+    {
+      "word": "the",
+      "start": 35.684,
+      "end": 35.804,
+      "score": 0.341
+    },
+    {
+      "word": "body",
+      "start": 35.864,
+      "end": 36.264,
+      "score": 0.31
+    },
+    {
+      "word": "quiet",
+      "start": 36.344,
+      "end": 36.724,
+      "score": 0.489
+    },
+    {
+      "word": "like",
+      "start": 36.784,
+      "end": 37.024,
+      "score": 0.842
+    },
+    {
+      "word": "a",
+      "start": 37.064,
+      "end": 37.104,
+      "score": 0.943
+    },
+    {
+      "word": "grave",
+      "start": 37.164,
+      "end": 38.511,
+      "score": 0.79
+    },
+    {
+      "word": "Holy",
+      "start": 38.511,
+      "end": 39.858,
+      "score": 0.79
+    },
+    {
+      "word": "Keep",
+      "start": 39.858,
+      "end": 41.205,
+      "score": 0.79
+    },
+    {
+      "word": "it",
+      "start": 41.325,
+      "end": 41.425,
+      "score": 0.473
+    },
+    {
+      "word": "holy",
+      "start": 41.485,
+      "end": 42.205,
+      "score": 0.786
+    },
+    {
+      "word": "Giving",
+      "start": 42.205,
+      "end": 42.925,
+      "score": 0.786
+    },
+    {
+      "word": "back",
+      "start": 42.985,
+      "end": 43.185,
+      "score": 0.4
+    },
+    {
+      "word": "the",
+      "start": 43.245,
+      "end": 43.405,
+      "score": 0.566
+    },
+    {
+      "word": "love",
+      "start": 43.445,
+      "end": 43.705,
+      "score": 0.794
+    },
+    {
+      "word": "I",
+      "start": 43.765,
+      "end": 43.845,
+      "score": 0.734
+    },
+    {
+      "word": "never",
+      "start": 43.905,
+      "end": 44.265,
+      "score": 0.896
+    },
+    {
+      "word": "gave",
+      "start": 44.325,
+      "end": 44.755,
+      "score": 0.768
+    },
+    {
+      "word": "I",
+      "start": 44.755,
+      "end": 45.185,
+      "score": 0.768
+    },
+    {
+      "word": "never",
+      "start": 45.225,
+      "end": 45.605,
+      "score": 0.911
+    },
+    {
+      "word": "gave",
+      "start": 45.665,
+      "end": 46.085,
+      "score": 0.806
+    },
+    {
+      "word": "I",
+      "start": 46.085,
+      "end": 46.505,
+      "score": 0.806
+    },
+    {
+      "word": "never",
+      "start": 46.545,
+      "end": 46.945,
+      "score": 0.932
+    },
+    {
+      "word": "gave",
+      "start": 46.985,
+      "end": 48.012,
+      "score": 0.691
+    },
+    {
+      "word": "Ooh",
+      "start": 48.012,
+      "end": 49.038,
+      "score": 0.691
+    },
+    {
+      "word": "Left",
+      "start": 49.038,
+      "end": 50.065,
+      "score": 0.691
+    },
+    {
+      "word": "behind",
+      "start": 50.085,
+      "end": 52.472,
+      "score": 0.747
+    },
+    {
+      "word": "Ooh",
+      "start": 52.472,
+      "end": 54.859,
+      "score": 0.747
+    },
+    {
+      "word": "Still",
+      "start": 54.859,
+      "end": 57.246,
+      "score": 0.747
+    },
+    {
+      "word": "on",
+      "start": 57.326,
+      "end": 57.446,
+      "score": 0.367
+    },
+    {
+      "word": "my",
+      "start": 57.506,
+      "end": 59.587,
+      "score": 0.861
+    },
+    {
+      "word": "mind",
+      "start": 59.667,
+      "end": 60.94,
+      "score": 0.739
+    },
+    {
+      "word": "Dust",
+      "start": 60.94,
+      "end": 62.214,
+      "score": 0.739
+    },
+    {
+      "word": "Settling",
+      "start": 62.214,
+      "end": 63.487,
+      "score": 0.739
+    },
+    {
+      "word": "on",
+      "start": 63.607,
+      "end": 63.707,
+      "score": 0.929
+    },
+    {
+      "word": "the",
+      "start": 63.727,
+      "end": 63.827,
+      "score": 0.422
+    },
+    {
+      "word": "Sunday",
+      "start": 63.887,
+      "end": 64.287,
+      "score": 0.907
+    },
+    {
+      "word": "pews",
+      "start": 64.347,
+      "end": 65.157,
+      "score": 0.763
+    },
+    {
+      "word": "Wood",
+      "start": 65.157,
+      "end": 65.967,
+      "score": 0.763
+    },
+    {
+      "word": "is",
+      "start": 66.047,
+      "end": 66.127,
+      "score": 0.592
+    },
+    {
+      "word": "hard",
+      "start": 66.167,
+      "end": 66.447,
+      "score": 0.721
+    },
+    {
+      "word": "and",
+      "start": 66.507,
+      "end": 66.587,
+      "score": 0.43
+    },
+    {
+      "word": "dry",
+      "start": 66.607,
+      "end": 67.007,
+      "score": 0.802
+    },
+    {
+      "word": "against",
+      "start": 67.047,
+      "end": 67.407,
+      "score": 0.725
+    },
+    {
+      "word": "my",
+      "start": 67.527,
+      "end": 67.827,
+      "score": 0.926
+    },
+    {
+      "word": "spine",
+      "start": 67.887,
+      "end": 68.654,
+      "score": 0.715
+    },
+    {
+      "word": "Hungry",
+      "start": 68.654,
+      "end": 69.421,
+      "score": 0.715
+    },
+    {
+      "word": "I",
+      "start": 69.421,
+      "end": 70.188,
+      "score": 0.715
+    },
+    {
+      "word": "hunger",
+      "start": 70.248,
+      "end": 70.668,
+      "score": 0.806
+    },
+    {
+      "word": "I",
+      "start": 70.668,
+      "end": 71.088,
+      "score": 0.806
+    },
+    {
+      "word": "thirst",
+      "start": 71.168,
+      "end": 71.518,
+      "score": 0.739
+    },
+    {
+      "word": "I",
+      "start": 71.518,
+      "end": 71.868,
+      "score": 0.739
+    },
+    {
+      "word": "wait",
+      "start": 71.928,
+      "end": 72.678,
+      "score": 0.612
+    },
+    {
+      "word": "Tethered",
+      "start": 72.678,
+      "end": 73.428,
+      "score": 0.612
+    },
+    {
+      "word": "to",
+      "start": 73.468,
+      "end": 73.728,
+      "score": 0.938
+    },
+    {
+      "word": "a",
+      "start": 73.788,
+      "end": 73.848,
+      "score": 0.671
+    },
+    {
+      "word": "promise",
+      "start": 73.908,
+      "end": 74.328,
+      "score": 0.582
+    },
+    {
+      "word": "that",
+      "start": 74.388,
+      "end": 74.668,
+      "score": 0.636
+    },
+    {
+      "word": "I",
+      "start": 74.748,
+      "end": 74.848,
+      "score": 0.763
+    },
+    {
+      "word": "made",
+      "start": 74.908,
+      "end": 75.468,
+      "score": 0.771
+    },
+    {
+      "word": "Before",
+      "start": 75.468,
+      "end": 76.028,
+      "score": 0.771
+    },
+    {
+      "word": "I",
+      "start": 76.148,
+      "end": 76.168,
+      "score": 0.737
+    },
+    {
+      "word": "knew",
+      "start": 76.208,
+      "end": 76.448,
+      "score": 0.458
+    },
+    {
+      "word": "the",
+      "start": 76.468,
+      "end": 76.628,
+      "score": 0.464
+    },
+    {
+      "word": "weight",
+      "start": 76.708,
+      "end": 76.988,
+      "score": 0.382
+    },
+    {
+      "word": "of",
+      "start": 77.028,
+      "end": 77.088,
+      "score": 0.735
+    },
+    {
+      "word": "midnight",
+      "start": 77.168,
+      "end": 77.708,
+      "score": 0.913
+    },
+    {
+      "word": "Before",
+      "start": 77.708,
+      "end": 78.249,
+      "score": 0.913
+    },
+    {
+      "word": "the",
+      "start": 78.309,
+      "end": 78.389,
+      "score": 0.876
+    },
+    {
+      "word": "salt",
+      "start": 78.469,
+      "end": 80.299,
+      "score": 0.842
+    },
+    {
+      "word": "Washed",
+      "start": 80.299,
+      "end": 82.129,
+      "score": 0.842
+    },
+    {
+      "word": "out",
+      "start": 82.309,
+      "end": 82.449,
+      "score": 0.976
+    },
+    {
+      "word": "my",
+      "start": 82.609,
+      "end": 82.829,
+      "score": 0.863
+    },
+    {
+      "word": "eyes",
+      "start": 83.089,
+      "end": 84.763,
+      "score": 0.742
+    },
+    {
+      "word": "Holy",
+      "start": 84.763,
+      "end": 86.436,
+      "score": 0.742
+    },
+    {
+      "word": "Keep",
+      "start": 86.436,
+      "end": 88.11,
+      "score": 0.742
+    },
+    {
+      "word": "it",
+      "start": 88.25,
+      "end": 88.33,
+      "score": 0.483
+    },
+    {
+      "word": "holy",
+      "start": 88.37,
+      "end": 89.01,
+      "score": 0.758
+    },
+    {
+      "word": "Keep",
+      "start": 89.01,
+      "end": 89.65,
+      "score": 0.758
+    },
+    {
+      "word": "the",
+      "start": 89.69,
+      "end": 89.83,
+      "score": 0.373
+    },
+    {
+      "word": "body",
+      "start": 89.89,
+      "end": 90.31,
+      "score": 0.58
+    },
+    {
+      "word": "quiet",
+      "start": 90.37,
+      "end": 90.77,
+      "score": 0.525
+    },
+    {
+      "word": "like",
+      "start": 90.81,
+      "end": 91.07,
+      "score": 0.836
+    },
+    {
+      "word": "a",
+      "start": 91.11,
+      "end": 91.15,
+      "score": 0.926
+    },
+    {
+      "word": "grave",
+      "start": 91.23,
+      "end": 92.57,
+      "score": 0.748
+    },
+    {
+      "word": "Holy",
+      "start": 92.57,
+      "end": 93.91,
+      "score": 0.748
+    },
+    {
+      "word": "Keep",
+      "start": 93.91,
+      "end": 95.25,
+      "score": 0.748
+    },
+    {
+      "word": "it",
+      "start": 95.37,
+      "end": 95.45,
+      "score": 0.458
+    },
+    {
+      "word": "holy",
+      "start": 95.49,
+      "end": 96.25,
+      "score": 0.707
+    },
+    {
+      "word": "Giving",
+      "start": 96.25,
+      "end": 97.011,
+      "score": 0.707
+    },
+    {
+      "word": "back",
+      "start": 97.051,
+      "end": 97.211,
+      "score": 0.384
+    },
+    {
+      "word": "the",
+      "start": 97.271,
+      "end": 97.431,
+      "score": 0.636
+    },
+    {
+      "word": "love",
+      "start": 97.491,
+      "end": 97.771,
+      "score": 0.759
+    },
+    {
+      "word": "I",
+      "start": 97.851,
+      "end": 97.931,
+      "score": 0.762
+    },
+    {
+      "word": "never",
+      "start": 97.971,
+      "end": 98.331,
+      "score": 0.885
+    },
+    {
+      "word": "gave",
+      "start": 98.391,
+      "end": 98.811,
+      "score": 0.851
+    },
+    {
+      "word": "I",
+      "start": 98.811,
+      "end": 99.231,
+      "score": 0.851
+    },
+    {
+      "word": "never",
+      "start": 99.291,
+      "end": 99.691,
+      "score": 0.882
+    },
+    {
+      "word": "gave",
+      "start": 99.731,
+      "end": 100.151,
+      "score": 0.791
+    },
+    {
+      "word": "I",
+      "start": 100.151,
+      "end": 100.571,
+      "score": 0.791
+    },
+    {
+      "word": "never",
+      "start": 100.631,
+      "end": 101.011,
+      "score": 0.952
+    },
+    {
+      "word": "gave",
+      "start": 101.071,
+      "end": 102.111,
+      "score": 0.652
+    },
+    {
+      "word": "Ooh",
+      "start": 102.111,
+      "end": 103.151,
+      "score": 0.652
+    },
+    {
+      "word": "Left",
+      "start": 103.151,
+      "end": 104.191,
+      "score": 0.652
+    },
+    {
+      "word": "behind",
+      "start": 104.231,
+      "end": 106.625,
+      "score": 0.513
+    },
+    {
+      "word": "Ooh",
+      "start": 106.625,
+      "end": 109.018,
+      "score": 0.513
+    },
+    {
+      "word": "Still",
+      "start": 109.018,
+      "end": 111.412,
+      "score": 0.513
+    },
+    {
+      "word": "on",
+      "start": 111.532,
+      "end": 111.632,
+      "score": 0.4
+    },
+    {
+      "word": "my",
+      "start": 111.692,
+      "end": 114.292,
+      "score": 0.865
+    },
+    {
+      "word": "mind",
+      "start": 114.353,
+      "end": 115.593,
+      "score": 0.849
+    },
+    {
+      "word": "Cut",
+      "start": 115.593,
+      "end": 116.833,
+      "score": 0.849
+    },
+    {
+      "word": "the",
+      "start": 116.873,
+      "end": 116.993,
+      "score": 0.937
+    },
+    {
+      "word": "wire",
+      "start": 117.093,
+      "end": 117.783,
+      "score": 0.745
+    },
+    {
+      "word": "Put",
+      "start": 117.783,
+      "end": 118.473,
+      "score": 0.745
+    },
+    {
+      "word": "out",
+      "start": 118.553,
+      "end": 118.673,
+      "score": 0.518
+    },
+    {
+      "word": "the",
+      "start": 118.713,
+      "end": 118.813,
+      "score": 0.801
+    },
+    {
+      "word": "fire",
+      "start": 118.913,
+      "end": 119.573,
+      "score": 0.845
+    },
+    {
+      "word": "Watch",
+      "start": 119.573,
+      "end": 120.233,
+      "score": 0.845
+    },
+    {
+      "word": "the",
+      "start": 120.273,
+      "end": 120.513,
+      "score": 0.637
+    },
+    {
+      "word": "empire",
+      "start": 120.553,
+      "end": 121.353,
+      "score": 0.695
+    },
+    {
+      "word": "fall",
+      "start": 121.833,
+      "end": 122.353,
+      "score": 0.624
+    },
+    {
+      "word": "apart",
+      "start": 122.413,
+      "end": 123.154,
+      "score": 0.731
+    },
+    {
+      "word": "I",
+      "start": 123.154,
+      "end": 123.894,
+      "score": 0.731
+    },
+    {
+      "word": "walk",
+      "start": 123.954,
+      "end": 124.234,
+      "score": 0.565
+    },
+    {
+      "word": "the",
+      "start": 124.294,
+      "end": 124.394,
+      "score": 0.279
+    },
+    {
+      "word": "line",
+      "start": 124.414,
+      "end": 125.054,
+      "score": 0.816
+    },
+    {
+      "word": "I",
+      "start": 125.054,
+      "end": 125.694,
+      "score": 0.816
+    },
+    {
+      "word": "waste",
+      "start": 125.774,
+      "end": 126.054,
+      "score": 0.562
+    },
+    {
+      "word": "the",
+      "start": 126.094,
+      "end": 126.174,
+      "score": 0.94
+    },
+    {
+      "word": "time",
+      "start": 126.234,
+      "end": 126.884,
+      "score": 0.846
+    },
+    {
+      "word": "I",
+      "start": 126.884,
+      "end": 127.534,
+      "score": 0.846
+    },
+    {
+      "word": "break",
+      "start": 127.574,
+      "end": 127.854,
+      "score": 0.724
+    },
+    {
+      "word": "the",
+      "start": 127.874,
+      "end": 127.974,
+      "score": 0.776
+    },
+    {
+      "word": "heart",
+      "start": 128.034,
+      "end": 128.714,
+      "score": 0.651
+    },
+    {
+      "word": "My",
+      "start": 128.714,
+      "end": 129.394,
+      "score": 0.651
+    },
+    {
+      "word": "own",
+      "start": 129.694,
+      "end": 129.874,
+      "score": 0.932
+    },
+    {
+      "word": "heart",
+      "start": 129.954,
+      "end": 131.474,
+      "score": 0.903
+    },
+    {
+      "word": "My",
+      "start": 131.474,
+      "end": 132.995,
+      "score": 0.903
+    },
+    {
+      "word": "own",
+      "start": 133.175,
+      "end": 133.415,
+      "score": 0.693
+    },
+    {
+      "word": "heart",
+      "start": 133.555,
+      "end": 135.035,
+      "score": 0.905
+    },
+    {
+      "word": "My",
+      "start": 135.035,
+      "end": 136.515,
+      "score": 0.905
+    },
+    {
+      "word": "own",
+      "start": 136.595,
+      "end": 136.775,
+      "score": 0.894
+    },
+    {
+      "word": "heart",
+      "start": 136.895,
+      "end": 138.769,
+      "score": 0.814
+    },
+    {
+      "word": "Holy",
+      "start": 138.769,
+      "end": 140.642,
+      "score": 0.814
+    },
+    {
+      "word": "Keep",
+      "start": 140.642,
+      "end": 142.516,
+      "score": 0.814
+    },
+    {
+      "word": "it",
+      "start": 142.596,
+      "end": 142.696,
+      "score": 0.736
+    },
+    {
+      "word": "holy",
+      "start": 142.796,
+      "end": 143.436,
+      "score": 0.704
+    },
+    {
+      "word": "Keep",
+      "start": 143.436,
+      "end": 144.076,
+      "score": 0.704
+    },
+    {
+      "word": "the",
+      "start": 144.116,
+      "end": 144.216,
+      "score": 0.406
+    },
+    {
+      "word": "body",
+      "start": 144.336,
+      "end": 144.716,
+      "score": 0.91
+    },
+    {
+      "word": "quiet",
+      "start": 144.796,
+      "end": 145.196,
+      "score": 0.674
+    },
+    {
+      "word": "like",
+      "start": 145.296,
+      "end": 145.556,
+      "score": 0.788
+    },
+    {
+      "word": "a",
+      "start": 145.576,
+      "end": 145.596,
+      "score": 0.304
+    },
+    {
+      "word": "grave",
+      "start": 145.716,
+      "end": 147.103,
+      "score": 0.761
+    },
+    {
+      "word": "Holy",
+      "start": 147.103,
+      "end": 148.489,
+      "score": 0.761
+    },
+    {
+      "word": "Keep",
+      "start": 148.489,
+      "end": 149.876,
+      "score": 0.761
+    },
+    {
+      "word": "it",
+      "start": 149.956,
+      "end": 150.056,
+      "score": 0.718
+    },
+    {
+      "word": "holy",
+      "start": 150.136,
+      "end": 150.886,
+      "score": 0.781
+    },
+    {
+      "word": "Giving",
+      "start": 150.886,
+      "end": 151.637,
+      "score": 0.781
+    },
+    {
+      "word": "back",
+      "start": 151.697,
+      "end": 151.877,
+      "score": 0.768
+    },
+    {
+      "word": "the",
+      "start": 151.937,
+      "end": 152.077,
+      "score": 0.869
+    },
+    {
+      "word": "love",
+      "start": 152.117,
+      "end": 152.417,
+      "score": 0.824
+    },
+    {
+      "word": "I",
+      "start": 152.477,
+      "end": 152.577,
+      "score": 0.711
+    },
+    {
+      "word": "never",
+      "start": 152.617,
+      "end": 152.957,
+      "score": 0.88
+    },
+    {
+      "word": "gave",
+      "start": 153.037,
+      "end": 153.477,
+      "score": 0.799
+    },
+    {
+      "word": "I",
+      "start": 153.477,
+      "end": 153.917,
+      "score": 0.799
+    },
+    {
+      "word": "never",
+      "start": 153.977,
+      "end": 154.317,
+      "score": 0.907
+    },
+    {
+      "word": "gave",
+      "start": 154.417,
+      "end": 154.857,
+      "score": 0.803
+    },
+    {
+      "word": "I",
+      "start": 154.857,
+      "end": 155.297,
+      "score": 0.803
+    },
+    {
+      "word": "never",
+      "start": 155.357,
+      "end": 155.717,
+      "score": 0.894
+    },
+    {
+      "word": "gave",
+      "start": 155.817,
+      "end": 156.437,
+      "score": 0.843
+    },
+    {
+      "word": "One",
+      "start": 156.437,
+      "end": 157.057,
+      "score": 0.843
+    },
+    {
+      "word": "plate",
+      "start": 157.177,
+      "end": 158.037,
+      "score": 0.721
+    },
+    {
+      "word": "One",
+      "start": 158.037,
+      "end": 158.897,
+      "score": 0.721
+    },
+    {
+      "word": "chair",
+      "start": 159.057,
+      "end": 159.908,
+      "score": 0.81
+    },
+    {
+      "word": "One",
+      "start": 159.908,
+      "end": 160.758,
+      "score": 0.81
+    },
+    {
+      "word": "prayer",
+      "start": 160.898,
+      "end": 162.318,
+      "score": 0.765
+    },
+    {
+      "word": "Amen",
+      "start": 162.318,
+      "end": 163.738,
+      "score": 0.765
+    },
+    {
+      "word": "Amen",
+      "start": 163.738,
+      "end": 165.158,
+      "score": 0.765
+    },
+    {
+      "word": "Amen",
+      "start": 165.158,
+      "end": 166.578,
+      "score": 0.765
+    }
+  ]
+}

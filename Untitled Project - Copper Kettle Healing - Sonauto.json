@@ -1,0 +1,3175 @@
+{
+  "segments": [
+    {
+      "start": 2.24,
+      "end": 174.663,
+      "text": "Kitchen\nQuiet\nSteam on the copper kettle\nThe kettle whistles like a bird\nSitting at the table\nWatching your eyes\nWatching your eyes\nSearching for the child I used to know\nI see the shift in your posture\nMaybe it's phase\nMaybe it's fear\nMaybe it's just the wind in the hall\nThis house is big enough to heal you\nThis house is big enough to heal you\nUnder this roof we make it right\nSafe in the walls of the family light\nThis house is big enough to heal you\nUnder this roof\nUnder this roof\nHold tight\nGentle\nBridges built of birch and bone\nWe don't need a doctor\nWe don't need a stranger\nJust my hand\nOnly my hand\nTouching your shoulder until you change\nThe way you speak\nThe way you walk\nThe way you think when you are alone\nI’ll fix the cracks\nI’ll fix the glass\nI’ll fix the spirit until it fits\nThis house is big enough to heal you\nThis house is big enough to heal you\nUnder this roof we make it right\nSafe in the walls of the family light\nThis house is big enough to heal you\nUnder this roof\nUnder this roof\nNo white rooms\nNo cold bars\nNo paperwork or metal cars\nJust the living room rug\nJust a motherly hug\nJust a fatherly word\nUntil it’s all you’ve heard\nUntil it’s all you’ve heard\nThis house is big enough to heal you\nThis house is big enough to heal you\nUnder this roof we make it right\nSafe in the walls of the family light\nThis house is big enough to heal you\nUnder this roof\nUnder this roof\nSafe at home\nSafe at home\nUnder this roof",
+      "words": [
+        {
+          "word": "Kitchen\nQuiet\nSteam",
+          "start": 2.24,
+          "end": 6.581,
+          "score": 0.722
+        },
+        {
+          "word": "on",
+          "start": 6.801,
+          "end": 6.921,
+          "score": 0.754
+        },
+        {
+          "word": "the",
+          "start": 6.981,
+          "end": 7.101,
+          "score": 0.302
+        },
+        {
+          "word": "copper",
+          "start": 7.201,
+          "end": 8.101,
+          "score": 0.627
+        },
+        {
+          "word": "kettle\nThe",
+          "start": 8.181,
+          "end": 10.101,
+          "score": 0.734
+        },
+        {
+          "word": "kettle",
+          "start": 10.141,
+          "end": 10.881,
+          "score": 0.645
+        },
+        {
+          "word": "whistles",
+          "start": 10.921,
+          "end": 11.622,
+          "score": 0.606
+        },
+        {
+          "word": "like",
+          "start": 11.682,
+          "end": 12.102,
+          "score": 0.57
+        },
+        {
+          "word": "a",
+          "start": 12.122,
+          "end": 12.142,
+          "score": 0.0
+        },
+        {
+          "word": "bird\nSitting",
+          "start": 12.422,
+          "end": 13.482,
+          "score": 0.546
+        },
+        {
+          "word": "at",
+          "start": 13.722,
+          "end": 13.902,
+          "score": 0.706
+        },
+        {
+          "word": "the",
+          "start": 14.142,
+          "end": 14.482,
+          "score": 0.677
+        },
+        {
+          "word": "table\nWatching",
+          "start": 14.502,
+          "end": 15.742,
+          "score": 0.512
+        },
+        {
+          "word": "your",
+          "start": 15.882,
+          "end": 16.602,
+          "score": 0.65
+        },
+        {
+          "word": "eyes\nWatching",
+          "start": 16.622,
+          "end": 17.842,
+          "score": 0.569
+        },
+        {
+          "word": "your",
+          "start": 17.862,
+          "end": 18.562,
+          "score": 0.396
+        },
+        {
+          "word": "eyes\nSearching",
+          "start": 18.722,
+          "end": 19.543,
+          "score": 0.351
+        },
+        {
+          "word": "for",
+          "start": 19.583,
+          "end": 19.843,
+          "score": 0.515
+        },
+        {
+          "word": "the",
+          "start": 19.863,
+          "end": 20.023,
+          "score": 0.407
+        },
+        {
+          "word": "child",
+          "start": 20.063,
+          "end": 20.583,
+          "score": 0.592
+        },
+        {
+          "word": "I",
+          "start": 21.023,
+          "end": 21.143,
+          "score": 0.795
+        },
+        {
+          "word": "used",
+          "start": 21.263,
+          "end": 21.463,
+          "score": 0.378
+        },
+        {
+          "word": "to",
+          "start": 21.603,
+          "end": 21.803,
+          "score": 0.75
+        },
+        {
+          "word": "know\nI",
+          "start": 21.823,
+          "end": 22.943,
+          "score": 0.578
+        },
+        {
+          "word": "see",
+          "start": 23.063,
+          "end": 23.723,
+          "score": 0.641
+        },
+        {
+          "word": "the",
+          "start": 23.803,
+          "end": 23.923,
+          "score": 0.224
+        },
+        {
+          "word": "shift",
+          "start": 24.023,
+          "end": 24.403,
+          "score": 0.542
+        },
+        {
+          "word": "in",
+          "start": 24.703,
+          "end": 24.923,
+          "score": 0.692
+        },
+        {
+          "word": "your",
+          "start": 25.003,
+          "end": 25.403,
+          "score": 0.532
+        },
+        {
+          "word": "posture\nMaybe",
+          "start": 25.423,
+          "end": 27.264,
+          "score": 0.73
+        },
+        {
+          "word": "it's",
+          "start": 27.344,
+          "end": 27.464,
+          "score": 0.25
+        },
+        {
+          "word": "phase\nMaybe",
+          "start": 27.564,
+          "end": 28.744,
+          "score": 0.621
+        },
+        {
+          "word": "it's",
+          "start": 28.824,
+          "end": 28.944,
+          "score": 0.264
+        },
+        {
+          "word": "fear\nMaybe",
+          "start": 29.044,
+          "end": 30.204,
+          "score": 0.745
+        },
+        {
+          "word": "it's",
+          "start": 30.264,
+          "end": 30.424,
+          "score": 0.287
+        },
+        {
+          "word": "just",
+          "start": 30.484,
+          "end": 30.684,
+          "score": 0.714
+        },
+        {
+          "word": "the",
+          "start": 30.744,
+          "end": 30.924,
+          "score": 0.623
+        },
+        {
+          "word": "wind",
+          "start": 31.004,
+          "end": 31.504,
+          "score": 0.687
+        },
+        {
+          "word": "in",
+          "start": 31.584,
+          "end": 31.704,
+          "score": 0.512
+        },
+        {
+          "word": "the",
+          "start": 31.744,
+          "end": 31.864,
+          "score": 0.448
+        },
+        {
+          "word": "hall\nThis",
+          "start": 32.224,
+          "end": 32.884,
+          "score": 0.71
+        },
+        {
+          "word": "house",
+          "start": 32.924,
+          "end": 33.204,
+          "score": 0.917
+        },
+        {
+          "word": "is",
+          "start": 33.264,
+          "end": 33.344,
+          "score": 0.637
+        },
+        {
+          "word": "big",
+          "start": 33.444,
+          "end": 33.724,
+          "score": 0.857
+        },
+        {
+          "word": "enough",
+          "start": 33.764,
+          "end": 34.285,
+          "score": 0.544
+        },
+        {
+          "word": "to",
+          "start": 34.325,
+          "end": 34.465,
+          "score": 0.512
+        },
+        {
+          "word": "heal",
+          "start": 34.725,
+          "end": 35.445,
+          "score": 0.761
+        },
+        {
+          "word": "you\nThis",
+          "start": 35.485,
+          "end": 36.845,
+          "score": 0.816
+        },
+        {
+          "word": "house",
+          "start": 36.905,
+          "end": 37.205,
+          "score": 0.915
+        },
+        {
+          "word": "is",
+          "start": 37.265,
+          "end": 37.365,
+          "score": 0.762
+        },
+        {
+          "word": "big",
+          "start": 37.445,
+          "end": 37.705,
+          "score": 0.87
+        },
+        {
+          "word": "enough",
+          "start": 37.765,
+          "end": 38.265,
+          "score": 0.354
+        },
+        {
+          "word": "to",
+          "start": 38.285,
+          "end": 38.425,
+          "score": 0.69
+        },
+        {
+          "word": "heal",
+          "start": 38.665,
+          "end": 39.465,
+          "score": 0.78
+        },
+        {
+          "word": "you\nUnder",
+          "start": 40.345,
+          "end": 41.386,
+          "score": 0.653
+        },
+        {
+          "word": "this",
+          "start": 41.406,
+          "end": 41.566,
+          "score": 0.312
+        },
+        {
+          "word": "roof",
+          "start": 41.646,
+          "end": 42.206,
+          "score": 0.667
+        },
+        {
+          "word": "we",
+          "start": 42.246,
+          "end": 42.586,
+          "score": 0.756
+        },
+        {
+          "word": "make",
+          "start": 42.626,
+          "end": 42.866,
+          "score": 0.554
+        },
+        {
+          "word": "it",
+          "start": 42.966,
+          "end": 43.086,
+          "score": 0.56
+        },
+        {
+          "word": "right\nSafe",
+          "start": 43.246,
+          "end": 44.806,
+          "score": 0.682
+        },
+        {
+          "word": "in",
+          "start": 44.966,
+          "end": 45.106,
+          "score": 0.484
+        },
+        {
+          "word": "the",
+          "start": 45.126,
+          "end": 45.446,
+          "score": 0.629
+        },
+        {
+          "word": "walls",
+          "start": 45.646,
+          "end": 45.986,
+          "score": 0.212
+        },
+        {
+          "word": "of",
+          "start": 46.046,
+          "end": 46.126,
+          "score": 0.363
+        },
+        {
+          "word": "the",
+          "start": 46.146,
+          "end": 46.326,
+          "score": 0.55
+        },
+        {
+          "word": "family",
+          "start": 46.406,
+          "end": 47.106,
+          "score": 0.449
+        },
+        {
+          "word": "light\nThis",
+          "start": 47.126,
+          "end": 48.746,
+          "score": 0.633
+        },
+        {
+          "word": "house",
+          "start": 48.806,
+          "end": 49.087,
+          "score": 0.667
+        },
+        {
+          "word": "is",
+          "start": 49.167,
+          "end": 49.287,
+          "score": 0.794
+        },
+        {
+          "word": "big",
+          "start": 49.347,
+          "end": 49.627,
+          "score": 0.779
+        },
+        {
+          "word": "enough",
+          "start": 49.667,
+          "end": 50.127,
+          "score": 0.417
+        },
+        {
+          "word": "to",
+          "start": 50.207,
+          "end": 50.347,
+          "score": 0.615
+        },
+        {
+          "word": "heal",
+          "start": 50.547,
+          "end": 51.447,
+          "score": 0.708
+        },
+        {
+          "word": "you\nUnder",
+          "start": 51.747,
+          "end": 53.287,
+          "score": 0.685
+        },
+        {
+          "word": "this",
+          "start": 53.307,
+          "end": 55.047,
+          "score": 0.754
+        },
+        {
+          "word": "roof\nUnder",
+          "start": 55.207,
+          "end": 57.248,
+          "score": 0.649
+        },
+        {
+          "word": "this",
+          "start": 57.268,
+          "end": 57.388,
+          "score": 0.543
+        },
+        {
+          "word": "roof\nHold",
+          "start": 57.628,
+          "end": 59.048,
+          "score": 0.554
+        },
+        {
+          "word": "tight\nGentle\nBridges",
+          "start": 59.088,
+          "end": 61.288,
+          "score": 0.618
+        },
+        {
+          "word": "built",
+          "start": 61.348,
+          "end": 62.288,
+          "score": 0.599
+        },
+        {
+          "word": "of",
+          "start": 62.548,
+          "end": 62.768,
+          "score": 0.411
+        },
+        {
+          "word": "birch",
+          "start": 62.848,
+          "end": 63.308,
+          "score": 0.399
+        },
+        {
+          "word": "and",
+          "start": 65.769,
+          "end": 65.949,
+          "score": 0.772
+        },
+        {
+          "word": "bone\nWe",
+          "start": 66.029,
+          "end": 67.609,
+          "score": 0.761
+        },
+        {
+          "word": "don't",
+          "start": 67.649,
+          "end": 68.749,
+          "score": 0.674
+        },
+        {
+          "word": "need",
+          "start": 69.109,
+          "end": 69.969,
+          "score": 0.74
+        },
+        {
+          "word": "a",
+          "start": 70.109,
+          "end": 70.309,
+          "score": 0.695
+        },
+        {
+          "word": "doctor\nWe",
+          "start": 70.409,
+          "end": 71.91,
+          "score": 0.723
+        },
+        {
+          "word": "don't",
+          "start": 71.93,
+          "end": 72.59,
+          "score": 0.51
+        },
+        {
+          "word": "need",
+          "start": 72.79,
+          "end": 74.33,
+          "score": 0.804
+        },
+        {
+          "word": "a",
+          "start": 74.45,
+          "end": 74.89,
+          "score": 0.833
+        },
+        {
+          "word": "stranger\nJust",
+          "start": 75.21,
+          "end": 77.75,
+          "score": 0.724
+        },
+        {
+          "word": "my",
+          "start": 77.87,
+          "end": 78.23,
+          "score": 0.753
+        },
+        {
+          "word": "hand\nOnly",
+          "start": 78.35,
+          "end": 78.85,
+          "score": 0.464
+        },
+        {
+          "word": "my",
+          "start": 79.011,
+          "end": 79.231,
+          "score": 0.697
+        },
+        {
+          "word": "hand\nTouching",
+          "start": 79.811,
+          "end": 81.091,
+          "score": 0.633
+        },
+        {
+          "word": "your",
+          "start": 81.111,
+          "end": 81.271,
+          "score": 0.315
+        },
+        {
+          "word": "shoulder",
+          "start": 81.311,
+          "end": 81.831,
+          "score": 0.352
+        },
+        {
+          "word": "until",
+          "start": 82.011,
+          "end": 82.651,
+          "score": 0.659
+        },
+        {
+          "word": "you",
+          "start": 82.991,
+          "end": 83.551,
+          "score": 0.664
+        },
+        {
+          "word": "change\nThe",
+          "start": 83.671,
+          "end": 84.471,
+          "score": 0.539
+        },
+        {
+          "word": "way",
+          "start": 84.531,
+          "end": 84.791,
+          "score": 0.534
+        },
+        {
+          "word": "you",
+          "start": 84.811,
+          "end": 85.151,
+          "score": 0.521
+        },
+        {
+          "word": "speak\nThe",
+          "start": 85.171,
+          "end": 86.451,
+          "score": 0.732
+        },
+        {
+          "word": "way",
+          "start": 86.552,
+          "end": 87.072,
+          "score": 0.684
+        },
+        {
+          "word": "you",
+          "start": 87.152,
+          "end": 87.212,
+          "score": 0.041
+        },
+        {
+          "word": "walk\nThe",
+          "start": 87.272,
+          "end": 88.452,
+          "score": 0.674
+        },
+        {
+          "word": "way",
+          "start": 88.532,
+          "end": 88.912,
+          "score": 0.799
+        },
+        {
+          "word": "you",
+          "start": 88.952,
+          "end": 89.172,
+          "score": 0.587
+        },
+        {
+          "word": "think",
+          "start": 89.252,
+          "end": 89.632,
+          "score": 0.626
+        },
+        {
+          "word": "when",
+          "start": 89.772,
+          "end": 89.972,
+          "score": 0.437
+        },
+        {
+          "word": "you",
+          "start": 89.992,
+          "end": 90.112,
+          "score": 0.218
+        },
+        {
+          "word": "are",
+          "start": 90.372,
+          "end": 91.012,
+          "score": 0.694
+        },
+        {
+          "word": "alone\nI’ll",
+          "start": 91.052,
+          "end": 92.412,
+          "score": 0.574
+        },
+        {
+          "word": "fix",
+          "start": 92.492,
+          "end": 92.812,
+          "score": 0.723
+        },
+        {
+          "word": "the",
+          "start": 92.852,
+          "end": 92.952,
+          "score": 0.317
+        },
+        {
+          "word": "cracks\nI’ll",
+          "start": 93.112,
+          "end": 94.413,
+          "score": 0.595
+        },
+        {
+          "word": "fix",
+          "start": 94.493,
+          "end": 94.833,
+          "score": 0.637
+        },
+        {
+          "word": "the",
+          "start": 94.933,
+          "end": 95.153,
+          "score": 0.467
+        },
+        {
+          "word": "glass\nI’ll",
+          "start": 95.213,
+          "end": 95.893,
+          "score": 0.565
+        },
+        {
+          "word": "fix",
+          "start": 95.953,
+          "end": 96.153,
+          "score": 0.447
+        },
+        {
+          "word": "the",
+          "start": 96.213,
+          "end": 96.373,
+          "score": 0.583
+        },
+        {
+          "word": "spirit",
+          "start": 96.393,
+          "end": 96.713,
+          "score": 0.4
+        },
+        {
+          "word": "until",
+          "start": 96.793,
+          "end": 97.193,
+          "score": 0.5
+        },
+        {
+          "word": "it",
+          "start": 97.253,
+          "end": 97.353,
+          "score": 0.44
+        },
+        {
+          "word": "fits\nThis",
+          "start": 97.453,
+          "end": 100.333,
+          "score": 0.769
+        },
+        {
+          "word": "house",
+          "start": 100.373,
+          "end": 100.653,
+          "score": 0.932
+        },
+        {
+          "word": "is",
+          "start": 100.713,
+          "end": 100.773,
+          "score": 0.898
+        },
+        {
+          "word": "big",
+          "start": 100.893,
+          "end": 101.173,
+          "score": 0.825
+        },
+        {
+          "word": "enough",
+          "start": 101.213,
+          "end": 101.754,
+          "score": 0.506
+        },
+        {
+          "word": "to",
+          "start": 101.794,
+          "end": 101.874,
+          "score": 0.308
+        },
+        {
+          "word": "heal",
+          "start": 102.074,
+          "end": 102.454,
+          "score": 0.559
+        },
+        {
+          "word": "you\nThis",
+          "start": 102.654,
+          "end": 104.314,
+          "score": 0.679
+        },
+        {
+          "word": "house",
+          "start": 104.354,
+          "end": 104.634,
+          "score": 0.746
+        },
+        {
+          "word": "is",
+          "start": 104.714,
+          "end": 104.774,
+          "score": 0.824
+        },
+        {
+          "word": "big",
+          "start": 104.894,
+          "end": 105.154,
+          "score": 0.811
+        },
+        {
+          "word": "enough",
+          "start": 105.194,
+          "end": 105.654,
+          "score": 0.48
+        },
+        {
+          "word": "to",
+          "start": 105.874,
+          "end": 106.014,
+          "score": 0.702
+        },
+        {
+          "word": "heal",
+          "start": 106.094,
+          "end": 106.434,
+          "score": 0.55
+        },
+        {
+          "word": "you\nUnder",
+          "start": 106.574,
+          "end": 108.814,
+          "score": 0.773
+        },
+        {
+          "word": "this",
+          "start": 108.854,
+          "end": 109.014,
+          "score": 0.783
+        },
+        {
+          "word": "roof",
+          "start": 109.075,
+          "end": 109.635,
+          "score": 0.528
+        },
+        {
+          "word": "we",
+          "start": 109.855,
+          "end": 110.055,
+          "score": 0.594
+        },
+        {
+          "word": "make",
+          "start": 110.095,
+          "end": 110.335,
+          "score": 0.499
+        },
+        {
+          "word": "it",
+          "start": 110.415,
+          "end": 110.515,
+          "score": 0.526
+        },
+        {
+          "word": "right\nSafe",
+          "start": 110.575,
+          "end": 112.535,
+          "score": 0.649
+        },
+        {
+          "word": "in",
+          "start": 112.635,
+          "end": 112.795,
+          "score": 0.728
+        },
+        {
+          "word": "the",
+          "start": 112.835,
+          "end": 112.975,
+          "score": 0.229
+        },
+        {
+          "word": "walls",
+          "start": 113.055,
+          "end": 113.555,
+          "score": 0.604
+        },
+        {
+          "word": "of",
+          "start": 113.715,
+          "end": 113.755,
+          "score": 0.154
+        },
+        {
+          "word": "the",
+          "start": 113.775,
+          "end": 113.915,
+          "score": 0.382
+        },
+        {
+          "word": "family",
+          "start": 114.015,
+          "end": 114.495,
+          "score": 0.48
+        },
+        {
+          "word": "light\nThis",
+          "start": 114.515,
+          "end": 116.195,
+          "score": 0.831
+        },
+        {
+          "word": "house",
+          "start": 116.235,
+          "end": 116.535,
+          "score": 0.945
+        },
+        {
+          "word": "is",
+          "start": 116.616,
+          "end": 116.676,
+          "score": 0.802
+        },
+        {
+          "word": "big",
+          "start": 116.776,
+          "end": 117.036,
+          "score": 0.846
+        },
+        {
+          "word": "enough",
+          "start": 117.096,
+          "end": 117.576,
+          "score": 0.393
+        },
+        {
+          "word": "to",
+          "start": 117.796,
+          "end": 117.936,
+          "score": 0.698
+        },
+        {
+          "word": "heal",
+          "start": 117.996,
+          "end": 118.516,
+          "score": 0.644
+        },
+        {
+          "word": "you\nUnder",
+          "start": 118.536,
+          "end": 120.716,
+          "score": 0.682
+        },
+        {
+          "word": "this",
+          "start": 120.756,
+          "end": 120.896,
+          "score": 0.696
+        },
+        {
+          "word": "roof\nUnder",
+          "start": 120.956,
+          "end": 124.677,
+          "score": 0.743
+        },
+        {
+          "word": "this",
+          "start": 124.717,
+          "end": 124.857,
+          "score": 0.732
+        },
+        {
+          "word": "roof\nNo",
+          "start": 124.937,
+          "end": 130.177,
+          "score": 0.736
+        },
+        {
+          "word": "white",
+          "start": 130.197,
+          "end": 130.897,
+          "score": 0.535
+        },
+        {
+          "word": "rooms\nNo",
+          "start": 130.977,
+          "end": 134.018,
+          "score": 0.674
+        },
+        {
+          "word": "cold",
+          "start": 134.138,
+          "end": 134.718,
+          "score": 0.588
+        },
+        {
+          "word": "bars\nNo",
+          "start": 134.858,
+          "end": 135.998,
+          "score": 0.664
+        },
+        {
+          "word": "paperwork",
+          "start": 136.098,
+          "end": 136.778,
+          "score": 0.494
+        },
+        {
+          "word": "or",
+          "start": 136.878,
+          "end": 137.118,
+          "score": 0.786
+        },
+        {
+          "word": "metal",
+          "start": 137.158,
+          "end": 138.718,
+          "score": 0.665
+        },
+        {
+          "word": "cars\nJust",
+          "start": 138.838,
+          "end": 140.279,
+          "score": 0.828
+        },
+        {
+          "word": "the",
+          "start": 140.339,
+          "end": 140.459,
+          "score": 0.411
+        },
+        {
+          "word": "living",
+          "start": 140.499,
+          "end": 140.819,
+          "score": 0.5
+        },
+        {
+          "word": "room",
+          "start": 140.839,
+          "end": 140.979,
+          "score": 0.467
+        },
+        {
+          "word": "rug\nJust",
+          "start": 141.479,
+          "end": 142.299,
+          "score": 0.663
+        },
+        {
+          "word": "a",
+          "start": 142.339,
+          "end": 142.359,
+          "score": 0.052
+        },
+        {
+          "word": "motherly",
+          "start": 142.419,
+          "end": 143.019,
+          "score": 0.693
+        },
+        {
+          "word": "hug\nJust",
+          "start": 143.099,
+          "end": 144.259,
+          "score": 0.866
+        },
+        {
+          "word": "a",
+          "start": 144.299,
+          "end": 144.359,
+          "score": 0.656
+        },
+        {
+          "word": "fatherly",
+          "start": 144.399,
+          "end": 144.979,
+          "score": 0.693
+        },
+        {
+          "word": "word\nUntil",
+          "start": 145.039,
+          "end": 146.239,
+          "score": 0.615
+        },
+        {
+          "word": "it’s",
+          "start": 146.279,
+          "end": 146.379,
+          "score": 0.377
+        },
+        {
+          "word": "all",
+          "start": 146.64,
+          "end": 146.72,
+          "score": 0.202
+        },
+        {
+          "word": "you’ve",
+          "start": 146.8,
+          "end": 146.98,
+          "score": 0.276
+        },
+        {
+          "word": "heard\nUntil",
+          "start": 147.02,
+          "end": 147.74,
+          "score": 0.565
+        },
+        {
+          "word": "it’s",
+          "start": 147.8,
+          "end": 147.92,
+          "score": 0.359
+        },
+        {
+          "word": "all",
+          "start": 148.22,
+          "end": 148.32,
+          "score": 0.427
+        },
+        {
+          "word": "you’ve",
+          "start": 148.42,
+          "end": 148.62,
+          "score": 0.159
+        },
+        {
+          "word": "heard\nThis",
+          "start": 148.7,
+          "end": 149.92,
+          "score": 0.602
+        },
+        {
+          "word": "house",
+          "start": 149.98,
+          "end": 150.24,
+          "score": 0.903
+        },
+        {
+          "word": "is",
+          "start": 150.3,
+          "end": 150.38,
+          "score": 0.702
+        },
+        {
+          "word": "big",
+          "start": 150.48,
+          "end": 150.76,
+          "score": 0.794
+        },
+        {
+          "word": "enough",
+          "start": 150.82,
+          "end": 151.88,
+          "score": 0.639
+        },
+        {
+          "word": "to",
+          "start": 151.9,
+          "end": 152.08,
+          "score": 0.574
+        },
+        {
+          "word": "heal",
+          "start": 152.16,
+          "end": 152.52,
+          "score": 0.516
+        },
+        {
+          "word": "you\nThis",
+          "start": 152.94,
+          "end": 153.88,
+          "score": 0.665
+        },
+        {
+          "word": "house",
+          "start": 153.94,
+          "end": 154.281,
+          "score": 0.738
+        },
+        {
+          "word": "is",
+          "start": 154.301,
+          "end": 154.441,
+          "score": 0.382
+        },
+        {
+          "word": "big",
+          "start": 154.501,
+          "end": 154.761,
+          "score": 0.781
+        },
+        {
+          "word": "enough",
+          "start": 154.801,
+          "end": 155.261,
+          "score": 0.476
+        },
+        {
+          "word": "to",
+          "start": 155.721,
+          "end": 156.201,
+          "score": 0.732
+        },
+        {
+          "word": "heal",
+          "start": 156.261,
+          "end": 157.001,
+          "score": 0.473
+        },
+        {
+          "word": "you\nUnder",
+          "start": 157.121,
+          "end": 158.441,
+          "score": 0.542
+        },
+        {
+          "word": "this",
+          "start": 158.461,
+          "end": 158.601,
+          "score": 0.21
+        },
+        {
+          "word": "roof",
+          "start": 158.701,
+          "end": 159.221,
+          "score": 0.787
+        },
+        {
+          "word": "we",
+          "start": 159.301,
+          "end": 159.621,
+          "score": 0.731
+        },
+        {
+          "word": "make",
+          "start": 159.681,
+          "end": 159.941,
+          "score": 0.521
+        },
+        {
+          "word": "it",
+          "start": 160.001,
+          "end": 160.121,
+          "score": 0.609
+        },
+        {
+          "word": "right\nSafe",
+          "start": 160.221,
+          "end": 161.842,
+          "score": 0.678
+        },
+        {
+          "word": "in",
+          "start": 161.982,
+          "end": 162.122,
+          "score": 0.632
+        },
+        {
+          "word": "the",
+          "start": 162.162,
+          "end": 162.602,
+          "score": 0.569
+        },
+        {
+          "word": "walls",
+          "start": 162.902,
+          "end": 163.162,
+          "score": 0.609
+        },
+        {
+          "word": "of",
+          "start": 163.282,
+          "end": 163.482,
+          "score": 0.596
+        },
+        {
+          "word": "the",
+          "start": 163.642,
+          "end": 163.922,
+          "score": 0.511
+        },
+        {
+          "word": "family",
+          "start": 164.002,
+          "end": 164.762,
+          "score": 0.587
+        },
+        {
+          "word": "light\nThis",
+          "start": 164.802,
+          "end": 165.782,
+          "score": 0.538
+        },
+        {
+          "word": "house",
+          "start": 165.842,
+          "end": 166.142,
+          "score": 0.742
+        },
+        {
+          "word": "is",
+          "start": 166.202,
+          "end": 166.242,
+          "score": 0.412
+        },
+        {
+          "word": "big",
+          "start": 166.362,
+          "end": 166.622,
+          "score": 0.761
+        },
+        {
+          "word": "enough",
+          "start": 166.702,
+          "end": 167.162,
+          "score": 0.354
+        },
+        {
+          "word": "to",
+          "start": 167.202,
+          "end": 167.382,
+          "score": 0.68
+        },
+        {
+          "word": "heal",
+          "start": 167.642,
+          "end": 167.962,
+          "score": 0.566
+        },
+        {
+          "word": "you\nUnder",
+          "start": 168.062,
+          "end": 169.122,
+          "score": 0.472
+        },
+        {
+          "word": "this",
+          "start": 169.223,
+          "end": 169.383,
+          "score": 0.228
+        },
+        {
+          "word": "roof\nUnder",
+          "start": 169.623,
+          "end": 170.323,
+          "score": 0.453
+        },
+        {
+          "word": "this",
+          "start": 170.343,
+          "end": 170.523,
+          "score": 0.41
+        },
+        {
+          "word": "roof\nSafe",
+          "start": 170.623,
+          "end": 171.123,
+          "score": 0.477
+        },
+        {
+          "word": "at",
+          "start": 171.263,
+          "end": 171.343,
+          "score": 0.382
+        },
+        {
+          "word": "home\nSafe",
+          "start": 171.603,
+          "end": 172.703,
+          "score": 0.471
+        },
+        {
+          "word": "at",
+          "start": 172.743,
+          "end": 173.323,
+          "score": 0.766
+        },
+        {
+          "word": "home\nUnder",
+          "start": 173.583,
+          "end": 174.283,
+          "score": 0.536
+        },
+        {
+          "word": "this",
+          "start": 174.303,
+          "end": 174.443,
+          "score": 0.333
+        },
+        {
+          "word": "roof",
+          "start": 174.563,
+          "end": 174.663,
+          "score": 0.172
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Kitchen",
+      "start": 2.24,
+      "end": 3.687,
+      "score": 0.722
+    },
+    {
+      "word": "Quiet",
+      "start": 3.687,
+      "end": 5.134,
+      "score": 0.722
+    },
+    {
+      "word": "Steam",
+      "start": 5.134,
+      "end": 6.581,
+      "score": 0.722
+    },
+    {
+      "word": "on",
+      "start": 6.801,
+      "end": 6.921,
+      "score": 0.754
+    },
+    {
+      "word": "the",
+      "start": 6.981,
+      "end": 7.101,
+      "score": 0.302
+    },
+    {
+      "word": "copper",
+      "start": 7.201,
+      "end": 8.101,
+      "score": 0.627
+    },
+    {
+      "word": "kettle",
+      "start": 8.181,
+      "end": 9.141,
+      "score": 0.734
+    },
+    {
+      "word": "The",
+      "start": 9.141,
+      "end": 10.101,
+      "score": 0.734
+    },
+    {
+      "word": "kettle",
+      "start": 10.141,
+      "end": 10.881,
+      "score": 0.645
+    },
+    {
+      "word": "whistles",
+      "start": 10.921,
+      "end": 11.622,
+      "score": 0.606
+    },
+    {
+      "word": "like",
+      "start": 11.682,
+      "end": 12.102,
+      "score": 0.57
+    },
+    {
+      "word": "a",
+      "start": 12.122,
+      "end": 12.142,
+      "score": 0.0
+    },
+    {
+      "word": "bird",
+      "start": 12.422,
+      "end": 12.952,
+      "score": 0.546
+    },
+    {
+      "word": "Sitting",
+      "start": 12.952,
+      "end": 13.482,
+      "score": 0.546
+    },
+    {
+      "word": "at",
+      "start": 13.722,
+      "end": 13.902,
+      "score": 0.706
+    },
+    {
+      "word": "the",
+      "start": 14.142,
+      "end": 14.482,
+      "score": 0.677
+    },
+    {
+      "word": "table",
+      "start": 14.502,
+      "end": 15.122,
+      "score": 0.512
+    },
+    {
+      "word": "Watching",
+      "start": 15.122,
+      "end": 15.742,
+      "score": 0.512
+    },
+    {
+      "word": "your",
+      "start": 15.882,
+      "end": 16.602,
+      "score": 0.65
+    },
+    {
+      "word": "eyes",
+      "start": 16.622,
+      "end": 17.232,
+      "score": 0.569
+    },
+    {
+      "word": "Watching",
+      "start": 17.232,
+      "end": 17.842,
+      "score": 0.569
+    },
+    {
+      "word": "your",
+      "start": 17.862,
+      "end": 18.562,
+      "score": 0.396
+    },
+    {
+      "word": "eyes",
+      "start": 18.722,
+      "end": 19.132,
+      "score": 0.351
+    },
+    {
+      "word": "Searching",
+      "start": 19.132,
+      "end": 19.543,
+      "score": 0.351
+    },
+    {
+      "word": "for",
+      "start": 19.583,
+      "end": 19.843,
+      "score": 0.515
+    },
+    {
+      "word": "the",
+      "start": 19.863,
+      "end": 20.023,
+      "score": 0.407
+    },
+    {
+      "word": "child",
+      "start": 20.063,
+      "end": 20.583,
+      "score": 0.592
+    },
+    {
+      "word": "I",
+      "start": 21.023,
+      "end": 21.143,
+      "score": 0.795
+    },
+    {
+      "word": "used",
+      "start": 21.263,
+      "end": 21.463,
+      "score": 0.378
+    },
+    {
+      "word": "to",
+      "start": 21.603,
+      "end": 21.803,
+      "score": 0.75
+    },
+    {
+      "word": "know",
+      "start": 21.823,
+      "end": 22.383,
+      "score": 0.578
+    },
+    {
+      "word": "I",
+      "start": 22.383,
+      "end": 22.943,
+      "score": 0.578
+    },
+    {
+      "word": "see",
+      "start": 23.063,
+      "end": 23.723,
+      "score": 0.641
+    },
+    {
+      "word": "the",
+      "start": 23.803,
+      "end": 23.923,
+      "score": 0.224
+    },
+    {
+      "word": "shift",
+      "start": 24.023,
+      "end": 24.403,
+      "score": 0.542
+    },
+    {
+      "word": "in",
+      "start": 24.703,
+      "end": 24.923,
+      "score": 0.692
+    },
+    {
+      "word": "your",
+      "start": 25.003,
+      "end": 25.403,
+      "score": 0.532
+    },
+    {
+      "word": "posture",
+      "start": 25.423,
+      "end": 26.344,
+      "score": 0.73
+    },
+    {
+      "word": "Maybe",
+      "start": 26.344,
+      "end": 27.264,
+      "score": 0.73
+    },
+    {
+      "word": "it's",
+      "start": 27.344,
+      "end": 27.464,
+      "score": 0.25
+    },
+    {
+      "word": "phase",
+      "start": 27.564,
+      "end": 28.154,
+      "score": 0.621
+    },
+    {
+      "word": "Maybe",
+      "start": 28.154,
+      "end": 28.744,
+      "score": 0.621
+    },
+    {
+      "word": "it's",
+      "start": 28.824,
+      "end": 28.944,
+      "score": 0.264
+    },
+    {
+      "word": "fear",
+      "start": 29.044,
+      "end": 29.624,
+      "score": 0.745
+    },
+    {
+      "word": "Maybe",
+      "start": 29.624,
+      "end": 30.204,
+      "score": 0.745
+    },
+    {
+      "word": "it's",
+      "start": 30.264,
+      "end": 30.424,
+      "score": 0.287
+    },
+    {
+      "word": "just",
+      "start": 30.484,
+      "end": 30.684,
+      "score": 0.714
+    },
+    {
+      "word": "the",
+      "start": 30.744,
+      "end": 30.924,
+      "score": 0.623
+    },
+    {
+      "word": "wind",
+      "start": 31.004,
+      "end": 31.504,
+      "score": 0.687
+    },
+    {
+      "word": "in",
+      "start": 31.584,
+      "end": 31.704,
+      "score": 0.512
+    },
+    {
+      "word": "the",
+      "start": 31.744,
+      "end": 31.864,
+      "score": 0.448
+    },
+    {
+      "word": "hall",
+      "start": 32.224,
+      "end": 32.554,
+      "score": 0.71
+    },
+    {
+      "word": "This",
+      "start": 32.554,
+      "end": 32.884,
+      "score": 0.71
+    },
+    {
+      "word": "house",
+      "start": 32.924,
+      "end": 33.204,
+      "score": 0.917
+    },
+    {
+      "word": "is",
+      "start": 33.264,
+      "end": 33.344,
+      "score": 0.637
+    },
+    {
+      "word": "big",
+      "start": 33.444,
+      "end": 33.724,
+      "score": 0.857
+    },
+    {
+      "word": "enough",
+      "start": 33.764,
+      "end": 34.285,
+      "score": 0.544
+    },
+    {
+      "word": "to",
+      "start": 34.325,
+      "end": 34.465,
+      "score": 0.512
+    },
+    {
+      "word": "heal",
+      "start": 34.725,
+      "end": 35.445,
+      "score": 0.761
+    },
+    {
+      "word": "you",
+      "start": 35.485,
+      "end": 36.165,
+      "score": 0.816
+    },
+    {
+      "word": "This",
+      "start": 36.165,
+      "end": 36.845,
+      "score": 0.816
+    },
+    {
+      "word": "house",
+      "start": 36.905,
+      "end": 37.205,
+      "score": 0.915
+    },
+    {
+      "word": "is",
+      "start": 37.265,
+      "end": 37.365,
+      "score": 0.762
+    },
+    {
+      "word": "big",
+      "start": 37.445,
+      "end": 37.705,
+      "score": 0.87
+    },
+    {
+      "word": "enough",
+      "start": 37.765,
+      "end": 38.265,
+      "score": 0.354
+    },
+    {
+      "word": "to",
+      "start": 38.285,
+      "end": 38.425,
+      "score": 0.69
+    },
+    {
+      "word": "heal",
+      "start": 38.665,
+      "end": 39.465,
+      "score": 0.78
+    },
+    {
+      "word": "you",
+      "start": 40.345,
+      "end": 40.866,
+      "score": 0.653
+    },
+    {
+      "word": "Under",
+      "start": 40.866,
+      "end": 41.386,
+      "score": 0.653
+    },
+    {
+      "word": "this",
+      "start": 41.406,
+      "end": 41.566,
+      "score": 0.312
+    },
+    {
+      "word": "roof",
+      "start": 41.646,
+      "end": 42.206,
+      "score": 0.667
+    },
+    {
+      "word": "we",
+      "start": 42.246,
+      "end": 42.586,
+      "score": 0.756
+    },
+    {
+      "word": "make",
+      "start": 42.626,
+      "end": 42.866,
+      "score": 0.554
+    },
+    {
+      "word": "it",
+      "start": 42.966,
+      "end": 43.086,
+      "score": 0.56
+    },
+    {
+      "word": "right",
+      "start": 43.246,
+      "end": 44.026,
+      "score": 0.682
+    },
+    {
+      "word": "Safe",
+      "start": 44.026,
+      "end": 44.806,
+      "score": 0.682
+    },
+    {
+      "word": "in",
+      "start": 44.966,
+      "end": 45.106,
+      "score": 0.484
+    },
+    {
+      "word": "the",
+      "start": 45.126,
+      "end": 45.446,
+      "score": 0.629
+    },
+    {
+      "word": "walls",
+      "start": 45.646,
+      "end": 45.986,
+      "score": 0.212
+    },
+    {
+      "word": "of",
+      "start": 46.046,
+      "end": 46.126,
+      "score": 0.363
+    },
+    {
+      "word": "the",
+      "start": 46.146,
+      "end": 46.326,
+      "score": 0.55
+    },
+    {
+      "word": "family",
+      "start": 46.406,
+      "end": 47.106,
+      "score": 0.449
+    },
+    {
+      "word": "light",
+      "start": 47.126,
+      "end": 47.936,
+      "score": 0.633
+    },
+    {
+      "word": "This",
+      "start": 47.936,
+      "end": 48.746,
+      "score": 0.633
+    },
+    {
+      "word": "house",
+      "start": 48.806,
+      "end": 49.087,
+      "score": 0.667
+    },
+    {
+      "word": "is",
+      "start": 49.167,
+      "end": 49.287,
+      "score": 0.794
+    },
+    {
+      "word": "big",
+      "start": 49.347,
+      "end": 49.627,
+      "score": 0.779
+    },
+    {
+      "word": "enough",
+      "start": 49.667,
+      "end": 50.127,
+      "score": 0.417
+    },
+    {
+      "word": "to",
+      "start": 50.207,
+      "end": 50.347,
+      "score": 0.615
+    },
+    {
+      "word": "heal",
+      "start": 50.547,
+      "end": 51.447,
+      "score": 0.708
+    },
+    {
+      "word": "you",
+      "start": 51.747,
+      "end": 52.517,
+      "score": 0.685
+    },
+    {
+      "word": "Under",
+      "start": 52.517,
+      "end": 53.287,
+      "score": 0.685
+    },
+    {
+      "word": "this",
+      "start": 53.307,
+      "end": 55.047,
+      "score": 0.754
+    },
+    {
+      "word": "roof",
+      "start": 55.207,
+      "end": 56.228,
+      "score": 0.649
+    },
+    {
+      "word": "Under",
+      "start": 56.228,
+      "end": 57.248,
+      "score": 0.649
+    },
+    {
+      "word": "this",
+      "start": 57.268,
+      "end": 57.388,
+      "score": 0.543
+    },
+    {
+      "word": "roof",
+      "start": 57.628,
+      "end": 58.338,
+      "score": 0.554
+    },
+    {
+      "word": "Hold",
+      "start": 58.338,
+      "end": 59.048,
+      "score": 0.554
+    },
+    {
+      "word": "tight",
+      "start": 59.088,
+      "end": 59.821,
+      "score": 0.618
+    },
+    {
+      "word": "Gentle",
+      "start": 59.821,
+      "end": 60.555,
+      "score": 0.618
+    },
+    {
+      "word": "Bridges",
+      "start": 60.555,
+      "end": 61.288,
+      "score": 0.618
+    },
+    {
+      "word": "built",
+      "start": 61.348,
+      "end": 62.288,
+      "score": 0.599
+    },
+    {
+      "word": "of",
+      "start": 62.548,
+      "end": 62.768,
+      "score": 0.411
+    },
+    {
+      "word": "birch",
+      "start": 62.848,
+      "end": 63.308,
+      "score": 0.399
+    },
+    {
+      "word": "and",
+      "start": 65.769,
+      "end": 65.949,
+      "score": 0.772
+    },
+    {
+      "word": "bone",
+      "start": 66.029,
+      "end": 66.819,
+      "score": 0.761
+    },
+    {
+      "word": "We",
+      "start": 66.819,
+      "end": 67.609,
+      "score": 0.761
+    },
+    {
+      "word": "don't",
+      "start": 67.649,
+      "end": 68.749,
+      "score": 0.674
+    },
+    {
+      "word": "need",
+      "start": 69.109,
+      "end": 69.969,
+      "score": 0.74
+    },
+    {
+      "word": "a",
+      "start": 70.109,
+      "end": 70.309,
+      "score": 0.695
+    },
+    {
+      "word": "doctor",
+      "start": 70.409,
+      "end": 71.16,
+      "score": 0.723
+    },
+    {
+      "word": "We",
+      "start": 71.16,
+      "end": 71.91,
+      "score": 0.723
+    },
+    {
+      "word": "don't",
+      "start": 71.93,
+      "end": 72.59,
+      "score": 0.51
+    },
+    {
+      "word": "need",
+      "start": 72.79,
+      "end": 74.33,
+      "score": 0.804
+    },
+    {
+      "word": "a",
+      "start": 74.45,
+      "end": 74.89,
+      "score": 0.833
+    },
+    {
+      "word": "stranger",
+      "start": 75.21,
+      "end": 76.48,
+      "score": 0.724
+    },
+    {
+      "word": "Just",
+      "start": 76.48,
+      "end": 77.75,
+      "score": 0.724
+    },
+    {
+      "word": "my",
+      "start": 77.87,
+      "end": 78.23,
+      "score": 0.753
+    },
+    {
+      "word": "hand",
+      "start": 78.35,
+      "end": 78.6,
+      "score": 0.464
+    },
+    {
+      "word": "Only",
+      "start": 78.6,
+      "end": 78.85,
+      "score": 0.464
+    },
+    {
+      "word": "my",
+      "start": 79.011,
+      "end": 79.231,
+      "score": 0.697
+    },
+    {
+      "word": "hand",
+      "start": 79.811,
+      "end": 80.451,
+      "score": 0.633
+    },
+    {
+      "word": "Touching",
+      "start": 80.451,
+      "end": 81.091,
+      "score": 0.633
+    },
+    {
+      "word": "your",
+      "start": 81.111,
+      "end": 81.271,
+      "score": 0.315
+    },
+    {
+      "word": "shoulder",
+      "start": 81.311,
+      "end": 81.831,
+      "score": 0.352
+    },
+    {
+      "word": "until",
+      "start": 82.011,
+      "end": 82.651,
+      "score": 0.659
+    },
+    {
+      "word": "you",
+      "start": 82.991,
+      "end": 83.551,
+      "score": 0.664
+    },
+    {
+      "word": "change",
+      "start": 83.671,
+      "end": 84.071,
+      "score": 0.539
+    },
+    {
+      "word": "The",
+      "start": 84.071,
+      "end": 84.471,
+      "score": 0.539
+    },
+    {
+      "word": "way",
+      "start": 84.531,
+      "end": 84.791,
+      "score": 0.534
+    },
+    {
+      "word": "you",
+      "start": 84.811,
+      "end": 85.151,
+      "score": 0.521
+    },
+    {
+      "word": "speak",
+      "start": 85.171,
+      "end": 85.811,
+      "score": 0.732
+    },
+    {
+      "word": "The",
+      "start": 85.811,
+      "end": 86.451,
+      "score": 0.732
+    },
+    {
+      "word": "way",
+      "start": 86.552,
+      "end": 87.072,
+      "score": 0.684
+    },
+    {
+      "word": "you",
+      "start": 87.152,
+      "end": 87.212,
+      "score": 0.041
+    },
+    {
+      "word": "walk",
+      "start": 87.272,
+      "end": 87.862,
+      "score": 0.674
+    },
+    {
+      "word": "The",
+      "start": 87.862,
+      "end": 88.452,
+      "score": 0.674
+    },
+    {
+      "word": "way",
+      "start": 88.532,
+      "end": 88.912,
+      "score": 0.799
+    },
+    {
+      "word": "you",
+      "start": 88.952,
+      "end": 89.172,
+      "score": 0.587
+    },
+    {
+      "word": "think",
+      "start": 89.252,
+      "end": 89.632,
+      "score": 0.626
+    },
+    {
+      "word": "when",
+      "start": 89.772,
+      "end": 89.972,
+      "score": 0.437
+    },
+    {
+      "word": "you",
+      "start": 89.992,
+      "end": 90.112,
+      "score": 0.218
+    },
+    {
+      "word": "are",
+      "start": 90.372,
+      "end": 91.012,
+      "score": 0.694
+    },
+    {
+      "word": "alone",
+      "start": 91.052,
+      "end": 91.732,
+      "score": 0.574
+    },
+    {
+      "word": "I’ll",
+      "start": 91.732,
+      "end": 92.412,
+      "score": 0.574
+    },
+    {
+      "word": "fix",
+      "start": 92.492,
+      "end": 92.812,
+      "score": 0.723
+    },
+    {
+      "word": "the",
+      "start": 92.852,
+      "end": 92.952,
+      "score": 0.317
+    },
+    {
+      "word": "cracks",
+      "start": 93.112,
+      "end": 93.762,
+      "score": 0.595
+    },
+    {
+      "word": "I’ll",
+      "start": 93.762,
+      "end": 94.413,
+      "score": 0.595
+    },
+    {
+      "word": "fix",
+      "start": 94.493,
+      "end": 94.833,
+      "score": 0.637
+    },
+    {
+      "word": "the",
+      "start": 94.933,
+      "end": 95.153,
+      "score": 0.467
+    },
+    {
+      "word": "glass",
+      "start": 95.213,
+      "end": 95.553,
+      "score": 0.565
+    },
+    {
+      "word": "I’ll",
+      "start": 95.553,
+      "end": 95.893,
+      "score": 0.565
+    },
+    {
+      "word": "fix",
+      "start": 95.953,
+      "end": 96.153,
+      "score": 0.447
+    },
+    {
+      "word": "the",
+      "start": 96.213,
+      "end": 96.373,
+      "score": 0.583
+    },
+    {
+      "word": "spirit",
+      "start": 96.393,
+      "end": 96.713,
+      "score": 0.4
+    },
+    {
+      "word": "until",
+      "start": 96.793,
+      "end": 97.193,
+      "score": 0.5
+    },
+    {
+      "word": "it",
+      "start": 97.253,
+      "end": 97.353,
+      "score": 0.44
+    },
+    {
+      "word": "fits",
+      "start": 97.453,
+      "end": 98.893,
+      "score": 0.769
+    },
+    {
+      "word": "This",
+      "start": 98.893,
+      "end": 100.333,
+      "score": 0.769
+    },
+    {
+      "word": "house",
+      "start": 100.373,
+      "end": 100.653,
+      "score": 0.932
+    },
+    {
+      "word": "is",
+      "start": 100.713,
+      "end": 100.773,
+      "score": 0.898
+    },
+    {
+      "word": "big",
+      "start": 100.893,
+      "end": 101.173,
+      "score": 0.825
+    },
+    {
+      "word": "enough",
+      "start": 101.213,
+      "end": 101.754,
+      "score": 0.506
+    },
+    {
+      "word": "to",
+      "start": 101.794,
+      "end": 101.874,
+      "score": 0.308
+    },
+    {
+      "word": "heal",
+      "start": 102.074,
+      "end": 102.454,
+      "score": 0.559
+    },
+    {
+      "word": "you",
+      "start": 102.654,
+      "end": 103.484,
+      "score": 0.679
+    },
+    {
+      "word": "This",
+      "start": 103.484,
+      "end": 104.314,
+      "score": 0.679
+    },
+    {
+      "word": "house",
+      "start": 104.354,
+      "end": 104.634,
+      "score": 0.746
+    },
+    {
+      "word": "is",
+      "start": 104.714,
+      "end": 104.774,
+      "score": 0.824
+    },
+    {
+      "word": "big",
+      "start": 104.894,
+      "end": 105.154,
+      "score": 0.811
+    },
+    {
+      "word": "enough",
+      "start": 105.194,
+      "end": 105.654,
+      "score": 0.48
+    },
+    {
+      "word": "to",
+      "start": 105.874,
+      "end": 106.014,
+      "score": 0.702
+    },
+    {
+      "word": "heal",
+      "start": 106.094,
+      "end": 106.434,
+      "score": 0.55
+    },
+    {
+      "word": "you",
+      "start": 106.574,
+      "end": 107.694,
+      "score": 0.773
+    },
+    {
+      "word": "Under",
+      "start": 107.694,
+      "end": 108.814,
+      "score": 0.773
+    },
+    {
+      "word": "this",
+      "start": 108.854,
+      "end": 109.014,
+      "score": 0.783
+    },
+    {
+      "word": "roof",
+      "start": 109.075,
+      "end": 109.635,
+      "score": 0.528
+    },
+    {
+      "word": "we",
+      "start": 109.855,
+      "end": 110.055,
+      "score": 0.594
+    },
+    {
+      "word": "make",
+      "start": 110.095,
+      "end": 110.335,
+      "score": 0.499
+    },
+    {
+      "word": "it",
+      "start": 110.415,
+      "end": 110.515,
+      "score": 0.526
+    },
+    {
+      "word": "right",
+      "start": 110.575,
+      "end": 111.555,
+      "score": 0.649
+    },
+    {
+      "word": "Safe",
+      "start": 111.555,
+      "end": 112.535,
+      "score": 0.649
+    },
+    {
+      "word": "in",
+      "start": 112.635,
+      "end": 112.795,
+      "score": 0.728
+    },
+    {
+      "word": "the",
+      "start": 112.835,
+      "end": 112.975,
+      "score": 0.229
+    },
+    {
+      "word": "walls",
+      "start": 113.055,
+      "end": 113.555,
+      "score": 0.604
+    },
+    {
+      "word": "of",
+      "start": 113.715,
+      "end": 113.755,
+      "score": 0.154
+    },
+    {
+      "word": "the",
+      "start": 113.775,
+      "end": 113.915,
+      "score": 0.382
+    },
+    {
+      "word": "family",
+      "start": 114.015,
+      "end": 114.495,
+      "score": 0.48
+    },
+    {
+      "word": "light",
+      "start": 114.515,
+      "end": 115.355,
+      "score": 0.831
+    },
+    {
+      "word": "This",
+      "start": 115.355,
+      "end": 116.195,
+      "score": 0.831
+    },
+    {
+      "word": "house",
+      "start": 116.235,
+      "end": 116.535,
+      "score": 0.945
+    },
+    {
+      "word": "is",
+      "start": 116.616,
+      "end": 116.676,
+      "score": 0.802
+    },
+    {
+      "word": "big",
+      "start": 116.776,
+      "end": 117.036,
+      "score": 0.846
+    },
+    {
+      "word": "enough",
+      "start": 117.096,
+      "end": 117.576,
+      "score": 0.393
+    },
+    {
+      "word": "to",
+      "start": 117.796,
+      "end": 117.936,
+      "score": 0.698
+    },
+    {
+      "word": "heal",
+      "start": 117.996,
+      "end": 118.516,
+      "score": 0.644
+    },
+    {
+      "word": "you",
+      "start": 118.536,
+      "end": 119.626,
+      "score": 0.682
+    },
+    {
+      "word": "Under",
+      "start": 119.626,
+      "end": 120.716,
+      "score": 0.682
+    },
+    {
+      "word": "this",
+      "start": 120.756,
+      "end": 120.896,
+      "score": 0.696
+    },
+    {
+      "word": "roof",
+      "start": 120.956,
+      "end": 122.816,
+      "score": 0.743
+    },
+    {
+      "word": "Under",
+      "start": 122.816,
+      "end": 124.677,
+      "score": 0.743
+    },
+    {
+      "word": "this",
+      "start": 124.717,
+      "end": 124.857,
+      "score": 0.732
+    },
+    {
+      "word": "roof",
+      "start": 124.937,
+      "end": 127.557,
+      "score": 0.736
+    },
+    {
+      "word": "No",
+      "start": 127.557,
+      "end": 130.177,
+      "score": 0.736
+    },
+    {
+      "word": "white",
+      "start": 130.197,
+      "end": 130.897,
+      "score": 0.535
+    },
+    {
+      "word": "rooms",
+      "start": 130.977,
+      "end": 132.498,
+      "score": 0.674
+    },
+    {
+      "word": "No",
+      "start": 132.498,
+      "end": 134.018,
+      "score": 0.674
+    },
+    {
+      "word": "cold",
+      "start": 134.138,
+      "end": 134.718,
+      "score": 0.588
+    },
+    {
+      "word": "bars",
+      "start": 134.858,
+      "end": 135.428,
+      "score": 0.664
+    },
+    {
+      "word": "No",
+      "start": 135.428,
+      "end": 135.998,
+      "score": 0.664
+    },
+    {
+      "word": "paperwork",
+      "start": 136.098,
+      "end": 136.778,
+      "score": 0.494
+    },
+    {
+      "word": "or",
+      "start": 136.878,
+      "end": 137.118,
+      "score": 0.786
+    },
+    {
+      "word": "metal",
+      "start": 137.158,
+      "end": 138.718,
+      "score": 0.665
+    },
+    {
+      "word": "cars",
+      "start": 138.838,
+      "end": 139.558,
+      "score": 0.828
+    },
+    {
+      "word": "Just",
+      "start": 139.558,
+      "end": 140.279,
+      "score": 0.828
+    },
+    {
+      "word": "the",
+      "start": 140.339,
+      "end": 140.459,
+      "score": 0.411
+    },
+    {
+      "word": "living",
+      "start": 140.499,
+      "end": 140.819,
+      "score": 0.5
+    },
+    {
+      "word": "room",
+      "start": 140.839,
+      "end": 140.979,
+      "score": 0.467
+    },
+    {
+      "word": "rug",
+      "start": 141.479,
+      "end": 141.889,
+      "score": 0.663
+    },
+    {
+      "word": "Just",
+      "start": 141.889,
+      "end": 142.299,
+      "score": 0.663
+    },
+    {
+      "word": "a",
+      "start": 142.339,
+      "end": 142.359,
+      "score": 0.052
+    },
+    {
+      "word": "motherly",
+      "start": 142.419,
+      "end": 143.019,
+      "score": 0.693
+    },
+    {
+      "word": "hug",
+      "start": 143.099,
+      "end": 143.679,
+      "score": 0.866
+    },
+    {
+      "word": "Just",
+      "start": 143.679,
+      "end": 144.259,
+      "score": 0.866
+    },
+    {
+      "word": "a",
+      "start": 144.299,
+      "end": 144.359,
+      "score": 0.656
+    },
+    {
+      "word": "fatherly",
+      "start": 144.399,
+      "end": 144.979,
+      "score": 0.693
+    },
+    {
+      "word": "word",
+      "start": 145.039,
+      "end": 145.639,
+      "score": 0.615
+    },
+    {
+      "word": "Until",
+      "start": 145.639,
+      "end": 146.239,
+      "score": 0.615
+    },
+    {
+      "word": "it’s",
+      "start": 146.279,
+      "end": 146.379,
+      "score": 0.377
+    },
+    {
+      "word": "all",
+      "start": 146.64,
+      "end": 146.72,
+      "score": 0.202
+    },
+    {
+      "word": "you’ve",
+      "start": 146.8,
+      "end": 146.98,
+      "score": 0.276
+    },
+    {
+      "word": "heard",
+      "start": 147.02,
+      "end": 147.38,
+      "score": 0.565
+    },
+    {
+      "word": "Until",
+      "start": 147.38,
+      "end": 147.74,
+      "score": 0.565
+    },
+    {
+      "word": "it’s",
+      "start": 147.8,
+      "end": 147.92,
+      "score": 0.359
+    },
+    {
+      "word": "all",
+      "start": 148.22,
+      "end": 148.32,
+      "score": 0.427
+    },
+    {
+      "word": "you’ve",
+      "start": 148.42,
+      "end": 148.62,
+      "score": 0.159
+    },
+    {
+      "word": "heard",
+      "start": 148.7,
+      "end": 149.31,
+      "score": 0.602
+    },
+    {
+      "word": "This",
+      "start": 149.31,
+      "end": 149.92,
+      "score": 0.602
+    },
+    {
+      "word": "house",
+      "start": 149.98,
+      "end": 150.24,
+      "score": 0.903
+    },
+    {
+      "word": "is",
+      "start": 150.3,
+      "end": 150.38,
+      "score": 0.702
+    },
+    {
+      "word": "big",
+      "start": 150.48,
+      "end": 150.76,
+      "score": 0.794
+    },
+    {
+      "word": "enough",
+      "start": 150.82,
+      "end": 151.88,
+      "score": 0.639
+    },
+    {
+      "word": "to",
+      "start": 151.9,
+      "end": 152.08,
+      "score": 0.574
+    },
+    {
+      "word": "heal",
+      "start": 152.16,
+      "end": 152.52,
+      "score": 0.516
+    },
+    {
+      "word": "you",
+      "start": 152.94,
+      "end": 153.41,
+      "score": 0.665
+    },
+    {
+      "word": "This",
+      "start": 153.41,
+      "end": 153.88,
+      "score": 0.665
+    },
+    {
+      "word": "house",
+      "start": 153.94,
+      "end": 154.281,
+      "score": 0.738
+    },
+    {
+      "word": "is",
+      "start": 154.301,
+      "end": 154.441,
+      "score": 0.382
+    },
+    {
+      "word": "big",
+      "start": 154.501,
+      "end": 154.761,
+      "score": 0.781
+    },
+    {
+      "word": "enough",
+      "start": 154.801,
+      "end": 155.261,
+      "score": 0.476
+    },
+    {
+      "word": "to",
+      "start": 155.721,
+      "end": 156.201,
+      "score": 0.732
+    },
+    {
+      "word": "heal",
+      "start": 156.261,
+      "end": 157.001,
+      "score": 0.473
+    },
+    {
+      "word": "you",
+      "start": 157.121,
+      "end": 157.781,
+      "score": 0.542
+    },
+    {
+      "word": "Under",
+      "start": 157.781,
+      "end": 158.441,
+      "score": 0.542
+    },
+    {
+      "word": "this",
+      "start": 158.461,
+      "end": 158.601,
+      "score": 0.21
+    },
+    {
+      "word": "roof",
+      "start": 158.701,
+      "end": 159.221,
+      "score": 0.787
+    },
+    {
+      "word": "we",
+      "start": 159.301,
+      "end": 159.621,
+      "score": 0.731
+    },
+    {
+      "word": "make",
+      "start": 159.681,
+      "end": 159.941,
+      "score": 0.521
+    },
+    {
+      "word": "it",
+      "start": 160.001,
+      "end": 160.121,
+      "score": 0.609
+    },
+    {
+      "word": "right",
+      "start": 160.221,
+      "end": 161.032,
+      "score": 0.678
+    },
+    {
+      "word": "Safe",
+      "start": 161.032,
+      "end": 161.842,
+      "score": 0.678
+    },
+    {
+      "word": "in",
+      "start": 161.982,
+      "end": 162.122,
+      "score": 0.632
+    },
+    {
+      "word": "the",
+      "start": 162.162,
+      "end": 162.602,
+      "score": 0.569
+    },
+    {
+      "word": "walls",
+      "start": 162.902,
+      "end": 163.162,
+      "score": 0.609
+    },
+    {
+      "word": "of",
+      "start": 163.282,
+      "end": 163.482,
+      "score": 0.596
+    },
+    {
+      "word": "the",
+      "start": 163.642,
+      "end": 163.922,
+      "score": 0.511
+    },
+    {
+      "word": "family",
+      "start": 164.002,
+      "end": 164.762,
+      "score": 0.587
+    },
+    {
+      "word": "light",
+      "start": 164.802,
+      "end": 165.292,
+      "score": 0.538
+    },
+    {
+      "word": "This",
+      "start": 165.292,
+      "end": 165.782,
+      "score": 0.538
+    },
+    {
+      "word": "house",
+      "start": 165.842,
+      "end": 166.142,
+      "score": 0.742
+    },
+    {
+      "word": "is",
+      "start": 166.202,
+      "end": 166.242,
+      "score": 0.412
+    },
+    {
+      "word": "big",
+      "start": 166.362,
+      "end": 166.622,
+      "score": 0.761
+    },
+    {
+      "word": "enough",
+      "start": 166.702,
+      "end": 167.162,
+      "score": 0.354
+    },
+    {
+      "word": "to",
+      "start": 167.202,
+      "end": 167.382,
+      "score": 0.68
+    },
+    {
+      "word": "heal",
+      "start": 167.642,
+      "end": 167.962,
+      "score": 0.566
+    },
+    {
+      "word": "you",
+      "start": 168.062,
+      "end": 168.592,
+      "score": 0.472
+    },
+    {
+      "word": "Under",
+      "start": 168.592,
+      "end": 169.122,
+      "score": 0.472
+    },
+    {
+      "word": "this",
+      "start": 169.223,
+      "end": 169.383,
+      "score": 0.228
+    },
+    {
+      "word": "roof",
+      "start": 169.623,
+      "end": 169.973,
+      "score": 0.453
+    },
+    {
+      "word": "Under",
+      "start": 169.973,
+      "end": 170.323,
+      "score": 0.453
+    },
+    {
+      "word": "this",
+      "start": 170.343,
+      "end": 170.523,
+      "score": 0.41
+    },
+    {
+      "word": "roof",
+      "start": 170.623,
+      "end": 170.873,
+      "score": 0.477
+    },
+    {
+      "word": "Safe",
+      "start": 170.873,
+      "end": 171.123,
+      "score": 0.477
+    },
+    {
+      "word": "at",
+      "start": 171.263,
+      "end": 171.343,
+      "score": 0.382
+    },
+    {
+      "word": "home",
+      "start": 171.603,
+      "end": 172.153,
+      "score": 0.471
+    },
+    {
+      "word": "Safe",
+      "start": 172.153,
+      "end": 172.703,
+      "score": 0.471
+    },
+    {
+      "word": "at",
+      "start": 172.743,
+      "end": 173.323,
+      "score": 0.766
+    },
+    {
+      "word": "home",
+      "start": 173.583,
+      "end": 173.933,
+      "score": 0.536
+    },
+    {
+      "word": "Under",
+      "start": 173.933,
+      "end": 174.283,
+      "score": 0.536
+    },
+    {
+      "word": "this",
+      "start": 174.303,
+      "end": 174.443,
+      "score": 0.333
+    },
+    {
+      "word": "roof",
+      "start": 174.563,
+      "end": 174.663,
+      "score": 0.172
+    }
+  ]
+}

@@ -1,0 +1,1637 @@
+{
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 61.347,
+      "text": "I turned water into wine\nAnd made a blind man see\nI have 5,000 people to feed\nBut can't make you turn for me\nI got this crown of thorns on my head\nAnd they nailed me to a tree\nIt's not that I wanted to be dead\nBut I wanted you to turn for me\nTurn for me\nOh, please turn for me\nJust turn for me\nOh, won't you turn for me?",
+      "words": [
+        {
+          "word": "I",
+          "start": 0.88,
+          "end": 1.12,
+          "score": 0.619
+        },
+        {
+          "word": "turned",
+          "start": 1.14,
+          "end": 1.52,
+          "score": 0.584
+        },
+        {
+          "word": "water",
+          "start": 1.62,
+          "end": 2.4,
+          "score": 0.885
+        },
+        {
+          "word": "into",
+          "start": 2.64,
+          "end": 3.22,
+          "score": 0.917
+        },
+        {
+          "word": "wine\nAnd",
+          "start": 3.32,
+          "end": 4.901,
+          "score": 0.884
+        },
+        {
+          "word": "made",
+          "start": 4.981,
+          "end": 5.361,
+          "score": 0.857
+        },
+        {
+          "word": "a",
+          "start": 5.421,
+          "end": 5.501,
+          "score": 0.646
+        },
+        {
+          "word": "blind",
+          "start": 5.601,
+          "end": 6.021,
+          "score": 0.924
+        },
+        {
+          "word": "man",
+          "start": 6.081,
+          "end": 6.561,
+          "score": 0.944
+        },
+        {
+          "word": "see\nI",
+          "start": 6.661,
+          "end": 8.641,
+          "score": 0.819
+        },
+        {
+          "word": "have",
+          "start": 8.741,
+          "end": 9.181,
+          "score": 0.668
+        },
+        {
+          "word": "5,000"
+        },
+        {
+          "word": "people",
+          "start": 9.241,
+          "end": 9.761,
+          "score": 0.865
+        },
+        {
+          "word": "to",
+          "start": 9.841,
+          "end": 9.941,
+          "score": 0.602
+        },
+        {
+          "word": "feed\nBut",
+          "start": 10.021,
+          "end": 11.261,
+          "score": 0.725
+        },
+        {
+          "word": "can't",
+          "start": 11.301,
+          "end": 11.641,
+          "score": 0.649
+        },
+        {
+          "word": "make",
+          "start": 11.741,
+          "end": 12.121,
+          "score": 0.77
+        },
+        {
+          "word": "you",
+          "start": 12.161,
+          "end": 12.301,
+          "score": 0.448
+        },
+        {
+          "word": "turn",
+          "start": 12.361,
+          "end": 12.902,
+          "score": 0.758
+        },
+        {
+          "word": "for",
+          "start": 12.982,
+          "end": 13.182,
+          "score": 0.947
+        },
+        {
+          "word": "me\nI",
+          "start": 13.242,
+          "end": 20.963,
+          "score": 0.864
+        },
+        {
+          "word": "got",
+          "start": 21.023,
+          "end": 21.403,
+          "score": 0.773
+        },
+        {
+          "word": "this",
+          "start": 21.463,
+          "end": 21.743,
+          "score": 0.78
+        },
+        {
+          "word": "crown",
+          "start": 21.883,
+          "end": 22.323,
+          "score": 0.95
+        },
+        {
+          "word": "of",
+          "start": 22.343,
+          "end": 22.403,
+          "score": 0.395
+        },
+        {
+          "word": "thorns",
+          "start": 22.523,
+          "end": 22.923,
+          "score": 0.852
+        },
+        {
+          "word": "on",
+          "start": 23.023,
+          "end": 23.123,
+          "score": 0.869
+        },
+        {
+          "word": "my",
+          "start": 23.183,
+          "end": 23.483,
+          "score": 0.901
+        },
+        {
+          "word": "head\nAnd",
+          "start": 23.563,
+          "end": 24.783,
+          "score": 0.717
+        },
+        {
+          "word": "they",
+          "start": 24.843,
+          "end": 25.163,
+          "score": 0.701
+        },
+        {
+          "word": "nailed",
+          "start": 25.243,
+          "end": 25.623,
+          "score": 0.666
+        },
+        {
+          "word": "me",
+          "start": 25.683,
+          "end": 25.883,
+          "score": 0.98
+        },
+        {
+          "word": "to",
+          "start": 26.083,
+          "end": 26.323,
+          "score": 0.744
+        },
+        {
+          "word": "a",
+          "start": 26.383,
+          "end": 26.423,
+          "score": 0.769
+        },
+        {
+          "word": "tree\nIt's",
+          "start": 26.503,
+          "end": 28.163,
+          "score": 0.7
+        },
+        {
+          "word": "not",
+          "start": 28.223,
+          "end": 28.403,
+          "score": 0.983
+        },
+        {
+          "word": "that",
+          "start": 28.443,
+          "end": 28.603,
+          "score": 0.58
+        },
+        {
+          "word": "I",
+          "start": 28.843,
+          "end": 29.024,
+          "score": 0.67
+        },
+        {
+          "word": "wanted",
+          "start": 29.044,
+          "end": 29.424,
+          "score": 0.552
+        },
+        {
+          "word": "to",
+          "start": 29.484,
+          "end": 29.764,
+          "score": 0.788
+        },
+        {
+          "word": "be",
+          "start": 29.824,
+          "end": 30.084,
+          "score": 0.836
+        },
+        {
+          "word": "dead\nBut",
+          "start": 30.144,
+          "end": 31.584,
+          "score": 0.852
+        },
+        {
+          "word": "I",
+          "start": 31.704,
+          "end": 31.824,
+          "score": 0.701
+        },
+        {
+          "word": "wanted",
+          "start": 31.864,
+          "end": 32.404,
+          "score": 0.665
+        },
+        {
+          "word": "you",
+          "start": 32.424,
+          "end": 32.644,
+          "score": 0.555
+        },
+        {
+          "word": "to",
+          "start": 32.664,
+          "end": 32.844,
+          "score": 0.49
+        },
+        {
+          "word": "turn",
+          "start": 32.864,
+          "end": 33.244,
+          "score": 0.587
+        },
+        {
+          "word": "for",
+          "start": 33.284,
+          "end": 33.464,
+          "score": 0.895
+        },
+        {
+          "word": "me\nTurn",
+          "start": 33.524,
+          "end": 35.104,
+          "score": 0.879
+        },
+        {
+          "word": "for",
+          "start": 35.164,
+          "end": 35.384,
+          "score": 0.6
+        },
+        {
+          "word": "me\nOh,",
+          "start": 35.504,
+          "end": 37.245,
+          "score": 0.844
+        },
+        {
+          "word": "please",
+          "start": 37.725,
+          "end": 38.685,
+          "score": 0.534
+        },
+        {
+          "word": "turn",
+          "start": 38.805,
+          "end": 39.965,
+          "score": 0.702
+        },
+        {
+          "word": "for",
+          "start": 40.025,
+          "end": 40.205,
+          "score": 0.827
+        },
+        {
+          "word": "me\nJust",
+          "start": 40.265,
+          "end": 41.245,
+          "score": 0.752
+        },
+        {
+          "word": "turn",
+          "start": 41.285,
+          "end": 41.865,
+          "score": 0.796
+        },
+        {
+          "word": "for",
+          "start": 41.925,
+          "end": 42.165,
+          "score": 0.683
+        },
+        {
+          "word": "me\nOh,",
+          "start": 42.205,
+          "end": 43.785,
+          "score": 0.882
+        },
+        {
+          "word": "won't",
+          "start": 44.265,
+          "end": 45.005,
+          "score": 0.579
+        },
+        {
+          "word": "you",
+          "start": 45.085,
+          "end": 45.486,
+          "score": 0.78
+        },
+        {
+          "word": "turn",
+          "start": 45.546,
+          "end": 46.706,
+          "score": 0.476
+        },
+        {
+          "word": "for",
+          "start": 46.746,
+          "end": 46.946,
+          "score": 0.916
+        },
+        {
+          "word": "me?",
+          "start": 47.026,
+          "end": 61.347,
+          "score": 0.934
+        }
+      ]
+    },
+    {
+      "start": 61.347,
+      "end": 101.412,
+      "text": "I had a flock of sheep in my arms\nAnd Peter denied me three times\nAnd Thomas saw the holes in my hands\nBut still, he needed a sign\nI washed Mary Magdalene's feet\nI even died for your sins\nYou say you believe in me\nBut you refuse to turn in the end\nTurn for me\nOh, please turn for me\nJust turn for me\nOh, won't you turn for me?",
+      "words": [
+        {
+          "word": "I",
+          "start": 61.347,
+          "end": 61.447,
+          "score": 0.741
+        },
+        {
+          "word": "had",
+          "start": 61.567,
+          "end": 62.008,
+          "score": 0.532
+        },
+        {
+          "word": "a",
+          "start": 62.128,
+          "end": 62.268,
+          "score": 0.687
+        },
+        {
+          "word": "flock",
+          "start": 62.428,
+          "end": 62.768,
+          "score": 0.663
+        },
+        {
+          "word": "of",
+          "start": 62.848,
+          "end": 62.948,
+          "score": 0.903
+        },
+        {
+          "word": "sheep",
+          "start": 63.048,
+          "end": 63.428,
+          "score": 0.844
+        },
+        {
+          "word": "in",
+          "start": 63.568,
+          "end": 63.688,
+          "score": 0.612
+        },
+        {
+          "word": "my",
+          "start": 63.748,
+          "end": 64.048,
+          "score": 0.85
+        },
+        {
+          "word": "arms\nAnd",
+          "start": 64.308,
+          "end": 65.708,
+          "score": 0.904
+        },
+        {
+          "word": "Peter",
+          "start": 65.788,
+          "end": 66.228,
+          "score": 0.831
+        },
+        {
+          "word": "denied",
+          "start": 66.248,
+          "end": 66.848,
+          "score": 0.462
+        },
+        {
+          "word": "me",
+          "start": 66.868,
+          "end": 67.008,
+          "score": 0.806
+        },
+        {
+          "word": "three",
+          "start": 67.068,
+          "end": 67.368,
+          "score": 0.896
+        },
+        {
+          "word": "times\nAnd",
+          "start": 67.488,
+          "end": 69.088,
+          "score": 0.89
+        },
+        {
+          "word": "Thomas",
+          "start": 69.148,
+          "end": 69.568,
+          "score": 0.563
+        },
+        {
+          "word": "saw",
+          "start": 69.608,
+          "end": 69.828,
+          "score": 0.94
+        },
+        {
+          "word": "the",
+          "start": 69.868,
+          "end": 69.988,
+          "score": 0.761
+        },
+        {
+          "word": "holes",
+          "start": 70.068,
+          "end": 70.489,
+          "score": 0.726
+        },
+        {
+          "word": "in",
+          "start": 70.569,
+          "end": 70.649,
+          "score": 0.883
+        },
+        {
+          "word": "my",
+          "start": 70.689,
+          "end": 70.989,
+          "score": 0.851
+        },
+        {
+          "word": "hands\nBut",
+          "start": 71.069,
+          "end": 72.029,
+          "score": 0.834
+        },
+        {
+          "word": "still,",
+          "start": 72.069,
+          "end": 72.389,
+          "score": 0.902
+        },
+        {
+          "word": "he",
+          "start": 72.409,
+          "end": 72.509,
+          "score": 0.294
+        },
+        {
+          "word": "needed",
+          "start": 72.569,
+          "end": 72.989,
+          "score": 0.452
+        },
+        {
+          "word": "a",
+          "start": 73.049,
+          "end": 73.169,
+          "score": 0.582
+        },
+        {
+          "word": "sign\nI",
+          "start": 73.229,
+          "end": 75.469,
+          "score": 0.526
+        },
+        {
+          "word": "washed",
+          "start": 75.529,
+          "end": 75.869,
+          "score": 0.493
+        },
+        {
+          "word": "Mary",
+          "start": 75.949,
+          "end": 76.569,
+          "score": 0.848
+        },
+        {
+          "word": "Magdalene's",
+          "start": 76.609,
+          "end": 77.549,
+          "score": 0.532
+        },
+        {
+          "word": "feet\nI",
+          "start": 77.649,
+          "end": 78.91,
+          "score": 0.719
+        },
+        {
+          "word": "even",
+          "start": 78.97,
+          "end": 79.27,
+          "score": 0.659
+        },
+        {
+          "word": "died",
+          "start": 79.33,
+          "end": 79.89,
+          "score": 0.409
+        },
+        {
+          "word": "for",
+          "start": 80.01,
+          "end": 80.41,
+          "score": 0.729
+        },
+        {
+          "word": "your",
+          "start": 80.45,
+          "end": 80.69,
+          "score": 0.617
+        },
+        {
+          "word": "sins\nYou",
+          "start": 80.83,
+          "end": 82.59,
+          "score": 0.605
+        },
+        {
+          "word": "say",
+          "start": 82.69,
+          "end": 83.09,
+          "score": 0.69
+        },
+        {
+          "word": "you",
+          "start": 83.13,
+          "end": 83.29,
+          "score": 0.506
+        },
+        {
+          "word": "believe",
+          "start": 83.33,
+          "end": 83.83,
+          "score": 0.501
+        },
+        {
+          "word": "in",
+          "start": 83.97,
+          "end": 84.11,
+          "score": 0.574
+        },
+        {
+          "word": "me\nBut",
+          "start": 84.19,
+          "end": 85.09,
+          "score": 0.564
+        },
+        {
+          "word": "you",
+          "start": 85.25,
+          "end": 85.55,
+          "score": 0.614
+        },
+        {
+          "word": "refuse",
+          "start": 85.59,
+          "end": 86.25,
+          "score": 0.559
+        },
+        {
+          "word": "to",
+          "start": 86.29,
+          "end": 86.43,
+          "score": 0.672
+        },
+        {
+          "word": "turn",
+          "start": 86.49,
+          "end": 87.111,
+          "score": 0.716
+        },
+        {
+          "word": "in",
+          "start": 87.171,
+          "end": 87.291,
+          "score": 0.576
+        },
+        {
+          "word": "the",
+          "start": 87.371,
+          "end": 87.611,
+          "score": 0.638
+        },
+        {
+          "word": "end\nTurn",
+          "start": 87.951,
+          "end": 89.191,
+          "score": 0.812
+        },
+        {
+          "word": "for",
+          "start": 89.251,
+          "end": 89.491,
+          "score": 0.726
+        },
+        {
+          "word": "me\nOh,",
+          "start": 89.691,
+          "end": 91.871,
+          "score": 0.715
+        },
+        {
+          "word": "please",
+          "start": 92.011,
+          "end": 92.791,
+          "score": 0.532
+        },
+        {
+          "word": "turn",
+          "start": 92.911,
+          "end": 94.031,
+          "score": 0.66
+        },
+        {
+          "word": "for",
+          "start": 94.091,
+          "end": 94.271,
+          "score": 0.851
+        },
+        {
+          "word": "me\nJust",
+          "start": 94.331,
+          "end": 95.332,
+          "score": 0.696
+        },
+        {
+          "word": "turn",
+          "start": 95.372,
+          "end": 95.952,
+          "score": 0.774
+        },
+        {
+          "word": "for",
+          "start": 96.012,
+          "end": 96.672,
+          "score": 0.557
+        },
+        {
+          "word": "me\nOh,",
+          "start": 96.712,
+          "end": 98.792,
+          "score": 0.765
+        },
+        {
+          "word": "won't",
+          "start": 98.892,
+          "end": 99.112,
+          "score": 0.288
+        },
+        {
+          "word": "you",
+          "start": 99.172,
+          "end": 99.552,
+          "score": 0.721
+        },
+        {
+          "word": "turn",
+          "start": 99.632,
+          "end": 100.812,
+          "score": 0.621
+        },
+        {
+          "word": "for",
+          "start": 100.852,
+          "end": 101.052,
+          "score": 0.901
+        },
+        {
+          "word": "me?",
+          "start": 101.112,
+          "end": 101.412,
+          "score": 0.96
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "I",
+      "start": 0.88,
+      "end": 1.12,
+      "score": 0.619
+    },
+    {
+      "word": "turned",
+      "start": 1.14,
+      "end": 1.52,
+      "score": 0.584
+    },
+    {
+      "word": "water",
+      "start": 1.62,
+      "end": 2.4,
+      "score": 0.885
+    },
+    {
+      "word": "into",
+      "start": 2.64,
+      "end": 3.22,
+      "score": 0.917
+    },
+    {
+      "word": "wine",
+      "start": 3.32,
+      "end": 4.11,
+      "score": 0.884
+    },
+    {
+      "word": "And",
+      "start": 4.11,
+      "end": 4.901,
+      "score": 0.884
+    },
+    {
+      "word": "made",
+      "start": 4.981,
+      "end": 5.361,
+      "score": 0.857
+    },
+    {
+      "word": "a",
+      "start": 5.421,
+      "end": 5.501,
+      "score": 0.646
+    },
+    {
+      "word": "blind",
+      "start": 5.601,
+      "end": 6.021,
+      "score": 0.924
+    },
+    {
+      "word": "man",
+      "start": 6.081,
+      "end": 6.561,
+      "score": 0.944
+    },
+    {
+      "word": "see",
+      "start": 6.661,
+      "end": 7.651,
+      "score": 0.819
+    },
+    {
+      "word": "I",
+      "start": 7.651,
+      "end": 8.641,
+      "score": 0.819
+    },
+    {
+      "word": "have",
+      "start": 8.741,
+      "end": 9.181,
+      "score": 0.668
+    },
+    {
+      "word": "5,000",
+      "start": null,
+      "end": null,
+      "score": null
+    },
+    {
+      "word": "people",
+      "start": 9.241,
+      "end": 9.761,
+      "score": 0.865
+    },
+    {
+      "word": "to",
+      "start": 9.841,
+      "end": 9.941,
+      "score": 0.602
+    },
+    {
+      "word": "feed",
+      "start": 10.021,
+      "end": 10.641,
+      "score": 0.725
+    },
+    {
+      "word": "But",
+      "start": 10.641,
+      "end": 11.261,
+      "score": 0.725
+    },
+    {
+      "word": "can't",
+      "start": 11.301,
+      "end": 11.641,
+      "score": 0.649
+    },
+    {
+      "word": "make",
+      "start": 11.741,
+      "end": 12.121,
+      "score": 0.77
+    },
+    {
+      "word": "you",
+      "start": 12.161,
+      "end": 12.301,
+      "score": 0.448
+    },
+    {
+      "word": "turn",
+      "start": 12.361,
+      "end": 12.902,
+      "score": 0.758
+    },
+    {
+      "word": "for",
+      "start": 12.982,
+      "end": 13.182,
+      "score": 0.947
+    },
+    {
+      "word": "me",
+      "start": 13.242,
+      "end": 17.102,
+      "score": 0.864
+    },
+    {
+      "word": "I",
+      "start": 17.102,
+      "end": 20.963,
+      "score": 0.864
+    },
+    {
+      "word": "got",
+      "start": 21.023,
+      "end": 21.403,
+      "score": 0.773
+    },
+    {
+      "word": "this",
+      "start": 21.463,
+      "end": 21.743,
+      "score": 0.78
+    },
+    {
+      "word": "crown",
+      "start": 21.883,
+      "end": 22.323,
+      "score": 0.95
+    },
+    {
+      "word": "of",
+      "start": 22.343,
+      "end": 22.403,
+      "score": 0.395
+    },
+    {
+      "word": "thorns",
+      "start": 22.523,
+      "end": 22.923,
+      "score": 0.852
+    },
+    {
+      "word": "on",
+      "start": 23.023,
+      "end": 23.123,
+      "score": 0.869
+    },
+    {
+      "word": "my",
+      "start": 23.183,
+      "end": 23.483,
+      "score": 0.901
+    },
+    {
+      "word": "head",
+      "start": 23.563,
+      "end": 24.173,
+      "score": 0.717
+    },
+    {
+      "word": "And",
+      "start": 24.173,
+      "end": 24.783,
+      "score": 0.717
+    },
+    {
+      "word": "they",
+      "start": 24.843,
+      "end": 25.163,
+      "score": 0.701
+    },
+    {
+      "word": "nailed",
+      "start": 25.243,
+      "end": 25.623,
+      "score": 0.666
+    },
+    {
+      "word": "me",
+      "start": 25.683,
+      "end": 25.883,
+      "score": 0.98
+    },
+    {
+      "word": "to",
+      "start": 26.083,
+      "end": 26.323,
+      "score": 0.744
+    },
+    {
+      "word": "a",
+      "start": 26.383,
+      "end": 26.423,
+      "score": 0.769
+    },
+    {
+      "word": "tree",
+      "start": 26.503,
+      "end": 27.333,
+      "score": 0.7
+    },
+    {
+      "word": "It's",
+      "start": 27.333,
+      "end": 28.163,
+      "score": 0.7
+    },
+    {
+      "word": "not",
+      "start": 28.223,
+      "end": 28.403,
+      "score": 0.983
+    },
+    {
+      "word": "that",
+      "start": 28.443,
+      "end": 28.603,
+      "score": 0.58
+    },
+    {
+      "word": "I",
+      "start": 28.843,
+      "end": 29.024,
+      "score": 0.67
+    },
+    {
+      "word": "wanted",
+      "start": 29.044,
+      "end": 29.424,
+      "score": 0.552
+    },
+    {
+      "word": "to",
+      "start": 29.484,
+      "end": 29.764,
+      "score": 0.788
+    },
+    {
+      "word": "be",
+      "start": 29.824,
+      "end": 30.084,
+      "score": 0.836
+    },
+    {
+      "word": "dead",
+      "start": 30.144,
+      "end": 30.864,
+      "score": 0.852
+    },
+    {
+      "word": "But",
+      "start": 30.864,
+      "end": 31.584,
+      "score": 0.852
+    },
+    {
+      "word": "I",
+      "start": 31.704,
+      "end": 31.824,
+      "score": 0.701
+    },
+    {
+      "word": "wanted",
+      "start": 31.864,
+      "end": 32.404,
+      "score": 0.665
+    },
+    {
+      "word": "you",
+      "start": 32.424,
+      "end": 32.644,
+      "score": 0.555
+    },
+    {
+      "word": "to",
+      "start": 32.664,
+      "end": 32.844,
+      "score": 0.49
+    },
+    {
+      "word": "turn",
+      "start": 32.864,
+      "end": 33.244,
+      "score": 0.587
+    },
+    {
+      "word": "for",
+      "start": 33.284,
+      "end": 33.464,
+      "score": 0.895
+    },
+    {
+      "word": "me",
+      "start": 33.524,
+      "end": 34.314,
+      "score": 0.879
+    },
+    {
+      "word": "Turn",
+      "start": 34.314,
+      "end": 35.104,
+      "score": 0.879
+    },
+    {
+      "word": "for",
+      "start": 35.164,
+      "end": 35.384,
+      "score": 0.6
+    },
+    {
+      "word": "me",
+      "start": 35.504,
+      "end": 36.374,
+      "score": 0.844
+    },
+    {
+      "word": "Oh,",
+      "start": 36.374,
+      "end": 37.245,
+      "score": 0.844
+    },
+    {
+      "word": "please",
+      "start": 37.725,
+      "end": 38.685,
+      "score": 0.534
+    },
+    {
+      "word": "turn",
+      "start": 38.805,
+      "end": 39.965,
+      "score": 0.702
+    },
+    {
+      "word": "for",
+      "start": 40.025,
+      "end": 40.205,
+      "score": 0.827
+    },
+    {
+      "word": "me",
+      "start": 40.265,
+      "end": 40.755,
+      "score": 0.752
+    },
+    {
+      "word": "Just",
+      "start": 40.755,
+      "end": 41.245,
+      "score": 0.752
+    },
+    {
+      "word": "turn",
+      "start": 41.285,
+      "end": 41.865,
+      "score": 0.796
+    },
+    {
+      "word": "for",
+      "start": 41.925,
+      "end": 42.165,
+      "score": 0.683
+    },
+    {
+      "word": "me",
+      "start": 42.205,
+      "end": 42.995,
+      "score": 0.882
+    },
+    {
+      "word": "Oh,",
+      "start": 42.995,
+      "end": 43.785,
+      "score": 0.882
+    },
+    {
+      "word": "won't",
+      "start": 44.265,
+      "end": 45.005,
+      "score": 0.579
+    },
+    {
+      "word": "you",
+      "start": 45.085,
+      "end": 45.486,
+      "score": 0.78
+    },
+    {
+      "word": "turn",
+      "start": 45.546,
+      "end": 46.706,
+      "score": 0.476
+    },
+    {
+      "word": "for",
+      "start": 46.746,
+      "end": 46.946,
+      "score": 0.916
+    },
+    {
+      "word": "me?",
+      "start": 47.026,
+      "end": 61.347,
+      "score": 0.934
+    },
+    {
+      "word": "I",
+      "start": 61.347,
+      "end": 61.447,
+      "score": 0.741
+    },
+    {
+      "word": "had",
+      "start": 61.567,
+      "end": 62.008,
+      "score": 0.532
+    },
+    {
+      "word": "a",
+      "start": 62.128,
+      "end": 62.268,
+      "score": 0.687
+    },
+    {
+      "word": "flock",
+      "start": 62.428,
+      "end": 62.768,
+      "score": 0.663
+    },
+    {
+      "word": "of",
+      "start": 62.848,
+      "end": 62.948,
+      "score": 0.903
+    },
+    {
+      "word": "sheep",
+      "start": 63.048,
+      "end": 63.428,
+      "score": 0.844
+    },
+    {
+      "word": "in",
+      "start": 63.568,
+      "end": 63.688,
+      "score": 0.612
+    },
+    {
+      "word": "my",
+      "start": 63.748,
+      "end": 64.048,
+      "score": 0.85
+    },
+    {
+      "word": "arms",
+      "start": 64.308,
+      "end": 65.008,
+      "score": 0.904
+    },
+    {
+      "word": "And",
+      "start": 65.008,
+      "end": 65.708,
+      "score": 0.904
+    },
+    {
+      "word": "Peter",
+      "start": 65.788,
+      "end": 66.228,
+      "score": 0.831
+    },
+    {
+      "word": "denied",
+      "start": 66.248,
+      "end": 66.848,
+      "score": 0.462
+    },
+    {
+      "word": "me",
+      "start": 66.868,
+      "end": 67.008,
+      "score": 0.806
+    },
+    {
+      "word": "three",
+      "start": 67.068,
+      "end": 67.368,
+      "score": 0.896
+    },
+    {
+      "word": "times",
+      "start": 67.488,
+      "end": 68.288,
+      "score": 0.89
+    },
+    {
+      "word": "And",
+      "start": 68.288,
+      "end": 69.088,
+      "score": 0.89
+    },
+    {
+      "word": "Thomas",
+      "start": 69.148,
+      "end": 69.568,
+      "score": 0.563
+    },
+    {
+      "word": "saw",
+      "start": 69.608,
+      "end": 69.828,
+      "score": 0.94
+    },
+    {
+      "word": "the",
+      "start": 69.868,
+      "end": 69.988,
+      "score": 0.761
+    },
+    {
+      "word": "holes",
+      "start": 70.068,
+      "end": 70.489,
+      "score": 0.726
+    },
+    {
+      "word": "in",
+      "start": 70.569,
+      "end": 70.649,
+      "score": 0.883
+    },
+    {
+      "word": "my",
+      "start": 70.689,
+      "end": 70.989,
+      "score": 0.851
+    },
+    {
+      "word": "hands",
+      "start": 71.069,
+      "end": 71.549,
+      "score": 0.834
+    },
+    {
+      "word": "But",
+      "start": 71.549,
+      "end": 72.029,
+      "score": 0.834
+    },
+    {
+      "word": "still,",
+      "start": 72.069,
+      "end": 72.389,
+      "score": 0.902
+    },
+    {
+      "word": "he",
+      "start": 72.409,
+      "end": 72.509,
+      "score": 0.294
+    },
+    {
+      "word": "needed",
+      "start": 72.569,
+      "end": 72.989,
+      "score": 0.452
+    },
+    {
+      "word": "a",
+      "start": 73.049,
+      "end": 73.169,
+      "score": 0.582
+    },
+    {
+      "word": "sign",
+      "start": 73.229,
+      "end": 74.349,
+      "score": 0.526
+    },
+    {
+      "word": "I",
+      "start": 74.349,
+      "end": 75.469,
+      "score": 0.526
+    },
+    {
+      "word": "washed",
+      "start": 75.529,
+      "end": 75.869,
+      "score": 0.493
+    },
+    {
+      "word": "Mary",
+      "start": 75.949,
+      "end": 76.569,
+      "score": 0.848
+    },
+    {
+      "word": "Magdalene's",
+      "start": 76.609,
+      "end": 77.549,
+      "score": 0.532
+    },
+    {
+      "word": "feet",
+      "start": 77.649,
+      "end": 78.28,
+      "score": 0.719
+    },
+    {
+      "word": "I",
+      "start": 78.28,
+      "end": 78.91,
+      "score": 0.719
+    },
+    {
+      "word": "even",
+      "start": 78.97,
+      "end": 79.27,
+      "score": 0.659
+    },
+    {
+      "word": "died",
+      "start": 79.33,
+      "end": 79.89,
+      "score": 0.409
+    },
+    {
+      "word": "for",
+      "start": 80.01,
+      "end": 80.41,
+      "score": 0.729
+    },
+    {
+      "word": "your",
+      "start": 80.45,
+      "end": 80.69,
+      "score": 0.617
+    },
+    {
+      "word": "sins",
+      "start": 80.83,
+      "end": 81.71,
+      "score": 0.605
+    },
+    {
+      "word": "You",
+      "start": 81.71,
+      "end": 82.59,
+      "score": 0.605
+    },
+    {
+      "word": "say",
+      "start": 82.69,
+      "end": 83.09,
+      "score": 0.69
+    },
+    {
+      "word": "you",
+      "start": 83.13,
+      "end": 83.29,
+      "score": 0.506
+    },
+    {
+      "word": "believe",
+      "start": 83.33,
+      "end": 83.83,
+      "score": 0.501
+    },
+    {
+      "word": "in",
+      "start": 83.97,
+      "end": 84.11,
+      "score": 0.574
+    },
+    {
+      "word": "me",
+      "start": 84.19,
+      "end": 84.64,
+      "score": 0.564
+    },
+    {
+      "word": "But",
+      "start": 84.64,
+      "end": 85.09,
+      "score": 0.564
+    },
+    {
+      "word": "you",
+      "start": 85.25,
+      "end": 85.55,
+      "score": 0.614
+    },
+    {
+      "word": "refuse",
+      "start": 85.59,
+      "end": 86.25,
+      "score": 0.559
+    },
+    {
+      "word": "to",
+      "start": 86.29,
+      "end": 86.43,
+      "score": 0.672
+    },
+    {
+      "word": "turn",
+      "start": 86.49,
+      "end": 87.111,
+      "score": 0.716
+    },
+    {
+      "word": "in",
+      "start": 87.171,
+      "end": 87.291,
+      "score": 0.576
+    },
+    {
+      "word": "the",
+      "start": 87.371,
+      "end": 87.611,
+      "score": 0.638
+    },
+    {
+      "word": "end",
+      "start": 87.951,
+      "end": 88.571,
+      "score": 0.812
+    },
+    {
+      "word": "Turn",
+      "start": 88.571,
+      "end": 89.191,
+      "score": 0.812
+    },
+    {
+      "word": "for",
+      "start": 89.251,
+      "end": 89.491,
+      "score": 0.726
+    },
+    {
+      "word": "me",
+      "start": 89.691,
+      "end": 90.781,
+      "score": 0.715
+    },
+    {
+      "word": "Oh,",
+      "start": 90.781,
+      "end": 91.871,
+      "score": 0.715
+    },
+    {
+      "word": "please",
+      "start": 92.011,
+      "end": 92.791,
+      "score": 0.532
+    },
+    {
+      "word": "turn",
+      "start": 92.911,
+      "end": 94.031,
+      "score": 0.66
+    },
+    {
+      "word": "for",
+      "start": 94.091,
+      "end": 94.271,
+      "score": 0.851
+    },
+    {
+      "word": "me",
+      "start": 94.331,
+      "end": 94.832,
+      "score": 0.696
+    },
+    {
+      "word": "Just",
+      "start": 94.832,
+      "end": 95.332,
+      "score": 0.696
+    },
+    {
+      "word": "turn",
+      "start": 95.372,
+      "end": 95.952,
+      "score": 0.774
+    },
+    {
+      "word": "for",
+      "start": 96.012,
+      "end": 96.672,
+      "score": 0.557
+    },
+    {
+      "word": "me",
+      "start": 96.712,
+      "end": 97.752,
+      "score": 0.765
+    },
+    {
+      "word": "Oh,",
+      "start": 97.752,
+      "end": 98.792,
+      "score": 0.765
+    },
+    {
+      "word": "won't",
+      "start": 98.892,
+      "end": 99.112,
+      "score": 0.288
+    },
+    {
+      "word": "you",
+      "start": 99.172,
+      "end": 99.552,
+      "score": 0.721
+    },
+    {
+      "word": "turn",
+      "start": 99.632,
+      "end": 100.812,
+      "score": 0.621
+    },
+    {
+      "word": "for",
+      "start": 100.852,
+      "end": 101.052,
+      "score": 0.901
+    },
+    {
+      "word": "me?",
+      "start": 101.112,
+      "end": 101.412,
+      "score": 0.96
+    }
+  ]
+}

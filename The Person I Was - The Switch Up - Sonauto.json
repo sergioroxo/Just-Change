@@ -1,0 +1,3049 @@
+{
+  "segments": [
+    {
+      "start": 9.602,
+      "end": 106.558,
+      "text": "Left\nRight\nPick a side\nNew skin\nBrand new bride\nFix your eyes\nClean the mess\nChange the habit \nChange the dress\nForget the person you used to be\nJust follow me\nBurn the bridge\nCross the line\nPay the price\nDo the time\nGive it up for Side A\nGive it up for Side A\nOr you jump to Side B\nJump to Side B\nPick a lane\nLose the stain\nChoose the way we show you\nChoose the way we show you\nGive it up for Side A\nGive it up for Side A\nSwitch it up\nSwitch it up\nYeah\nFlip the coin\nFlip the coin\nNow\nNo\nMore\nLies\nBold face\nBolder ties\nBurn the habit\nBury the bone\nBuild a house\nA proper home\nDrop the act\nDrop the shame\nCall yourself a different name\nCut the cord\nCut the rope\nTrading truth for better hope\nGive it up for Side A\nGive it up for Side A\nOr you jump to Side B\nJump to Side B\nPick a lane\nLose the stain\nChoose the way we show you\nChoose the way we show you\nGive it up for Side A\nGive it up for Side A\nWash it out\nWipe it clean\nWork the spirit\nKill the machine\nLeft foot\nRight foot\nStandard walk\nStandard talk\nStandard life\nGive it up for Side A\nGive it up for Side A\nOr you jump to Side B\nJump to Side B\nPick a lane\nLose the stain\nChoose the way we show you\nChoose the way we show you\nGive it up for Side A\nGive it up for Side A\nWhich one\nWhich one\nPick A\nPick B\nNew you\nNew me\nNew you\nNew me\nDone",
+      "words": [
+        {
+          "word": "Left\nRight\nPick",
+          "start": 9.602,
+          "end": 12.362,
+          "score": 0.504
+        },
+        {
+          "word": "a",
+          "start": 12.382,
+          "end": 12.462,
+          "score": 0.754
+        },
+        {
+          "word": "side\nNew",
+          "start": 12.502,
+          "end": 12.942,
+          "score": 0.552
+        },
+        {
+          "word": "skin\nBrand",
+          "start": 13.022,
+          "end": 13.682,
+          "score": 0.605
+        },
+        {
+          "word": "new",
+          "start": 13.782,
+          "end": 13.842,
+          "score": 0.021
+        },
+        {
+          "word": "bride\nFix",
+          "start": 14.002,
+          "end": 14.682,
+          "score": 0.487
+        },
+        {
+          "word": "your",
+          "start": 14.742,
+          "end": 15.002,
+          "score": 0.224
+        },
+        {
+          "word": "eyes\nClean",
+          "start": 15.022,
+          "end": 15.303,
+          "score": 0.141
+        },
+        {
+          "word": "the",
+          "start": 15.323,
+          "end": 15.423,
+          "score": 0.239
+        },
+        {
+          "word": "mess\nChange",
+          "start": 15.483,
+          "end": 17.023,
+          "score": 0.635
+        },
+        {
+          "word": "the",
+          "start": 17.043,
+          "end": 17.103,
+          "score": 0.192
+        },
+        {
+          "word": "habit",
+          "start": 17.303,
+          "end": 17.483,
+          "score": 0.399
+        },
+        {
+          "word": "Change",
+          "start": 17.523,
+          "end": 17.663,
+          "score": 0.131
+        },
+        {
+          "word": "the",
+          "start": 17.683,
+          "end": 17.763,
+          "score": 0.166
+        },
+        {
+          "word": "dress\nForget",
+          "start": 17.843,
+          "end": 18.803,
+          "score": 0.479
+        },
+        {
+          "word": "the",
+          "start": 18.823,
+          "end": 18.923,
+          "score": 0.347
+        },
+        {
+          "word": "person",
+          "start": 19.003,
+          "end": 19.443,
+          "score": 0.524
+        },
+        {
+          "word": "you",
+          "start": 19.523,
+          "end": 19.603,
+          "score": 0.193
+        },
+        {
+          "word": "used",
+          "start": 19.643,
+          "end": 19.803,
+          "score": 0.245
+        },
+        {
+          "word": "to",
+          "start": 19.883,
+          "end": 20.123,
+          "score": 0.785
+        },
+        {
+          "word": "be\nJust",
+          "start": 20.203,
+          "end": 21.864,
+          "score": 0.856
+        },
+        {
+          "word": "follow",
+          "start": 21.944,
+          "end": 22.464,
+          "score": 0.777
+        },
+        {
+          "word": "me\nBurn",
+          "start": 22.544,
+          "end": 23.544,
+          "score": 0.57
+        },
+        {
+          "word": "the",
+          "start": 23.564,
+          "end": 23.644,
+          "score": 0.086
+        },
+        {
+          "word": "bridge\nCross",
+          "start": 23.704,
+          "end": 24.124,
+          "score": 0.417
+        },
+        {
+          "word": "the",
+          "start": 24.144,
+          "end": 24.244,
+          "score": 0.331
+        },
+        {
+          "word": "line\nPay",
+          "start": 24.304,
+          "end": 24.704,
+          "score": 0.501
+        },
+        {
+          "word": "the",
+          "start": 24.724,
+          "end": 24.824,
+          "score": 0.277
+        },
+        {
+          "word": "price\nDo",
+          "start": 24.884,
+          "end": 25.744,
+          "score": 0.656
+        },
+        {
+          "word": "the",
+          "start": 25.764,
+          "end": 25.984,
+          "score": 0.469
+        },
+        {
+          "word": "time\nGive",
+          "start": 26.044,
+          "end": 26.804,
+          "score": 0.748
+        },
+        {
+          "word": "it",
+          "start": 26.824,
+          "end": 26.904,
+          "score": 0.675
+        },
+        {
+          "word": "up",
+          "start": 26.964,
+          "end": 27.044,
+          "score": 0.704
+        },
+        {
+          "word": "for",
+          "start": 27.064,
+          "end": 27.144,
+          "score": 0.139
+        },
+        {
+          "word": "Side",
+          "start": 27.204,
+          "end": 27.565,
+          "score": 0.834
+        },
+        {
+          "word": "A\nGive",
+          "start": 27.625,
+          "end": 28.005,
+          "score": 0.795
+        },
+        {
+          "word": "it",
+          "start": 28.025,
+          "end": 28.105,
+          "score": 0.777
+        },
+        {
+          "word": "up",
+          "start": 28.165,
+          "end": 28.225,
+          "score": 0.471
+        },
+        {
+          "word": "for",
+          "start": 28.245,
+          "end": 28.345,
+          "score": 0.141
+        },
+        {
+          "word": "Side",
+          "start": 28.385,
+          "end": 28.925,
+          "score": 0.921
+        },
+        {
+          "word": "A\nOr",
+          "start": 29.185,
+          "end": 29.405,
+          "score": 0.607
+        },
+        {
+          "word": "you",
+          "start": 29.905,
+          "end": 30.125,
+          "score": 0.411
+        },
+        {
+          "word": "jump",
+          "start": 30.145,
+          "end": 30.385,
+          "score": 0.57
+        },
+        {
+          "word": "to",
+          "start": 30.405,
+          "end": 30.545,
+          "score": 0.624
+        },
+        {
+          "word": "Side",
+          "start": 30.625,
+          "end": 30.985,
+          "score": 0.743
+        },
+        {
+          "word": "B\nJump",
+          "start": 31.065,
+          "end": 32.165,
+          "score": 0.642
+        },
+        {
+          "word": "to",
+          "start": 32.205,
+          "end": 32.285,
+          "score": 0.476
+        },
+        {
+          "word": "Side",
+          "start": 32.365,
+          "end": 32.765,
+          "score": 0.772
+        },
+        {
+          "word": "B\nPick",
+          "start": 32.825,
+          "end": 33.305,
+          "score": 0.538
+        },
+        {
+          "word": "a",
+          "start": 33.325,
+          "end": 33.345,
+          "score": 0.001
+        },
+        {
+          "word": "lane\nLose",
+          "start": 33.405,
+          "end": 33.986,
+          "score": 0.468
+        },
+        {
+          "word": "the",
+          "start": 34.006,
+          "end": 34.066,
+          "score": 0.057
+        },
+        {
+          "word": "stain\nChoose",
+          "start": 34.106,
+          "end": 34.706,
+          "score": 0.32
+        },
+        {
+          "word": "the",
+          "start": 34.726,
+          "end": 34.846,
+          "score": 0.464
+        },
+        {
+          "word": "way",
+          "start": 34.906,
+          "end": 35.126,
+          "score": 0.632
+        },
+        {
+          "word": "we",
+          "start": 35.146,
+          "end": 35.226,
+          "score": 0.268
+        },
+        {
+          "word": "show",
+          "start": 35.326,
+          "end": 35.766,
+          "score": 0.623
+        },
+        {
+          "word": "you\nChoose",
+          "start": 35.906,
+          "end": 36.846,
+          "score": 0.494
+        },
+        {
+          "word": "the",
+          "start": 36.906,
+          "end": 37.026,
+          "score": 0.421
+        },
+        {
+          "word": "way",
+          "start": 37.086,
+          "end": 37.266,
+          "score": 0.456
+        },
+        {
+          "word": "we",
+          "start": 37.306,
+          "end": 37.386,
+          "score": 0.465
+        },
+        {
+          "word": "show",
+          "start": 37.486,
+          "end": 38.086,
+          "score": 0.772
+        },
+        {
+          "word": "you\nGive",
+          "start": 38.126,
+          "end": 39.166,
+          "score": 0.854
+        },
+        {
+          "word": "it",
+          "start": 39.206,
+          "end": 39.286,
+          "score": 0.675
+        },
+        {
+          "word": "up",
+          "start": 39.326,
+          "end": 39.406,
+          "score": 0.856
+        },
+        {
+          "word": "for",
+          "start": 39.426,
+          "end": 39.506,
+          "score": 0.132
+        },
+        {
+          "word": "Side",
+          "start": 39.567,
+          "end": 40.567,
+          "score": 0.892
+        },
+        {
+          "word": "A\nGive",
+          "start": 41.107,
+          "end": 41.507,
+          "score": 0.866
+        },
+        {
+          "word": "it",
+          "start": 41.547,
+          "end": 41.627,
+          "score": 0.686
+        },
+        {
+          "word": "up",
+          "start": 41.687,
+          "end": 41.747,
+          "score": 0.871
+        },
+        {
+          "word": "for",
+          "start": 41.767,
+          "end": 41.847,
+          "score": 0.124
+        },
+        {
+          "word": "Side",
+          "start": 41.907,
+          "end": 42.267,
+          "score": 0.855
+        },
+        {
+          "word": "A\nSwitch",
+          "start": 42.367,
+          "end": 43.027,
+          "score": 0.448
+        },
+        {
+          "word": "it",
+          "start": 43.047,
+          "end": 43.167,
+          "score": 0.508
+        },
+        {
+          "word": "up\nSwitch",
+          "start": 43.267,
+          "end": 43.627,
+          "score": 0.42
+        },
+        {
+          "word": "it",
+          "start": 43.647,
+          "end": 43.727,
+          "score": 0.732
+        },
+        {
+          "word": "up\nYeah\nFlip",
+          "start": 43.867,
+          "end": 44.607,
+          "score": 0.588
+        },
+        {
+          "word": "the",
+          "start": 44.627,
+          "end": 45.067,
+          "score": 0.718
+        },
+        {
+          "word": "coin\nFlip",
+          "start": 45.127,
+          "end": 45.728,
+          "score": 0.589
+        },
+        {
+          "word": "the",
+          "start": 45.768,
+          "end": 45.888,
+          "score": 0.33
+        },
+        {
+          "word": "coin\nNow\nNo\nMore\nLies\nBold",
+          "start": 46.068,
+          "end": 49.308,
+          "score": 0.737
+        },
+        {
+          "word": "face\nBolder",
+          "start": 49.588,
+          "end": 50.408,
+          "score": 0.533
+        },
+        {
+          "word": "ties\nBurn",
+          "start": 50.488,
+          "end": 51.208,
+          "score": 0.483
+        },
+        {
+          "word": "the",
+          "start": 51.228,
+          "end": 51.308,
+          "score": 0.001
+        },
+        {
+          "word": "habit\nBury",
+          "start": 51.368,
+          "end": 51.809,
+          "score": 0.492
+        },
+        {
+          "word": "the",
+          "start": 51.829,
+          "end": 51.889,
+          "score": 0.004
+        },
+        {
+          "word": "bone\nBuild",
+          "start": 51.969,
+          "end": 52.669,
+          "score": 0.502
+        },
+        {
+          "word": "a",
+          "start": 52.729,
+          "end": 52.769,
+          "score": 0.609
+        },
+        {
+          "word": "house\nA",
+          "start": 52.809,
+          "end": 53.369,
+          "score": 0.579
+        },
+        {
+          "word": "proper",
+          "start": 53.409,
+          "end": 53.689,
+          "score": 0.263
+        },
+        {
+          "word": "home\nDrop",
+          "start": 53.729,
+          "end": 54.149,
+          "score": 0.567
+        },
+        {
+          "word": "the",
+          "start": 54.189,
+          "end": 54.269,
+          "score": 0.432
+        },
+        {
+          "word": "act\nDrop",
+          "start": 54.429,
+          "end": 55.009,
+          "score": 0.599
+        },
+        {
+          "word": "the",
+          "start": 55.029,
+          "end": 55.109,
+          "score": 0.184
+        },
+        {
+          "word": "shame\nCall",
+          "start": 55.169,
+          "end": 55.909,
+          "score": 0.455
+        },
+        {
+          "word": "yourself",
+          "start": 55.929,
+          "end": 56.189,
+          "score": 0.157
+        },
+        {
+          "word": "a",
+          "start": 56.249,
+          "end": 56.329,
+          "score": 0.614
+        },
+        {
+          "word": "different",
+          "start": 56.349,
+          "end": 56.609,
+          "score": 0.187
+        },
+        {
+          "word": "name\nCut",
+          "start": 56.649,
+          "end": 57.369,
+          "score": 0.568
+        },
+        {
+          "word": "the",
+          "start": 57.389,
+          "end": 57.509,
+          "score": 0.279
+        },
+        {
+          "word": "cord\nCut",
+          "start": 57.549,
+          "end": 58.25,
+          "score": 0.658
+        },
+        {
+          "word": "the",
+          "start": 58.29,
+          "end": 58.39,
+          "score": 0.412
+        },
+        {
+          "word": "rope\nTrading",
+          "start": 58.45,
+          "end": 59.55,
+          "score": 0.447
+        },
+        {
+          "word": "truth",
+          "start": 59.57,
+          "end": 59.71,
+          "score": 0.189
+        },
+        {
+          "word": "for",
+          "start": 59.73,
+          "end": 59.85,
+          "score": 0.308
+        },
+        {
+          "word": "better",
+          "start": 59.87,
+          "end": 60.17,
+          "score": 0.473
+        },
+        {
+          "word": "hope\nGive",
+          "start": 60.19,
+          "end": 60.93,
+          "score": 0.816
+        },
+        {
+          "word": "it",
+          "start": 60.95,
+          "end": 61.03,
+          "score": 0.478
+        },
+        {
+          "word": "up",
+          "start": 61.09,
+          "end": 61.17,
+          "score": 0.817
+        },
+        {
+          "word": "for",
+          "start": 61.19,
+          "end": 61.27,
+          "score": 0.089
+        },
+        {
+          "word": "Side",
+          "start": 61.33,
+          "end": 61.67,
+          "score": 0.827
+        },
+        {
+          "word": "A\nGive",
+          "start": 61.75,
+          "end": 62.13,
+          "score": 0.838
+        },
+        {
+          "word": "it",
+          "start": 62.15,
+          "end": 62.23,
+          "score": 0.572
+        },
+        {
+          "word": "up",
+          "start": 62.29,
+          "end": 62.37,
+          "score": 0.778
+        },
+        {
+          "word": "for",
+          "start": 62.39,
+          "end": 62.47,
+          "score": 0.149
+        },
+        {
+          "word": "Side",
+          "start": 62.51,
+          "end": 62.85,
+          "score": 0.779
+        },
+        {
+          "word": "A\nOr",
+          "start": 63.09,
+          "end": 63.53,
+          "score": 0.715
+        },
+        {
+          "word": "you",
+          "start": 64.011,
+          "end": 64.211,
+          "score": 0.436
+        },
+        {
+          "word": "jump",
+          "start": 64.271,
+          "end": 64.511,
+          "score": 0.598
+        },
+        {
+          "word": "to",
+          "start": 64.531,
+          "end": 64.671,
+          "score": 0.502
+        },
+        {
+          "word": "Side",
+          "start": 64.731,
+          "end": 65.111,
+          "score": 0.854
+        },
+        {
+          "word": "B\nJump",
+          "start": 65.191,
+          "end": 66.271,
+          "score": 0.654
+        },
+        {
+          "word": "to",
+          "start": 66.291,
+          "end": 66.391,
+          "score": 0.466
+        },
+        {
+          "word": "Side",
+          "start": 66.491,
+          "end": 66.891,
+          "score": 0.706
+        },
+        {
+          "word": "B\nPick",
+          "start": 66.931,
+          "end": 67.391,
+          "score": 0.385
+        },
+        {
+          "word": "a",
+          "start": 67.711,
+          "end": 67.771,
+          "score": 0.623
+        },
+        {
+          "word": "lane\nLose",
+          "start": 67.831,
+          "end": 68.191,
+          "score": 0.298
+        },
+        {
+          "word": "the",
+          "start": 68.211,
+          "end": 68.331,
+          "score": 0.481
+        },
+        {
+          "word": "stain\nChoose",
+          "start": 68.351,
+          "end": 68.751,
+          "score": 0.23
+        },
+        {
+          "word": "the",
+          "start": 68.851,
+          "end": 68.971,
+          "score": 0.418
+        },
+        {
+          "word": "way",
+          "start": 69.051,
+          "end": 69.231,
+          "score": 0.464
+        },
+        {
+          "word": "we",
+          "start": 69.251,
+          "end": 69.331,
+          "score": 0.308
+        },
+        {
+          "word": "show",
+          "start": 69.431,
+          "end": 69.831,
+          "score": 0.695
+        },
+        {
+          "word": "you\nChoose",
+          "start": 69.911,
+          "end": 70.992,
+          "score": 0.498
+        },
+        {
+          "word": "the",
+          "start": 71.032,
+          "end": 71.152,
+          "score": 0.375
+        },
+        {
+          "word": "way",
+          "start": 71.232,
+          "end": 71.412,
+          "score": 0.472
+        },
+        {
+          "word": "we",
+          "start": 71.432,
+          "end": 71.512,
+          "score": 0.464
+        },
+        {
+          "word": "show",
+          "start": 71.612,
+          "end": 72.192,
+          "score": 0.679
+        },
+        {
+          "word": "you\nGive",
+          "start": 72.272,
+          "end": 73.292,
+          "score": 0.774
+        },
+        {
+          "word": "it",
+          "start": 73.332,
+          "end": 73.392,
+          "score": 0.78
+        },
+        {
+          "word": "up",
+          "start": 73.472,
+          "end": 73.532,
+          "score": 0.833
+        },
+        {
+          "word": "for",
+          "start": 73.552,
+          "end": 73.632,
+          "score": 0.082
+        },
+        {
+          "word": "Side",
+          "start": 73.692,
+          "end": 74.152,
+          "score": 0.8
+        },
+        {
+          "word": "A\nGive",
+          "start": 74.192,
+          "end": 75.632,
+          "score": 0.823
+        },
+        {
+          "word": "it",
+          "start": 75.652,
+          "end": 75.752,
+          "score": 0.653
+        },
+        {
+          "word": "up",
+          "start": 75.812,
+          "end": 75.892,
+          "score": 0.794
+        },
+        {
+          "word": "for",
+          "start": 75.912,
+          "end": 75.992,
+          "score": 0.149
+        },
+        {
+          "word": "Side",
+          "start": 76.032,
+          "end": 76.353,
+          "score": 0.732
+        },
+        {
+          "word": "A\nWash",
+          "start": 76.453,
+          "end": 76.713,
+          "score": 0.4
+        },
+        {
+          "word": "it",
+          "start": 76.853,
+          "end": 76.973,
+          "score": 0.488
+        },
+        {
+          "word": "out\nWipe",
+          "start": 77.053,
+          "end": 77.373,
+          "score": 0.319
+        },
+        {
+          "word": "it",
+          "start": 77.413,
+          "end": 77.493,
+          "score": 0.33
+        },
+        {
+          "word": "clean\nWork",
+          "start": 77.553,
+          "end": 77.953,
+          "score": 0.33
+        },
+        {
+          "word": "the",
+          "start": 77.973,
+          "end": 78.033,
+          "score": 0.013
+        },
+        {
+          "word": "spirit\nKill",
+          "start": 78.073,
+          "end": 78.413,
+          "score": 0.239
+        },
+        {
+          "word": "the",
+          "start": 78.453,
+          "end": 78.553,
+          "score": 0.352
+        },
+        {
+          "word": "machine\nLeft",
+          "start": 78.673,
+          "end": 79.493,
+          "score": 0.442
+        },
+        {
+          "word": "foot\nRight",
+          "start": 79.593,
+          "end": 80.073,
+          "score": 0.46
+        },
+        {
+          "word": "foot\nStandard",
+          "start": 80.193,
+          "end": 80.733,
+          "score": 0.417
+        },
+        {
+          "word": "walk\nStandard",
+          "start": 80.773,
+          "end": 81.333,
+          "score": 0.386
+        },
+        {
+          "word": "talk\nStandard",
+          "start": 81.353,
+          "end": 81.913,
+          "score": 0.361
+        },
+        {
+          "word": "life\nGive",
+          "start": 81.993,
+          "end": 83.274,
+          "score": 0.812
+        },
+        {
+          "word": "it",
+          "start": 83.314,
+          "end": 83.374,
+          "score": 0.774
+        },
+        {
+          "word": "up",
+          "start": 83.434,
+          "end": 83.514,
+          "score": 0.858
+        },
+        {
+          "word": "for",
+          "start": 83.534,
+          "end": 83.614,
+          "score": 0.099
+        },
+        {
+          "word": "Side",
+          "start": 83.694,
+          "end": 84.034,
+          "score": 0.71
+        },
+        {
+          "word": "A\nGive",
+          "start": 84.114,
+          "end": 84.474,
+          "score": 0.87
+        },
+        {
+          "word": "it",
+          "start": 84.514,
+          "end": 84.574,
+          "score": 0.821
+        },
+        {
+          "word": "up",
+          "start": 84.634,
+          "end": 84.714,
+          "score": 0.88
+        },
+        {
+          "word": "for",
+          "start": 84.734,
+          "end": 84.814,
+          "score": 0.082
+        },
+        {
+          "word": "Side",
+          "start": 84.874,
+          "end": 85.214,
+          "score": 0.829
+        },
+        {
+          "word": "A\nOr",
+          "start": 85.334,
+          "end": 85.714,
+          "score": 0.644
+        },
+        {
+          "word": "you",
+          "start": 85.734,
+          "end": 86.594,
+          "score": 0.789
+        },
+        {
+          "word": "jump",
+          "start": 86.634,
+          "end": 86.874,
+          "score": 0.606
+        },
+        {
+          "word": "to",
+          "start": 86.894,
+          "end": 86.994,
+          "score": 0.528
+        },
+        {
+          "word": "Side",
+          "start": 87.094,
+          "end": 87.474,
+          "score": 0.756
+        },
+        {
+          "word": "B\nJump",
+          "start": 87.554,
+          "end": 88.635,
+          "score": 0.669
+        },
+        {
+          "word": "to",
+          "start": 88.655,
+          "end": 88.775,
+          "score": 0.571
+        },
+        {
+          "word": "Side",
+          "start": 88.835,
+          "end": 89.235,
+          "score": 0.818
+        },
+        {
+          "word": "B\nPick",
+          "start": 89.315,
+          "end": 89.795,
+          "score": 0.603
+        },
+        {
+          "word": "a",
+          "start": 89.935,
+          "end": 90.135,
+          "score": 0.743
+        },
+        {
+          "word": "lane\nLose",
+          "start": 90.195,
+          "end": 90.575,
+          "score": 0.303
+        },
+        {
+          "word": "the",
+          "start": 90.615,
+          "end": 90.715,
+          "score": 0.381
+        },
+        {
+          "word": "stain\nChoose",
+          "start": 90.775,
+          "end": 91.175,
+          "score": 0.24
+        },
+        {
+          "word": "the",
+          "start": 91.195,
+          "end": 91.335,
+          "score": 0.541
+        },
+        {
+          "word": "way",
+          "start": 91.395,
+          "end": 91.595,
+          "score": 0.463
+        },
+        {
+          "word": "we",
+          "start": 91.635,
+          "end": 91.695,
+          "score": 0.262
+        },
+        {
+          "word": "show",
+          "start": 91.795,
+          "end": 92.195,
+          "score": 0.774
+        },
+        {
+          "word": "you\nChoose",
+          "start": 92.275,
+          "end": 93.335,
+          "score": 0.42
+        },
+        {
+          "word": "the",
+          "start": 93.395,
+          "end": 93.495,
+          "score": 0.391
+        },
+        {
+          "word": "way",
+          "start": 93.575,
+          "end": 93.755,
+          "score": 0.468
+        },
+        {
+          "word": "we",
+          "start": 93.775,
+          "end": 93.855,
+          "score": 0.482
+        },
+        {
+          "word": "show",
+          "start": 93.975,
+          "end": 94.536,
+          "score": 0.694
+        },
+        {
+          "word": "you\nGive",
+          "start": 94.616,
+          "end": 95.656,
+          "score": 0.819
+        },
+        {
+          "word": "it",
+          "start": 95.696,
+          "end": 95.756,
+          "score": 0.726
+        },
+        {
+          "word": "up",
+          "start": 95.816,
+          "end": 95.896,
+          "score": 0.781
+        },
+        {
+          "word": "for",
+          "start": 95.916,
+          "end": 95.996,
+          "score": 0.14
+        },
+        {
+          "word": "Side",
+          "start": 96.036,
+          "end": 97.096,
+          "score": 0.932
+        },
+        {
+          "word": "A\nGive",
+          "start": 97.136,
+          "end": 97.976,
+          "score": 0.881
+        },
+        {
+          "word": "it",
+          "start": 98.016,
+          "end": 98.096,
+          "score": 0.592
+        },
+        {
+          "word": "up",
+          "start": 98.176,
+          "end": 98.236,
+          "score": 0.877
+        },
+        {
+          "word": "for",
+          "start": 98.256,
+          "end": 98.336,
+          "score": 0.145
+        },
+        {
+          "word": "Side",
+          "start": 98.396,
+          "end": 98.736,
+          "score": 0.828
+        },
+        {
+          "word": "A\nWhich",
+          "start": 98.876,
+          "end": 100.717,
+          "score": 0.765
+        },
+        {
+          "word": "one\nWhich",
+          "start": 100.917,
+          "end": 101.877,
+          "score": 0.558
+        },
+        {
+          "word": "one\nPick",
+          "start": 102.097,
+          "end": 103.057,
+          "score": 0.514
+        },
+        {
+          "word": "A\nPick",
+          "start": 103.157,
+          "end": 103.617,
+          "score": 0.44
+        },
+        {
+          "word": "B\nNew",
+          "start": 103.717,
+          "end": 104.157,
+          "score": 0.589
+        },
+        {
+          "word": "you\nNew",
+          "start": 104.317,
+          "end": 104.897,
+          "score": 0.578
+        },
+        {
+          "word": "me\nNew",
+          "start": 104.917,
+          "end": 105.097,
+          "score": 0.186
+        },
+        {
+          "word": "you\nNew",
+          "start": 105.217,
+          "end": 105.677,
+          "score": 0.458
+        },
+        {
+          "word": "me\nDone",
+          "start": 105.817,
+          "end": 106.558,
+          "score": 0.538
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Left",
+      "start": 9.602,
+      "end": 10.522,
+      "score": 0.504
+    },
+    {
+      "word": "Right",
+      "start": 10.522,
+      "end": 11.442,
+      "score": 0.504
+    },
+    {
+      "word": "Pick",
+      "start": 11.442,
+      "end": 12.362,
+      "score": 0.504
+    },
+    {
+      "word": "a",
+      "start": 12.382,
+      "end": 12.462,
+      "score": 0.754
+    },
+    {
+      "word": "side",
+      "start": 12.502,
+      "end": 12.722,
+      "score": 0.552
+    },
+    {
+      "word": "New",
+      "start": 12.722,
+      "end": 12.942,
+      "score": 0.552
+    },
+    {
+      "word": "skin",
+      "start": 13.022,
+      "end": 13.352,
+      "score": 0.605
+    },
+    {
+      "word": "Brand",
+      "start": 13.352,
+      "end": 13.682,
+      "score": 0.605
+    },
+    {
+      "word": "new",
+      "start": 13.782,
+      "end": 13.842,
+      "score": 0.021
+    },
+    {
+      "word": "bride",
+      "start": 14.002,
+      "end": 14.342,
+      "score": 0.487
+    },
+    {
+      "word": "Fix",
+      "start": 14.342,
+      "end": 14.682,
+      "score": 0.487
+    },
+    {
+      "word": "your",
+      "start": 14.742,
+      "end": 15.002,
+      "score": 0.224
+    },
+    {
+      "word": "eyes",
+      "start": 15.022,
+      "end": 15.163,
+      "score": 0.141
+    },
+    {
+      "word": "Clean",
+      "start": 15.163,
+      "end": 15.303,
+      "score": 0.141
+    },
+    {
+      "word": "the",
+      "start": 15.323,
+      "end": 15.423,
+      "score": 0.239
+    },
+    {
+      "word": "mess",
+      "start": 15.483,
+      "end": 16.253,
+      "score": 0.635
+    },
+    {
+      "word": "Change",
+      "start": 16.253,
+      "end": 17.023,
+      "score": 0.635
+    },
+    {
+      "word": "the",
+      "start": 17.043,
+      "end": 17.103,
+      "score": 0.192
+    },
+    {
+      "word": "habit",
+      "start": 17.303,
+      "end": 17.483,
+      "score": 0.399
+    },
+    {
+      "word": "Change",
+      "start": 17.523,
+      "end": 17.663,
+      "score": 0.131
+    },
+    {
+      "word": "the",
+      "start": 17.683,
+      "end": 17.763,
+      "score": 0.166
+    },
+    {
+      "word": "dress",
+      "start": 17.843,
+      "end": 18.323,
+      "score": 0.479
+    },
+    {
+      "word": "Forget",
+      "start": 18.323,
+      "end": 18.803,
+      "score": 0.479
+    },
+    {
+      "word": "the",
+      "start": 18.823,
+      "end": 18.923,
+      "score": 0.347
+    },
+    {
+      "word": "person",
+      "start": 19.003,
+      "end": 19.443,
+      "score": 0.524
+    },
+    {
+      "word": "you",
+      "start": 19.523,
+      "end": 19.603,
+      "score": 0.193
+    },
+    {
+      "word": "used",
+      "start": 19.643,
+      "end": 19.803,
+      "score": 0.245
+    },
+    {
+      "word": "to",
+      "start": 19.883,
+      "end": 20.123,
+      "score": 0.785
+    },
+    {
+      "word": "be",
+      "start": 20.203,
+      "end": 21.034,
+      "score": 0.856
+    },
+    {
+      "word": "Just",
+      "start": 21.034,
+      "end": 21.864,
+      "score": 0.856
+    },
+    {
+      "word": "follow",
+      "start": 21.944,
+      "end": 22.464,
+      "score": 0.777
+    },
+    {
+      "word": "me",
+      "start": 22.544,
+      "end": 23.044,
+      "score": 0.57
+    },
+    {
+      "word": "Burn",
+      "start": 23.044,
+      "end": 23.544,
+      "score": 0.57
+    },
+    {
+      "word": "the",
+      "start": 23.564,
+      "end": 23.644,
+      "score": 0.086
+    },
+    {
+      "word": "bridge",
+      "start": 23.704,
+      "end": 23.914,
+      "score": 0.417
+    },
+    {
+      "word": "Cross",
+      "start": 23.914,
+      "end": 24.124,
+      "score": 0.417
+    },
+    {
+      "word": "the",
+      "start": 24.144,
+      "end": 24.244,
+      "score": 0.331
+    },
+    {
+      "word": "line",
+      "start": 24.304,
+      "end": 24.504,
+      "score": 0.501
+    },
+    {
+      "word": "Pay",
+      "start": 24.504,
+      "end": 24.704,
+      "score": 0.501
+    },
+    {
+      "word": "the",
+      "start": 24.724,
+      "end": 24.824,
+      "score": 0.277
+    },
+    {
+      "word": "price",
+      "start": 24.884,
+      "end": 25.314,
+      "score": 0.656
+    },
+    {
+      "word": "Do",
+      "start": 25.314,
+      "end": 25.744,
+      "score": 0.656
+    },
+    {
+      "word": "the",
+      "start": 25.764,
+      "end": 25.984,
+      "score": 0.469
+    },
+    {
+      "word": "time",
+      "start": 26.044,
+      "end": 26.424,
+      "score": 0.748
+    },
+    {
+      "word": "Give",
+      "start": 26.424,
+      "end": 26.804,
+      "score": 0.748
+    },
+    {
+      "word": "it",
+      "start": 26.824,
+      "end": 26.904,
+      "score": 0.675
+    },
+    {
+      "word": "up",
+      "start": 26.964,
+      "end": 27.044,
+      "score": 0.704
+    },
+    {
+      "word": "for",
+      "start": 27.064,
+      "end": 27.144,
+      "score": 0.139
+    },
+    {
+      "word": "Side",
+      "start": 27.204,
+      "end": 27.565,
+      "score": 0.834
+    },
+    {
+      "word": "A",
+      "start": 27.625,
+      "end": 27.815,
+      "score": 0.795
+    },
+    {
+      "word": "Give",
+      "start": 27.815,
+      "end": 28.005,
+      "score": 0.795
+    },
+    {
+      "word": "it",
+      "start": 28.025,
+      "end": 28.105,
+      "score": 0.777
+    },
+    {
+      "word": "up",
+      "start": 28.165,
+      "end": 28.225,
+      "score": 0.471
+    },
+    {
+      "word": "for",
+      "start": 28.245,
+      "end": 28.345,
+      "score": 0.141
+    },
+    {
+      "word": "Side",
+      "start": 28.385,
+      "end": 28.925,
+      "score": 0.921
+    },
+    {
+      "word": "A",
+      "start": 29.185,
+      "end": 29.295,
+      "score": 0.607
+    },
+    {
+      "word": "Or",
+      "start": 29.295,
+      "end": 29.405,
+      "score": 0.607
+    },
+    {
+      "word": "you",
+      "start": 29.905,
+      "end": 30.125,
+      "score": 0.411
+    },
+    {
+      "word": "jump",
+      "start": 30.145,
+      "end": 30.385,
+      "score": 0.57
+    },
+    {
+      "word": "to",
+      "start": 30.405,
+      "end": 30.545,
+      "score": 0.624
+    },
+    {
+      "word": "Side",
+      "start": 30.625,
+      "end": 30.985,
+      "score": 0.743
+    },
+    {
+      "word": "B",
+      "start": 31.065,
+      "end": 31.615,
+      "score": 0.642
+    },
+    {
+      "word": "Jump",
+      "start": 31.615,
+      "end": 32.165,
+      "score": 0.642
+    },
+    {
+      "word": "to",
+      "start": 32.205,
+      "end": 32.285,
+      "score": 0.476
+    },
+    {
+      "word": "Side",
+      "start": 32.365,
+      "end": 32.765,
+      "score": 0.772
+    },
+    {
+      "word": "B",
+      "start": 32.825,
+      "end": 33.065,
+      "score": 0.538
+    },
+    {
+      "word": "Pick",
+      "start": 33.065,
+      "end": 33.305,
+      "score": 0.538
+    },
+    {
+      "word": "a",
+      "start": 33.325,
+      "end": 33.345,
+      "score": 0.001
+    },
+    {
+      "word": "lane",
+      "start": 33.405,
+      "end": 33.695,
+      "score": 0.468
+    },
+    {
+      "word": "Lose",
+      "start": 33.695,
+      "end": 33.986,
+      "score": 0.468
+    },
+    {
+      "word": "the",
+      "start": 34.006,
+      "end": 34.066,
+      "score": 0.057
+    },
+    {
+      "word": "stain",
+      "start": 34.106,
+      "end": 34.406,
+      "score": 0.32
+    },
+    {
+      "word": "Choose",
+      "start": 34.406,
+      "end": 34.706,
+      "score": 0.32
+    },
+    {
+      "word": "the",
+      "start": 34.726,
+      "end": 34.846,
+      "score": 0.464
+    },
+    {
+      "word": "way",
+      "start": 34.906,
+      "end": 35.126,
+      "score": 0.632
+    },
+    {
+      "word": "we",
+      "start": 35.146,
+      "end": 35.226,
+      "score": 0.268
+    },
+    {
+      "word": "show",
+      "start": 35.326,
+      "end": 35.766,
+      "score": 0.623
+    },
+    {
+      "word": "you",
+      "start": 35.906,
+      "end": 36.376,
+      "score": 0.494
+    },
+    {
+      "word": "Choose",
+      "start": 36.376,
+      "end": 36.846,
+      "score": 0.494
+    },
+    {
+      "word": "the",
+      "start": 36.906,
+      "end": 37.026,
+      "score": 0.421
+    },
+    {
+      "word": "way",
+      "start": 37.086,
+      "end": 37.266,
+      "score": 0.456
+    },
+    {
+      "word": "we",
+      "start": 37.306,
+      "end": 37.386,
+      "score": 0.465
+    },
+    {
+      "word": "show",
+      "start": 37.486,
+      "end": 38.086,
+      "score": 0.772
+    },
+    {
+      "word": "you",
+      "start": 38.126,
+      "end": 38.646,
+      "score": 0.854
+    },
+    {
+      "word": "Give",
+      "start": 38.646,
+      "end": 39.166,
+      "score": 0.854
+    },
+    {
+      "word": "it",
+      "start": 39.206,
+      "end": 39.286,
+      "score": 0.675
+    },
+    {
+      "word": "up",
+      "start": 39.326,
+      "end": 39.406,
+      "score": 0.856
+    },
+    {
+      "word": "for",
+      "start": 39.426,
+      "end": 39.506,
+      "score": 0.132
+    },
+    {
+      "word": "Side",
+      "start": 39.567,
+      "end": 40.567,
+      "score": 0.892
+    },
+    {
+      "word": "A",
+      "start": 41.107,
+      "end": 41.307,
+      "score": 0.866
+    },
+    {
+      "word": "Give",
+      "start": 41.307,
+      "end": 41.507,
+      "score": 0.866
+    },
+    {
+      "word": "it",
+      "start": 41.547,
+      "end": 41.627,
+      "score": 0.686
+    },
+    {
+      "word": "up",
+      "start": 41.687,
+      "end": 41.747,
+      "score": 0.871
+    },
+    {
+      "word": "for",
+      "start": 41.767,
+      "end": 41.847,
+      "score": 0.124
+    },
+    {
+      "word": "Side",
+      "start": 41.907,
+      "end": 42.267,
+      "score": 0.855
+    },
+    {
+      "word": "A",
+      "start": 42.367,
+      "end": 42.697,
+      "score": 0.448
+    },
+    {
+      "word": "Switch",
+      "start": 42.697,
+      "end": 43.027,
+      "score": 0.448
+    },
+    {
+      "word": "it",
+      "start": 43.047,
+      "end": 43.167,
+      "score": 0.508
+    },
+    {
+      "word": "up",
+      "start": 43.267,
+      "end": 43.447,
+      "score": 0.42
+    },
+    {
+      "word": "Switch",
+      "start": 43.447,
+      "end": 43.627,
+      "score": 0.42
+    },
+    {
+      "word": "it",
+      "start": 43.647,
+      "end": 43.727,
+      "score": 0.732
+    },
+    {
+      "word": "up",
+      "start": 43.867,
+      "end": 44.114,
+      "score": 0.588
+    },
+    {
+      "word": "Yeah",
+      "start": 44.114,
+      "end": 44.36,
+      "score": 0.588
+    },
+    {
+      "word": "Flip",
+      "start": 44.36,
+      "end": 44.607,
+      "score": 0.588
+    },
+    {
+      "word": "the",
+      "start": 44.627,
+      "end": 45.067,
+      "score": 0.718
+    },
+    {
+      "word": "coin",
+      "start": 45.127,
+      "end": 45.428,
+      "score": 0.589
+    },
+    {
+      "word": "Flip",
+      "start": 45.428,
+      "end": 45.728,
+      "score": 0.589
+    },
+    {
+      "word": "the",
+      "start": 45.768,
+      "end": 45.888,
+      "score": 0.33
+    },
+    {
+      "word": "coin",
+      "start": 46.068,
+      "end": 46.608,
+      "score": 0.737
+    },
+    {
+      "word": "Now",
+      "start": 46.608,
+      "end": 47.148,
+      "score": 0.737
+    },
+    {
+      "word": "No",
+      "start": 47.148,
+      "end": 47.688,
+      "score": 0.737
+    },
+    {
+      "word": "More",
+      "start": 47.688,
+      "end": 48.228,
+      "score": 0.737
+    },
+    {
+      "word": "Lies",
+      "start": 48.228,
+      "end": 48.768,
+      "score": 0.737
+    },
+    {
+      "word": "Bold",
+      "start": 48.768,
+      "end": 49.308,
+      "score": 0.737
+    },
+    {
+      "word": "face",
+      "start": 49.588,
+      "end": 49.998,
+      "score": 0.533
+    },
+    {
+      "word": "Bolder",
+      "start": 49.998,
+      "end": 50.408,
+      "score": 0.533
+    },
+    {
+      "word": "ties",
+      "start": 50.488,
+      "end": 50.848,
+      "score": 0.483
+    },
+    {
+      "word": "Burn",
+      "start": 50.848,
+      "end": 51.208,
+      "score": 0.483
+    },
+    {
+      "word": "the",
+      "start": 51.228,
+      "end": 51.308,
+      "score": 0.001
+    },
+    {
+      "word": "habit",
+      "start": 51.368,
+      "end": 51.588,
+      "score": 0.492
+    },
+    {
+      "word": "Bury",
+      "start": 51.588,
+      "end": 51.809,
+      "score": 0.492
+    },
+    {
+      "word": "the",
+      "start": 51.829,
+      "end": 51.889,
+      "score": 0.004
+    },
+    {
+      "word": "bone",
+      "start": 51.969,
+      "end": 52.319,
+      "score": 0.502
+    },
+    {
+      "word": "Build",
+      "start": 52.319,
+      "end": 52.669,
+      "score": 0.502
+    },
+    {
+      "word": "a",
+      "start": 52.729,
+      "end": 52.769,
+      "score": 0.609
+    },
+    {
+      "word": "house",
+      "start": 52.809,
+      "end": 53.089,
+      "score": 0.579
+    },
+    {
+      "word": "A",
+      "start": 53.089,
+      "end": 53.369,
+      "score": 0.579
+    },
+    {
+      "word": "proper",
+      "start": 53.409,
+      "end": 53.689,
+      "score": 0.263
+    },
+    {
+      "word": "home",
+      "start": 53.729,
+      "end": 53.939,
+      "score": 0.567
+    },
+    {
+      "word": "Drop",
+      "start": 53.939,
+      "end": 54.149,
+      "score": 0.567
+    },
+    {
+      "word": "the",
+      "start": 54.189,
+      "end": 54.269,
+      "score": 0.432
+    },
+    {
+      "word": "act",
+      "start": 54.429,
+      "end": 54.719,
+      "score": 0.599
+    },
+    {
+      "word": "Drop",
+      "start": 54.719,
+      "end": 55.009,
+      "score": 0.599
+    },
+    {
+      "word": "the",
+      "start": 55.029,
+      "end": 55.109,
+      "score": 0.184
+    },
+    {
+      "word": "shame",
+      "start": 55.169,
+      "end": 55.539,
+      "score": 0.455
+    },
+    {
+      "word": "Call",
+      "start": 55.539,
+      "end": 55.909,
+      "score": 0.455
+    },
+    {
+      "word": "yourself",
+      "start": 55.929,
+      "end": 56.189,
+      "score": 0.157
+    },
+    {
+      "word": "a",
+      "start": 56.249,
+      "end": 56.329,
+      "score": 0.614
+    },
+    {
+      "word": "different",
+      "start": 56.349,
+      "end": 56.609,
+      "score": 0.187
+    },
+    {
+      "word": "name",
+      "start": 56.649,
+      "end": 57.009,
+      "score": 0.568
+    },
+    {
+      "word": "Cut",
+      "start": 57.009,
+      "end": 57.369,
+      "score": 0.568
+    },
+    {
+      "word": "the",
+      "start": 57.389,
+      "end": 57.509,
+      "score": 0.279
+    },
+    {
+      "word": "cord",
+      "start": 57.549,
+      "end": 57.9,
+      "score": 0.658
+    },
+    {
+      "word": "Cut",
+      "start": 57.9,
+      "end": 58.25,
+      "score": 0.658
+    },
+    {
+      "word": "the",
+      "start": 58.29,
+      "end": 58.39,
+      "score": 0.412
+    },
+    {
+      "word": "rope",
+      "start": 58.45,
+      "end": 59.0,
+      "score": 0.447
+    },
+    {
+      "word": "Trading",
+      "start": 59.0,
+      "end": 59.55,
+      "score": 0.447
+    },
+    {
+      "word": "truth",
+      "start": 59.57,
+      "end": 59.71,
+      "score": 0.189
+    },
+    {
+      "word": "for",
+      "start": 59.73,
+      "end": 59.85,
+      "score": 0.308
+    },
+    {
+      "word": "better",
+      "start": 59.87,
+      "end": 60.17,
+      "score": 0.473
+    },
+    {
+      "word": "hope",
+      "start": 60.19,
+      "end": 60.56,
+      "score": 0.816
+    },
+    {
+      "word": "Give",
+      "start": 60.56,
+      "end": 60.93,
+      "score": 0.816
+    },
+    {
+      "word": "it",
+      "start": 60.95,
+      "end": 61.03,
+      "score": 0.478
+    },
+    {
+      "word": "up",
+      "start": 61.09,
+      "end": 61.17,
+      "score": 0.817
+    },
+    {
+      "word": "for",
+      "start": 61.19,
+      "end": 61.27,
+      "score": 0.089
+    },
+    {
+      "word": "Side",
+      "start": 61.33,
+      "end": 61.67,
+      "score": 0.827
+    },
+    {
+      "word": "A",
+      "start": 61.75,
+      "end": 61.94,
+      "score": 0.838
+    },
+    {
+      "word": "Give",
+      "start": 61.94,
+      "end": 62.13,
+      "score": 0.838
+    },
+    {
+      "word": "it",
+      "start": 62.15,
+      "end": 62.23,
+      "score": 0.572
+    },
+    {
+      "word": "up",
+      "start": 62.29,
+      "end": 62.37,
+      "score": 0.778
+    },
+    {
+      "word": "for",
+      "start": 62.39,
+      "end": 62.47,
+      "score": 0.149
+    },
+    {
+      "word": "Side",
+      "start": 62.51,
+      "end": 62.85,
+      "score": 0.779
+    },
+    {
+      "word": "A",
+      "start": 63.09,
+      "end": 63.31,
+      "score": 0.715
+    },
+    {
+      "word": "Or",
+      "start": 63.31,
+      "end": 63.53,
+      "score": 0.715
+    },
+    {
+      "word": "you",
+      "start": 64.011,
+      "end": 64.211,
+      "score": 0.436
+    },
+    {
+      "word": "jump",
+      "start": 64.271,
+      "end": 64.511,
+      "score": 0.598
+    },
+    {
+      "word": "to",
+      "start": 64.531,
+      "end": 64.671,
+      "score": 0.502
+    },
+    {
+      "word": "Side",
+      "start": 64.731,
+      "end": 65.111,
+      "score": 0.854
+    },
+    {
+      "word": "B",
+      "start": 65.191,
+      "end": 65.731,
+      "score": 0.654
+    },
+    {
+      "word": "Jump",
+      "start": 65.731,
+      "end": 66.271,
+      "score": 0.654
+    },
+    {
+      "word": "to",
+      "start": 66.291,
+      "end": 66.391,
+      "score": 0.466
+    },
+    {
+      "word": "Side",
+      "start": 66.491,
+      "end": 66.891,
+      "score": 0.706
+    },
+    {
+      "word": "B",
+      "start": 66.931,
+      "end": 67.161,
+      "score": 0.385
+    },
+    {
+      "word": "Pick",
+      "start": 67.161,
+      "end": 67.391,
+      "score": 0.385
+    },
+    {
+      "word": "a",
+      "start": 67.711,
+      "end": 67.771,
+      "score": 0.623
+    },
+    {
+      "word": "lane",
+      "start": 67.831,
+      "end": 68.011,
+      "score": 0.298
+    },
+    {
+      "word": "Lose",
+      "start": 68.011,
+      "end": 68.191,
+      "score": 0.298
+    },
+    {
+      "word": "the",
+      "start": 68.211,
+      "end": 68.331,
+      "score": 0.481
+    },
+    {
+      "word": "stain",
+      "start": 68.351,
+      "end": 68.551,
+      "score": 0.23
+    },
+    {
+      "word": "Choose",
+      "start": 68.551,
+      "end": 68.751,
+      "score": 0.23
+    },
+    {
+      "word": "the",
+      "start": 68.851,
+      "end": 68.971,
+      "score": 0.418
+    },
+    {
+      "word": "way",
+      "start": 69.051,
+      "end": 69.231,
+      "score": 0.464
+    },
+    {
+      "word": "we",
+      "start": 69.251,
+      "end": 69.331,
+      "score": 0.308
+    },
+    {
+      "word": "show",
+      "start": 69.431,
+      "end": 69.831,
+      "score": 0.695
+    },
+    {
+      "word": "you",
+      "start": 69.911,
+      "end": 70.452,
+      "score": 0.498
+    },
+    {
+      "word": "Choose",
+      "start": 70.452,
+      "end": 70.992,
+      "score": 0.498
+    },
+    {
+      "word": "the",
+      "start": 71.032,
+      "end": 71.152,
+      "score": 0.375
+    },
+    {
+      "word": "way",
+      "start": 71.232,
+      "end": 71.412,
+      "score": 0.472
+    },
+    {
+      "word": "we",
+      "start": 71.432,
+      "end": 71.512,
+      "score": 0.464
+    },
+    {
+      "word": "show",
+      "start": 71.612,
+      "end": 72.192,
+      "score": 0.679
+    },
+    {
+      "word": "you",
+      "start": 72.272,
+      "end": 72.782,
+      "score": 0.774
+    },
+    {
+      "word": "Give",
+      "start": 72.782,
+      "end": 73.292,
+      "score": 0.774
+    },
+    {
+      "word": "it",
+      "start": 73.332,
+      "end": 73.392,
+      "score": 0.78
+    },
+    {
+      "word": "up",
+      "start": 73.472,
+      "end": 73.532,
+      "score": 0.833
+    },
+    {
+      "word": "for",
+      "start": 73.552,
+      "end": 73.632,
+      "score": 0.082
+    },
+    {
+      "word": "Side",
+      "start": 73.692,
+      "end": 74.152,
+      "score": 0.8
+    },
+    {
+      "word": "A",
+      "start": 74.192,
+      "end": 74.912,
+      "score": 0.823
+    },
+    {
+      "word": "Give",
+      "start": 74.912,
+      "end": 75.632,
+      "score": 0.823
+    },
+    {
+      "word": "it",
+      "start": 75.652,
+      "end": 75.752,
+      "score": 0.653
+    },
+    {
+      "word": "up",
+      "start": 75.812,
+      "end": 75.892,
+      "score": 0.794
+    },
+    {
+      "word": "for",
+      "start": 75.912,
+      "end": 75.992,
+      "score": 0.149
+    },
+    {
+      "word": "Side",
+      "start": 76.032,
+      "end": 76.353,
+      "score": 0.732
+    },
+    {
+      "word": "A",
+      "start": 76.453,
+      "end": 76.583,
+      "score": 0.4
+    },
+    {
+      "word": "Wash",
+      "start": 76.583,
+      "end": 76.713,
+      "score": 0.4
+    },
+    {
+      "word": "it",
+      "start": 76.853,
+      "end": 76.973,
+      "score": 0.488
+    },
+    {
+      "word": "out",
+      "start": 77.053,
+      "end": 77.213,
+      "score": 0.319
+    },
+    {
+      "word": "Wipe",
+      "start": 77.213,
+      "end": 77.373,
+      "score": 0.319
+    },
+    {
+      "word": "it",
+      "start": 77.413,
+      "end": 77.493,
+      "score": 0.33
+    },
+    {
+      "word": "clean",
+      "start": 77.553,
+      "end": 77.753,
+      "score": 0.33
+    },
+    {
+      "word": "Work",
+      "start": 77.753,
+      "end": 77.953,
+      "score": 0.33
+    },
+    {
+      "word": "the",
+      "start": 77.973,
+      "end": 78.033,
+      "score": 0.013
+    },
+    {
+      "word": "spirit",
+      "start": 78.073,
+      "end": 78.243,
+      "score": 0.239
+    },
+    {
+      "word": "Kill",
+      "start": 78.243,
+      "end": 78.413,
+      "score": 0.239
+    },
+    {
+      "word": "the",
+      "start": 78.453,
+      "end": 78.553,
+      "score": 0.352
+    },
+    {
+      "word": "machine",
+      "start": 78.673,
+      "end": 79.083,
+      "score": 0.442
+    },
+    {
+      "word": "Left",
+      "start": 79.083,
+      "end": 79.493,
+      "score": 0.442
+    },
+    {
+      "word": "foot",
+      "start": 79.593,
+      "end": 79.833,
+      "score": 0.46
+    },
+    {
+      "word": "Right",
+      "start": 79.833,
+      "end": 80.073,
+      "score": 0.46
+    },
+    {
+      "word": "foot",
+      "start": 80.193,
+      "end": 80.463,
+      "score": 0.417
+    },
+    {
+      "word": "Standard",
+      "start": 80.463,
+      "end": 80.733,
+      "score": 0.417
+    },
+    {
+      "word": "walk",
+      "start": 80.773,
+      "end": 81.053,
+      "score": 0.386
+    },
+    {
+      "word": "Standard",
+      "start": 81.053,
+      "end": 81.333,
+      "score": 0.386
+    },
+    {
+      "word": "talk",
+      "start": 81.353,
+      "end": 81.633,
+      "score": 0.361
+    },
+    {
+      "word": "Standard",
+      "start": 81.633,
+      "end": 81.913,
+      "score": 0.361
+    },
+    {
+      "word": "life",
+      "start": 81.993,
+      "end": 82.634,
+      "score": 0.812
+    },
+    {
+      "word": "Give",
+      "start": 82.634,
+      "end": 83.274,
+      "score": 0.812
+    },
+    {
+      "word": "it",
+      "start": 83.314,
+      "end": 83.374,
+      "score": 0.774
+    },
+    {
+      "word": "up",
+      "start": 83.434,
+      "end": 83.514,
+      "score": 0.858
+    },
+    {
+      "word": "for",
+      "start": 83.534,
+      "end": 83.614,
+      "score": 0.099
+    },
+    {
+      "word": "Side",
+      "start": 83.694,
+      "end": 84.034,
+      "score": 0.71
+    },
+    {
+      "word": "A",
+      "start": 84.114,
+      "end": 84.294,
+      "score": 0.87
+    },
+    {
+      "word": "Give",
+      "start": 84.294,
+      "end": 84.474,
+      "score": 0.87
+    },
+    {
+      "word": "it",
+      "start": 84.514,
+      "end": 84.574,
+      "score": 0.821
+    },
+    {
+      "word": "up",
+      "start": 84.634,
+      "end": 84.714,
+      "score": 0.88
+    },
+    {
+      "word": "for",
+      "start": 84.734,
+      "end": 84.814,
+      "score": 0.082
+    },
+    {
+      "word": "Side",
+      "start": 84.874,
+      "end": 85.214,
+      "score": 0.829
+    },
+    {
+      "word": "A",
+      "start": 85.334,
+      "end": 85.524,
+      "score": 0.644
+    },
+    {
+      "word": "Or",
+      "start": 85.524,
+      "end": 85.714,
+      "score": 0.644
+    },
+    {
+      "word": "you",
+      "start": 85.734,
+      "end": 86.594,
+      "score": 0.789
+    },
+    {
+      "word": "jump",
+      "start": 86.634,
+      "end": 86.874,
+      "score": 0.606
+    },
+    {
+      "word": "to",
+      "start": 86.894,
+      "end": 86.994,
+      "score": 0.528
+    },
+    {
+      "word": "Side",
+      "start": 87.094,
+      "end": 87.474,
+      "score": 0.756
+    },
+    {
+      "word": "B",
+      "start": 87.554,
+      "end": 88.095,
+      "score": 0.669
+    },
+    {
+      "word": "Jump",
+      "start": 88.095,
+      "end": 88.635,
+      "score": 0.669
+    },
+    {
+      "word": "to",
+      "start": 88.655,
+      "end": 88.775,
+      "score": 0.571
+    },
+    {
+      "word": "Side",
+      "start": 88.835,
+      "end": 89.235,
+      "score": 0.818
+    },
+    {
+      "word": "B",
+      "start": 89.315,
+      "end": 89.555,
+      "score": 0.603
+    },
+    {
+      "word": "Pick",
+      "start": 89.555,
+      "end": 89.795,
+      "score": 0.603
+    },
+    {
+      "word": "a",
+      "start": 89.935,
+      "end": 90.135,
+      "score": 0.743
+    },
+    {
+      "word": "lane",
+      "start": 90.195,
+      "end": 90.385,
+      "score": 0.303
+    },
+    {
+      "word": "Lose",
+      "start": 90.385,
+      "end": 90.575,
+      "score": 0.303
+    },
+    {
+      "word": "the",
+      "start": 90.615,
+      "end": 90.715,
+      "score": 0.381
+    },
+    {
+      "word": "stain",
+      "start": 90.775,
+      "end": 90.975,
+      "score": 0.24
+    },
+    {
+      "word": "Choose",
+      "start": 90.975,
+      "end": 91.175,
+      "score": 0.24
+    },
+    {
+      "word": "the",
+      "start": 91.195,
+      "end": 91.335,
+      "score": 0.541
+    },
+    {
+      "word": "way",
+      "start": 91.395,
+      "end": 91.595,
+      "score": 0.463
+    },
+    {
+      "word": "we",
+      "start": 91.635,
+      "end": 91.695,
+      "score": 0.262
+    },
+    {
+      "word": "show",
+      "start": 91.795,
+      "end": 92.195,
+      "score": 0.774
+    },
+    {
+      "word": "you",
+      "start": 92.275,
+      "end": 92.805,
+      "score": 0.42
+    },
+    {
+      "word": "Choose",
+      "start": 92.805,
+      "end": 93.335,
+      "score": 0.42
+    },
+    {
+      "word": "the",
+      "start": 93.395,
+      "end": 93.495,
+      "score": 0.391
+    },
+    {
+      "word": "way",
+      "start": 93.575,
+      "end": 93.755,
+      "score": 0.468
+    },
+    {
+      "word": "we",
+      "start": 93.775,
+      "end": 93.855,
+      "score": 0.482
+    },
+    {
+      "word": "show",
+      "start": 93.975,
+      "end": 94.536,
+      "score": 0.694
+    },
+    {
+      "word": "you",
+      "start": 94.616,
+      "end": 95.136,
+      "score": 0.819
+    },
+    {
+      "word": "Give",
+      "start": 95.136,
+      "end": 95.656,
+      "score": 0.819
+    },
+    {
+      "word": "it",
+      "start": 95.696,
+      "end": 95.756,
+      "score": 0.726
+    },
+    {
+      "word": "up",
+      "start": 95.816,
+      "end": 95.896,
+      "score": 0.781
+    },
+    {
+      "word": "for",
+      "start": 95.916,
+      "end": 95.996,
+      "score": 0.14
+    },
+    {
+      "word": "Side",
+      "start": 96.036,
+      "end": 97.096,
+      "score": 0.932
+    },
+    {
+      "word": "A",
+      "start": 97.136,
+      "end": 97.556,
+      "score": 0.881
+    },
+    {
+      "word": "Give",
+      "start": 97.556,
+      "end": 97.976,
+      "score": 0.881
+    },
+    {
+      "word": "it",
+      "start": 98.016,
+      "end": 98.096,
+      "score": 0.592
+    },
+    {
+      "word": "up",
+      "start": 98.176,
+      "end": 98.236,
+      "score": 0.877
+    },
+    {
+      "word": "for",
+      "start": 98.256,
+      "end": 98.336,
+      "score": 0.145
+    },
+    {
+      "word": "Side",
+      "start": 98.396,
+      "end": 98.736,
+      "score": 0.828
+    },
+    {
+      "word": "A",
+      "start": 98.876,
+      "end": 99.797,
+      "score": 0.765
+    },
+    {
+      "word": "Which",
+      "start": 99.797,
+      "end": 100.717,
+      "score": 0.765
+    },
+    {
+      "word": "one",
+      "start": 100.917,
+      "end": 101.397,
+      "score": 0.558
+    },
+    {
+      "word": "Which",
+      "start": 101.397,
+      "end": 101.877,
+      "score": 0.558
+    },
+    {
+      "word": "one",
+      "start": 102.097,
+      "end": 102.577,
+      "score": 0.514
+    },
+    {
+      "word": "Pick",
+      "start": 102.577,
+      "end": 103.057,
+      "score": 0.514
+    },
+    {
+      "word": "A",
+      "start": 103.157,
+      "end": 103.387,
+      "score": 0.44
+    },
+    {
+      "word": "Pick",
+      "start": 103.387,
+      "end": 103.617,
+      "score": 0.44
+    },
+    {
+      "word": "B",
+      "start": 103.717,
+      "end": 103.937,
+      "score": 0.589
+    },
+    {
+      "word": "New",
+      "start": 103.937,
+      "end": 104.157,
+      "score": 0.589
+    },
+    {
+      "word": "you",
+      "start": 104.317,
+      "end": 104.607,
+      "score": 0.578
+    },
+    {
+      "word": "New",
+      "start": 104.607,
+      "end": 104.897,
+      "score": 0.578
+    },
+    {
+      "word": "me",
+      "start": 104.917,
+      "end": 105.007,
+      "score": 0.186
+    },
+    {
+      "word": "New",
+      "start": 105.007,
+      "end": 105.097,
+      "score": 0.186
+    },
+    {
+      "word": "you",
+      "start": 105.217,
+      "end": 105.447,
+      "score": 0.458
+    },
+    {
+      "word": "New",
+      "start": 105.447,
+      "end": 105.677,
+      "score": 0.458
+    },
+    {
+      "word": "me",
+      "start": 105.817,
+      "end": 106.188,
+      "score": 0.538
+    },
+    {
+      "word": "Done",
+      "start": 106.188,
+      "end": 106.558,
+      "score": 0.538
+    }
+  ]
+}
